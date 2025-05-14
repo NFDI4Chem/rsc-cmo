@@ -6947,7 +6947,7 @@ SubClassOf(obo:CHMO_0000338 obo:CHMO_0000332)
 
 # Class: obo:CHMO_0000339 (Auger electron spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0-471-96523-5") obo:IAO_0000115 obo:CHMO_0000339 "Spectroscopy where a high energy photon ionises a core electron and an electron from a higher energy level descends to take its place, releasing sufficient energy to eject a second so-called 'Auger' electron and the energy of the Auger electron is detected as a function of incident photon energy.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0-471-96523-5") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.A00522>) obo:IAO_0000115 obo:CHMO_0000339 "Spectroscopy where a high energy photon ionises a core electron and an electron from a higher energy level descends to take its place, releasing sufficient energy to eject a second so-called 'Auger' electron and the energy of the Auger electron is detected as a function of incident photon energy.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000339 "AEES")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000339 "Auger electron emission spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000339 "Auger electron spectrometry")
@@ -31027,7 +31027,7 @@ SubClassOf(obo:CHMO_0002466 obo:CHMO_0001688)
 
 # Class: obo:CHMO_0002467 (analyte)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'analyte' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00331>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/ >) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00331>) obo:IAO_0000115 obo:CHMO_0002467 "The component of a system to be analysed.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'analyte' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00331>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/ >) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00331>) obo:IAO_0000115 obo:CHMO_0002467 "The component of a system to be analysed.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002467 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002467 "2009-09-29T11:58:40Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002467 "CHMO:0002467")
