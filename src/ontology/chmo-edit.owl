@@ -12903,7 +12903,7 @@ SubClassOf(obo:CHMO_0000830 obo:CHMO_0000800)
 
 # Class: obo:CHMO_0000831 (action spectrum)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'absorption spectrum' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00043>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20  >) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00043>) obo:IAO_0000115 obo:CHMO_0000831 "\"A plot of a relative biological or chemical photoresponse per number of incident photons against wavelength or energy of radiation under the same radiant power of light.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'absorption spectrum' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00043>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20  >) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00043>) obo:IAO_0000115 obo:CHMO_0000831 "\"A plot of a relative biological or chemical photoresponse per number of incident photons against wavelength or energy of radiation under the same radiant power of light.\"")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000831 "action spectra")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000831 "CHMO:0000831")
 AnnotationAssertion(rdfs:label obo:CHMO_0000831 "action spectrum")
@@ -12911,7 +12911,7 @@ SubClassOf(obo:CHMO_0000831 obo:CHMO_0000800)
 
 # Class: obo:CHMO_0000832 (conversion spectrum)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'conversion spectrum' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.C01319>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C01319>) obo:IAO_0000115 obo:CHMO_0000832 "\"A plot of a quantity related to the absorption, for example absorbance or cross section, multiplied by the quantum yield for the process considered against a measure of photon energy such as frequency, wavenumber or wavelength.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'conversion spectrum' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.C01319>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C01319>) obo:IAO_0000115 obo:CHMO_0000832 "\"A plot of a quantity related to the absorption, for example absorbance or cross section, multiplied by the quantum yield for the process considered against a measure of photon energy such as frequency, wavenumber or wavelength.\"")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000832 "conversion spectra")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000832 "CHMO:0000832")
 AnnotationAssertion(rdfs:label obo:CHMO_0000832 "conversion spectrum")
@@ -17007,7 +17007,7 @@ SubClassOf(obo:CHMO_0001225 obo:CHMO_0001224)
 
 # Class: obo:CHMO_0001226 (analytical solution calorimetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.E02131") obo:IAO_0000115 obo:CHMO_0001226 "The measurement of the enthalpy change during chemical reaction in order to determine quantitative values of a reactant or catalyst. In general, at least one reactant is a liquid or solution.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.E02131>) obo:IAO_0000115 obo:CHMO_0001226 "The measurement of the enthalpy change during chemical reaction in order to determine quantitative values of a reactant or catalyst. In general, at least one reactant is a liquid or solution.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001226 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001226 "2009-03-25T12:09:47Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001226 "CHMO:0001226")
@@ -29693,7 +29693,7 @@ SubClassOf(obo:CHMO_0002357 obo:CHMO_0002345)
 
 # Class: obo:CHMO_0002358 (auxiliary electrode)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'auxiliary electrode' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00535>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/ >) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00535>) obo:IAO_0000115 obo:CHMO_0002358 "\"An electrode that serves merely to carry the current flowing through an electrochemical cell.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'auxiliary electrode' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00535>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/ >) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00535>) obo:IAO_0000115 obo:CHMO_0002358 "\"An electrode that serves merely to carry the current flowing through an electrochemical cell.\"")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002358 "batchelorc")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002358 "2009-09-11T01:32:58Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002358 "counter electrode")
@@ -34868,7 +34868,7 @@ SubClassOf(obo:CHMO_0002794 obo:CHMO_0002793)
 
 # Class: obo:CHMO_0002795 (biosensor)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <>) Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.B00663>) obo:IAO_0000115 obo:CHMO_0002795 "A sensor that recognises the analyte under study by interaction with a given biological system.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.B00663>) obo:IAO_0000115 obo:CHMO_0002795 "A sensor that recognises the analyte under study by interaction with a given biological system.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002795 "CHMO:0002795")
 AnnotationAssertion(rdfs:label obo:CHMO_0002795 "biosensor")
 SubClassOf(obo:CHMO_0002795 obo:CHMO_0002794)
@@ -34937,7 +34937,7 @@ SubClassOf(obo:CHMO_0002803 obo:CHMO_0000793)
 
 # Class: obo:CHMO_0002804 (blank value)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'blank value' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.B00679 >) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/ >) Annotation(dcterms:rightsHolder <https://doi.org/10.1351/goldbook.B00679>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) obo:IAO_0000115 obo:CHMO_0002804 "An experimental method output \"originating from the matrix, reagents and any residual bias in the measurement device or process, which contributes to the value obtained for the quantity in the analytical procedure.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'blank value' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.B00679 >) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/ >) Annotation(dcterms:rightsHolder <https://doi.org/10.1351/goldbook.B00679>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) obo:IAO_0000115 obo:CHMO_0002804 "An experimental method output \"originating from the matrix, reagents and any residual bias in the measurement device or process, which contributes to the value obtained for the quantity in the analytical procedure.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002804 "CHMO:0002804")
 AnnotationAssertion(rdfs:label obo:CHMO_0002804 "blank value")
 SubClassOf(obo:CHMO_0002804 obo:CHMO_0002751)
@@ -35370,7 +35370,7 @@ SubClassOf(obo:CHMO_0002858 obo:CHMO_0000793)
 
 # Class: obo:CHMO_0002859 (enantiomeric ratio)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0002859 "The ratio of the percentage of one enantiomer in a mixture to that of the other.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'enantiomeric ratio' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.E02075>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.E02070>) Annotation(oboInOwl:hasDbXref <https://orcid.org/0000-0001-5985-7429>) obo:IAO_0000115 obo:CHMO_0002859 "\"The ratio of the percentage of one enantiomer in a mixture to that of the other.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002859 "CHMO:0002859")
 AnnotationAssertion(rdfs:label obo:CHMO_0002859 "enantiomeric ratio")
 SubClassOf(obo:CHMO_0002859 obo:CHMO_0000793)
