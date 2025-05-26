@@ -15228,7 +15228,9 @@ SubClassOf(obo:CHMO_0001062 obo:CHMO_0001060)
 
 # Class: obo:CHMO_0001063 (Daly detector)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:9780470516348") obo:IAO_0000115 obo:CHMO_0001063 "An ion detector that consists of an aluminised cathode or Daly knob held at a very large negative potential that attracts ions and produces secondary electrons which impact a scintillator, producing photons that are detected by a photomultiplier.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:9780470516348") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383121
+7.86 Daly detector 
+Detector consisting of an off-axis conversion dynode, scintillator, and photomultiplier. The dynode at high potential emits secondary electrons when ions impinge on the surface. The secondary electrons are accelerated onto the scintillator that produces light that is then detected by the photomultiplier detector, which can be outside the vacuum system. (from: 	https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0001063 "An ion detector that consists of an aluminised cathode or Daly knob held at a very large negative potential that attracts ions and produces secondary electrons which impact a scintillator, producing photons that are detected by a photomultiplier.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001063 "CHMO:0001063")
 AnnotationAssertion(rdfs:label obo:CHMO_0001063 "Daly detector")
 SubClassOf(obo:CHMO_0001063 obo:CHMO_0001059)
