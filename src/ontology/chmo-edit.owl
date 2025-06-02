@@ -30162,7 +30162,9 @@ SubClassOf(obo:CHMO_0002381 obo:CHMO_0000600)
 
 # Class: obo:CHMO_0002382 (double-quantum-filtered correlation spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000175") obo:IAO_0000115 obo:CHMO_0002382 "A type of homonuclear NMR spectroscopy where a second frequency dimension is employed to disperse the signals and reveal correlations between nuclei which are J-coupled (usually <=3 bonds apart). The response is edited by selecting only two-spin coupled systems, usually achieved by appropriate cycling of the phase (direction of application) of the pulses in the experiment.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000175") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384875
+6.252 double-quantum filtered correlation spectroscopy, (DQF-COSY) 
+Variant of the COSY experiment with a double quantum filter to remove, or at least reduce, impact of large singlet peaks on dynamic range and artefacts. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0002382 "A type of homonuclear NMR spectroscopy where a second frequency dimension is employed to disperse the signals and reveal correlations between nuclei which are J-coupled (usually <=3 bonds apart). The response is edited by selecting only two-spin coupled systems, usually achieved by appropriate cycling of the phase (direction of application) of the pulses in the experiment.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002382 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002382 "2009-09-15T05:47:13Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002382 "DQF-COSY")
