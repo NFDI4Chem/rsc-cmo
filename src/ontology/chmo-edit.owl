@@ -9164,7 +9164,9 @@ SubClassOf(obo:CHMO_0000509 ObjectSomeValuesFrom(obo:BFO_0000118 obo:CHMO_000100
 
 # Class: obo:CHMO_0000510 (isotope dilution mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b614612k") obo:IAO_0000115 obo:CHMO_0000510 "Mass spectrometry where the relative abundance of isotopes in a sample is determined by using an isotope dilution standard (the sample labelled with a rare isotope).")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b614612k") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383238
+7.203 isotope dilution mass spectrometry, (IDMS) 
+Measurement method of mass spectrometry in which an isotopically enriched compound is used as a surrogate internal standard. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0000510 "Mass spectrometry where the relative abundance of isotopes in a sample is determined by using an isotope dilution standard (the sample labelled with a rare isotope).")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000510 "ID-MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000510 "IDMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000510 "isotope dilution mass spectroscopy")
