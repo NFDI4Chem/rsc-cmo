@@ -11460,7 +11460,9 @@ SubClassOf(obo:CHMO_0000685 obo:CHMO_0000684)
 
 # Class: obo:CHMO_0000686 (power-compensation differential scanning calorimetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000686 "The measurement of thermodynamic parameters (e.g. enthalpy) during a chemical or biochemical reaction of both a sample and a reference, by the known variation (step-wise or linear) of one variable, whilst a second is kept constant using a power compensation differential scanning calorimeter.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381151
+11.20 power-compensation differential scanning calorimetry 
+Measurement method where the difference between electrical powers into a sample and a reference material is measured as a function of temperature. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6381113/Thermal-Analysis1-2)") obo:IAO_0000115 obo:CHMO_0000686 "The measurement of thermodynamic parameters (e.g. enthalpy) during a chemical or biochemical reaction of both a sample and a reference, by the known variation (step-wise or linear) of one variable, whilst a second is kept constant using a power compensation differential scanning calorimeter.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000686 "power-compensation DSC")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000686 "CHMO:0000686")
 AnnotationAssertion(rdfs:label obo:CHMO_0000686 "power-compensation differential scanning calorimetry")
