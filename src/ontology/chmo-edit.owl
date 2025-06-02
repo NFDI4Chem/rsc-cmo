@@ -10322,7 +10322,9 @@ SubClassOf(obo:CHMO_0000598 obo:CHMO_0000613)
 
 # Class: obo:CHMO_0000599 (correlation spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000543") Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0000599 "A type of homonuclear NMR spectroscopy where a second frequency dimension is employed to disperse the signals and reveal correlations between nuclei which are J-coupled (usually <=3 bonds apart).")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000543") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384868
+6.245 correlation spectroscopy in NMR, (COSY) 
+Homonuclear two-dimensional nuclear magnetic resonance spectroscopy correlation experiment showing cross peaks representing spin–spin coupling between pairs of nuclei. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000599 "A type of homonuclear NMR spectroscopy where a second frequency dimension is employed to disperse the signals and reveal correlations between nuclei which are J-coupled (usually <=3 bonds apart).")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000599 "COSY")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000599 "correlated spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000599 "correlated spectroscopy")
