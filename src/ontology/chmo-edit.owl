@@ -10613,7 +10613,9 @@ SubClassOf(obo:CHMO_0000621 obo:CHMO_0000620)
 
 # Class: obo:CHMO_0000622 (photothermal spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000622 "Spectroscopy where light energy absorbed by the sample results in heating and the subsequent change in temperature, pressure or density is measured.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6385090
+6.457 photothermal spectroscopy 
+Measurement method of spectroscopy in which the absorption of electromagnetic radiation by a sample is detected as a result of the heat caused by the absorption. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000622 "Spectroscopy where light energy absorbed by the sample results in heating and the subsequent change in temperature, pressure or density is measured.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000622 "photothermal spectrometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000622 "CHMO:0000622")
 AnnotationAssertion(rdfs:label obo:CHMO_0000622 "photothermal spectroscopy")
