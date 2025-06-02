@@ -35854,7 +35854,9 @@ SubClassOf(obo:CHMO_0002907 obo:CHMO_0000681)
 
 # Class: obo:CHMO_0002908 (temperature-programmed reduction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b105466j") obo:IAO_0000115 obo:CHMO_0002908 "Thermal analysis of a system where the consumption of reducing agent in moles per second per gram of material is measured against temperature.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b105466j") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381159
+11.28 temperature-programmed reduction, (TPR) 
+Experiment using a reducing atmosphere, usually hydrogen. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6381113/Thermal-Analysis1-2)") obo:IAO_0000115 obo:CHMO_0002908 "Thermal analysis of a system where the consumption of reducing agent in moles per second per gram of material is measured against temperature.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002908 "CHMO:0002908")
 AnnotationAssertion(rdfs:label obo:CHMO_0002908 "temperature-programmed reduction")
 SubClassOf(obo:CHMO_0002908 obo:CHMO_0000681)
