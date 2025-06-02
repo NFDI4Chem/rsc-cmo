@@ -9795,7 +9795,9 @@ SubClassOf(obo:CHMO_0000559 obo:CHMO_0000534)
 
 # Class: obo:CHMO_0000560 (secondary ion mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000122") Annotation(oboInOwl:hasDbXref "OrangeBook:17.3") obo:IAO_0000115 obo:CHMO_0000560 "Mass spectrometry where the sample is bombarded with a stream of primary mass-selected particles and the secondary ions ejected from the sample are detected.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000122") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382295
+10.36 secondary-ion mass spectrometry, (SIMS) 
+Measurement method in which a focused beam of primary ions produces secondary ions by sputtering from a solid surface. The secondary ions are analysed by mass spectrometry. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000560 "Mass spectrometry where the sample is bombarded with a stream of primary mass-selected particles and the secondary ions ejected from the sample are detected.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000560 "SIMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000560 "secondary ion mass spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000560 "CHMO:0000560")
