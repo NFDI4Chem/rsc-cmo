@@ -11324,7 +11324,9 @@ AnnotationAssertion(owl:deprecated obo:CHMO_0000673 "true"^^xsd:boolean)
 
 # Class: obo:CHMO_0000674 (spatially-offset Raman spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000674 "Spectroscopy where the Raman scattering of monochromatic light, from a laser, by a sample is detected. Scattered light is collected from regions laterally offset from the excitation laser spot.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6385093
+6.460 spatially offset Raman spectroscopy, (SORS) 
+Measurement method of Raman spectroscopy in which the sample is illuminated at one location, and the Raman signal is collected from a different location on the sample surface. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000674 "Spectroscopy where the Raman scattering of monochromatic light, from a laser, by a sample is detected. Scattered light is collected from regions laterally offset from the excitation laser spot.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000674 "SORS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000674 "SORSS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000674 "spatially offset Raman scattering spectrometry")
