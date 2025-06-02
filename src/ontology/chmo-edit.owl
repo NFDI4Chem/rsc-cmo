@@ -7269,7 +7269,9 @@ SubClassOf(obo:CHMO_0000365 obo:CHMO_0000355)
 
 # Class: obo:CHMO_0000366 (electron energy loss spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000663") Annotation(oboInOwl:hasDbXref "FIX:0000664") Annotation(oboInOwl:hasDbXref "ISBN:0-19-280031-0") Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.R05236") obo:IAO_0000115 obo:CHMO_0000366 "Spectroscopy where a beam of electrons with a known, narrow range of kinetic energies (50–200 eV) interacts with a surface and the energy loss (0.005–100 eV) the electrons suffer as a result of the interaction is measured.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000663") Annotation(oboInOwl:hasDbXref "FIX:0000664") Annotation(oboInOwl:hasDbXref "ISBN:0-19-280031-0") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6385080
+6.447 electron energy loss spectroscopy, (EELS) 
+Measurement method of vibrational spectroscopy in which a constant-energy beam of electrons passes through or is reflected from a sample and the energy distribution in the transmitted or reflected beam is analysed to give a spectrum of number of electrons against electron energy loss. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.R05236>) obo:IAO_0000115 obo:CHMO_0000366 "Spectroscopy where a beam of electrons with a known, narrow range of kinetic energies (50–200 eV) interacts with a surface and the energy loss (0.005–100 eV) the electrons suffer as a result of the interaction is measured.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000366 "EELS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000366 "IESS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000366 "REELS")
