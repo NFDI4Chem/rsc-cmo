@@ -9806,7 +9806,9 @@ SubClassOf(obo:CHMO_0000560 obo:CHMO_0000470)
 
 # Class: obo:CHMO_0000561 (dynamic secondary ion mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000561 "Mass spectrometry where the sample is bombarded with a continuous focused beam of primary mass-selected ions which remove material from the surface of the sample by sputtering. The secondary ions ejected from the sample are then detected.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382285
+10.26 dynamic secondary-ion mass spectrometry, (DSIMS) 
+Secondary-ion mass spectrometry analysis with primary ion current density sufficiently high for use in analysis of sample surface layers in the depth direction. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000561 "Mass spectrometry where the sample is bombarded with a continuous focused beam of primary mass-selected ions which remove material from the surface of the sample by sputtering. The secondary ions ejected from the sample are then detected.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000561 "DSIMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000561 "dynamic mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000561 "dynamic mass spectroscopy")
