@@ -11366,7 +11366,9 @@ SubClassOf(obo:CHMO_0000676 obo:CHMO_0000675)
 
 # Class: obo:CHMO_0000677 (surface-enhanced Raman spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000076") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000677 "Spectroscopy where the Raman scattering of monochromatic light, from a visible laser, by a sample adsorbed onto a metal (Au, Ag or Cu) surface is detected.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000076") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382317
+10.56 surface-enhanced Raman spectroscopy, (SERS) 
+Measurement method of Raman spectroscopy by which the intensity of vibrational bands in the Raman spectra of molecules within a few nanometres of the surface of microscopically rough metals, metal colloids, and metal nanoparticles is increased by 106 or more. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000677 "Spectroscopy where the Raman scattering of monochromatic light, from a visible laser, by a sample adsorbed onto a metal (Au, Ag or Cu) surface is detected.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000677 "SERS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000677 "SERS spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000677 "surface enhanced Raman scattering")
