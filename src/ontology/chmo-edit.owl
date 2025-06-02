@@ -11539,7 +11539,7 @@ SubClassOf(obo:CHMO_0000693 obo:CHMO_0000692)
 
 # Class: obo:CHMO_0000694 (thermophotometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "Orange:5.2.2") obo:IAO_0000115 obo:CHMO_0000694 "The measurement of the total light, or the light of a specific wavelength emitted by a sample as a function of temperature.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "Orange:5.2.2") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.T06336>) obo:IAO_0000115 obo:CHMO_0000694 "The measurement of the total light, or the light of a specific wavelength emitted by a sample as a function of temperature.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000694 "CHMO:0000694")
 AnnotationAssertion(rdfs:label obo:CHMO_0000694 "thermophotometry")
 SubClassOf(obo:CHMO_0000694 obo:CHMO_0000692)
