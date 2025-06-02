@@ -8971,7 +8971,9 @@ SubClassOf(obo:CHMO_0000500 obo:CHMO_0000470)
 
 # Class: obo:CHMO_0000501 (ion cyclotron resonance mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000501 "Mass spectrometry where the mass-to-charge ratio of the sample ions is determined by measuring their cyclotron frequency (the frequency at which they precesses in a fixed magnetic field).")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:comment "https://books.rsc.org/view-large/6383208
+7.173 ion cyclotron resonance-mass spectrometer, (ICR-MS) 
+Mass spectrometer in which the ions to be detected, with a selected value of m/z, absorb energy through the effect of a high-frequency electric field and a constant magnetic field perpendicular to the electric field. Maximum energy is gained by the ions that satisfy the cyclotron resonance condition and as a result they are separated from ions of different m/z. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0000501 "Mass spectrometry where the mass-to-charge ratio of the sample ions is determined by measuring their cyclotron frequency (the frequency at which they precesses in a fixed magnetic field).")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000501 "ICR MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000501 "ICR mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000501 "ICR mass spectroscopy")
