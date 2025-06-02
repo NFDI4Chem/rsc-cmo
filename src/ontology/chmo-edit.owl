@@ -9058,7 +9058,10 @@ SubClassOf(obo:CHMO_0000505 obo:CHMO_0000504)
 
 # Class: obo:CHMO_0000506 (isotope ratio mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000506 "Mass spectrometry where the relative abundance of isotopes in a sample is determined.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383241
+7.206 isotope ratio mass spectrometry, (IRMS) 
+stable isotope mass spectrometry 
+Measurement and study of the relative abundances of the different isotopes of an element in a material using a mass spectrometer. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0000506 "Mass spectrometry where the relative abundance of isotopes in a sample is determined.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000506 "IR MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000506 "IR-MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000506 "IRMS")
