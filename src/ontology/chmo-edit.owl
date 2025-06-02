@@ -10938,7 +10938,10 @@ SubClassOf(obo:CHMO_0000644 obo:CHMO_0000643)
 
 # Class: obo:CHMO_0000645 (diffuse reflectance infrared Fourier transform spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000657") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000645 "Spectroscopy where the diffuse reflection of a single pulse of infrared radiation by a sample is measured, and the spectrum obtained is subject to a Fourier transform.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000657") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382302
+10.41 diffuse reflection-absorption infrared spectroscopy, (DRAIRS) 
+diffuse reflectance infrared Fourier transform spectroscopy, (DRIFTS) 
+Measurement method in which the infrared absorption spectrum of light reflected and transmitted from powdered samples is measured. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000645 "Spectroscopy where the diffuse reflection of a single pulse of infrared radiation by a sample is measured, and the spectrum obtained is subject to a Fourier transform.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000645 "DRIFT")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000645 "DRIFTS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000645 "diffuse reflectance infra-red Fourier transform spectrometry")
