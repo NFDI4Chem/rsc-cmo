@@ -11182,7 +11182,10 @@ SubClassOf(obo:CHMO_0000664 obo:CHMO_0000663)
 
 # Class: obo:CHMO_0000665 (Fourier transform Raman spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000665 "Spectroscopy where the Raman scattering of light (produced by a single laser pulse) by a sample is detected and the spectrum is subject to a Fourier transform.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6385083
+6.450 Fourier-transform Raman spectroscopy 
+Fourier-transform Raman spectrometry 
+Raman spectroscopy in which a Fourier-transform spectrometer is used to separate the scattered radiation into its component wavenumbers. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000665 "Spectroscopy where the Raman scattering of light (produced by a single laser pulse) by a sample is detected and the spectrum is subject to a Fourier transform.")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0000665 "FIX:0000384")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000665 "FT-Raman")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000665 "Fourier transform Raman spectrometry")
