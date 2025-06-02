@@ -7132,7 +7132,10 @@ SubClassOf(obo:CHMO_0000348 obo:CHMO_0000346)
 
 # Class: obo:CHMO_0000349 (angle-resolved ion-excited Auger electron spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000349 "Spectroscopy where ion bombardment of a sample results in the ionisation of core electrons and the emission of so-called 'Auger' electrons, which are detected as a function of emission angle.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382256
+10.1 angle resolved Auger electron spectroscopy, (ARAES) 
+angle dependent Auger electron spectroscopy 
+Measurement method in which Auger electron intensities are measured as a function of angle of emission.(from:  https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000349 "Spectroscopy where ion bombardment of a sample results in the ionisation of core electrons and the emission of so-called 'Auger' electrons, which are detected as a function of emission angle.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000349 "AIRES")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000349 "angle-resolved ion-electron spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000349 "angle-resolved ion-electron spectroscopy")
