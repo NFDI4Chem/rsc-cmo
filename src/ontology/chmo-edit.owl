@@ -9012,7 +9012,9 @@ SubClassOf(obo:CHMO_0000502 obo:CHMO_0002925)
 
 # Class: obo:CHMO_0000503 (high-resolution Fourier transform ion cyclotron resonance mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000503 "Mass spectrometry where the mass-to-charge ratio of the sample ions is determined by measuring their cyclotron frequency (the frequency at which they precesses in a fixed magnetic field). The 'exact' mass of the sample ions is determined as opposed to the 'nominal' mass (the number of protons and neutrons).")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383177
+7.142 Fourier transform-ion cyclotron resonance-mass spectrometer, (FT-ICR-MS) 
+Mass spectrometer based on the principle of ion cyclotron resonance in which an ion in a magnetic field moves in a circular orbit at the cyclotron frequency that is characteristic of its m/z value. Ions are coherently excited to a larger radius orbit using a pulse of radio frequency electric field, and their image charge is detected on receiver plates as a time domain signal. Fourier transformation of the time domain signal results in a frequency domain signal that is converted to a mass spectrum based on the inverse relationship between cyclotron frequency and m/z. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0000503 "Mass spectrometry where the mass-to-charge ratio of the sample ions is determined by measuring their cyclotron frequency (the frequency at which they precesses in a fixed magnetic field). The 'exact' mass of the sample ions is determined as opposed to the 'nominal' mass (the number of protons and neutrons).")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000503 "HR FT/ICR MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000503 "HR-FT-ICR MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000503 "HR-FT-ICR-MS")
