@@ -15769,7 +15769,11 @@ SubClassOf(obo:CHMO_0001112 obo:CHMO_0000104)
 
 # Class: obo:CHMO_0001113 (membrane-inlet mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:978-0-470-51634-8") obo:IAO_0000115 obo:CHMO_0001113 "Mass spectrometry where a thin membrane (usually made of a silicone elastomer) provides a selective means introducing low-molecular-weight volatile organic compounds into the ionisation source.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:978-0-470-51634-8") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383297
+7.262 membrane introduction mass spectrometry, (MIMS) 
+membrane inlet mass spectrometry 
+membrane interface mass spectrometry 
+Measurement method in mass spectrometry that uses a semi-permeable membrane separator that permits the passage of analytes directly from solutions or ambient air to the mass spectrometer ion source. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0001113 "Mass spectrometry where a thin membrane (usually made of a silicone elastomer) provides a selective means introducing low-molecular-weight volatile organic compounds into the ionisation source.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001113 "MIMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001113 "membrane inlet mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001113 "membrane introduction mass spectrometry")
