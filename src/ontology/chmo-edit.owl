@@ -12502,7 +12502,9 @@ SubClassOf(obo:CHMO_0000784 obo:CHMO_0000783)
 
 # Class: obo:CHMO_0000785 (optical rotatory dispersion)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000045") Annotation(oboInOwl:hasDbXref "ISBN:0387448993") obo:IAO_0000115 obo:CHMO_0000785 "The measurement of light rotation as a function of wavelength.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000045") Annotation(oboInOwl:hasDbXref "ISBN:0387448993") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6385191
+6.557 optical rotatory dispersion, (ORD) 
+Wavelength dependence of the angle of rotation of the plane of linearly-polarized electromagnetic radiation when transmitted through optically active materials. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000785 "The measurement of light rotation as a function of wavelength.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000785 "ORD")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000785 "CHMO:0000785")
 AnnotationAssertion(rdfs:label obo:CHMO_0000785 "optical rotatory dispersion")
