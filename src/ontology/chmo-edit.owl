@@ -11384,7 +11384,9 @@ SubClassOf(obo:CHMO_0000677 obo:CHMO_0002515)
 
 # Class: obo:CHMO_0000678 (tip-enhanced Raman spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1002/anie.200460656") Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b9nr00156e") obo:IAO_0000115 obo:CHMO_0000678 "Spectroscopy where the Raman scattering of monochromatic light, from a visible laser (500–650 nm), by metal surfaces, where scattering is enhanced by the optical near-field of a metal-coated scanning probe microscopy tip, is detected.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1002/anie.200460656") Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b9nr00156e") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382321
+10.60 tip enhanced Raman spectroscopy, (TERS) 
+Measurement method of Raman spectroscopy combining surface-enhanced Raman spectroscopy and scanning using an atomic force microscope or scanning tunnelling microscope to give complementary maps of a surface. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000678 "Spectroscopy where the Raman scattering of monochromatic light, from a visible laser (500–650 nm), by metal surfaces, where scattering is enhanced by the optical near-field of a metal-coated scanning probe microscopy tip, is detected.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000678 "TERS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000678 "tip-enhanced Raman scattering spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000678 "tip-enhanced Raman scattering spectroscopy")
