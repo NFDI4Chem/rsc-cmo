@@ -7171,7 +7171,10 @@ SubClassOf(obo:CHMO_0000352 obo:CHMO_0000351)
 
 # Class: obo:CHMO_0000353 (X-ray excited Auger electron spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "Orange:17.2.4") obo:IAO_0000115 obo:CHMO_0000353 "Spectroscopy where X-ray bombardment of a sample results in the ionisation of core electrons and the emission of so-called 'Auger' electrons, which are detected as a function of incident X-ray energy.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "Orange:17.2.4") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382326
+10.65 X-ray excited Auger electron spectroscopy, (XAES) 
+Auger spectroscopy that uses a synchrotron X-ray beam for excitation of the sample. 
+(from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000353 "Spectroscopy where X-ray bombardment of a sample results in the ionisation of core electrons and the emission of so-called 'Auger' electrons, which are detected as a function of incident X-ray energy.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000353 "X-ray excited Auger electron spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000353 "X-ray induced Auger electron spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000353 "X-ray induced Auger electron spectroscopy")
