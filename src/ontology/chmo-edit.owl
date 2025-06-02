@@ -13844,7 +13844,9 @@ SubClassOf(obo:CHMO_0000895 obo:CHMO_0000894)
 
 # Class: obo:CHMO_0000896 (rotational-echo double-resonance spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000973") Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0000896 "A magic angle spinning NMR experiment in which the evolution of dipolar couplings between nuclei is controlled by applying pulses at appropriate points in the rotational period, allowing the determination of the size of the coupling and, thus, yielding distance information.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000973") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:comment "https://books.rsc.org/view-large/6384907
+6.284 rotational echo double resonance, (REDOR) 
+Measurement method of nuclear magnetic resonance spectroscopy allowing recoupling of heteronuclear dipolar coupling under magic angle spinning. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000896 "A magic angle spinning NMR experiment in which the evolution of dipolar couplings between nuclei is controlled by applying pulses at appropriate points in the rotational period, allowing the determination of the size of the coupling and, thus, yielding distance information.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000896 "REDOR")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000896 "rotational echo double resonance spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000896 "rotational echo double-resonance (REDOR) spectroscopy")
