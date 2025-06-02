@@ -10044,7 +10044,7 @@ SubClassOf(obo:CHMO_0000579 obo:CHMO_0000575)
 
 # Class: obo:CHMO_0000580 (time-of-flight mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000082") Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.T06382") obo:IAO_0000115 obo:CHMO_0000580 "Mass spectrometry where sample ions with different masses are accelerated to the same (known) kinetic energy and the time taken for each ion to reach a detector at a known distance is measured. This time is dependent on the mass-to-charge ratio of the ion.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000082") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> "https://doi.org/10.1351/goldbook.T06382") obo:IAO_0000115 obo:CHMO_0000580 "Mass spectrometry where sample ions with different masses are accelerated to the same (known) kinetic energy and the time taken for each ion to reach a detector at a known distance is measured. This time is dependent on the mass-to-charge ratio of the ion.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000580 "TOF-MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000580 "TOFMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000580 "ToF-MS")
