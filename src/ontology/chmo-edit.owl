@@ -13361,7 +13361,10 @@ SubClassOf(obo:CHMO_0000862 obo:CHMO_0000156)
 
 # Class: obo:CHMO_0000863 (positron annihilation lifetime spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "http://academic.sun.ac.za/unesco/Conferences/Conference2003/ABSTRACTS/SIMON.htm") obo:IAO_0000115 obo:CHMO_0000863 "A method for probing the free volume between polymer chains in which the anti-particle of an electron (a positron) is injected, from a radioactive source into the sample. When the positron is annihilated a characteristic energy is emitted, and the time from injection to energy emission is measured.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "http://academic.sun.ac.za/unesco/Conferences/Conference2003/ABSTRACTS/SIMON.htm") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381354
+9.148 positron lifetime spectrometry, (PLS) 
+positron annihilation lifetime spectrometry, (PALS) 
+Measurement method of positron annihilation analysis in which the time interval between the emission of positrons from a radioactive source and the detection of gamma rays due to annihilation of these positrons with electrons from the surrounding matter is the lifetime of the positron or positronium. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6381192/Radioanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000863 "A method for probing the free volume between polymer chains in which the anti-particle of an electron (a positron) is injected, from a radioactive source into the sample. When the positron is annihilated a characteristic energy is emitted, and the time from injection to energy emission is measured.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000863 "PALS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000863 "positron lifetime spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000863 "CHMO:0000863")
