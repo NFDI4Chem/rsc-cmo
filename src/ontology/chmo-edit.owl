@@ -10390,7 +10390,10 @@ SubClassOf(obo:CHMO_0000606 obo:CHMO_0000598)
 
 # Class: obo:CHMO_0000607 (nuclear Overhauser enhancement spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0000607 "A type of homonuclear NMR spectroscopy based on the nuclear Overhauser enhancement effect in which correlations are seen between nuclei that are spatially proximate within a molecule (⩽6 Å apart).")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384903
+6.280 nuclear Overhauser effect spectroscopy, (NOESY) 
+nuclear Overhauser enhancement spectroscopy 
+Measurement method of nuclear magnetic resonance spectroscopy based on the nuclear Overhauser effect to observe nuclei that are close to each other in space. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000607 "A type of homonuclear NMR spectroscopy based on the nuclear Overhauser enhancement effect in which correlations are seen between nuclei that are spatially proximate within a molecule (⩽6 Å apart).")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0000607 "FIX:0000143")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000607 "2D EXSY")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000607 "2D exchange spectroscopy")
