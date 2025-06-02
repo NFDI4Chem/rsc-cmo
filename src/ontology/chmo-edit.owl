@@ -7955,7 +7955,9 @@ SubClassOf(obo:CHMO_0000416 obo:CHMO_0000414)
 
 # Class: obo:CHMO_0000417 (Mossbauer spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000417 "Spectroscopy where the intensity of a gamma-rays beam transmitted through a solid sample is detected.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381368
+9.160 Mössbauer spectrometry 
+Measurement method in which recoil-less resonance gamma ray scattering and absorption in solids is applied to measure the nuclear environment of atoms of elements in a material. (from:  https://books.rsc.org/books/edited-volume/2059/chapter/6381192/Radioanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000417 "Spectroscopy where the intensity of a gamma-rays beam transmitted through a solid sample is detected.")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0000417 "FIX:0000050")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000417 "Moessbauer spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000417 "Mossbauer spectroscopy")
