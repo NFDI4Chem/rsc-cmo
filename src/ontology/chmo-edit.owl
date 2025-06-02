@@ -8535,7 +8535,9 @@ SubClassOf(obo:CHMO_0000470 ObjectSomeValuesFrom(obo:OBI_0000299 obo:CHMO_000080
 
 # Class: obo:CHMO_0000471 (acceleration mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000707") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000471 "Mass spectrometry where the sample is ionised and the ions are accelerated to very high kinetic energies.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000707") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381388
+9.178 accelerator mass spectrometry, (AMS) 
+Measurement method of mass spectrometry in which atoms and molecules from a sample are ionized, accelerated to megaelectron volt (1 MeV = 1.602176634 × 10−13 J) energies and separated according to their momentum, charge, and energy, allowing high discrimination for measurement of nuclide abundances. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6381192/Radioanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000471 "Mass spectrometry where the sample is ionised and the ions are accelerated to very high kinetic energies.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000471 "AMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000471 "accelerator MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000471 "accelerator mass spectrometry")
