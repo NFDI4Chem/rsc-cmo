@@ -9885,7 +9885,9 @@ SubClassOf(obo:CHMO_0000562 obo:CHMO_0000561)
 
 # Class: obo:CHMO_0000563 (fast-atom bombardment mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.F02328") obo:IAO_0000115 obo:CHMO_0000563 "Mass spectrometry where the sample (which is held in a liquid matrix) is bombarded with a stream of primary noble gas atoms and the secondary ions ejected from the sample are detected.")
+AnnotationAssertion(Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382288
+10.29 fast-atom bombardment secondary ion mass spectrometry, (FAB-SIMS) 
+Secondary ion mass spectrometry in which the primary-ion beam is replaced by a fast-atom beam. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> "https://doi.org/10.1351/goldbook.F02328") obo:IAO_0000115 obo:CHMO_0000563 "Mass spectrometry where the sample (which is held in a liquid matrix) is bombarded with a stream of primary noble gas atoms and the secondary ions ejected from the sample are detected.")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0000563 "FIX:0000086")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000563 "FAB-MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000563 "FABMS")
