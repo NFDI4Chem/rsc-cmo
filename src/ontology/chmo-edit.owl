@@ -26522,7 +26522,9 @@ SubClassOf(obo:CHMO_0002077 obo:CHMO_0000682)
 
 # Class: obo:CHMO_0002078 (scanning calorimetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0002078 "The measurement of thermodynamic parameters (e.g. enthalpy) during a chemical or biochemical reaction by the known variation (step-wise or linear) of one variable, whilst a second is kept constant.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381154
+11.23 scanning calorimetry 
+Measurement principle where heat is measured as a function of temperature. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6381113/Thermal-Analysis1-2)") obo:IAO_0000115 obo:CHMO_0002078 "The measurement of thermodynamic parameters (e.g. enthalpy) during a chemical or biochemical reaction by the known variation (step-wise or linear) of one variable, whilst a second is kept constant.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002078 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002078 "2009-07-02T03:38:23Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002078 "CHMO:0002078")
