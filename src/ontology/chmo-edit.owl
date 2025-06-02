@@ -13635,7 +13635,9 @@ SubClassOf(obo:CHMO_0000882 obo:CHMO_0000329)
 
 # Class: obo:CHMO_0000883 (plasma-assisted desorption–ionisation mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000883 "Mass spectrometry where a plasma (a partially ionised gas–-such as Ar–-containing free electrons) is directed onto the surface of interest causing desorption of sample molecules from the surface and subsequent ionisation.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382293
+10.34 plasma assisted desorption ionization (PADI) mass spectrometry 
+Measurement method in which a mass spectrometer is used to measure m/z and abundance of ionized entities emitted from a sample in air as a result of the bombardment by a focused plasma. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000883 "Mass spectrometry where a plasma (a partially ionised gas–-such as Ar–-containing free electrons) is directed onto the surface of interest causing desorption of sample molecules from the surface and subsequent ionisation.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000883 "PADI-MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000883 "PADI/MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000883 "plasma-assisted desorption-ionisation mass spectrometry")
