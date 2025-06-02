@@ -22499,7 +22499,9 @@ SubClassOf(obo:CHMO_0001765 obo:CHMO_0000835)
 
 # Class: obo:CHMO_0001766 (transmission Raman spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001766 "Spectroscopy where the Raman scattering of monochromatic light, usually from a laser, by a sample is detected. The light is collected from the non-illuminated side of the sample.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:comment "https://books.rsc.org/view-large/6385095
+6.462 transmission Raman spectroscopy, (TRS) 
+Measurement method of Raman spectroscopy in which the sample is illuminated on one side and the Raman signal is collected from the opposite side. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0001766 "Spectroscopy where the Raman scattering of monochromatic light, usually from a laser, by a sample is detected. The light is collected from the non-illuminated side of the sample.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001766 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001766 "2009-05-20T10:12:23Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001766 "TRS")
