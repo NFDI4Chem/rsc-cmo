@@ -10349,7 +10349,10 @@ SubClassOf(obo:CHMO_0000604 obo:CHMO_0000931)
 
 # Class: obo:CHMO_0000605 (total correlation spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0000605 "A type of homonuclear NMR spectroscopy which reveal correlations between all nuclei of a spin-system.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384913
+6.290 total correlation spectroscopy, (TOCSY) 
+homonuclear Hartmann-Hahn spectroscopy, (HOHAHA) 
+Two-dimensional nuclear magnetic resonance spectroscopy homonuclear correlation experiment, which creates correlations between all protons within a given spin system, not just between geminal or vicinal protons as in COSY. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000605 "A type of homonuclear NMR spectroscopy which reveal correlations between all nuclei of a spin-system.")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0000605 "FIX:0000133")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0000605 "FIX:0000556")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000605 "HOHAHA spectrometry")
