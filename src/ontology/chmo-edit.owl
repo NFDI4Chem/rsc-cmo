@@ -32357,7 +32357,10 @@ SubClassOf(obo:CHMO_0002561 obo:CHMO_0001072)
 
 # Class: obo:CHMO_0002562 (nuclear Overhauser effect difference spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000203") Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0002562 "A 1D NMR experiment in which a 1D spectrum is subtracted from a spectrum acquired under steady-state NOE conditions.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000203") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384902
+6.279 nuclear Overhauser effect difference spectroscopy 
+nOe difference spectroscopy 
+One dimensional nuclear magnetic resonance spectroscopy that yields, through subtraction of spectra generated with and without selective excitation of a specific resonance, the nuclear Overhauser effect of nuclei spatially close to a selectively excited nucleus. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0002562 "A 1D NMR experiment in which a 1D spectrum is subtracted from a spectrum acquired under steady-state NOE conditions.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002562 "Hils")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002562 "2009-10-25T09:04:28Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002562 "1D NOE Difference")
