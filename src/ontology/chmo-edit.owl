@@ -10571,7 +10571,9 @@ SubClassOf(obo:CHMO_0000615 ObjectSomeValuesFrom(obo:BFO_0000118 obo:CHMO_000291
 
 # Class: obo:CHMO_0000616 (combined rotation and multiple pulse spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0824783328") obo:IAO_0000115 obo:CHMO_0000616 "A type of NMR spectroscopy using a solid sample. Anisotropic interactions between nuclei, which are usually averaged by Brownian motion in liquid samples, cause significant line broadening in solid state NMR, but can be averaged to zero by spinning the sample very rapidly at the magic angle (54.74° with respect to the direction of the magnetic field).The combination of multiple-pulse NMR experiments and magic angle spinning. Each experiment consists of a sequence of radio frequency pulses with delay periods in between them.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0824783328") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384867
+6.244  combined rotation and multiple pulse spectroscopy, (CRAMPS) 
+Measurement method of nuclear magnetic resonance spectroscopy for obtaining high-resolution solid-state nuclear magnetic resonance spectra on nuclei with high magnetogyric ratio such as 1H and 19F. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000616 "A type of NMR spectroscopy using a solid sample. Anisotropic interactions between nuclei, which are usually averaged by Brownian motion in liquid samples, cause significant line broadening in solid state NMR, but can be averaged to zero by spinning the sample very rapidly at the magic angle (54.74° with respect to the direction of the magnetic field).The combination of multiple-pulse NMR experiments and magic angle spinning. Each experiment consists of a sequence of radio frequency pulses with delay periods in between them.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000616 "CRAMPS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000616 "combined rotation and multiple pulse spectrometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000616 "CHMO:0000616")
