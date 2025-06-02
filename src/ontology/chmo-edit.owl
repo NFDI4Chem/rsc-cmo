@@ -10154,7 +10154,9 @@ SubClassOf(obo:CHMO_0000590 obo:CHMO_0000228)
 
 # Class: obo:CHMO_0000591 (nuclear magnetic resonance spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0000591 "Spectroscopy where the energy states of spin-active nuclei placed in a static magnetic field are interrogated by inducing transitions between the states via radio frequency irradiation.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384615
+6.4 nuclear magnetic resonance spectroscopy, (NMR) 
+Measurement principle of spectroscopy to measure the precession of magnetic moments placed in a magnetic induction based on absorption of electromagnetic radiation of a specific frequency by an atomic nucleus. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000591 "Spectroscopy where the energy states of spin-active nuclei placed in a static magnetic field are interrogated by inducing transitions between the states via radio frequency irradiation.")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0000591 "FIX:0000022")
 AnnotationAssertion(oboInOwl:hasNarrowSynonym obo:CHMO_0000591 "NMR")
 AnnotationAssertion(oboInOwl:hasNarrowSynonym obo:CHMO_0000591 "NMR spectrometry")
