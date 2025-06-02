@@ -10303,7 +10303,10 @@ SubClassOf(obo:CHMO_0000597 ObjectSomeValuesFrom(obo:CHMO_0002922 obo:CHEBI_3694
 
 # Class: obo:CHMO_0000598 (two-dimensional nuclear magnetic resonance spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000056") Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0000598 "An NMR experiment in which a second frequency dimension is employed to disperse the signals and reveal correlations between interacting nuclei.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000056") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384917
+6.294 two-dimensional nuclear magnetic resonance spectroscopy 
+2-D NMR 
+Measurement method of nuclear magnetic resonance spectroscopy in which data are collected in two time domains: acquisition of the free induction decay (t2) and a successively incremented delay (t1). (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000598 "An NMR experiment in which a second frequency dimension is employed to disperse the signals and reveal correlations between interacting nuclei.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000598 "2-D NMR")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000598 "2D NMR")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000598 "2D NMR spectrometry")
