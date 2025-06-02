@@ -10337,7 +10337,10 @@ SubClassOf(obo:CHMO_0000603 obo:CHMO_0000931)
 
 # Class: obo:CHMO_0000604 (heteronuclear single quantum coherence)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0000604 "A type of heteronuclear NMR spectroscopy where a second frequency dimension is employed to disperse the signals and reveal correlations between protons and the nuclei to which they are covalently bound. In HSQC only the magnetisation of one nucleus is allowed to evolve over time.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384889
+6.266 heteronuclear single quantum correlation, (HSQC) 
+heteronuclear single quantum coherence 
+1H (inverse) detected two-dimensional nuclear magnetic resonance spectroscopy heteronuclear experiment that correlates 1H nuclei with their directly coupled nucleus through a single bond. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000604 "A type of heteronuclear NMR spectroscopy where a second frequency dimension is employed to disperse the signals and reveal correlations between protons and the nuclei to which they are covalently bound. In HSQC only the magnetisation of one nucleus is allowed to evolve over time.")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0000604 "FIX:0000148")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000604 "HSQC")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000604 "CHMO:0000604")
