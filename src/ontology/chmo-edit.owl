@@ -10493,7 +10493,9 @@ SubClassOf(obo:CHMO_0000613 obo:CHMO_0000591)
 
 # Class: obo:CHMO_0000614 (solid-state nuclear magnetic resonance spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0000614 "Spectroscopy where the response of nuclei with non-zero spin, in a solid sample, to a perturbing magnetic field is detected. Each experiment consists of a sequence of radio frequency pulses with delay periods in between them.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384909
+6.286 single crystal nuclear magnetic resonance spectroscopy 
+Solid-state nuclear magnetic resonance spectroscopy on a single crystal in a similar manner to that used in X-ray diffraction. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000614 "Spectroscopy where the response of nuclei with non-zero spin, in a solid sample, to a perturbing magnetic field is detected. Each experiment consists of a sequence of radio frequency pulses with delay periods in between them.")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0000614 "FIX:0000649")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000614 "SS-NMR")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000614 "SSNMR")
