@@ -17911,7 +17911,10 @@ SubClassOf(obo:CHMO_0001287 obo:CHMO_0002793)
 
 # Class: obo:CHMO_0001288 (sum-frequency generation spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1021/ja9831453") obo:IAO_0000115 obo:CHMO_0001288 "A method for generating surface-specific vibrational spectra by mixing two light beams at a surface and detecting the output beam, which has frequency equal to the sum of the two input frequencies.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1021/ja9831453") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382312
+10.51 sum frequency generation spectroscopy, (SFGS) 
+vibrational sum frequency spectroscopy, (VSFS) 
+Measurement method from non-linear optics in which a structurally ordered sample at an interface between two phases is irradiated by single frequency visible and variable frequency infrared pulses of light to generate a sum frequency vibrational spectrum of the interfacial species without any bulk phase contribution. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0001288 "A method for generating surface-specific vibrational spectra by mixing two light beams at a surface and detecting the output beam, which has frequency equal to the sum of the two input frequencies.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001288 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001288 "2009-05-07T03:31:21Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001288 "SFG")
