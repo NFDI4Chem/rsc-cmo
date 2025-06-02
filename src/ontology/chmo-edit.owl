@@ -9936,7 +9936,12 @@ SubClassOf(obo:CHMO_0000570 obo:CHMO_0000569)
 
 # Class: obo:CHMO_0000571 (selective ion monitoring)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.SO5547") obo:IAO_0000115 obo:CHMO_0000571 "Mass spectrometry where the intensities of one or more specific ion beams are recorded rather than the entire mass spectrum.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.SO5547") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383411
+7.376 selected ion monitoring, (SIM) 
+deprecated: multiple ion detection 
+deprecated: mass fragmentography 
+deprecated: selected ion recording 
+Operation of a mass spectrometer in which the abundances of ions of one or more specific m/z values are recorded rather than the entire mass spectrum. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0000571 "Mass spectrometry where the intensities of one or more specific ion beams are recorded rather than the entire mass spectrum.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000571 "selected ion monitoring")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000571 "selected-ion monitoring")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000571 "selective-ion monitoring")
