@@ -8042,7 +8042,11 @@ SubClassOf(obo:CHMO_0000426 obo:CHMO_0000425)
 
 # Class: obo:CHMO_0000427 (direct recoil spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000427 "Spectroscopy where a focused beam of ions is directed at a sample causes binary collisions with surface molecules which result in molecular decomposition and the emission of atoms.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382268
+10.11 direct recoil spectroscopy, (DRS) 
+elastic recoil detection, (ERD) 
+elastic recoil detection analysis, (ERDA) 
+Measurement method to elucidate composition and structure of the outermost atomic layers of a solid material, in which principally monoenergetic neutral atoms or singly charged probe ions are used to sputter atoms or ions out of the solid surface, their energy being recorded at one or more angle of scattering. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000427 "Spectroscopy where a focused beam of ions is directed at a sample causes binary collisions with surface molecules which result in molecular decomposition and the emission of atoms.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000427 "DRS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000427 "direct recoil spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000427 "CHMO:0000427")
