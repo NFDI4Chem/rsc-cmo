@@ -10700,7 +10700,9 @@ SubClassOf(obo:CHMO_0000628 obo:CHMO_0000228)
 
 # Class: obo:CHMO_0000629 (inelastic electron tunnelling spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000629 "Spectroscopy where a metal-molecule-metal sandwich is formed and electrons tunnel from metal to metal through the molecules. Any additional molecules adsorbed onto the inner layer of the sandwhich can affect the tunneling via the excitation of vibrational states.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6385086
+6.453 inelastic electron tunnelling spectroscopy, (IETS) 
+Measurement method of vibrational spectroscopy to obtain spectra of molecules on metal oxide surfaces. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000629 "Spectroscopy where a metal-molecule-metal sandwich is formed and electrons tunnel from metal to metal through the molecules. Any additional molecules adsorbed onto the inner layer of the sandwhich can affect the tunneling via the excitation of vibrational states.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000629 "IETS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000629 "inelastic electron tunnelling spectrometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000629 "CHMO:0000629")
