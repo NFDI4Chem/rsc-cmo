@@ -11186,7 +11186,9 @@ SubClassOf(obo:CHMO_0000660 obo:CHMO_0000659)
 
 # Class: obo:CHMO_0000661 (coherent anti-Stokes Raman spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000075") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000661 "Spectroscopy where the Raman scattering of monochromatic light by a sample is detected. A Stokes frequency stimulation beam is used and an anti-Stokes frequency beam is observed. multiphoton excitation is used to produce a signal in which the emitted waves are coherent.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000075") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:comment "https://books.rsc.org/view-large/6385079
+6.446 coherent anti-Stokes Raman spectroscopy, (CARS) 
+Measurement method of Raman spectroscopy that uses third-order susceptibility and is one of several four-wave mixing spectroscopies. The excitation is through lasers of wavenumber  and which coincide spatially and temporally in the sample and produce an output laser of wavenumber . (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000661 "Spectroscopy where the Raman scattering of monochromatic light by a sample is detected. A Stokes frequency stimulation beam is used and an anti-Stokes frequency beam is observed. multiphoton excitation is used to produce a signal in which the emitted waves are coherent.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000661 "CARS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000661 "coherent anti-Stokes Raman scattering spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000661 "coherent anti-Stokes Raman scattering spectroscopy")
