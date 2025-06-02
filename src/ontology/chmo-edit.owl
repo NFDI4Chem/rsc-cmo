@@ -11094,7 +11094,9 @@ SubClassOf(obo:CHMO_0000655 obo:CHMO_0000649)
 
 # Class: obo:CHMO_0000656 (Raman spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000058") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000656 "Spectroscopy where the Raman scattering of monochromatic light, usually from a laser in the visible, near infrared, or near ultraviolet range by a sample is detected.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000058") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6385091
+6.458 Raman spectroscopy 
+Measurement principle of vibrational spectroscopy based on Raman scattering. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000656 "Spectroscopy where the Raman scattering of monochromatic light, usually from a laser in the visible, near infrared, or near ultraviolet range by a sample is detected.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000656 "Raman scattering spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000656 "Raman scattering spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000656 "Raman spectrometry")
