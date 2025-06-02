@@ -10021,7 +10021,9 @@ SubClassOf(obo:CHMO_0000574 obo:CHMO_0000470)
 
 # Class: obo:CHMO_0000575 (tandem mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000084") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000575 "Mass spectrometry involving multiple mass-selection steps, with some form of fragmentation occurring between each stage.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000084") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383436
+7.401 tandem mass spectrometry in space 
+Tandem mass spectrometry procedure in which product ion spectra are recorded for ion beams in m/z analysers separated in space. Specific m/z separation functions are designed so that in one section of the instrument ions are selected, dissociated in an intermediate region, and the product ions are then transmitted to another analyser for m/z separation and data acquisition. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0000575 "Mass spectrometry involving multiple mass-selection steps, with some form of fragmentation occurring between each stage.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000575 "MS-MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000575 "MS/MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000575 "MS2")
