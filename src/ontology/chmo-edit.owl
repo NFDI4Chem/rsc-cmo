@@ -8988,7 +8988,7 @@ SubClassOf(obo:CHMO_0000501 obo:CHMO_0000500)
 
 # Class: obo:CHMO_0000502 (Fourier transform ion cyclotron resonance mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000083") Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.F02492") obo:IAO_0000115 obo:CHMO_0000502 "Mass spectrometry where the mass-to-charge ratio of the sample ions is determined by measuring their cyclotron frequency (the frequency at which they precesses in a fixed magnetic field) and subjecting it to a Fourier transform.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000083") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.F02492>) obo:IAO_0000115 obo:CHMO_0000502 "Mass spectrometry where the mass-to-charge ratio of the sample ions is determined by measuring their cyclotron frequency (the frequency at which they precesses in a fixed magnetic field) and subjecting it to a Fourier transform.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000502 "FT ICR MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000502 "FT-ICR MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000502 "FT-ICR mass spectrometry")
