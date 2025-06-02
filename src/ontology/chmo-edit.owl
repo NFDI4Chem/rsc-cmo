@@ -7387,7 +7387,9 @@ SubClassOf(obo:CHMO_0000373 obo:CHMO_0000366)
 
 # Class: obo:CHMO_0000374 (vibrational electron energy loss spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000374 "Spectroscopy where a beam of electrons with a known, narrow range of kinetic energies is reflected by a surface and energy loss the electrons suffer (corresponding to vibrational modes in the sample) is measured.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6385084
+6.451 high resolution electron energy loss spectroscopy, (HREELS) 
+vibrational electron energy loss spectroscopy, (VEELS). (from:  https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000374 "Spectroscopy where a beam of electrons with a known, narrow range of kinetic energies is reflected by a surface and energy loss the electrons suffer (corresponding to vibrational modes in the sample) is measured.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000374 "VEELS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000374 "vibrational electron energy loss spectrometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000374 "CHMO:0000374")
