@@ -17132,7 +17132,7 @@ SubClassOf(obo:CHMO_0001210 obo:CHMO_0001014)
 
 # Class: obo:CHMO_0001211 (titration)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.T06387") obo:IAO_0000115 obo:CHMO_0001211 "The process of determining the quantity of a sample by adding measured increments of a titrant until the end-point, at which essentially all of the sample has reacted, is reached.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.T06387>) obo:IAO_0000115 obo:CHMO_0001211 "The process of determining the quantity of a sample by adding measured increments of a titrant until the end-point, at which essentially all of the sample has reacted, is reached.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001211 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001211 "2009-03-25T11:20:53Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001211 "titrimetic analysis")
