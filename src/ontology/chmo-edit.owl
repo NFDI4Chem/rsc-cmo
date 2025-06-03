@@ -3507,7 +3507,10 @@ SubClassOf(obo:CHMO_0000038 obo:CHMO_0000032)
 
 # Class: obo:CHMO_0000039 (tast polarography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000795") Annotation(oboInOwl:hasDbXref "OrangeBook:8.5.3") obo:IAO_0000115 obo:CHMO_0000039 "An electrochemical technique where the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The working electrode is a dropping mercury (or other liquid conductor) electrode and unstirred solutions are used. The current is sampled only during a specific time interval of the life of each drop of the droppping mercury electrode.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000795") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384553
+8.119 sampled DC polarography 
+TAST polarography 
+DC polarography with current sampling at the end of each drop life mechanically enforced by a knocker at a preset drop time value. The current sampling and mechanical drop dislodge are synchronized. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000039 "An electrochemical technique where the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The working electrode is a dropping mercury (or other liquid conductor) electrode and unstirred solutions are used. The current is sampled only during a specific time interval of the life of each drop of the droppping mercury electrode.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000039 "CHMO:0000039")
 AnnotationAssertion(rdfs:label obo:CHMO_0000039 "tast polarography")
 SubClassOf(obo:CHMO_0000039 obo:CHMO_0000032)
