@@ -29668,7 +29668,10 @@ SubClassOf(obo:CHMO_0002342 obo:CHMO_0000812)
 
 # Class: obo:CHMO_0002343 (relaxometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0002343 "The measurement of relaxation variables in nuclear magnetic resonance spectroscopy.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384901
+6.278 nuclear magnetic resonance relaxometry, (NMRR) 
+relaxometry 
+Measurement method of nuclear magnetic resonance spectroscopy (NMR) to measure nuclear relaxation variables.  (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0002343 "The measurement of relaxation variables in nuclear magnetic resonance spectroscopy.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002343 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002343 "2009-09-04T04:27:29Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002343 "relaxometric analysis")
