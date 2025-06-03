@@ -23922,7 +23922,9 @@ SubClassOf(obo:CHMO_0001878 obo:CHMO_0001875)
 
 # Class: obo:CHMO_0001879 (phase cycle)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0001879 "A technique used in FT NMR experiments whereby the sense of application (or phase) of the rf pulses is altered on repeating the experiment such that addition of the resulting signals results in increased intensity for the signals of interest, elimination of artefacts and more effective noise reduction.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384831
+6.210 phase cycling 
+Component of nuclear magnetic resonance experiment that repeats a pulse sequence changing only the phases of the pulse(s) and the phase-sensitive detector reference. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0001879 "A technique used in FT NMR experiments whereby the sense of application (or phase) of the rf pulses is altered on repeating the experiment such that addition of the resulting signals results in increased intensity for the signals of interest, elimination of artefacts and more effective noise reduction.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001879 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001879 "2009-05-29T12:00:00Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001879 "phase sequence")
