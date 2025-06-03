@@ -29266,7 +29266,9 @@ SubClassOf(obo:CHMO_0002310 obo:CHMO_0000981)
 
 # Class: obo:CHMO_0002311 (X-ray fluorescence microscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0002311 "An imaging technique where a beam of X-rays is directed at the specimen and the intensities of the X-rays emitted due to core-to-core transitions (known as 'X-ray fluorescence') are detected as a function of wavelength and position. As these energies are element-specific, X-ray fluorescence microscopy can be used to determine spatially-resolved elemental composition.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381385
+9.177 X-ray fluorescence microscopy, (XRM) 
+Measurement method of X-ray fluorescence to obtain quantitative and spatial information of elements in a sample. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6381192/Radioanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0002311 "An imaging technique where a beam of X-rays is directed at the specimen and the intensities of the X-rays emitted due to core-to-core transitions (known as 'X-ray fluorescence') are detected as a function of wavelength and position. As these energies are element-specific, X-ray fluorescence microscopy can be used to determine spatially-resolved elemental composition.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002311 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002311 "2009-08-26T05:09:12Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002311 "X-ray fluorescence imaging")
