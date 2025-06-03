@@ -17257,7 +17257,10 @@ SubClassOf(obo:CHMO_0001238 obo:CHMO_0000605)
 
 # Class: obo:CHMO_0001239 (inversion recovery)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000211") Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0001239 "An NMR experiment which measures spin-lattice (T1) relaxation rates by acquiring spectra at different delay times following inversion of the spin-state populations.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000211") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384822
+6.203 inversion recovery sequence 
+inversion recovery 
+Spin echo sequence preceded by an inversion 180° pulse used to determine spin–lattice relaxation times in nuclear magnetic resonance spectroscopy. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0001239 "An NMR experiment which measures spin-lattice (T1) relaxation rates by acquiring spectra at different delay times following inversion of the spin-state populations.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001239 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001239 "2009-03-25T02:26:05Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001239 "IRFT")
