@@ -26665,7 +26665,9 @@ SubClassOf(obo:CHMO_0002091 obo:CHMO_0002080)
 
 # Class: obo:CHMO_0002092 (volumetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0002092 "A method for determining the exact amount of an analyte by adding an equivalent amount of a reagent of exactly known concentration to the sample.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384151
+4.40 volumetry 
+Titration when the titrant is added by volume. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383820/Mass-and-Volume-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0002092 "A method for determining the exact amount of an analyte by adding an equivalent amount of a reagent of exactly known concentration to the sample.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002092 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002092 "2009-07-03T09:40:56Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002092 "CHMO:0002092")
