@@ -3471,7 +3471,7 @@ SubClassOf(obo:CHMO_0000031 obo:CHMO_0000029)
 
 # Class: obo:CHMO_0000032 (polarography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000794") Annotation(oboInOwl:hasDbXref "OrangeBook:8.5.3") obo:IAO_0000115 obo:CHMO_0000032 "An electrochemical technique where the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The working electrode is a dropping mercury (or other liquid conductor) electrode and unstirred solutions are used.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000794") Annotation(oboInOwl:hasDbXref "OrangeBook:8.5.3") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.P04716>) obo:IAO_0000115 obo:CHMO_0000032 "An electrochemical technique where the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The working electrode is a dropping mercury (or other liquid conductor) electrode and unstirred solutions are used.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000032 "CHMO:0000032")
 AnnotationAssertion(rdfs:label obo:CHMO_0000032 "polarography")
 SubClassOf(obo:CHMO_0000032 obo:CHMO_0000024)
