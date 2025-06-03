@@ -3443,7 +3443,9 @@ SubClassOf(obo:CHMO_0000030 obo:CHMO_0000029)
 
 # Class: obo:CHMO_0000031 (normal pulse voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:978-3-540-74597-6") obo:IAO_0000115 obo:CHMO_0000031 "An electrochemical technique where the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The potential is varied using pulses of increasing amplitude and the current is sampled after each voltage pulse.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:978-3-540-74597-6") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384545
+8.113 normal pulse voltammetry, (NPV) 
+Voltammetry in which potential pulses of amplitude increasing by a constant increment and pulse width of 2 to 200 ms are superimposed on a constant initial potential. The electric current is sampled at the end of the pulse and then plotted versus the potential of the pulse. Sigmoidal wave-shaped voltammograms are obtained. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000031 "An electrochemical technique where the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The potential is varied using pulses of increasing amplitude and the current is sampled after each voltage pulse.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000031 "NPV")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000031 "normal-pulse voltammetry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000031 "CHMO:0000031")
