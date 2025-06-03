@@ -25034,7 +25034,7 @@ SubClassOf(obo:CHMO_0001962 obo:CHMO_0000435)
 
 # Class: obo:CHMO_0001963 (time-correlated single photon counting)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001963 "A method that is used to measure the relaxation rate of molecules in fluorescent samples. A laser pulse excites the molecule, and the time taken for it to emit a single photon is measured.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.T06377>) obo:IAO_0000115 obo:CHMO_0001963 "A method that is used to measure the relaxation rate of molecules in fluorescent samples. A laser pulse excites the molecule, and the time taken for it to emit a single photon is measured.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001963 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001963 "2009-06-17T01:12:56Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001963 "TC-SPC")
