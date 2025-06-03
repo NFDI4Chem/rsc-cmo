@@ -3566,7 +3566,9 @@ SubClassOf(obo:CHMO_0000045 obo:CHMO_0000042)
 
 # Class: obo:CHMO_0000046 (adsorptive stripping voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000046 "An electrochemical technique where the analyte of interest is first adsorbed onto the working electrode before being removed or 'stripped'. During removal the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384565
+8.128 adsorptive stripping voltammetry, (AdSV) 
+Stripping voltammetry involving pre-concentration by adsorption of the analyte (in contrast to electrochemical accumulation). (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000046 "An electrochemical technique where the analyte of interest is first adsorbed onto the working electrode before being removed or 'stripped'. During removal the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000046 "AdSV")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000046 "adsorptive-stripping voltammetry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000046 "CHMO:0000046")
