@@ -16933,7 +16933,7 @@ SubClassOf(obo:CHMO_0001212 obo:CHMO_0001211)
 
 # Class: obo:CHMO_0001213 (acidimetric titration)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001213 "Acid-base titration where the sample is a base and the titrant is an acid.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.A00078>) obo:IAO_0000115 obo:CHMO_0001213 "Acid-base titration where the sample is a base and the titrant is an acid.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001213 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001213 "2009-03-25T11:32:04Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001213 "acidimetry")
