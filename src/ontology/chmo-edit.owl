@@ -15399,7 +15399,10 @@ SubClassOf(obo:CHMO_0001069 obo:CHMO_0000632)
 
 # Class: obo:CHMO_0001070 (three-dimensional nuclear magnetic resonance spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000144") Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0001070 "Any type of nuclear magnetic resonance spectroscopy in which three independent frequency dimensions are employed for the correlation and dispersal of signals (by employing two magnetisation transfer steps). Each signal is described by three frequencies, thus effecting the distribution of signals within a cube.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000144") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384911
+6.288 three-dimensional nuclear magnetic resonance spectroscopy 
+3-D NMR 
+Measurement method of nuclear magnetic resonance spectroscopy in which data are collected in three time domains. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0001070 "Any type of nuclear magnetic resonance spectroscopy in which three independent frequency dimensions are employed for the correlation and dispersal of signals (by employing two magnetisation transfer steps). Each signal is described by three frequencies, thus effecting the distribution of signals within a cube.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001070 "3D NMR")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001070 "3D NMR spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001070 "3D-NMR")
