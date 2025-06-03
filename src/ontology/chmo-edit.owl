@@ -3318,7 +3318,9 @@ SubClassOf(obo:CHMO_0000016 obo:CHMO_0000003)
 
 # Class: obo:CHMO_0000017 (chrono-potentiometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000780") Annotation(oboInOwl:hasDbXref "OrangeBook:8.5.1") obo:IAO_0000115 obo:CHMO_0000017 "An electrochemical technique where the time-dependence of the potential difference between the indicator and reference electrodes is measured under conditions where the current passed is sufficiently small to maintain thermodynamic equilibrium.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000780") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384518
+8.95 chronopotentiometry 
+Potentiometry in which the potential is measured with time following a change in applied current. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000017 "An electrochemical technique where the time-dependence of the potential difference between the indicator and reference electrodes is measured under conditions where the current passed is sufficiently small to maintain thermodynamic equilibrium.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000017 "chronopotentiometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000017 "CHMO:0000017")
 AnnotationAssertion(rdfs:label obo:CHMO_0000017 "chrono-potentiometry")
