@@ -3977,7 +3977,7 @@ SubClassOf(obo:CHMO_0000079 obo:CHMO_0000073)
 
 # Class: obo:CHMO_0000080 (transmission electron microscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.T06481") obo:IAO_0000115 obo:CHMO_0000080 "Electron microscopy where the intensities of the electrons through an electron-transparent specimen are measured.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> "https://doi.org/10.1351/goldbook.T06481") obo:IAO_0000115 obo:CHMO_0000080 "Electron microscopy where the intensities of the electrons through an electron-transparent specimen are measured.")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0000080 "FIX:0000126")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000080 "TEM")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000080 "CHMO:0000080")
