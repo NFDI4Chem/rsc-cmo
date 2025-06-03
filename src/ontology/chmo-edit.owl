@@ -3523,7 +3523,9 @@ SubClassOf(obo:CHMO_0000040 obo:CHMO_0000024)
 
 # Class: obo:CHMO_0000041 (stripping voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000041 "An electrochemical technique where the analyte of interest is first deposited (usually by electroplating) onto the working electrode before being removed or 'stripped'. During removal the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384570
+8.132 stripping voltammetry 
+Two-step electrochemical measurement in which (1) material is accumulated at an electrode and (2) the amount of an accumulated species is measured by voltammetry. The measured electric current in step 2 is related to the concentration of analyte in the solution by calibration. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000041 "An electrochemical technique where the analyte of interest is first deposited (usually by electroplating) onto the working electrode before being removed or 'stripped'. During removal the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000041 "SV")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000041 "CHMO:0000041")
 AnnotationAssertion(rdfs:label obo:CHMO_0000041 "stripping voltammetry")
