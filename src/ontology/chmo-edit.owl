@@ -3514,7 +3514,10 @@ SubClassOf(obo:CHMO_0000039 obo:CHMO_0000032)
 
 # Class: obo:CHMO_0000040 (square-wave voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000816") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000040 "An electrochemical technique where the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The potential is varied as a square wave and the current is measured at the end of each half-wave, just prior to potential change.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000816") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384558
+8.123 square-wave voltammetry, (SWV) 
+Osteryoung square-wave voltammetry, (OSWV) 
+Voltammetry in which a square-wave potential waveform is superimposed on an underlying linearly-varying potential ramp or staircase ramp. The current is sampled just before the end of the forward-going pulse and of the backward-going pulse and the difference of the two sampled currents is plotted versus the applied potential of the potential or staircase ramp. The square-wave voltammogram is peak-shaped. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000040 "An electrochemical technique where the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The potential is varied as a square wave and the current is measured at the end of each half-wave, just prior to potential change.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000040 "SWV")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000040 "square wave voltammetry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000040 "CHMO:0000040")
