@@ -4060,7 +4060,7 @@ SubClassOf(obo:CHMO_0000085 obo:CHMO_0000080)
 
 # Class: obo:CHMO_0000086 (scanning transmission electron microscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000086 "Microscopy where a finely focused (<10 nm diameter) electron beam with an acceleration voltage 50–150 kV is scanned across an electron-transparent specimen under vacuum and the intensities of the transmitted electrons are measured.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.S05486>) obo:IAO_0000115 obo:CHMO_0000086 "Microscopy where a finely focused (<10 nm diameter) electron beam with an acceleration voltage 50–150 kV is scanned across an electron-transparent specimen under vacuum and the intensities of the transmitted electrons are measured.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000086 "STEM")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000086 "scanning TEM")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000086 "CHMO:0000086")
