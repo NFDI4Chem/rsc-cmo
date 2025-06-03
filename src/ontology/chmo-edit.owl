@@ -17143,7 +17143,7 @@ SubClassOf(obo:CHMO_0001211 obo:CHMO_0002739)
 
 # Class: obo:CHMO_0001212 (acid–base titration)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:6.2") obo:IAO_0000115 obo:CHMO_0001212 "The process of determining the quantity of a sample (an acid or base) by adding measured increments of a titrant (a base or acid) until the endpoint, at which essentially all of the sample has reacted, is reached.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:6.2") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.A00076>) obo:IAO_0000115 obo:CHMO_0001212 "The process of determining the quantity of a sample (an acid or base) by adding measured increments of a titrant (a base or acid) until the endpoint, at which essentially all of the sample has reacted, is reached.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001212 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001212 "2009-03-25T11:27:08Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001212 "acid-base titration")
