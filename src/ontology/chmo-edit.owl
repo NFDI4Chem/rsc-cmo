@@ -3708,7 +3708,9 @@ SubClassOf(obo:CHMO_0000052 obo:CHMO_0000050)
 
 # Class: obo:CHMO_0000053 (imaging mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b812533c") obo:IAO_0000115 obo:CHMO_0000053 "The collection of spatially resolved mass spectra of a sample during microscopy which are used to visualise the spatial distribution of compounds by their molecular masses.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b812533c") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383195
+7.160 imaging mass spectrometry 
+Procedure used to form chemically selective images of an object based on the mass spectrometric detection of ions desorbed from its surface. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0000053 "The collection of spatially resolved mass spectra of a sample during microscopy which are used to visualise the spatial distribution of compounds by their molecular masses.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000053 "I-MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000053 "IMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000053 "imaging MS")
