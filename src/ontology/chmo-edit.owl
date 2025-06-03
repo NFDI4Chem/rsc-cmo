@@ -3890,7 +3890,7 @@ SubClassOf(obo:CHMO_0000072 obo:CHMO_0000068)
 
 # Class: obo:CHMO_0000073 (scanning electron microscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.S05484") obo:IAO_0000115 obo:CHMO_0000073 "Microscopy where a finely focused (<10 nm diameter) electron beam with an acceleration voltage 50-150 kV is scanned across the specimen under vacuum and the interaction of the electrons with the specimen is determined.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> "https://doi.org/10.1351/goldbook.S05484") obo:IAO_0000115 obo:CHMO_0000073 "Microscopy where a finely focused (<10 nm diameter) electron beam with an acceleration voltage 50-150 kV is scanned across the specimen under vacuum and the interaction of the electrons with the specimen is determined.")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0000073 "FIX:0000124")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000073 "SEM")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000073 "scanning electronic microscopy")
