@@ -4457,7 +4457,11 @@ SubClassOf(obo:CHMO_0000119 obo:CHMO_0000118)
 
 # Class: obo:CHMO_0000120 (scanning near-field optical microscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000385") Annotation(oboInOwl:hasDbXref "ISBN:1-86094-199-0") obo:IAO_0000115 obo:CHMO_0000120 "Microscopy where a probe consisting of a laser transmitted through a tapered optical fibre is positioned very close to (<10 nm from) the surface of the specimen. The tip is coated with metal (to prevent light from escaping from the sides) and near-field (or evanescent field) light is emitted through a small opening or 'aperture' (50–100 nm in diameter) at the apex of the probe. An image is produced by scanning the probe over the specimen and detecting the disturbance of the near-field as a function of position. A force feedback loop is used to maintain a fixed relationship between the probe and surface during scanning.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000385") Annotation(oboInOwl:hasDbXref "ISBN:1-86094-199-0") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382308
+10.47 scanning near-field optical microscopy, (SNOM) 
+near-field scanning optical microscopy, (NSOM) 
+near-field optical microscopy 
+Measurement method in microscopy in which spectroscopic data may be collected with the detector closer to the sample than the optical wavelength employed. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000120 "Microscopy where a probe consisting of a laser transmitted through a tapered optical fibre is positioned very close to (<10 nm from) the surface of the specimen. The tip is coated with metal (to prevent light from escaping from the sides) and near-field (or evanescent field) light is emitted through a small opening or 'aperture' (50–100 nm in diameter) at the apex of the probe. An image is produced by scanning the probe over the specimen and detecting the disturbance of the near-field as a function of position. A force feedback loop is used to maintain a fixed relationship between the probe and surface during scanning.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000120 "NSOM")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000120 "SNOM")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000120 "aperture NSOM")
