@@ -3875,7 +3875,7 @@ SubClassOf(obo:CHMO_0000067 ObjectSomeValuesFrom(obo:BFO_0000057 obo:CHMO_000095
 
 # Class: obo:CHMO_0000068 (electron microscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.S05484") obo:IAO_0000115 obo:CHMO_0000068 "Microscopy where the specimen is bombarded with a finely focused (<10 nm diameter) electron beam with an acceleration voltage 50-150 kV under vacuum. The interaction of the electrons with the specimen produces transmitted, secondary, backscattered and diffracted electrons and characteristic X-rays which are detected.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.E02002>) Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> "https://doi.org/10.1351/goldbook.S05484") obo:IAO_0000115 obo:CHMO_0000068 "Microscopy where the specimen is bombarded with a finely focused (<10 nm diameter) electron beam with an acceleration voltage 50-150 kV under vacuum. The interaction of the electrons with the specimen produces transmitted, secondary, backscattered and diffracted electrons and characteristic X-rays which are detected.")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0000068 "FIX:0000051")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000068 "EM")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000068 "CHMO:0000068")
