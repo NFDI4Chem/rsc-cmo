@@ -32292,7 +32292,9 @@ SubClassOf(obo:CHMO_0002556 obo:CHMO_0002555)
 
 # Class: obo:CHMO_0002557 (HNCA)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000155") Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0002557 "A triple-resonance NMR experiment used in to determine the chemical shifts of nuclei in a (isotopically enriched) protein. The chemical shift of the (backbone) amide proton is correlated with the chemical shift of the covalently bound nitrogen and the alpha carbons of the same and preceding residues.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000155") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384894
+6.271 HNCA 
+Three-dimensional nuclear magnetic resonance spectroscopy for the assignment of protein structure with nitrogen, carbon and hydrogen dimensions. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0002557 "A triple-resonance NMR experiment used in to determine the chemical shifts of nuclei in a (isotopically enriched) protein. The chemical shift of the (backbone) amide proton is correlated with the chemical shift of the covalently bound nitrogen and the alpha carbons of the same and preceding residues.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002557 "Hils")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002557 "2009-10-25T08:10:21Z")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0002557 "CHMO:0002058")
