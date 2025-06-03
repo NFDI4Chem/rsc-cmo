@@ -3310,7 +3310,9 @@ SubClassOf(obo:CHMO_0000015 obo:CHMO_0000012)
 
 # Class: obo:CHMO_0000016 (potentiometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000775") Annotation(oboInOwl:hasDbXref "OrangeBook:8.5.1") obo:IAO_0000115 obo:CHMO_0000016 "An electrochemical technique where the potential difference between the indicator and reference electrodes is measured under conditions where the current passed is sufficiently small to maintain thermodynamic equilibrium.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000775") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384519
+8.96 potentiometry 
+Electrochemical measurement principle where the potential difference between an indicator electrode and a reference electrode is measured. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000016 "An electrochemical technique where the potential difference between the indicator and reference electrodes is measured under conditions where the current passed is sufficiently small to maintain thermodynamic equilibrium.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000016 "potentiometric method")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000016 "CHMO:0000016")
 AnnotationAssertion(rdfs:label obo:CHMO_0000016 "potentiometry")
