@@ -3426,7 +3426,10 @@ SubClassOf(obo:CHMO_0000027 obo:CHMO_0000024)
 
 # Class: obo:CHMO_0000028 (linear-sweep voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000791") Annotation(oboInOwl:hasDbXref "OrangeBook:8.5.3") obo:IAO_0000115 obo:CHMO_0000028 "An electrochemical technique where the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The potential is varied linearly and stops at an end point.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000791") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384543
+8.112 linear-scan voltammetry, (LSV) 
+linear-sweep voltammetry 
+Voltammetry in which the electric current is recorded as the electrode potential is varied linearly with time.(from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000028 "An electrochemical technique where the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The potential is varied linearly and stops at an end point.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000028 "LSV")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000028 "chrono amperometry with linear potenial sweep")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000028 "chronoamperometry with linear sweep")
