@@ -12004,7 +12004,9 @@ SubClassOf(obo:CHMO_0000732 obo:CHMO_0000156)
 
 # Class: obo:CHMO_0000733 (diffusion-ordered spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000563") Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0000733 "A type of NMR spectroscopy using pulsed-field gradients where the rate of decay of NMR signals in each component of a sample mixture is measured across a series of experiments. The rate of signal decay is proportional to the diffusion coefficient for each component.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000563") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384872
+6.249 diffusion ordered spectroscopy, (DOSY) 
+Pseudo-two-dimensional nuclear magnetic resonance spectroscopy experiment that resolves NMR signals of a one-dimensional nuclear magnetic resonance spectrum in a second dimension through the diffusion times of their corresponding molecules. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000733 "A type of NMR spectroscopy using pulsed-field gradients where the rate of decay of NMR signals in each component of a sample mixture is measured across a series of experiments. The rate of signal decay is proportional to the diffusion coefficient for each component.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000733 "DOSY")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000733 "DOSY NMR")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000733 "diffusion NMR")
