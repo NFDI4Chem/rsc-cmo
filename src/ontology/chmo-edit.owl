@@ -3434,7 +3434,9 @@ SubClassOf(obo:CHMO_0000029 obo:CHMO_0000024)
 
 # Class: obo:CHMO_0000030 (differential pulse voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000030 "An electrochemical technique where the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The potential is varied using pulses of increasing amplitude and the current is sampled before and after each voltage pulse.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384535
+8.105 differential pulse voltammetry, (DPV) 
+Voltammetry in which small potential pulses (constant height 10 to 100 mV, constant width 10 to 100 ms) are superimposed onto a linearly varying potential or onto a staircase potential ramp. The current is sampled just before the onset of the pulse (e.g. 10 to 20 ms) and for the same sampling time just before the end of the pulse. The difference between the two sampled currents is plotted versus the potential applied before the pulse. Thus, a differential pulse voltammogram is peak-shaped. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000030 "An electrochemical technique where the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The potential is varied using pulses of increasing amplitude and the current is sampled before and after each voltage pulse.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000030 "DPV")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000030 "differential-pulse voltammetry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000030 "CHMO:0000030")
