@@ -17278,7 +17278,7 @@ SubClassOf(obo:CHMO_0001224 obo:CHMO_0001075)
 
 # Class: obo:CHMO_0001225 (absolute activation analysis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.A00018") obo:IAO_0000115 obo:CHMO_0001225 "A kind of activation analysis in which the elemental concentrations in the material are calculated from known nuclear constants, irradiation and measurement parameters, rather than by comparing with known standards.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'absolute activation analysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00018>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00018>) obo:IAO_0000115 obo:CHMO_0001225 "\"A kind of activation analysis in which the elemental concentrations in the material are calculated from known nuclear constants, irradiation and measurement parameters, rather than by comparing with known standards.\"")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001225 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001225 "2009-03-25T12:05:01Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001225 "CHMO:0001225")
