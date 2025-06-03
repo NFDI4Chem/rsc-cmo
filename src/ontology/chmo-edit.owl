@@ -17847,7 +17847,10 @@ SubClassOf(obo:CHMO_0001284 ObjectSomeValuesFrom(obo:BFO_0000118 obo:MS_1000073)
 
 # Class: obo:CHMO_0001285 (gravimetric analysis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0001285 "A method used to determine an analyte on the basis of a mass of a sample.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384125
+4.14 gravimetric analysis 
+gravimetry 
+Measurement principle of quantitative analysis based on measurement of mass. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383820/Mass-and-Volume-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001285 "A method used to determine an analyte on the basis of a mass of a sample.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001285 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001285 "2009-05-06T03:21:36Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001285 "CHMO:0001285")
