@@ -3827,7 +3827,7 @@ SubClassOf(obo:CHMO_0000063 obo:CHMO_0000062)
 
 # Class: obo:CHMO_0000064 (fluorescence resonance energy transfer)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000064 "A method for determining the distance between molecules using an energy transfer between two fluorescent chromophores (a donor and an acceptor) in close proximity (typically <10 nm) via a nonradiative, long-range dipole-dipole coupling mechanism. Energy transfer usually occurs between a cyan fluorescent protein (donor) and a yellow fluorescent protein (acceptor).")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.FT07378>) obo:IAO_0000115 obo:CHMO_0000064 "A method for determining the distance between molecules using an energy transfer between two fluorescent chromophores (a donor and an acceptor) in close proximity (typically <10 nm) via a nonradiative, long-range dipole-dipole coupling mechanism. Energy transfer usually occurs between a cyan fluorescent protein (donor) and a yellow fluorescent protein (acceptor).")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0000064 "FIX:0000472")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0000064 "FIX:0000473")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000064 "fluorescence resonance energy transfer assay")
