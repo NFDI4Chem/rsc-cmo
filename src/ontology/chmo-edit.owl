@@ -32394,7 +32394,10 @@ SubClassOf(obo:CHMO_0002554 obo:CHMO_0002548)
 
 # Class: obo:CHMO_0002555 (triple-resonance spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000153") Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0002555 "A type of NMR experiment in which excitation of the spin states of three different types of nuclei (usually 1H, 13C and 15N) is employed. The name of the experiment describes the path taken by the magnetisation during the experiment.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000153") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384916
+6.293 triple-resonance nuclear magnetic resonance spectroscopy 
+triple-resonance NMR 
+Measurement method of nuclear magnetic resonance spectroscopy using three NMR-active nuclei. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0002555 "A type of NMR experiment in which excitation of the spin states of three different types of nuclei (usually 1H, 13C and 15N) is employed. The name of the experiment describes the path taken by the magnetisation during the experiment.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002555 "Hils")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002555 "2009-10-25T08:06:32Z")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0002555 "CHMO:0002056")
