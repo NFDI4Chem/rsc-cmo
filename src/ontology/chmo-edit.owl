@@ -3415,7 +3415,9 @@ SubClassOf(obo:CHMO_0000026 obo:CHMO_0000025)
 
 # Class: obo:CHMO_0000027 (hydrodynamic voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000792") Annotation(oboInOwl:hasDbXref "Orange: 8.5.3") obo:IAO_0000115 obo:CHMO_0000027 "An electrochemical technique where the cell current flowing during convective mass transfer (the movement of material by the action of a fluid) is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The potential is varied linearly and inverts at the end point resulting in a cycle.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000792") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384540
+8.109 hydrodynamic voltammetry 
+Voltammetry with forced flow of the solution towards the electrode surface. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000027 "An electrochemical technique where the cell current flowing during convective mass transfer (the movement of material by the action of a fluid) is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The potential is varied linearly and inverts at the end point resulting in a cycle.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000027 "linear scan hydrodynamic voltammetry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000027 "linear-scan hydrodynamic voltammetry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000027 "CHMO:0000027")
