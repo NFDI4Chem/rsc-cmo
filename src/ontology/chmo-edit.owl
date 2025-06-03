@@ -3292,7 +3292,10 @@ SubClassOf(obo:CHMO_0000013 obo:CHMO_0000012)
 
 # Class: obo:CHMO_0000014 (chrono-coulometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000786") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000014 "An electrochemical technique where the time-dependence of the total Coulombs of electricity required to complete (fully oxidise or fully reduce the sample in) an electrochemical reaction is measured whilst the current is held at a constant value.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000786") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384572
+8.133 chronocoulometry 
+Direct coulometry at controlled potential in which the electric charge passed after application of a potential step perturbation is measured as a function of time (Q–t curve).
+(from:  https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000014 "An electrochemical technique where the time-dependence of the total Coulombs of electricity required to complete (fully oxidise or fully reduce the sample in) an electrochemical reaction is measured whilst the current is held at a constant value.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000014 "chronocoulometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000014 "CHMO:0000014")
 AnnotationAssertion(rdfs:label obo:CHMO_0000014 "chrono-coulometry")
