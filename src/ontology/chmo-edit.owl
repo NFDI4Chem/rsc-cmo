@@ -3391,7 +3391,10 @@ SubClassOf(obo:CHMO_0000024 obo:CHMO_0000003)
 
 # Class: obo:CHMO_0000025 (cyclic voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000099") Annotation(oboInOwl:hasDbXref "OrangeBook:8.5.3") obo:IAO_0000115 obo:CHMO_0000025 "An electrochemical technique where the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The potential is varied linearly and inverts at the end point resulting in a cycle.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000099") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384531
+8.103 cyclic voltammetry, (CV) 
+cyclic linear scan voltammetry 
+Voltammetry in which the electric current is recorded as the electrode potential is varied with time cyclically between two potential limits, normally at a constant scan rate. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000025 "An electrochemical technique where the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The potential is varied linearly and inverts at the end point resulting in a cycle.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000025 "cyclic triangular wave voltammetry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000025 "cyclovoltammetry")
 AnnotationAssertion(Annotation(oboInOwl:hasSynonymType chmo:non-mining_synonym) oboInOwl:hasRelatedSynonym obo:CHMO_0000025 "CV")
