@@ -3213,7 +3213,9 @@ SubClassOf(obo:CHMO_0000004 obo:CHMO_0000003)
 
 # Class: obo:CHMO_0000005 (chrono-amperometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000785") Annotation(oboInOwl:hasDbXref "OrangeBook:8.5.2") obo:IAO_0000115 obo:CHMO_0000005 "An electrochemical technique where the time dependence of the cell current is measured whilst the potential difference between the indicator and reference electrodes is controlled.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000785") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384523
+8.98 chronoamperometry 
+Amperometry in which the electric current is measured as a function of time after a change in the applied potential. (from: https://books.rsc.org/view-large/6384594)") obo:IAO_0000115 obo:CHMO_0000005 "An electrochemical technique where the time dependence of the cell current is measured whilst the potential difference between the indicator and reference electrodes is controlled.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000005 "chronoamperometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000005 "CHMO:0000005")
 AnnotationAssertion(rdfs:label obo:CHMO_0000005 "chrono-amperometry")
