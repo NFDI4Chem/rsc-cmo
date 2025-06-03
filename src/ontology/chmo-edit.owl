@@ -32442,7 +32442,9 @@ SubClassOf(obo:CHMO_0002557 obo:CHMO_0002555)
 
 # Class: obo:CHMO_0002558 (HNCOCA)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000156") Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0002558 "A triple resonance NMR experiment used to determine the chemical shifts of nuclei in a (isotopically enriched) protein. The chemical shift of the (backbone) amide proton is correlated with the chemical shift of the covalently bound nitrogen and the \\alpha-carbon of the preceding residue. The name of the method describes the path taken by the magnetisation during the experiment.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000156") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384893
+6.270 HN(CO)CA 
+Three-dimensional nuclear magnetic resonance spectroscopy for the assignment of protein structure with nitrogen, carbon and hydrogen dimensions.  (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0002558 "A triple resonance NMR experiment used to determine the chemical shifts of nuclei in a (isotopically enriched) protein. The chemical shift of the (backbone) amide proton is correlated with the chemical shift of the covalently bound nitrogen and the \\alpha-carbon of the preceding residue. The name of the method describes the path taken by the magnetisation during the experiment.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002558 "Hils")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002558 "2009-10-25T08:11:11Z")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0002558 "CHMO:0002059")
