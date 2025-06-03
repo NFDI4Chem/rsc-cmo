@@ -13973,7 +13973,10 @@ SubClassOf(obo:CHMO_0000920 obo:CHMO_0000909)
 
 # Class: obo:CHMO_0000921 (Osteryoung square-wave voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0471594628") obo:IAO_0000115 obo:CHMO_0000921 "An electrochemical technique where the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The potential is varied as a square wave and there is one square wave cycle per staircase step.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0471594628") Annotation(rdfs:comment "https://books.rsc.org/view-large/6384558
+8.123 square-wave voltammetry, (SWV) 
+Osteryoung square-wave voltammetry, (OSWV) 
+Voltammetry in which a square-wave potential waveform is superimposed on an underlying linearly-varying potential ramp or staircase ramp. The current is sampled just before the end of the forward-going pulse and of the backward-going pulse and the difference of the two sampled currents is plotted versus the applied potential of the potential or staircase ramp. The square-wave voltammogram is peak-shaped. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000921 "An electrochemical technique where the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The potential is varied as a square wave and there is one square wave cycle per staircase step.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000921 "OSWV")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000921 "Osteryoung square wave voltammetry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000921 "CHMO:0000921")
