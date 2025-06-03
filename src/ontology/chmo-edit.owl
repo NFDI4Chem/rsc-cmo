@@ -23952,7 +23952,9 @@ SubClassOf(obo:CHMO_0001881 obo:CHMO_0001879)
 
 # Class: obo:CHMO_0001882 (presaturation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0001882 "An NMR technique whereby particular resonances are saturated (their spin-state populations are equalised). Commonly used to suppress solvent signals.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384835
+6.213 presaturation 
+Technique to suppress a particular nuclear magnetic resonance spectroscopy signal where a long low-power pulse is applied to that specific resonance prior to the main pulse sequence.  (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0001882 "An NMR technique whereby particular resonances are saturated (their spin-state populations are equalised). Commonly used to suppress solvent signals.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001882 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001882 "2009-05-29T12:00:00Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001882 "CHMO:0001882")
