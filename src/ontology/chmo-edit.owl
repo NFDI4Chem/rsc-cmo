@@ -17119,7 +17119,7 @@ SubClassOf(obo:CHMO_0001230 obo:CHMO_0001211)
 
 # Class: obo:CHMO_0001231 (catalysed chemiluminescence detection)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.C01080") obo:IAO_0000115 obo:CHMO_0001231 "The detection of luminescence resulting from a thermal electron-transfer reaction.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.C01080>) obo:IAO_0000115 obo:CHMO_0001231 "The detection of luminescence resulting from a thermal electron-transfer reaction.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001231 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001231 "2009-03-25T01:30:44Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001231 "CIEEL")
