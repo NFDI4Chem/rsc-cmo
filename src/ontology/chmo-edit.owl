@@ -7045,7 +7045,8 @@ SubClassOf(obo:CHMO_0000345 obo:CHMO_0000344)
 
 # Class: obo:CHMO_0000346 (ion-excited Auger electron spectroscopy)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://media.iupac.org/publications/analytical_compendium/>) obo:IAO_0000115 obo:CHMO_0000346 "An Auger electron spectroscopy in which ion bombardment of a sample results in the ionisation of core electrons and the emission of so-called 'Auger' electrons, which are detected as a function of incident ion energy..")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://media.iupac.org/publications/analytical_compendium/>) obo:IAO_0000115 obo:CHMO_0000346 "An Auger electron spectroscopy in which ion bombardment of a sample results in the ionisation of core electrons and the emission of so-called 'Auger' electrons, which are detected as a function of incident ion energy.
+.")
 AnnotationAssertion(Annotation(dcterms:source <https://media.iupac.org/publications/analytical_compendium/>) obo:OMO_0003012 obo:CHMO_0000346 "IAES")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000346 "IEAES")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000346 "IIAES")
@@ -17107,7 +17108,7 @@ SubClassOf(obo:CHMO_0001229 obo:CHMO_0001211)
 
 # Class: obo:CHMO_0001230 (chelatometric titration)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "google.patent:US3878059") obo:IAO_0000115 obo:CHMO_0001230 "The process of determining the quantity of a sample (metal cation) by adding measured increments of a titrant (a chelating agent) until the end-point, at which essentially all of the sample has reacted, is reached.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "USPatent:3878059") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.C01013>) obo:IAO_0000115 obo:CHMO_0001230 "The process of determining the quantity of a sample (metal cation) by adding measured increments of a titrant (a chelating agent) until the end-point, at which essentially all of the sample has reacted, is reached.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001230 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001230 "2009-03-25T01:25:08Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001230 "CHMO:0001230")
