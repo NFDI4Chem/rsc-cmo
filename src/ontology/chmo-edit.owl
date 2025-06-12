@@ -14981,7 +14981,9 @@ SubClassOf(obo:CHMO_0001030 obo:CHMO_0001019)
 
 # Class: obo:CHMO_0001031 (capillary sieving electrophoresis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/pac200476020443") obo:IAO_0000115 obo:CHMO_0001031 "An electrophoresis method that takes place in a capillary and where the separation medium contains a reticulated system, for example an entangled polymer network, that further separates the analytes according to their size and shape.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/pac200476020443") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383773
+5.184 capillary sieving electrophoresis, (CSE) 
+Electrophoretic separation technique, which takes place in a capillary containing a medium in the background electrolyte that retains molecules and particles based on their size and shape. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001031 "An electrophoresis method that takes place in a capillary and where the separation medium contains a reticulated system, for example an entangled polymer network, that further separates the analytes according to their size and shape.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001031 "CSE")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001031 "CHMO:0001031")
 AnnotationAssertion(rdfs:label obo:CHMO_0001031 "capillary sieving electrophoresis")
