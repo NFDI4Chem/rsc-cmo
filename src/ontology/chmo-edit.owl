@@ -14770,7 +14770,7 @@ SubClassOf(obo:CHMO_0001008 ObjectSomeValuesFrom(obo:BFO_0000057 obo:CHMO_000098
 
 # Class: obo:CHMO_0001009 (high-performance liquid chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.2.1.4") obo:IAO_0000115 obo:CHMO_0001009 "Column chromatography where the mobile phase is a liquid, the stationary phase consists of very small particles and the inlet pressure is relatively high.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.2.1.4") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.A00177>) obo:IAO_0000115 obo:CHMO_0001009 "Column chromatography where the mobile phase is a liquid, the stationary phase consists of very small particles and the inlet pressure is relatively high.")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0001009 "FIX:0000630")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001009 "HPLC")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001009 "high performance liquid chromatography")
