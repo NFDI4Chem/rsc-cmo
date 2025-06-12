@@ -20095,7 +20095,7 @@ SubClassOf(obo:CHMO_0001483 obo:CHMO_0001480)
 
 # Class: obo:CHMO_0001484 (densification)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0001484 "The removal of impurities and elimination of pores from a xerogel (a gel that has been dried with unhindered shrinkage).")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.DT07618>) obo:IAO_0000115 obo:CHMO_0001484 "The removal of impurities and elimination of pores from a xerogel (a gel that has been dried with unhindered shrinkage).")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001484 "CHMO:0001484")
 AnnotationAssertion(rdfs:label obo:CHMO_0001484 "densification")
 SubClassOf(obo:CHMO_0001484 obo:OBI_0000094)
