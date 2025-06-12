@@ -30389,7 +30389,7 @@ SubClassOf(obo:CHMO_0002401 obo:CHMO_0001000)
 
 # Class: obo:CHMO_0002402 (elution chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000617") obo:IAO_0000115 obo:CHMO_0002402 "A chromatography method where the stationary bed is within a tube and the mobile phase moves continuously through the column and the analyte is detected as it emerges from the column.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000617") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.E02046>) obo:IAO_0000115 obo:CHMO_0002402 "A chromatography method where the stationary bed is within a tube and the mobile phase moves continuously through the column and the analyte is detected as it emerges from the column.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002402 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002402 "2009-09-16T11:54:28Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002402 "CHMO:0002402")
