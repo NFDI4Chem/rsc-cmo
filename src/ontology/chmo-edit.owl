@@ -20183,7 +20183,10 @@ SubClassOf(obo:CHMO_0001494 obo:CHMO_0001489)
 
 # Class: obo:CHMO_0001495 (partial sample digestion)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.P04411") obo:IAO_0000115 obo:CHMO_0001495 "The decomposition of only part of a sample by the addition of liquid reagents to solubilise it.")
+AnnotationAssertion(Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384305
+3.119 partial digestion 
+pseudodigestion 
+Digestion in which only a part of the sample, or some of the analytes present, are brought into solution. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.P04411>) obo:IAO_0000115 obo:CHMO_0001495 "The decomposition of only part of a sample by the addition of liquid reagents to solubilise it.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001495 "CHMO:0001495")
 AnnotationAssertion(rdfs:label obo:CHMO_0001495 "partial sample digestion")
 SubClassOf(obo:CHMO_0001495 obo:CHMO_0001489)
