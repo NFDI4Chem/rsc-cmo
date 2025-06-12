@@ -28670,7 +28670,9 @@ SubClassOf(obo:CHMO_0002261 ObjectSomeValuesFrom(obo:BFO_0000057 obo:CHMO_000226
 
 # Class: obo:CHMO_0002262 (hydrophilic interaction chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b905580k") obo:IAO_0000115 obo:CHMO_0002262 "Liquid chromatography where the stationary phase is hydrophilic, the mobile phase is organic and separation is achieved based on polarity.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b905580k") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383599
+5.33 hydrophilic-interaction liquid chromatography, (HILIC) 
+Liquid chromatography in which molecules are partitioned between a water-enriched layer, which is immobilised on a hydrophilic (polar) stationary phase, and a less-polar mobile phase, containing water and organic solvent. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0002262 "Liquid chromatography where the stationary phase is hydrophilic, the mobile phase is organic and separation is achieved based on polarity.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002262 "batchelorc")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002262 "2009-08-14T10:53:59Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002262 "HILIC")
