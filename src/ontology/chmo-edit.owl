@@ -14805,7 +14805,7 @@ SubClassOf(obo:CHMO_0001012 obo:CHMO_0001010)
 
 # Class: obo:CHMO_0001013 (size-exclusion chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000626") Annotation(oboInOwl:hasDbXref "OrangeBook:9.2.1.5") obo:IAO_0000115 obo:CHMO_0001013 "Column chromatography where the separation is caused by differences in molecular size.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000626") Annotation(oboInOwl:hasDbXref "OrangeBook:9.2.1.5") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.S05705>) obo:IAO_0000115 obo:CHMO_0001013 "Column chromatography where the separation is caused by differences in molecular size.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001013 "SEC")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001013 "size exclusion chromatography")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001013 "CHMO:0001013")
