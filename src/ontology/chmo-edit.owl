@@ -15055,7 +15055,9 @@ SubClassOf(obo:CHMO_0001037 obo:CHMO_0001035)
 
 # Class: obo:CHMO_0001038 (capillary electrochromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/pac200476020443") obo:IAO_0000115 obo:CHMO_0001038 "Electrokinetic chromatography where the movement of the mobile phase through a capillary is achieved by electroosmotic flow. The retention time is determined by a combination of electrophoretic migration and chromatographic retention.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/pac200476020443") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383768
+5.179 capillary electrochromatography, (CEC) 
+Liquid chromatography, where the movement of the mobile phase through a capillary, filled, packed or coated with a stationary phase, is achieved by electroosmotic flow (which may be assisted by pressure). (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001038 "Electrokinetic chromatography where the movement of the mobile phase through a capillary is achieved by electroosmotic flow. The retention time is determined by a combination of electrophoretic migration and chromatographic retention.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001038 "CEC")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001038 "CHMO:0001038")
 AnnotationAssertion(rdfs:label obo:CHMO_0001038 "capillary electrochromatography")
