@@ -12771,7 +12771,9 @@ SubClassOf(obo:CHMO_0000794 obo:CHMO_0000922)
 
 # Class: obo:CHMO_0000795 (ultra high performance liquid chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b501767j") obo:IAO_0000115 obo:CHMO_0000795 "Column chromatography where the mobile phase is a liquid, the stationary phase consists of very small (< 2 microm) particles and the inlet pressure is relatively high.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b501767j") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383590
+5.25 ultra-high-performance liquid chromatography, (UHPLC) 
+ultra-performance liquid chromatography, (UPLC) (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000795 "Column chromatography where the mobile phase is a liquid, the stationary phase consists of very small (< 2 microm) particles and the inlet pressure is relatively high.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000795 "UPLC")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000795 "ultra-performance liquid chromatography")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000795 "CHMO:0000795")
