@@ -20087,7 +20087,7 @@ SubClassOf(obo:CHMO_0001482 obo:CHMO_0001480)
 
 # Class: obo:CHMO_0001483 (thermal curing)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0001483 "A chemical process in which a prepolymer is converted into a polymer and then into a network, upon application of heat.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.TT07616>) obo:IAO_0000115 obo:CHMO_0001483 "A chemical process in which a prepolymer is converted into a polymer and then into a network, upon application of heat.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001483 "thermocuring")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001483 "CHMO:0001483")
 AnnotationAssertion(rdfs:label obo:CHMO_0001483 "thermal curing")
