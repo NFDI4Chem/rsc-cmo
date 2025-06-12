@@ -15277,7 +15277,10 @@ SubClassOf(obo:CHMO_0001038 obo:CHMO_0001035)
 
 # Class: obo:CHMO_0001039 (capillary affinity electrophoresis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/pac200476020443") obo:IAO_0000115 obo:CHMO_0001039 "An electrophoresis method which takes place in a capillary where the separation medium has specific interactions with the analytes.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/pac200476020443") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383767
+5.178 capillary affinity electrophoresis, (CAE) 
+affinity capillary electrophoresis, (ACE) 
+Capillary electrophoresis in which the background electrolyte contains substances capable of specific, often biospecific, interactions with the analytes. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001039 "An electrophoresis method which takes place in a capillary where the separation medium has specific interactions with the analytes.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001039 "ACE")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001039 "CAE")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001039 "CHMO:0001039")
