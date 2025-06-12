@@ -20061,7 +20061,7 @@ SubClassOf(obo:CHMO_0001479 obo:CHMO_0001477)
 
 # Class: obo:CHMO_0001480 (curing)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0001480 "A chemical process in which a prepolymer or polymer is converted into a polymer of higher molar mass and then into a network.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'curing' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.CT07137 >) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.CT07137>) Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0001480 "\"A chemical process in which a prepolymer or polymer is converted into a polymer of higher molar mass and then into a network.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001480 "CHMO:0001480")
 AnnotationAssertion(rdfs:label obo:CHMO_0001480 "curing")
 SubClassOf(obo:CHMO_0001480 obo:OBI_0000094)
