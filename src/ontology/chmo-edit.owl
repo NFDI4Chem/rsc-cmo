@@ -19958,7 +19958,7 @@ SubClassOf(obo:CHMO_0001467 obo:CHMO_0002770)
 
 # Class: obo:CHMO_0001468 (carbo-reduction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001468 "A process in which a metal oxide is reduced in the presence of carbon or a carbon-containing compound.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'carbo-reduction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.CT07609>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.CT07609>) Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001468 "\"A process in which a metal oxide is reduced in the presence of carbon or a carbon-containing compound.\"")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001468 "carbo reduction")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001468 "carboreduction")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001468 "CHMO:0001468")
