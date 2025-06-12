@@ -15200,7 +15200,9 @@ SubClassOf(obo:CHMO_0001031 ObjectSomeValuesFrom(obo:BFO_0000057 obo:CHMO_000098
 
 # Class: obo:CHMO_0001032 (capillary gel electrophoresis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000837") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0001032 "A separation method that takes place in a capillary and where colloidal particles move at different speeds according to their electrophoretic mobilities in a separation medium consisting of gel, across which an electric field is applied.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000837") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383770
+5.181 capillary gel electrophoresis, (CGE) 
+Capillary sieving electrophoresis in which the capillary is filled with a gel. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001032 "A separation method that takes place in a capillary and where colloidal particles move at different speeds according to their electrophoretic mobilities in a separation medium consisting of gel, across which an electric field is applied.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001032 "CGE")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001032 "gel CE")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001032 "CHMO:0001032")
