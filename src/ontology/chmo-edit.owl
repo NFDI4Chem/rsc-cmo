@@ -16191,7 +16191,9 @@ AnnotationAssertion(owl:deprecated obo:CHMO_0001131 "true"^^xsd:boolean)
 
 # Class: obo:CHMO_0001132 (laser ablation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0001132 "A sample preparation method where material is removed from a specimen by illuminating it with a laser beam.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383254
+7.219 laser ablation 
+Removal of material from a solid or liquid sample using energy delivered by a short laser pulse to form gas-phase species and particles. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0001132 "A sample preparation method where material is removed from a specimen by illuminating it with a laser beam.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001132 "batchelorc")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001132 "2009-03-06T05:23:07Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001132 "CHMO:0001132")
