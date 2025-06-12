@@ -15950,7 +15950,7 @@ SubClassOf(obo:CHMO_0001128 obo:CHMO_0001000)
 
 # Class: obo:CHMO_0001129 (displacement chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.D01797") obo:IAO_0000115 obo:CHMO_0001129 "Chromatography where the mobile phase contains a compound (the displacer) more strongly retained than the components of the sample under examination. The sample is fed into the system as a finite slug.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'displacement chromatography' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.D01797>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.D01797>) obo:IAO_0000115 obo:CHMO_0001129 "Chromatography where the \"mobile phase contains a compound (the displacer) more strongly retained than the components of the sample under examination. The sample is fed into the system as a finite slug.\"")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001129 "batchelorc")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001129 "2009-03-06T04:48:37Z")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0001129 "FIX:0000618")
