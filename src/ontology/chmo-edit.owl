@@ -21206,7 +21206,7 @@ SubClassOf(obo:CHMO_0001640 obo:CHMO_0002231)
 
 # Class: obo:CHMO_0001641 (micro-filtration)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.MT06887") obo:IAO_0000115 obo:CHMO_0001641 "A pressure-driven membrane-based separation process in which particles and dissolved macromolecules larger than 0.1 micrometre are rejected.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'microfiltration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.MT06887>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20 >) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.MT06887>) obo:IAO_0000115 obo:CHMO_0001641 "\"A pressure-driven membrane-based separation process in which particles and dissolved macromolecules larger than 0.1 micrometre are rejected.\"")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001641 "microfiltration")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001641 "CHMO:0001641")
 AnnotationAssertion(rdfs:label obo:CHMO_0001641 "micro-filtration")
