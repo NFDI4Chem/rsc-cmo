@@ -14741,7 +14741,7 @@ SubClassOf(obo:CHMO_0001005 ObjectSomeValuesFrom(obo:BFO_0000057 obo:CHMO_000099
 
 # Class: obo:CHMO_0001006 (affinity chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.2.1.5") obo:IAO_0000115 obo:CHMO_0001006 "Chromatography where the separation is caused by differing biological specificity of the analyte-ligand interactions.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'affinity chromatography' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00177>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00177>) Annotation(oboInOwl:hasDbXref "OrangeBook:9.2.1.5") obo:IAO_0000115 obo:CHMO_0001006 "Chromatography where the separation is caused by differing biological specificity of the analyte-ligand interactions.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001006 "bioaffinity chromatography")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001006 "CHMO:0001006")
 AnnotationAssertion(rdfs:label obo:CHMO_0001006 "affinity chromatography")
