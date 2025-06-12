@@ -20127,7 +20127,7 @@ SubClassOf(obo:CHMO_0001519 obo:CHMO_0001502)
 
 # Class: obo:CHMO_0001520 (thermolysis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.T06326") obo:IAO_0000115 obo:CHMO_0001520 "The uncatalysed cleavage of one or more covalent bonds resulting from exposure of a compound to a raised temperature, or a process in which such cleavage is an essential part.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'flash vacuum pyrolysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.F02420>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.F02420>) obo:IAO_0000115 obo:CHMO_0001520 "\"The uncatalysed cleavage of one or more covalent bonds resulting from exposure of a compound to a raised temperature, or a process in which such cleavage is an essential part.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001520 "CHMO:0001520")
 AnnotationAssertion(rdfs:label obo:CHMO_0001520 "thermolysis")
 SubClassOf(obo:CHMO_0001520 obo:CHMO_0001500)
