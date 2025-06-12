@@ -14679,7 +14679,7 @@ SubClassOf(obo:CHMO_0000999 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001000 (chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.C01075") obo:IAO_0000115 obo:CHMO_0001000 "A separation method where the components are distributed between two phases, one of which is stationary, while the other moves in a definite direction.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'chromatography' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.C01075>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C01075>) obo:IAO_0000115 obo:CHMO_0001000 "\"A separation method where the components are distributed between two phases, one of which is stationary, while the other moves in a definite direction.\"")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0001000 "FIX:0000053")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001000 "analytical chromatography")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001000 "chromatographic analysis")
