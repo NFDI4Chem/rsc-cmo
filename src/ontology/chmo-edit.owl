@@ -14825,7 +14825,7 @@ SubClassOf(obo:CHMO_0001014 obo:CHMO_0001001)
 
 # Class: obo:CHMO_0001015 (gas-solid chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000632") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0001015 "Gas chromatography where the stationary phase is a solid.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000632") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.G02591>) obo:IAO_0000115 obo:CHMO_0001015 "Gas chromatography where the stationary phase is a solid.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001015 "GSC")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001015 "CHMO:0001015")
 AnnotationAssertion(rdfs:label obo:CHMO_0001015 "gas-solid chromatography")
