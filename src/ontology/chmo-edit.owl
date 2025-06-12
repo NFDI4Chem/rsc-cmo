@@ -15068,7 +15068,7 @@ SubClassOf(obo:CHMO_0001018 obo:CHMO_0002001)
 
 # Class: obo:CHMO_0001019 (electrophoresis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/pac200476020443") obo:IAO_0000115 obo:CHMO_0001019 "A separation method where colloidal particles move at different speeds according to their electrophoretic mobilities in a separation medium, across which an electric field is applied.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/pac200476020443") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.E02022>) obo:IAO_0000115 obo:CHMO_0001019 "A separation method where colloidal particles move at different speeds according to their electrophoretic mobilities in a separation medium, across which an electric field is applied.")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0001019 "FIX:0000097")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0001019 "sep:00140")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001019 "cataphoresis")
