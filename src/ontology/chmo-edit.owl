@@ -14934,7 +14934,7 @@ SubClassOf(obo:CHMO_0001004 ObjectSomeValuesFrom(obo:BFO_0000057 obo:CHMO_000099
 
 # Class: obo:CHMO_0001005 (planar chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.P04682") obo:IAO_0000115 obo:CHMO_0001005 "A chromatography method where the stationary phase is present as or on a plane.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.P04682>) obo:IAO_0000115 obo:CHMO_0001005 "A chromatography method where the stationary phase is present as or on a plane.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001005 "open bed chromatography")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001005 "open-bed chromatography")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001005 "CHMO:0001005")
