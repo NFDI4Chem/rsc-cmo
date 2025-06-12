@@ -22845,7 +22845,7 @@ SubClassOf(obo:CHMO_0001783 obo:CHMO_0001427)
 
 # Class: obo:CHMO_0001784 (pervaporation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001784 "A method for the separation of liquid mixtures based on diffusion rate and membrane affinity. The sample mixture is placed in contact with one side of a non-porous polymeric membrane while a vacuum is applied to the other side. The components in the liquid stream permeate through the membrane, evaporate, and are then condensed.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.PT06892>) obo:IAO_0000115 obo:CHMO_0001784 "A method for the separation of liquid mixtures based on diffusion rate and membrane affinity. The sample mixture is placed in contact with one side of a non-porous polymeric membrane while a vacuum is applied to the other side. The components in the liquid stream permeate through the membrane, evaporate, and are then condensed.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001784 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001784 "2009-05-20T01:45:31Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001784 "CHMO:0001784")
