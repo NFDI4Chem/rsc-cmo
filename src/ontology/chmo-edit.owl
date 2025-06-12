@@ -15255,7 +15255,10 @@ SubClassOf(obo:CHMO_0001035 ObjectSomeValuesFrom(obo:BFO_0000057 obo:CHMO_000098
 
 # Class: obo:CHMO_0001036 (micellar electrokinetic chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/pac200476020443") obo:IAO_0000115 obo:CHMO_0001036 "Electrokinetic chromatography where the secondary phase is a micellar dispersed phase.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/pac200476020443") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383793
+5.204 micellar electrokinetic chromatography, (MEKC) 
+micellar electrokinetic capillary chromatography, (MECC) 
+Electrokinetic chromatography, in which the secondary phase is a micellar dispersed phase in the capillary. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001036 "Electrokinetic chromatography where the secondary phase is a micellar dispersed phase.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001036 "MEKC")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001036 "CHMO:0001036")
 AnnotationAssertion(rdfs:label obo:CHMO_0001036 "micellar electrokinetic chromatography")
