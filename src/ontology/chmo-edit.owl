@@ -14855,7 +14855,7 @@ SubClassOf(obo:CHMO_0001017 obo:CHMO_0001999)
 
 # Class: obo:CHMO_0001018 (two-dimensional chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0001018 "A two-dimensional separation method where the separation processes are both chromatography. initial separation proceeds in a primary column and 'cuts' of the eluent from this column are directed into one or more secondary columns.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.T06540>) obo:IAO_0000115 obo:CHMO_0001018 "A two-dimensional separation method where the separation processes are both chromatography. initial separation proceeds in a primary column and 'cuts' of the eluent from this column are directed into one or more secondary columns.")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0001018 "FIX:0001152")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001018 "2D chromatography")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001018 "CHMO:0001018")
