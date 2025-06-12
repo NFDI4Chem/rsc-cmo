@@ -20079,7 +20079,7 @@ SubClassOf(obo:CHMO_0001481 obo:CHMO_0001480)
 
 # Class: obo:CHMO_0001482 (photochemical curing)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0001482 "A chemical process in which a prepolymer is converted into a polymer and then into a network, upon irradiation with light.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.P04593>) obo:IAO_0000115 obo:CHMO_0001482 "A chemical process in which a prepolymer is converted into a polymer and then into a network, upon irradiation with light.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001482 "photocuring")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001482 "CHMO:0001482")
 AnnotationAssertion(rdfs:label obo:CHMO_0001482 "photochemical curing")
