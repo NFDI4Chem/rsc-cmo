@@ -20134,7 +20134,7 @@ SubClassOf(obo:CHMO_0001520 obo:CHMO_0001500)
 
 # Class: obo:CHMO_0001521 (flash vacuum thermolysis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.F02420") obo:IAO_0000115 obo:CHMO_0001521 "The reaction of a molecule by exposing it to a short thermal shock at high temperature, usually in the gas phase.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'flash vacuum pyrolysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.F02420>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.F02420>) obo:IAO_0000115 obo:CHMO_0001521 "The reaction of a molecule by exposing it to a short thermal shock at high temperature, usually in the gas phase.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001521 "FVP")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001521 "FVT")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001521 "flash vacuum pyrolysis")
