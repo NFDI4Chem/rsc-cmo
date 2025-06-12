@@ -21223,7 +21223,7 @@ SubClassOf(obo:CHMO_0001642 obo:CHMO_0001640)
 
 # Class: obo:CHMO_0001643 (reverse osmosis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001643 "A separation process which involves using pressure to force a solution through a membrane, retaining the solute on one side and allowing the pure solvent to pass to the other side. (This is the reverse of the normal osmosis process, which is the natural movement of solvent from an area of low solute concentration, through a membrane, to an area of high solute concentration.)")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.RT06893>) obo:IAO_0000115 obo:CHMO_0001643 "A separation process which involves using pressure to force a solution through a membrane, retaining the solute on one side and allowing the pure solvent to pass to the other side. (This is the reverse of the normal osmosis process, which is the natural movement of solvent from an area of low solute concentration, through a membrane, to an area of high solute concentration.)")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001643 "RO")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001643 "CHMO:0001643")
 AnnotationAssertion(rdfs:label obo:CHMO_0001643 "reverse osmosis")
