@@ -19678,7 +19678,7 @@ SubClassOf(obo:CHMO_0001463 obo:CHMO_0001462)
 
 # Class: obo:CHMO_0001464 (ageing)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.5") obo:IAO_0000115 obo:CHMO_0001464 "Any time-dependent change of the properties of a precipitate e.g. loss of water or growth of crystals as a result of prolonged heat treatment.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.5") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.A00180>) obo:IAO_0000115 obo:CHMO_0001464 "Any time-dependent change of the properties of a precipitate e.g. loss of water or growth of crystals as a result of prolonged heat treatment.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001464 "age hardening")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001464 "aging")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001464 "dispersion hardening")
