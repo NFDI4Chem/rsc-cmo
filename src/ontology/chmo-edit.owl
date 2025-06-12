@@ -15016,7 +15016,9 @@ SubClassOf(obo:CHMO_0001033 ObjectSomeValuesFrom(obo:BFO_0000057 obo:CHMO_000098
 
 # Class: obo:CHMO_0001034 (capillary isotachophoresis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/pac200476020443") obo:IAO_0000115 obo:CHMO_0001034 "An electrophoresis method in a capillary containing a discontinuous buffer system where the analytes migrate according to their electrophoretic mobilities, forming a chain of adjacent zones moving with equal velocity between two solutions, the leading and terminating electrolytes, bracketing the mobility range of the analytes.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/pac200476020443") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383772
+5.183 capillary isotachophoresis, (CITP) 
+Electrophoretic separation technique in a discontinuous buffer system in which analytes migrate according to their electrophoretic mobilities, forming a chain of adjacent zones moving with equal speed (velocity) between two solutions, leading and terminating electrolytes, bracketing the mobility range of the analytes. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001034 "An electrophoresis method in a capillary containing a discontinuous buffer system where the analytes migrate according to their electrophoretic mobilities, forming a chain of adjacent zones moving with equal velocity between two solutions, the leading and terminating electrolytes, bracketing the mobility range of the analytes.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001034 "CITP")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001034 "CHMO:0001034")
 AnnotationAssertion(rdfs:label obo:CHMO_0001034 "capillary isotachophoresis")
