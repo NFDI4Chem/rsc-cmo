@@ -20068,7 +20068,7 @@ SubClassOf(obo:CHMO_0001480 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001481 (electron beam curing)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0001481 "A chemical process in which a prepolymer is converted into a polymer and then into a network, upon irradiation with an electron beam.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.ET07615>) obo:IAO_0000115 obo:CHMO_0001481 "A chemical process in which a prepolymer is converted into a polymer and then into a network, upon irradiation with an electron beam.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001481 "E-beam curing")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001481 "EB curing")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001481 "e-beam curing")
