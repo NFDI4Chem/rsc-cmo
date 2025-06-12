@@ -30398,7 +30398,7 @@ SubClassOf(obo:CHMO_0002402 obo:CHMO_0001001)
 
 # Class: obo:CHMO_0002403 (partition chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000612") Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.P04436") obo:IAO_0000115 obo:CHMO_0002403 "Chromatography in which separation is based mainly on differences between the solubility of the sample components in the stationary phase (gas chromatography), or on differences between the solubilities of the components in the mobile and stationary phases (liquid chromatography)")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'partition chromatography' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.P04436>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:license <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.P04436>) Annotation(oboInOwl:hasDbXref "FIX:0000612") obo:IAO_0000115 obo:CHMO_0002403 "\"Chromatography in which separation is based mainly on differences between the solubility of the sample components in the stationary phase (gas chromatography), or on differences between the solubilities of the components in the mobile and stationary phases (liquid chromatography)\"")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002403 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002403 "2009-09-16T11:59:04Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002403 "CHMO:0002403")
