@@ -33990,7 +33990,10 @@ SubClassOf(obo:CHMO_0002697 obo:CHMO_0002698)
 
 # Class: obo:CHMO_0002698 (chiral chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0002698 "A separation method where the components (in this case stereoisomers) are distributed between two chiral phases, one of which is stationary, while the other moves in a definite direction.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383595
+5.29 enantioselective chromatography 
+chiral chromatography 
+Separation of enantiomeric species due to the enantioselectivity of their interaction with the chiral selector(s) of a chromatographic (electrophoretic) system. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0002698 "A separation method where the components (in this case stereoisomers) are distributed between two chiral phases, one of which is stationary, while the other moves in a definite direction.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002698 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002698 "2010-05-13T01:20:25Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002698 "CHMO:0002698")
