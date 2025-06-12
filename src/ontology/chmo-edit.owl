@@ -15018,7 +15018,7 @@ SubClassOf(obo:CHMO_0001013 obo:CHMO_0001010)
 
 # Class: obo:CHMO_0001014 (ion-exchange chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000613") Annotation(oboInOwl:hasDbXref "OrangeBook:9.2.1.5") obo:IAO_0000115 obo:CHMO_0001014 "Column chromatography where the separation is caused by differences in ion-exchange affinity.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000613") Annotation(oboInOwl:hasDbXref "OrangeBook:9.2.1.5") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.I03168>) obo:IAO_0000115 obo:CHMO_0001014 "Column chromatography where the separation is caused by differences in ion-exchange affinity.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001014 "IEC")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001014 "IEX chromatography")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001014 "ion exchange chromatography")
