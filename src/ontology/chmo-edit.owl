@@ -15214,7 +15214,9 @@ SubClassOf(obo:CHMO_0001032 ObjectSomeValuesFrom(obo:BFO_0000057 obo:CHMO_000098
 
 # Class: obo:CHMO_0001033 (capillary isoelectric focusing)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/pac200476020443") obo:IAO_0000115 obo:CHMO_0001033 "An electrophoresis method for the separation of amphoteric analytes according to their isolectric points by the application of an electric field along a pH gradient in a capillary.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/pac200476020443") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383771
+5.182 capillary isoelectric focusing, (CIEF) 
+Electrophoretic technique for the separation of analytes according to their isoelectric points by an electric field along a pH gradient formed in a capillary. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001033 "An electrophoresis method for the separation of amphoteric analytes according to their isolectric points by the application of an electric field along a pH gradient in a capillary.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001033 "CIEF")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001033 "capillary isoelectric focussing")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001033 "CHMO:0001033")
