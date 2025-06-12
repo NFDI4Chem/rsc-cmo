@@ -20281,7 +20281,7 @@ SubClassOf(obo:CHMO_0001506 obo:CHMO_0001502)
 
 # Class: obo:CHMO_0001507 (furnace pyrolysis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.F02561") obo:IAO_0000115 obo:CHMO_0001507 "The chemical degradation of a sample caused by passing a carrier gas (H2, O2, N2 etc.) over the sample in a heated furnace.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.F02561>) obo:IAO_0000115 obo:CHMO_0001507 "The chemical degradation of a sample caused by passing a carrier gas (H2, O2, N2 etc.) over the sample in a heated furnace.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001507 "CHMO:0001507")
 AnnotationAssertion(rdfs:label obo:CHMO_0001507 "furnace pyrolysis")
 SubClassOf(obo:CHMO_0001507 obo:CHMO_0001502)
