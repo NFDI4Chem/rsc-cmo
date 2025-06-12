@@ -15115,7 +15115,9 @@ SubClassOf(obo:CHMO_0001023 obo:CHMO_0001021)
 
 # Class: obo:CHMO_0001024 (capillary electrophoresis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000836") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0001024 "An electrophoresis method which takes place in a capillary.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000836") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383769
+5.180 capillary electrophoresis, (CE) 
+Separation method based solely on the differences in the electrophoretic mobilities of charged species in capillaries. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001024 "An electrophoresis method which takes place in a capillary.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001024 "CZE")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001024 "capillary zone electrophoresis")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001024 "CHMO:0001024")
