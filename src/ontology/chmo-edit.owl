@@ -14712,7 +14712,9 @@ SubClassOf(obo:CHMO_0001002 ObjectSomeValuesFrom(obo:BFO_0000057 obo:CHMO_000099
 
 # Class: obo:CHMO_0001003 (supercritical-fluid chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000609") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0001003 "Column chromatography where the mobile phase is a fluid above and relatively close to its critical temperature and pressure.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000609") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383589
+5.24 supercritical fluid chromatography, (SFC) 
+Chromatography in which the mobile phase is a fluid above and relatively close to its critical temperature and pressure. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001003 "Column chromatography where the mobile phase is a fluid above and relatively close to its critical temperature and pressure.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001003 "SFC")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001003 "CHMO:0001003")
 AnnotationAssertion(rdfs:label obo:CHMO_0001003 "supercritical-fluid chromatography")
@@ -14837,7 +14839,7 @@ SubClassOf(obo:CHMO_0001015 ObjectSomeValuesFrom(obo:BFO_0000057 obo:CHMO_000098
 
 # Class: obo:CHMO_0001016 (gas-liquid chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0001016 "Gas chromatography where the stationary phase is a liquid.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'gas-liquid chromatography' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.G02586>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.G02586>) Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0001016 "Gas chromatography where the stationary phase is a liquid.")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0001016 "FIX:0000631")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001016 "GLC")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001016 "CHMO:0001016")
