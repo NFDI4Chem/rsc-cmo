@@ -28876,7 +28876,9 @@ SubClassOf(obo:CHMO_0002279 obo:CHMO_0001106)
 
 # Class: obo:CHMO_0002280 (ion-pair chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:9781439800966") obo:IAO_0000115 obo:CHMO_0002280 "A type of column chromatography in which ions in solution can be 'paired' or neutralised and separated as an ion pair on a reversed-phase column. Ion-pairing agents are usually ionic compounds that contain a hydrocarbon chain.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:9781439800966") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383603
+5.37 ion-pair chromatography 
+Liquid chromatography in which the mobile liquid phase contains an ionized additive (an ion-pair reagent) that can form an ion pair with an analyte molecule. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0002280 "A type of column chromatography in which ions in solution can be 'paired' or neutralised and separated as an ion pair on a reversed-phase column. Ion-pairing agents are usually ionic compounds that contain a hydrocarbon chain.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002280 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002280 "2009-08-19T01:58:34Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002280 "IPC")
