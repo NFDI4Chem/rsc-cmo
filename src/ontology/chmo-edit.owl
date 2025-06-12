@@ -15941,7 +15941,7 @@ SubClassOf(obo:CHMO_0001127 obo:CHMO_0001125)
 
 # Class: obo:CHMO_0001128 (adsorption chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000611") Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.A00157") obo:IAO_0000115 obo:CHMO_0001128 "Chromatography in which separation is based mainly on differences between the adsorption affinities of the sample components for the surface of an active solid.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'adsorption chromatography' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00157>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00157https://doi.org/10.1351/goldbook.A00157>) Annotation(oboInOwl:hasDbXref "FIX:0000611") obo:IAO_0000115 obo:CHMO_0001128 "\"Chromatography in which separation is based mainly on differences between the adsorption affinities of the sample components for the surface of an active solid.\"")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001128 "batchelorc")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001128 "2009-03-06T04:48:25Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001128 "CHMO:0001128")
