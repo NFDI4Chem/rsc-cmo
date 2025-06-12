@@ -14953,7 +14953,7 @@ SubClassOf(obo:CHMO_0001006 obo:CHMO_0001001)
 
 # Class: obo:CHMO_0001007 (thin-layer chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:9780854045358") obo:IAO_0000115 obo:CHMO_0001007 "A chromatography method where the stationary phase is a thin (0.10 to 0.25 mm) layer of sorbent applied to a firm backing such as glass, aluminium or plastic sheet. An eluent ( single solvent or solvent mixture) is allowed to flow by capillary action through the sorbent starting at a point just below the applied samples. As the eluent front migrates through the sorbent the components of the sample also migrate, but at different rates resulting in separation.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:9780854045358") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.T06346>) obo:IAO_0000115 obo:CHMO_0001007 "A chromatography method where the stationary phase is a thin (0.10 to 0.25 mm) layer of sorbent applied to a firm backing such as glass, aluminium or plastic sheet. An eluent ( single solvent or solvent mixture) is allowed to flow by capillary action through the sorbent starting at a point just below the applied samples. As the eluent front migrates through the sorbent the components of the sample also migrate, but at different rates resulting in separation.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001007 "TLC")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001007 "CHMO:0001007")
 AnnotationAssertion(rdfs:label obo:CHMO_0001007 "thin-layer chromatography")
