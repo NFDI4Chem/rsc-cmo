@@ -15027,7 +15027,10 @@ SubClassOf(obo:CHMO_0001034 ObjectSomeValuesFrom(obo:BFO_0000057 obo:CHMO_000098
 
 # Class: obo:CHMO_0001035 (electrokinetic chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/pac200476020443") obo:IAO_0000115 obo:CHMO_0001035 "A separation method based on a combination of electrophoresis and interactions of the analytes with additives which form a dispersed phase moving at a different velocity.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/pac200476020443") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383777
+5.188 electrokinetic chromatography, (EKC) 
+electrokinetic capillary chromatography, (ECC) 
+Separation method based on a combination of electrophoresis and interactions of the analytes with additives (e.g., surfactants), which form a dispersed phase moving at a different speed (velocity). In order to achieve separation either the analytes or this secondary phase should be charged. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001035 "A separation method based on a combination of electrophoresis and interactions of the analytes with additives which form a dispersed phase moving at a different velocity.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001035 "ECC")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001035 "EKC")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001035 "electrokinetic capillary chromatography")
