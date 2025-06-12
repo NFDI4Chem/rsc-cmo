@@ -35708,6 +35708,9 @@ SubClassOf(obo:CHMO_0002890 obo:CHMO_0001000)
 
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002891 "CHMO:0002891")
 AnnotationAssertion(rdfs:label obo:CHMO_0002891 "flow-injection analysis")
+AnnotationAssertion(rdfs:seeAlso obo:CHMO_0002891 "https://books.rsc.org/view-large/6384390
+3.195 flow injection analysis, (FIA) 
+Analysis of sample by rapid injection into a continuous stream of liquid for extraction, separation or modification by reaction. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)")
 SubClassOf(obo:CHMO_0002891 obo:OBI_0000443)
 
 # Class: obo:CHMO_0002892 (excitation laser function)
