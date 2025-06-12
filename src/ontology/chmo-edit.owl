@@ -20127,7 +20127,7 @@ SubClassOf(obo:CHMO_0001487 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001488 (chemical decomposition)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.C01020") obo:IAO_0000115 obo:CHMO_0001488 "The breakdown of a single entity (normal molecule, reaction intermediate, etc.) into two or more fragments")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'chemical decomposition' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.C01020>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C01020>) obo:IAO_0000115 obo:CHMO_0001488 "\"The breakdown of a single entity (normal molecule, reaction intermediate, etc.) into two or more fragments.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001488 "CHMO:0001488")
 AnnotationAssertion(rdfs:label obo:CHMO_0001488 "chemical decomposition")
 SubClassOf(obo:CHMO_0001488 obo:CHMO_0001487)
