@@ -15266,7 +15266,10 @@ SubClassOf(obo:CHMO_0001036 obo:CHMO_0001035)
 
 # Class: obo:CHMO_0001037 (microemulsion electrokinetic chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/pac200476020443") obo:IAO_0000115 obo:CHMO_0001037 "Electrokinetic chromatography where the secondary phase is a microemulsion.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/pac200476020443") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383794
+5.205 microemulsion electrokinetic chromatography, (MEEKC) 
+microemulsion electrokinetic capillary chromatography (MEECC) 
+Electrokinetic chromatography, where a microemulsion is employed as the dispersed phase. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001037 "Electrokinetic chromatography where the secondary phase is a microemulsion.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001037 "MEECC")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001037 "MEEKC")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001037 "CHMO:0001037")
