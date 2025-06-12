@@ -35592,6 +35592,10 @@ SubClassOf(obo:CHMO_0002873 obo:CHMO_0000956)
 
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002874 "CHMO:0002874")
 AnnotationAssertion(rdfs:label obo:CHMO_0002874 "ion chromatography")
+AnnotationAssertion(rdfs:seeAlso obo:CHMO_0002874 "https://books.rsc.org/view-large/6383601
+5.35 ion-exchange chromatography 
+ion chromatography, (IC) 
+Chromatography in which separation is based mainly on differences in the ion-exchange affinities of the components of the analytical sample. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)")
 SubClassOf(obo:CHMO_0002874 obo:CHMO_0001000)
 
 # Class: obo:CHMO_0002875 (two-dimensional ion chromatography)
