@@ -21214,7 +21214,7 @@ SubClassOf(obo:CHMO_0001641 obo:CHMO_0001640)
 
 # Class: obo:CHMO_0001642 (nano-filtration)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001642 "A pressure-driven membrane-based separation process in which particles and dissolved macromolecules larger 200 Da are rejected.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'nanofiltration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.NT06888>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.NT06888>) Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001642 "\"A pressure-driven membrane-based separation process in which particles and dissolved macromolecules larger 200 Da are rejected.\"")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001642 "NF")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001642 "nanofiltration")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001642 "CHMO:0001642")
