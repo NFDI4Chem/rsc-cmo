@@ -19873,7 +19873,7 @@ SubClassOf(obo:CHMO_0001486 obo:CHMO_0001485)
 
 # Class: obo:CHMO_0001487 (decomposition)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.D01547") obo:IAO_0000115 obo:CHMO_0001487 "The breakdown of a single phase into two or more phases by heating or treatment with acid, alkali or enzymes.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.D01547>) obo:IAO_0000115 obo:CHMO_0001487 "The breakdown of a single phase into two or more phases by heating or treatment with acid, alkali or enzymes.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001487 "CHMO:0001487")
 AnnotationAssertion(rdfs:label obo:CHMO_0001487 "decomposition")
 SubClassOf(obo:CHMO_0001487 obo:OBI_0000094)
