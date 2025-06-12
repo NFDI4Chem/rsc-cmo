@@ -20244,7 +20244,7 @@ SubClassOf(obo:CHMO_0001501 obo:CHMO_0001500)
 
 # Class: obo:CHMO_0001502 (pyrolysis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.P04961") obo:IAO_0000115 obo:CHMO_0001502 "The chemical degradation of a sample by thermal energy. The term pyrolysis generally refers to heating in an inert environment.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.P04961>) obo:IAO_0000115 obo:CHMO_0001502 "The chemical degradation of a sample by thermal energy. The term pyrolysis generally refers to heating in an inert environment.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001502 "destructive distillation")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001502 "dry distillation")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001502 "CHMO:0001502")
