@@ -21475,7 +21475,7 @@ SubClassOf(obo:CHMO_0001644 obo:CHMO_0001640)
 
 # Class: obo:CHMO_0001645 (ultra-filtration)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.U06548") obo:IAO_0000115 obo:CHMO_0001645 "A separation process whereby a solution containing a solute of molecular size significantly greater than that of the solvent molecule is removed from the solvent by the application of hydraulic pressure which forces only the solvent to flow through a suitable membrane, usually having a pore size in the range 0.001–0.1 μm.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'ultrafiltration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.U06548 >) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.U06548>) obo:IAO_0000115 obo:CHMO_0001645 "\"A separation process whereby a solution containing a solute of molecular size significantly greater than that of the solvent molecule is removed from the solvent by the application of hydraulic pressure which forces only the solvent to flow through a suitable membrane, usually having a pore size in the range 0.001–0.1 μm.\"")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001645 "UF")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001645 "ultrafiltration")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001645 "CHMO:0001645")
