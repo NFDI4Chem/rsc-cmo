@@ -21168,7 +21168,7 @@ SubClassOf(obo:CHMO_0001635 obo:CHMO_0001626)
 
 # Class: obo:CHMO_0001636 (foam fractionation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.F02468") obo:IAO_0000115 obo:CHMO_0001636 "A method of separation in which a component of the bulk liquid is preferentially adsorbed at the liquid–vapour interface and is removed by foaming.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'foam fractionation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.F02468>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.F02468>) obo:IAO_0000115 obo:CHMO_0001636 "\"A method of separation in which a component of the bulk liquid is preferentially adsorbed at the liquid–vapour interface and is removed by foaming.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001636 "CHMO:0001636")
 AnnotationAssertion(rdfs:label obo:CHMO_0001636 "foam fractionation")
 SubClassOf(obo:CHMO_0001636 obo:CHMO_0001625)
