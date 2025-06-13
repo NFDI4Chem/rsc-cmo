@@ -35954,6 +35954,10 @@ SubClassOf(obo:CHMO_0002877 obo:CHMO_0002742)
 
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002878 "CHMO:0002878")
 AnnotationAssertion(rdfs:label obo:CHMO_0002878 "isocratic elution")
+AnnotationAssertion(rdfs:seeAlso obo:CHMO_0002878 "https://books.rsc.org/view-large/6383614
+5.46 isocratic elution (in chromatography) 
+isocratic analysis 
+Chromatography in which the composition of the mobile phase remains constant during elution. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)")
 SubClassOf(obo:CHMO_0002878 obo:CHMO_0002742)
 
 # Class: obo:CHMO_0002879 (certified reference material)
