@@ -20927,7 +20927,9 @@ SubClassOf(obo:CHMO_0001608 obo:CHMO_0001607)
 
 # Class: obo:CHMO_0001609 (Soxhlet extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001609 "The process of transferring the partially soluble components of a solid to the liquid phase using a Soxhlet extractor. The solid is placed in a filter paper thimble which is then placed into the main chamber of the Soxhlet extractor. The solvent (heated to reflux) travels into the main chamber and the partially soluble components are slowly tranferred to the solvent.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384290
+3.106 Soxhlet extraction 
+Leaching with fresh solvent cycled several times through a fine solid sample contained in a porous thimble. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") obo:IAO_0000115 obo:CHMO_0001609 "The process of transferring the partially soluble components of a solid to the liquid phase using a Soxhlet extractor. The solid is placed in a filter paper thimble which is then placed into the main chamber of the Soxhlet extractor. The solvent (heated to reflux) travels into the main chamber and the partially soluble components are slowly tranferred to the solvent.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001609 "CHMO:0001609")
 AnnotationAssertion(rdfs:label obo:CHMO_0001609 "Soxhlet extraction")
 SubClassOf(obo:CHMO_0001609 obo:CHMO_0001607)
