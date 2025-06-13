@@ -20567,7 +20567,7 @@ AnnotationAssertion(owl:deprecated obo:CHMO_0001573 "true"^^xsd:boolean)
 
 # Class: obo:CHMO_0001574 (evaporation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.E02227") obo:IAO_0000115 obo:CHMO_0001574 "The physical process by which a liquid substance is converted to a gas or vapour. This may occur at or below the normal boiling point of the liquid (the temperature at which a liquid boils at 1 atmosphere pressure) and the process is endothermic.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'evaporation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.E02227 >) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.E02227>) obo:IAO_0000115 obo:CHMO_0001574 "\"The physical process by which a liquid substance is converted to a gas or vapour. This may occur at or below the normal boiling point of the liquid (the temperature at which a liquid boils at 1 atmosphere pressure) and the process is endothermic.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001574 "CHMO:0001574")
 AnnotationAssertion(rdfs:label obo:CHMO_0001574 "evaporation")
 SubClassOf(obo:CHMO_0001574 obo:OBI_0000094)
