@@ -20160,7 +20160,9 @@ SubClassOf(obo:CHMO_0001522 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001523 (electrodialysis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0824705092") obo:IAO_0000115 obo:CHMO_0001523 "The selective separation of molecules in solution by the difference in their rates of diffusion across a semipermeable membrane under the influence of an electric field.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0824705092") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384355
+3.164 electrodialysis 
+Dialysis in which ions are separated by an electrical potential across a membrane. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") obo:IAO_0000115 obo:CHMO_0001523 "The selective separation of molecules in solution by the difference in their rates of diffusion across a semipermeable membrane under the influence of an electric field.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001523 "CHMO:0001523")
 AnnotationAssertion(rdfs:label obo:CHMO_0001523 "electrodialysis")
 SubClassOf(obo:CHMO_0001523 obo:CHMO_0001522)
