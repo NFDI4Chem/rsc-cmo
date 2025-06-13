@@ -35897,6 +35897,9 @@ SubClassOf(obo:CHMO_0002871 obo:CHMO_0001602)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002872 "USA-DLLME")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002872 "CHMO:0002872")
 AnnotationAssertion(rdfs:label obo:CHMO_0002872 "ultrasound-assisted dispersive liquid-phase microextraction")
+AnnotationAssertion(rdfs:seeAlso obo:CHMO_0002872 "https://books.rsc.org/view-large/6384293
+3.108 ultrasound-assisted extraction, (UAE) 
+Extraction in which ultrasound energy is used to increase the extraction rate by enhancing the contact area between the sample and solvent and by promoting efficient agitation. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)")
 SubClassOf(obo:CHMO_0002872 obo:CHMO_0002871)
 
 # Class: obo:CHMO_0002873 (plasma microtorch)
