@@ -35393,7 +35393,9 @@ SubClassOf(obo:CHMO_0002805 obo:CHMO_0002803)
 
 # Class: obo:CHMO_0002806 (microextraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0002806 "The transfer of a microlitre amount of solute from a liquid phase to another immiscible or partially-miscible liquid phase in contact with it.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384215
+3.43 microextraction (technique) 
+Extraction technique in which the volume (mass) of the extraction phase (liquid or solid) is substantially smaller than the sample volume (mass). (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") obo:IAO_0000115 obo:CHMO_0002806 "The transfer of a microlitre amount of solute from a liquid phase to another immiscible or partially-miscible liquid phase in contact with it.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002806 "micro-extraction")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002806 "CHMO:0002806")
 AnnotationAssertion(rdfs:label obo:CHMO_0002806 "microextraction")
