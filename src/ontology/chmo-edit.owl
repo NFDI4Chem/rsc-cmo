@@ -29874,7 +29874,9 @@ SubClassOf(obo:CHMO_0002363 obo:CHMO_0001910)
 
 # Class: obo:CHMO_0002364 (hollow fibre liquid-phase micro-extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1016/j.jchromb.2004.08.034") obo:IAO_0000115 obo:CHMO_0002364 "The process of transferring a substance from an aqueous phase to an organic phase immobilised within the pores of the wall of a porous hollow fibre (<10 μm diameter).")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1016/j.jchromb.2004.08.034") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384359
+3.167 hollow-fibre liquid-phase microextraction, (HF-LPME) 
+Liquid-phase microextraction of analytes from a liquid (or gaseous) sample by a supported liquid membrane in the form of a porous hollow fibre with solvent-filled pores. The analytes are transferred to an acceptor phase contained in the cavity of the hollow fibre. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") obo:IAO_0000115 obo:CHMO_0002364 "The process of transferring a substance from an aqueous phase to an organic phase immobilised within the pores of the wall of a porous hollow fibre (<10 μm diameter).")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002364 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002364 "2009-09-15T03:18:02Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002364 "HF-LPME")
