@@ -21434,7 +21434,9 @@ SubClassOf(obo:CHMO_0001634 obo:CHMO_0001626)
 
 # Class: obo:CHMO_0001635 (thermal field-flow fractionation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001635 "A technique for separating polymer particles from solution by placing the sample in a narrow channel and heating one end, whilst cooling the other. The polymer particles migrate towards the cooler plate and are then removed with a carrier liquid.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383814
+5.224 thermal field-flow fractionation, (TFFF) 
+Field-flow fractionation in which the physical force field is created by a temperature difference across the channel.(from:https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001635 "A technique for separating polymer particles from solution by placing the sample in a narrow channel and heating one end, whilst cooling the other. The polymer particles migrate towards the cooler plate and are then removed with a carrier liquid.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001635 "ThFFF")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001635 "thermal FFF")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001635 "thermal field flow fractionation")
