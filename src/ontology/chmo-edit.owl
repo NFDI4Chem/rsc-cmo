@@ -21315,7 +21315,7 @@ SubClassOf(obo:CHMO_0001623 obo:CHMO_0001618)
 
 # Class: obo:CHMO_0001624 (fermentation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.F02337") obo:IAO_0000115 obo:CHMO_0001624 "The process in which cells (microorganisms, plant or animal cells) are cultured in a bioreactor in a liquid or solid medium to convert organic substances into biomass (growth) or into products.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'fermentation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.F02337>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.F02337>) obo:IAO_0000115 obo:CHMO_0001624 "\"The process in which cells (microorganisms, plant or animal cells) are cultured in a bioreactor in a liquid or solid medium to convert organic substances into biomass (growth) or into products.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001624 "CHMO:0001624")
 AnnotationAssertion(rdfs:label obo:CHMO_0001624 "fermentation")
 SubClassOf(obo:CHMO_0001624 obo:OBI_0000094)
