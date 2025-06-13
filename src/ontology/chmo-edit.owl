@@ -35887,6 +35887,9 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002871 "DLPME")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002871 "dispersive liquid-liquid microextraction")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002871 "CHMO:0002871")
 AnnotationAssertion(rdfs:label obo:CHMO_0002871 "dispersive liquid-phase microextraction")
+AnnotationAssertion(rdfs:seeAlso obo:CHMO_0002871 "https://books.rsc.org/view-large/6384270
+3.90 dispersive liquid–liquid microextraction, (DLLME) 
+Extraction of analyte(s) from a homogenous aqueous solution by fine particles of extraction phase dispersed throughout the solution.(from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)")
 SubClassOf(obo:CHMO_0002871 obo:CHMO_0001602)
 
 # Class: obo:CHMO_0002872 (ultrasound-assisted dispersive liquid-phase microextraction)
