@@ -20869,7 +20869,9 @@ SubClassOf(obo:CHMO_0001580 obo:CHMO_0001579)
 
 # Class: obo:CHMO_0001581 (multiple headspace extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0471328456") obo:IAO_0000115 obo:CHMO_0001581 "The process of transferring a substance from a solid or liquid matrix to the vapour phase by heating. Once the concentration of the analyte in the headspace is in equilibrium with the concentration in the sample matrix, the headspace is removed. The process is repeated multiple times, allowing the new equilibrium to form at each stage.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0471328456") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384247
+3.71 multiple headspace extraction 
+Dynamic gas extraction carried out stepwise, with sequential analysis of a number of headspace samples taken from the same vial. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") obo:IAO_0000115 obo:CHMO_0001581 "The process of transferring a substance from a solid or liquid matrix to the vapour phase by heating. Once the concentration of the analyte in the headspace is in equilibrium with the concentration in the sample matrix, the headspace is removed. The process is repeated multiple times, allowing the new equilibrium to form at each stage.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001581 "CHMO:0001581")
 AnnotationAssertion(rdfs:label obo:CHMO_0001581 "multiple headspace extraction")
 SubClassOf(obo:CHMO_0001581 obo:CHMO_0001579)
