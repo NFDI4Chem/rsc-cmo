@@ -21322,7 +21322,7 @@ SubClassOf(obo:CHMO_0001624 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001625 (fractionation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001625 "The process of dividing up a sample mixture into smaller quantities according to their physical (e.g. size, solubility) or chemical (e.g. bonding, reactivity) properties.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.FT06825>) obo:IAO_0000115 obo:CHMO_0001625 "The process of dividing up a sample mixture into smaller quantities according to their physical (e.g. size, solubility) or chemical (e.g. bonding, reactivity) properties.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001625 "CHMO:0001625")
 AnnotationAssertion(rdfs:label obo:CHMO_0001625 "fractionation")
 SubClassOf(obo:CHMO_0001625 obo:OBI_0000094)
