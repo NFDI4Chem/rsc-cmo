@@ -21410,7 +21410,9 @@ SubClassOf(obo:CHMO_0001632 obo:CHMO_0001626)
 
 # Class: obo:CHMO_0001633 (sedimentation field-flow fractionation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001633 "A technique for separating particles from solution by placing the sample in a narrow channel within a centrifuge such that the centripetal force is applied perpendicular to the flow stream (driving the particles towards the walls of the channel). A carrier liquid is then passed through the channel removing the smallest particles first.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383810
+5.220 sedimentation field-flow fractionation, (SdFFF) 
+Field-flow fractionation in which the physical force field is a centrifugal force field. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001633 "A technique for separating particles from solution by placing the sample in a narrow channel within a centrifuge such that the centripetal force is applied perpendicular to the flow stream (driving the particles towards the walls of the channel). A carrier liquid is then passed through the channel removing the smallest particles first.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001633 "SdFFF")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001633 "sedimentation FFF")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001633 "sedimentation field flow fractionation")
