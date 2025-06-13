@@ -21573,7 +21573,7 @@ SubClassOf(obo:CHMO_0001651 obo:CHMO_0001646)
 
 # Class: obo:CHMO_0001652 (grinding)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.M03928") obo:IAO_0000115 obo:CHMO_0001652 "The mechanical reduction of the particle size of a solid sample by attribution (friction), impact or cutting.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'milling' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.M03928>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20 >) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.M03928>) obo:IAO_0000115 obo:CHMO_0001652 "\"The mechanical reduction of the particle size of a solid sample by attribution (friction), impact or cutting.\"")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001652 "dry grinding")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001652 "milling")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001652 "solid-state grinding")
