@@ -20843,7 +20843,7 @@ SubClassOf(obo:CHMO_0001577 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001578 (coextraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.4.1") obo:IAO_0000115 obo:CHMO_0001578 "The transfer of two solutes from a liquid phase to a (low-polarity) organic liquid phase in contact with it. The solutes form mixed-species aggregates in the organic phase.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.4.1") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.C01127>) obo:IAO_0000115 obo:CHMO_0001578 "The transfer of two solutes from a liquid phase to a (low-polarity) organic liquid phase in contact with it. The solutes form mixed-species aggregates in the organic phase.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001578 "co-extraction")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001578 "CHMO:0001578")
 AnnotationAssertion(rdfs:label obo:CHMO_0001578 "coextraction")
