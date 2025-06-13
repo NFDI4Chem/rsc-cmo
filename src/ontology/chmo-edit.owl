@@ -20153,7 +20153,7 @@ SubClassOf(obo:CHMO_0001521 obo:CHMO_0001500)
 
 # Class: obo:CHMO_0001522 (dialysis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001522 "The separation of molecules in solution by the difference in their rates of diffusion through a semipermeable membrane.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.D01666>) obo:IAO_0000115 obo:CHMO_0001522 "The separation of molecules in solution by the difference in their rates of diffusion through a semipermeable membrane.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001522 "CHMO:0001522")
 AnnotationAssertion(rdfs:label obo:CHMO_0001522 "dialysis")
 SubClassOf(obo:CHMO_0001522 obo:OBI_0000094)
