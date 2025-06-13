@@ -21116,7 +21116,9 @@ SubClassOf(obo:CHMO_0001602 obo:CHMO_0002806)
 
 # Class: obo:CHMO_0001603 (single-drop micro-extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1021/ac035437e") obo:IAO_0000115 obo:CHMO_0001603 "The process of transferring a dissolved substance from one liquid phase to another (immiscible or partially miscible) liquid phase in contact with it. A microdrop of organic solvent (8 μL), is suspended from the end of Teflon rod immersed in a stirred aqueous solution of the sample. The sample solution is stirred until equilibrium is reached, after which, the drop is retracted into the Teflon rod.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1021/ac035437e") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384275
+3.95 single-drop microextraction, (SDME) 
+Extraction of analyte(s) from the gas phase or solution by a single drop of extraction solvent. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") obo:IAO_0000115 obo:CHMO_0001603 "The process of transferring a dissolved substance from one liquid phase to another (immiscible or partially miscible) liquid phase in contact with it. A microdrop of organic solvent (8 μL), is suspended from the end of Teflon rod immersed in a stirred aqueous solution of the sample. The sample solution is stirred until equilibrium is reached, after which, the drop is retracted into the Teflon rod.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001603 "SDME")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001603 "single drop microextraction")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001603 "single-drop microextraction")
