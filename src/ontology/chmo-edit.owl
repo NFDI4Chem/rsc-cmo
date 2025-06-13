@@ -20500,7 +20500,9 @@ SubClassOf(obo:CHMO_0001534 obo:CHMO_0001532)
 
 # Class: obo:CHMO_0001535 (extractive distillation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001535 "A method of separating two components of very similar boiling point from a mixture. A third, miscible and high-boiling-point solvent is added to the mixture which causes a change in the volatilities of the components. These components are then vaporised by the application of heat and cooled by the action of cold water in a condenser.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384240
+3.64 extractive distillation 
+Separation of close-boiling liquids by fractional distillation in the presence of a low-volatility solvent or salt that selectively interacts with one or more components of the mixture, increasing the difference in vapour pressure of the sample components. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") obo:IAO_0000115 obo:CHMO_0001535 "A method of separating two components of very similar boiling point from a mixture. A third, miscible and high-boiling-point solvent is added to the mixture which causes a change in the volatilities of the components. These components are then vaporised by the application of heat and cooled by the action of cold water in a condenser.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001535 "CHMO:0001535")
 AnnotationAssertion(rdfs:label obo:CHMO_0001535 "extractive distillation")
 SubClassOf(obo:CHMO_0001535 obo:CHMO_0001532)
