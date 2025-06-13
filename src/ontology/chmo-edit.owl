@@ -21063,7 +21063,9 @@ SubClassOf(obo:CHMO_0001625 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001626 (field-flow fractionation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001626 "Any separation technique based on the application of a field perpendicular to a flow stream in a narrow channel.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383806
+5.216 field-flow fractionation, (FFF) 
+Separation based on the retention and elution of macromolecular, colloidal and particulate matter achieved by the combined action of the non-uniform flow speed (velocity) profile of a carrier fluid (mobile phase) and a physical force field (e.g. gravitational, centrifugal, electrical) applied at right angles to a thin (0.05 to 0.5 mm) channel (see Figure 5.5).  (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001626 "Any separation technique based on the application of a field perpendicular to a flow stream in a narrow channel.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001626 "FFF")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001626 "field flow fractionation")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001626 "CHMO:0001626")
