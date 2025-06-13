@@ -34574,7 +34574,7 @@ SubClassOf(obo:CHMO_0002741 ObjectSomeValuesFrom(obo:BFO_0000054 obo:CHMO_000274
 
 # Class: obo:CHMO_0002742 (elution)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0002742 "A process wherein one material is extracted from another by interaction with a solvent.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.E02042>) obo:IAO_0000115 obo:CHMO_0002742 "A process wherein one material is extracted from another by interaction with a solvent.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002742 "CHMO:0002742")
 AnnotationAssertion(rdfs:label obo:CHMO_0002742 "elution")
 SubClassOf(obo:CHMO_0002742 obo:CHMO_0001577)
