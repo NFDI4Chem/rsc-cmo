@@ -35942,6 +35942,10 @@ SubClassOf(obo:CHMO_0002876 obo:CHMO_0000575)
 
 # Class: obo:CHMO_0002877 (gradient elution)
 
+AnnotationAssertion(dcterms:bibliographicCitation obo:CHMO_0002877 <'gradient elution' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.G02670>)
+AnnotationAssertion(dcterms:rightsHolder obo:CHMO_0002877 <https://creativecommons.org/licenses/by-sa/4.0/>)
+AnnotationAssertion(dcterms:rightsHolder obo:CHMO_0002877 <https://ror.org/03ne2zw20>)
+AnnotationAssertion(dcterms:source obo:CHMO_0002877 <https://doi.org/10.1351/goldbook.G02670>)
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002877 "CHMO:0002877")
 AnnotationAssertion(rdfs:label obo:CHMO_0002877 "gradient elution")
 SubClassOf(obo:CHMO_0002877 obo:CHMO_0002742)
