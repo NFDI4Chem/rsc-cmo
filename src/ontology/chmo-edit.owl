@@ -20182,7 +20182,7 @@ SubClassOf(obo:CHMO_0001525 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001526 (colloidal dispersion)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.C01174") obo:IAO_0000115 obo:CHMO_0001526 "A sample preparation method where solid particles are dispersed in a liquid phase.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.C01174>) obo:IAO_0000115 obo:CHMO_0001526 "A sample preparation method where solid particles are dispersed in a liquid phase.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001526 "CHMO:0001526")
 AnnotationAssertion(rdfs:label obo:CHMO_0001526 "colloidal dispersion")
 SubClassOf(obo:CHMO_0001526 obo:CHMO_0001525)
