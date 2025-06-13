@@ -20588,7 +20588,7 @@ SubClassOf(obo:CHMO_0001576 obo:CHMO_0002208)
 
 # Class: obo:CHMO_0001577 (extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.4.1") obo:IAO_0000115 obo:CHMO_0001577 "The transfer of a solute from a liquid phase to another immiscible or partially-miscible liquid phase in contact with it.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.4.1") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.E02302>) obo:IAO_0000115 obo:CHMO_0001577 "The transfer of a solute from a liquid phase to another immiscible or partially-miscible liquid phase in contact with it.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001577 "CHMO:0001577")
 AnnotationAssertion(rdfs:label obo:CHMO_0001577 "extraction")
 SubClassOf(obo:CHMO_0001577 obo:OBI_0000094)
