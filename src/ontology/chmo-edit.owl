@@ -20521,7 +20521,7 @@ SubClassOf(obo:CHMO_0001567 obo:CHMO_0001558)
 
 # Class: obo:CHMO_0001568 (sputter etching)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.S05895") obo:IAO_0000115 obo:CHMO_0001568 "The process of removing a thin layer of a sample surface by bombarding it with energetic ions.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.S05895>) obo:IAO_0000115 obo:CHMO_0001568 "The process of removing a thin layer of a sample surface by bombarding it with energetic ions.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001568 "ion etching")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001568 "ion milling")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001568 "CHMO:0001568")
