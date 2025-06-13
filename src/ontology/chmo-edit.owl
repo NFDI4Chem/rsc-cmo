@@ -21107,7 +21107,9 @@ SubClassOf(obo:CHMO_0001629 obo:CHMO_0001626)
 
 # Class: obo:CHMO_0001630 (gravitational field-flow fractionation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1016/S0021-9673(01)00807-X") obo:IAO_0000115 obo:CHMO_0001630 "A technique for separating small particles from solution by placing the sample in a narrow channel such that the Earth's gravitational field is perpendicular to the channel. A carrier liquid is then passed through the channel and the particles are separated on the basis of particle size.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1016/S0021-9673(01)00807-X") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383808
+5.218 gravitational field-flow fractionation, (GFFF) 
+Field-flow fractionation in which the physical force field is the Earth's gravitational field. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001630 "A technique for separating small particles from solution by placing the sample in a narrow channel such that the Earth's gravitational field is perpendicular to the channel. A carrier liquid is then passed through the channel and the particles are separated on the basis of particle size.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001630 "G-FFF")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001630 "GFFF")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001630 "GrFFF")
