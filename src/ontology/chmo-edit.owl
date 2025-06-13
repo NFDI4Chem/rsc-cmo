@@ -21060,7 +21060,7 @@ SubClassOf(obo:CHMO_0001597 obo:CHMO_0001577)
 
 # Class: obo:CHMO_0001598 (solvent extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.4.1") obo:IAO_0000115 obo:CHMO_0001598 "The process of transferring a substance from any matrix to an appropriate liquid phase.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'solvent extraction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.S05752>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.S05752>) Annotation(oboInOwl:hasDbXref "OrangeBook:9.4.1") obo:IAO_0000115 obo:CHMO_0001598 "\"The process of transferring a substance from any matrix to an appropriate liquid phase.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001598 "CHMO:0001598")
 AnnotationAssertion(rdfs:label obo:CHMO_0001598 "solvent extraction")
 SubClassOf(obo:CHMO_0001598 obo:CHMO_0001577)
