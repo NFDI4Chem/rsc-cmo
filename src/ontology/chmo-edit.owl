@@ -21462,7 +21462,10 @@ SubClassOf(obo:CHMO_0001637 obo:CHMO_0001625)
 
 # Class: obo:CHMO_0001638 (plasma protein fractionation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001638 "A method for separating proteins from plasma by changing the conditions (e.g. temperature or acidity) of the plasma, causing precipitation of the proteins, which can then be removed by centrifugation.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381681
+12.246 protein fractionation 
+protein separation 
+Methodical approach to simplify a complex mixture of a proteomic sample. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6381409/Bioanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001638 "A method for separating proteins from plasma by changing the conditions (e.g. temperature or acidity) of the plasma, causing precipitation of the proteins, which can then be removed by centrifugation.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001638 "plasma-protein fractionation")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001638 "CHMO:0001638")
 AnnotationAssertion(rdfs:label obo:CHMO_0001638 "plasma protein fractionation")
