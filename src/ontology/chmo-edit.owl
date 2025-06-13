@@ -21224,7 +21224,7 @@ SubClassOf(obo:CHMO_0001611 obo:CHMO_0001598)
 
 # Class: obo:CHMO_0001612 (substoichiometric extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.2.7.7") obo:IAO_0000115 obo:CHMO_0001612 "The process of transferring a substance from any matrix to another where the amount of reagent used is lower than that dictated by stoichiometry.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.2.7.7") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.S06080>) obo:IAO_0000115 obo:CHMO_0001612 "The process of transferring a substance from any matrix to another where the amount of reagent used is lower than that dictated by stoichiometry.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001612 "CHMO:0001612")
 AnnotationAssertion(rdfs:label obo:CHMO_0001612 "substoichiometric extraction")
 SubClassOf(obo:CHMO_0001612 obo:CHMO_0001577)
