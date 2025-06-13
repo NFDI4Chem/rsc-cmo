@@ -21100,7 +21100,9 @@ SubClassOf(obo:CHMO_0001601 obo:CHMO_0001600)
 
 # Class: obo:CHMO_0001602 (liquid-phase micro-extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001602 "The process of transferring a microlitre amount of a substance from an aqueous phase to an organic phase (or vice versa).")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384273
+3.93 liquid-phase microextraction 
+Microextraction technique using a liquid as the extraction phase. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") obo:IAO_0000115 obo:CHMO_0001602 "The process of transferring a microlitre amount of a substance from an aqueous phase to an organic phase (or vice versa).")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001602 "LLME")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001602 "LPME")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001602 "liquid phase micro-extraction")
