@@ -20411,7 +20411,9 @@ SubClassOf(obo:CHMO_0001523 obo:CHMO_0001522)
 
 # Class: obo:CHMO_0001524 (micro-dialysis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001524 "The separation of molecules in solution by the difference in their rates of diffusion across a semipermeable membrane. The membrane is attached to a small probe (<10 μm diameter) which is inserted into the sample.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384365
+3.172 microdialysis 
+Dialysis by a short length of hollow-fibre membrane used for sampling. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") obo:IAO_0000115 obo:CHMO_0001524 "The separation of molecules in solution by the difference in their rates of diffusion across a semipermeable membrane. The membrane is attached to a small probe (<10 μm diameter) which is inserted into the sample.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001524 "microdialysis")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001524 "CHMO:0001524")
 AnnotationAssertion(rdfs:label obo:CHMO_0001524 "micro-dialysis")
