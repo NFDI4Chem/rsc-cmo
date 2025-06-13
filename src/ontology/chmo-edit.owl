@@ -21209,7 +21209,9 @@ SubClassOf(obo:CHMO_0001610 obo:CHMO_0001598)
 
 # Class: obo:CHMO_0001611 (ultrasound extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001611 "The process of transferring a substance from any matrix to an appropriate liquid phase, assisted by sound waves (>20 KHz in frequency) that propagate through the liquid media.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384293
+3.108 ultrasound-assisted extraction, (UAE) 
+Extraction in which ultrasound energy is used to increase the extraction rate by enhancing the contact area between the sample and solvent and by promoting efficient agitation. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") obo:IAO_0000115 obo:CHMO_0001611 "The process of transferring a substance from any matrix to an appropriate liquid phase, assisted by sound waves (>20 KHz in frequency) that propagate through the liquid media.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001611 "UE")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001611 "ultrasonic accelerated extraction")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001611 "ultrasonic assisted extraction")
