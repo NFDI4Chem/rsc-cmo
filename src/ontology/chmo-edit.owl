@@ -20918,7 +20918,9 @@ SubClassOf(obo:CHMO_0001607 obo:CHMO_0001598)
 
 # Class: obo:CHMO_0001608 (microwave-assisted extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1016/S0021-9673(02)01335-3") obo:IAO_0000115 obo:CHMO_0001608 "The process of transferring the organic components of a solid to an organic liquid phase. The process is accelerated by directing radiation in the microwave region (1–1000 mm) at the sample.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1016/S0021-9673(02)01335-3") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384285
+3.102 microwave-assisted extraction, (MAE) 
+Leaching using microwave energy to heat the solvent in contact with the sample. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") obo:IAO_0000115 obo:CHMO_0001608 "The process of transferring the organic components of a solid to an organic liquid phase. The process is accelerated by directing radiation in the microwave region (1–1000 mm) at the sample.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001608 "MAE")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001608 "microwave extraction")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001608 "CHMO:0001608")
