@@ -21014,7 +21014,9 @@ SubClassOf(obo:CHMO_0001592 obo:CHMO_0001577)
 
 # Class: obo:CHMO_0001593 (membrane extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0824705092") obo:IAO_0000115 obo:CHMO_0001593 "The transfer of a solute from one phase (the 'donor' or 'feed' phase) to another (the 'acceptor' or 'strip' phase) across a nonporous membrane.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0824705092") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384363
+3.170 membrane extraction 
+Extraction of analytes from a sample by permeation through a membrane. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") obo:IAO_0000115 obo:CHMO_0001593 "The transfer of a solute from one phase (the 'donor' or 'feed' phase) to another (the 'acceptor' or 'strip' phase) across a nonporous membrane.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001593 "CHMO:0001593")
 AnnotationAssertion(rdfs:label obo:CHMO_0001593 "membrane extraction")
 SubClassOf(obo:CHMO_0001593 obo:CHMO_0001577)
