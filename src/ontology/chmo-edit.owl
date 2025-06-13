@@ -33472,7 +33472,9 @@ SubClassOf(obo:CHMO_0002633 obo:CHMO_0000922)
 
 # Class: obo:CHMO_0002634 (azeotropic distillation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0002634 "A method of separating mixtures based on differences in their volatilities in a boiling liquid mixture. An azeotrope (a mixture of two or more liquids which produces vapor with the same ratio of constituents as the original mixture) cannot be separated by normal distillation, therefore an additional third component (known as an 'entrainer') is added to the mixture. This has the effect of changing the volatility of one of liquids in the azeotrope to a greater extent than the other, allowing separation to occur.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384231
+3.57 azeotropic distillation 
+See: extractive distillation. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") obo:IAO_0000115 obo:CHMO_0002634 "A method of separating mixtures based on differences in their volatilities in a boiling liquid mixture. An azeotrope (a mixture of two or more liquids which produces vapor with the same ratio of constituents as the original mixture) cannot be separated by normal distillation, therefore an additional third component (known as an 'entrainer') is added to the mixture. This has the effect of changing the volatility of one of liquids in the azeotrope to a greater extent than the other, allowing separation to occur.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002634 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002634 "2009-12-07T05:40:30Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002634 "CHMO:0002634")
