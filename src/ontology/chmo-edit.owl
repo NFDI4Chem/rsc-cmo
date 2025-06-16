@@ -19712,7 +19712,7 @@ SubClassOf(obo:CHMO_0001466 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001467 (calcination)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001467 "The heating of a sample to high temperatures in air or oxygen.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'calcination' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.C00773 >) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C00773>) Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001467 "\"The heating of a sample to high temperatures in air or oxygen.\"")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001467 "calcining")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001467 "CHMO:0001467")
 AnnotationAssertion(rdfs:label obo:CHMO_0001467 "calcination")
