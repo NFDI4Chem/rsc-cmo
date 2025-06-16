@@ -21728,7 +21728,7 @@ SubClassOf(obo:CHMO_0001700 obo:CHMO_0001698)
 
 # Class: obo:CHMO_0001701 (sintering)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001701 "The fusing together of small particles by heating the sample below its melting point until its particles adhere to each other.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.S05704>) obo:IAO_0000115 obo:CHMO_0001701 "The fusing together of small particles by heating the sample below its melting point until its particles adhere to each other.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001701 "CHMO:0001701")
 AnnotationAssertion(rdfs:label obo:CHMO_0001701 "sintering")
 SubClassOf(obo:CHMO_0001701 obo:OBI_0000094)
