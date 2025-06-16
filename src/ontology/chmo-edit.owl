@@ -21458,7 +21458,7 @@ SubClassOf(obo:CHMO_0001668 obo:CHMO_0001667)
 
 # Class: obo:CHMO_0001669 (chemical ionisation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.C01026") obo:IAO_0000115 obo:CHMO_0001669 "An ionisation method where the sample is ionised by interaction (electron or proton transfer) with reagent (N2, O2, H2O) gaseous ions at low pressure. Reagent ions are produced by electron ionisation.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.C01026>) obo:IAO_0000115 obo:CHMO_0001669 "An ionisation method where the sample is ionised by interaction (electron or proton transfer) with reagent (N2, O2, H2O) gaseous ions at low pressure. Reagent ions are produced by electron ionisation.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001669 "CI")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001669 "chemical ionisation")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001669 "chemical ionization")
