@@ -21537,7 +21537,7 @@ SubClassOf(obo:CHMO_0001676 obo:CHMO_0001675)
 
 # Class: obo:CHMO_0001677 (isotopic labelling)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001677 "The substitution of an atom or an ion (present in the form of its stable isotope) by an isotope of the same element.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.I03345>) obo:IAO_0000115 obo:CHMO_0001677 "The substitution of an atom or an ion (present in the form of its stable isotope) by an isotope of the same element.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001677 "isotope labeling")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001677 "isotopic labelling")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001677 "CHMO:0001677")
