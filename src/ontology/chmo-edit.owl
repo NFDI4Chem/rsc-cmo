@@ -26081,7 +26081,9 @@ SubClassOf(obo:CHMO_0002021 obo:CHMO_0000963)
 
 # Class: obo:CHMO_0002022 (atmospheric pressure chemical ionisation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0002022 "An ionisation method where the sample is ionised by interaction (electron or proton transfer) with reagent (N2, O2, H2O) gaseous ions at atmospheric pressure.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383056
+7.21 atmospheric pressure chemical ionization, (APCI) 
+Chemical ionization of a sample that is a gas or nebulized liquid, using an atmospheric pressure corona discharge or beta emitter such as 63Ni. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0002022 "An ionisation method where the sample is ionised by interaction (electron or proton transfer) with reagent (N2, O2, H2O) gaseous ions at atmospheric pressure.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002022 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002022 "2009-06-19T02:41:40Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002022 "APCI")
