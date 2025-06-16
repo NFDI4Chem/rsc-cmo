@@ -21765,7 +21765,9 @@ SubClassOf(obo:CHMO_0001671 obo:CHMO_0001669)
 
 # Class: obo:CHMO_0001672 (direct analysis in real time)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b613200f") obo:IAO_0000115 obo:CHMO_0001672 "An ionisation method where the sample is ionised by a corona discharge within a He atmosphere.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b613200f") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382284
+10.25 direct analysis in real time, (DART) 
+Measurement method in which a mass spectrometer is used to measure m/z and abundance of ionized entities emitted from a sample in air as a result of the interaction with a beam containing metastable, excited atoms heated to about 500 °C. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0001672 "An ionisation method where the sample is ionised by a corona discharge within a He atmosphere.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001672 "DART")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001672 "CHMO:0001672")
 AnnotationAssertion(rdfs:label obo:CHMO_0001672 "direct analysis in real time")
