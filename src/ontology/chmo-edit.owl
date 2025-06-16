@@ -21653,7 +21653,9 @@ SubClassOf(obo:CHMO_0001690 obo:CHMO_0001688)
 
 # Class: obo:CHMO_0001691 (immunoprecipitation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001691 "The sedimentation of a solid material (a 'precipitate'), consisting of an antigen–specific antibody complex, from solution.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381529
+12.107 immunoprecipitation 
+Isolation and concentration of an antigen by forming a precipitate with an antibody. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6381409/Bioanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001691 "The sedimentation of a solid material (a 'precipitate'), consisting of an antigen–specific antibody complex, from solution.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001691 "IP")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001691 "CHMO:0001691")
 AnnotationAssertion(rdfs:label obo:CHMO_0001691 "immunoprecipitation")
