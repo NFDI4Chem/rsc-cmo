@@ -17097,7 +17097,7 @@ SubClassOf(obo:CHMO_0001226 obo:CHMO_0000682)
 
 # Class: obo:CHMO_0001227 (batch injection calorimetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.D00171") obo:IAO_0000115 obo:CHMO_0001227 "The measurement of the enthalpy change during a chemical reaction in order to measure the amount of the imiting reagent.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.D00171") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.B00614>) obo:IAO_0000115 obo:CHMO_0001227 "The measurement of the enthalpy change during a chemical reaction in order to measure the amount of the imiting reagent.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001227 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001227 "2009-03-25T01:17:35Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001227 "batch-injection enthalpimetry")
