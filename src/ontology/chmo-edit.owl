@@ -21714,7 +21714,7 @@ SubClassOf(obo:CHMO_0001698 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001699 (autoradiolysis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.A00534") obo:IAO_0000115 obo:CHMO_0001699 "The cleavage of one or more bonds in a radioactive material resulting directly or indirectly from its own radioactive decay.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'autoradiolysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00534 >) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00534>) obo:IAO_0000115 obo:CHMO_0001699 "The cleavage of one or more bonds in a \"radioactive material resulting directly or indirectly from its own radioactive decay.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001699 "CHMO:0001699")
 AnnotationAssertion(rdfs:label obo:CHMO_0001699 "autoradiolysis")
 SubClassOf(obo:CHMO_0001699 obo:CHMO_0001698)
