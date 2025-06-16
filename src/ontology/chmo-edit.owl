@@ -21890,7 +21890,7 @@ SubClassOf(obo:CHMO_0001685 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001686 (Ostwald ripening)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.5") obo:IAO_0000115 obo:CHMO_0001686 "The growth of larger crystals from those of smaller size, which have a higher solubility than the larger ones.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.5") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.O04348>) obo:IAO_0000115 obo:CHMO_0001686 "The growth of larger crystals from those of smaller size, which have a higher solubility than the larger ones.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001686 "Ostwald-ripening")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001686 "CHMO:0001686")
 AnnotationAssertion(rdfs:label obo:CHMO_0001686 "Ostwald ripening")
