@@ -21645,7 +21645,7 @@ SubClassOf(obo:CHMO_0001689 obo:CHMO_0001688)
 
 # Class: obo:CHMO_0001690 (co-precipitation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.C01339") obo:IAO_0000115 obo:CHMO_0001690 "The simultaneous precipitation of a normally soluble component with a macro-component from the same solution by the formation of mixed crystals, by adsorption, occlusion or mechanical entrapment.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'coprecipitation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.C01339>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C01339>) obo:IAO_0000115 obo:CHMO_0001690 "\"The simultaneous precipitation of a normally soluble component with a macro-component from the same solution by the formation of mixed crystals, by adsorption, occlusion or mechanical entrapment.\"")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001690 "coprecipitation")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001690 "CHMO:0001690")
 AnnotationAssertion(rdfs:label obo:CHMO_0001690 "co-precipitation")
