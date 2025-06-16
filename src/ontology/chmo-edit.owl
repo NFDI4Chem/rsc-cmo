@@ -19793,7 +19793,7 @@ SubClassOf(obo:CHMO_0001476 obo:CHMO_0001474)
 
 # Class: obo:CHMO_0001477 (crystallisation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000214") Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.C01434") obo:IAO_0000115 obo:CHMO_0001477 "The formation of a crystalline solid from a solution, melt vapour, or a different solid phase, generally by lowering the temperature or by evaporation of a solvent.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'crystallization' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.C01434>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C01434>) Annotation(oboInOwl:hasDbXref "FIX:0000214") obo:IAO_0000115 obo:CHMO_0001477 "\"The formation of a crystalline solid from a solution, melt vapour, or a different solid phase, generally by lowering the temperature or by evaporation of a solvent.\"")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001477 "crystallization")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001477 "CHMO:0001477")
 AnnotationAssertion(rdfs:label obo:CHMO_0001477 "crystallisation")
