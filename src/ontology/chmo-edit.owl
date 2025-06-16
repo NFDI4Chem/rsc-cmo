@@ -21525,7 +21525,9 @@ SubClassOf(obo:CHMO_0001675 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001676 (fluorescent labelling)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001676 "The process of covalently attaching a chemically-reactive derivative of a fluorophore to another molecule, such as a protein or nucleic acid.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381655
+12.220 fluorescent dye staining (of proteins) 
+See: protein staining. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6381409/Bioanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001676 "The process of covalently attaching a chemically-reactive derivative of a fluorophore to another molecule, such as a protein or nucleic acid.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001676 "fluorescence labeling")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001676 "fluorescence labelling")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001676 "fluorescent labeling")
