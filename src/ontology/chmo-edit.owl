@@ -22055,7 +22055,7 @@ SubClassOf(obo:CHMO_0001706 obo:CHMO_0001703)
 
 # Class: obo:CHMO_0001707 (sonication)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.S05766") obo:IAO_0000115 obo:CHMO_0001707 "The irradiation of a liquid sample with sound (20 Hz-20 kHz) waves resulting in agitation. Sound waves propagate into the liquid media result in alternating high-pressure (compression) and low-pressure (rarefaction) cycles. During rarefaction, high-intensity sonic waves create small vacuum bubbles or voids in the liquid, which then collapse violently (cavitation) during compression, creating very high local temperatures.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.S05766>) obo:IAO_0000115 obo:CHMO_0001707 "The irradiation of a liquid sample with sound (20 Hz-20 kHz) waves resulting in agitation. Sound waves propagate into the liquid media result in alternating high-pressure (compression) and low-pressure (rarefaction) cycles. During rarefaction, high-intensity sonic waves create small vacuum bubbles or voids in the liquid, which then collapse violently (cavitation) during compression, creating very high local temperatures.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001707 "CHMO:0001707")
 AnnotationAssertion(rdfs:label obo:CHMO_0001707 "sonication")
 SubClassOf(obo:CHMO_0001707 obo:OBI_0000094)
