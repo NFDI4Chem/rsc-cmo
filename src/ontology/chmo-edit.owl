@@ -25025,7 +25025,7 @@ SubClassOf(obo:CHMO_0001937 ObjectSomeValuesFrom(obo:BFO_0000118 obo:CHMO_000100
 
 # Class: obo:CHMO_0001938 (collision-induced dissociation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:978-0-470-51634-8") obo:IAO_0000115 obo:CHMO_0001938 "A fragmentation method where the sample is ionised, and selected ions are allowed to collide with neutral gas molecules, resulting in fragmentation.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:978-0-470-51634-8") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.C01167>) obo:IAO_0000115 obo:CHMO_0001938 "A fragmentation method where the sample is ionised, and selected ions are allowed to collide with neutral gas molecules, resulting in fragmentation.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001938 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001938 "2009-06-08T04:07:29Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001938 "CAD")
