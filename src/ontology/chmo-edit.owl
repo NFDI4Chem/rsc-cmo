@@ -21707,7 +21707,7 @@ SubClassOf(obo:CHMO_0001697 obo:CHMO_0001688)
 
 # Class: obo:CHMO_0001698 (radiolysis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.R05112") obo:IAO_0000115 obo:CHMO_0001698 "The cleavage of one or more bonds resulting from exposure to high-energy radiation.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation <'radiolysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.R05112 >) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/ >) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.R05112>) obo:IAO_0000115 obo:CHMO_0001698 "\"The cleavage of one or more bonds resulting from exposure to high-energy radiation.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001698 "CHMO:0001698")
 AnnotationAssertion(rdfs:label obo:CHMO_0001698 "radiolysis")
 SubClassOf(obo:CHMO_0001698 obo:OBI_0000094)
