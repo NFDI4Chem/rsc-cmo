@@ -35526,6 +35526,9 @@ SubClassOf(obo:CHMO_0002863 obo:CHMO_0001583)
 
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002864 "CHMO:0002864")
 AnnotationAssertion(rdfs:label obo:CHMO_0002864 "QuEChERS")
+AnnotationAssertion(rdfs:seeAlso obo:CHMO_0002864 "https://books.rsc.org/view-large/6384289
+3.105 QuEChERS (Quick, Easy, Cheap, Effective, Rugged and Safe) extraction 
+Streamlined multiresidue method for extraction and clean-up of analytes in complex matrices. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)")
 SubClassOf(obo:CHMO_0002864 obo:OBI_0000094)
 
 # Class: obo:CHMO_0002865 (vertical scanning interferometry)
