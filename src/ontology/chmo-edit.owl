@@ -27888,7 +27888,7 @@ SubClassOf(obo:CHMO_0002195 obo:CHMO_0001802)
 
 # Class: obo:CHMO_0002196 (activation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0002196 "Any process that involves preparing or exciting a sample for a subsequent reaction.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.A00093>) obo:IAO_0000115 obo:CHMO_0002196 "Any process that involves preparing or exciting a sample for a subsequent reaction.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002196 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002196 "2009-07-21T03:00:23Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002196 "CHMO:0002196")
