@@ -35918,7 +35918,7 @@ SubClassOf(obo:CHMO_0002915 obo:BFO_0000015)
 
 # Class: obo:CHMO_0002916 (sample solidification)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.S05733") obo:IAO_0000115 obo:CHMO_0002916 "Material processing in which a liquid or gas transitions into a solid.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.S05733>) obo:IAO_0000115 obo:CHMO_0002916 "Material processing in which a liquid or gas transitions into a solid.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002916 "CHMO:0002916")
 AnnotationAssertion(rdfs:label obo:CHMO_0002916 "sample solidification")
 SubClassOf(obo:CHMO_0002916 obo:OBI_0000094)
