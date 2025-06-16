@@ -21500,7 +21500,7 @@ SubClassOf(obo:CHMO_0001672 obo:CHMO_0001669)
 
 # Class: obo:CHMO_0001673 (isostatic pressing)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001673 "The process of pressing a powder under a gas or liquid so that pressure is transmitted equally in all directions.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.IT07625>) obo:IAO_0000115 obo:CHMO_0001673 "The process of pressing a powder under a gas or liquid so that pressure is transmitted equally in all directions.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001673 "CHMO:0001673")
 AnnotationAssertion(rdfs:label obo:CHMO_0001673 "isostatic pressing")
 SubClassOf(obo:CHMO_0001673 obo:OBI_0000094)
