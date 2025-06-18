@@ -15016,7 +15016,9 @@ SubClassOf(obo:CHMO_0001011 obo:CHMO_0001010)
 
 # Class: obo:CHMO_0001012 (ion-exclusion chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000627") Annotation(oboInOwl:hasDbXref "OrangeBook:9.2.1.5") obo:IAO_0000115 obo:CHMO_0001012 "Column chromatography where the separation is caused by differences in charge, the mobile phase is aqueous and the analyte is ionic.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000627") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383602
+5.36 ion-exclusion chromatography 
+Exclusion chromatography in which ionized compounds are excluded from the pores of the support and elute first, while weakly ionized and non-ionic compounds elute later. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001012 "Column chromatography where the separation is caused by differences in charge, the mobile phase is aqueous and the analyte is ionic.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001012 "ion exclusion chromatography")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001012 "CHMO:0001012")
 AnnotationAssertion(rdfs:label obo:CHMO_0001012 "ion-exclusion chromatography")
