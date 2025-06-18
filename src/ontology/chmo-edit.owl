@@ -21884,7 +21884,9 @@ SubClassOf(obo:CHMO_0001680 obo:CHMO_0001675)
 
 # Class: obo:CHMO_0001681 (leaching)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.4.1") obo:IAO_0000115 obo:CHMO_0001681 "The dissolution of material from a solid phase into a liquid in which it is not wholly soluble.")
+AnnotationAssertion(Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384211
+3.39 leaching 
+Dissolution of sample components from a solid with a liquid in which the solid phase is not wholly soluble. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") obo:IAO_0000115 obo:CHMO_0001681 "The dissolution of material from a solid phase into a liquid in which it is not wholly soluble.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001681 "CHMO:0001681")
 AnnotationAssertion(rdfs:label obo:CHMO_0001681 "leaching")
 SubClassOf(obo:CHMO_0001681 obo:OBI_0000094)
