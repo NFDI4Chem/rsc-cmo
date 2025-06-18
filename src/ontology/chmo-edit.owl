@@ -19914,7 +19914,9 @@ SubClassOf(obo:CHMO_0001490 obo:CHMO_0001489)
 
 # Class: obo:CHMO_0001491 (acid digestion)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:10.3.4.9.5") obo:IAO_0000115 obo:CHMO_0001491 "The decomposition of a sample in strong acids such as nitric, sulfuric or perchloric acid in order to obtain the sample in liquid form.")
+AnnotationAssertion(Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384295
+3.109 acid digestion 
+Process in which the sample (analyte and matrix) is dissolved by an acid. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") obo:IAO_0000115 obo:CHMO_0001491 "The decomposition of a sample in strong acids such as nitric, sulfuric or perchloric acid in order to obtain the sample in liquid form.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001491 "acid-digestion")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001491 "CHMO:0001491")
 AnnotationAssertion(rdfs:label obo:CHMO_0001491 "acid digestion")
