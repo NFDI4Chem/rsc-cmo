@@ -34968,7 +34968,9 @@ SubClassOf(obo:CHMO_0002745 obo:BFO_0000034)
 
 # Class: obo:CHMO_0002746 (experimental sample)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0002746 "A portion of material that is the subject of an experiment.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381894
+1.34 primary sample 
+Collection of one or more sampling increments2  initially taken from material intended to be analysed. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6381851/Fundamental-and-Metrological-Concepts-in)") obo:IAO_0000115 obo:CHMO_0002746 "A portion of material that is the subject of an experiment.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002746 "CHMO:0002746")
 AnnotationAssertion(rdfs:label obo:CHMO_0002746 "experimental sample")
 EquivalentClasses(obo:CHMO_0002746 ObjectIntersectionOf(obo:CHMO_0000993 ObjectSomeValuesFrom(obo:BFO_0000085 obo:CHMO_0002745)))
