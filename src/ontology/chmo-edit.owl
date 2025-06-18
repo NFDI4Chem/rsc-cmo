@@ -14976,7 +14976,7 @@ SubClassOf(obo:CHMO_0001007 ObjectSomeValuesFrom(obo:BFO_0000057 obo:CHMO_000098
 
 # Class: obo:CHMO_0001008 (paper chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "Orange:9.2.1.3") obo:IAO_0000115 obo:CHMO_0001008 "A chromatography method where the stationary phase is or is impregnated in a sheet of paper.")
+AnnotationAssertion(Annotation(rdfs:seeAlso "Orange:9.2.1.3") obo:IAO_0000115 obo:CHMO_0001008 "A chromatography method where the stationary phase is or is impregnated in a sheet of paper.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001008 "CHMO:0001008")
 AnnotationAssertion(rdfs:label obo:CHMO_0001008 "paper chromatography")
 EquivalentClasses(obo:CHMO_0001008 ObjectIntersectionOf(obo:CHMO_0001005 ObjectSomeValuesFrom(obo:BFO_0000057 obo:CHMO_0000988)))
