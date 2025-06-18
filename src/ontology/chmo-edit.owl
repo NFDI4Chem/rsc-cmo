@@ -3276,7 +3276,9 @@ SubClassOf(obo:CHMO_0000011 obo:CHMO_0000010)
 
 # Class: obo:CHMO_0000012 (coulometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "Orange:8.5.1") obo:IAO_0000115 obo:CHMO_0000012 "An electrochemical technique where the total Coulombs of electricity required to complete (fully oxidise or fully reduce the sample in) an electrochemical reaction is measured.")
+AnnotationAssertion(Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384573
+8.134 coulometer 
+Measuring instrument to obtain the electric charge passed in an experiment, or to produce a known amount of substance in a titration. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000012 "An electrochemical technique where the total Coulombs of electricity required to complete (fully oxidise or fully reduce the sample in) an electrochemical reaction is measured.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000012 "CHMO:0000012")
 AnnotationAssertion(rdfs:label obo:CHMO_0000012 "coulometry")
 SubClassOf(obo:CHMO_0000012 obo:CHMO_0000003)
