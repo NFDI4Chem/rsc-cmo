@@ -17494,7 +17494,9 @@ SubClassOf(obo:CHMO_0001259 obo:CHMO_0001009)
 
 # Class: obo:CHMO_0001260 (pyrolysis gas chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:5.3") obo:IAO_0000115 obo:CHMO_0001260 "The chemical degradation of a sample by thermal energy where the volatile pyrolysates are then separated by column chromatography where the mobile phase is a gas.")
+AnnotationAssertion(Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383608
+5.42 pyrolysis-gas chromatography 
+Chromatography in which an analytical sample is thermally decomposed to smaller fragments before entering the column. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001260 "The chemical degradation of a sample by thermal energy where the volatile pyrolysates are then separated by column chromatography where the mobile phase is a gas.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001260 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001260 "2009-04-06T11:38:22Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001260 "Py-GC")
