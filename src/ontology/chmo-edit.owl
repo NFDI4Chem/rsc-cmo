@@ -17810,7 +17810,9 @@ SubClassOf(obo:CHMO_0001264 obo:CHMO_0000630)
 
 # Class: obo:CHMO_0001265 (pyrolysis mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:5.3") obo:IAO_0000115 obo:CHMO_0001265 "Spectrometry where the sample is chemically degraded by thermal energy then converted into gaseous ions which are characterised by their mass-to-charge ratio and relative abundance.")
+AnnotationAssertion(Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383369
+7.334 pyrolysis mass spectrometry, (PyMS) 
+Measurement method of mass spectrometry in which the sample is heated to the point of decomposition and the gas-phase decomposition products are characterized by mass spectrometry. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0001265 "Spectrometry where the sample is chemically degraded by thermal energy then converted into gaseous ions which are characterised by their mass-to-charge ratio and relative abundance.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001265 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001265 "2009-04-06T11:59:51Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001265 "Py-MS")
