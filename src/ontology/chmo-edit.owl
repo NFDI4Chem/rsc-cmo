@@ -14997,7 +14997,9 @@ SubClassOf(obo:CHMO_0001009 obo:CHMO_0002318)
 
 # Class: obo:CHMO_0001010 (exclusion chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000614") Annotation(oboInOwl:hasDbXref "OrangeBook:9.2.1.5") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.E02261>) obo:IAO_0000115 obo:CHMO_0001010 "Column chromatography where the separation is caused by exclusion effects such as differences in molecular size, shape or charge.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000614") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383596
+5.30 exclusion chromatography 
+Chromatography in which separation is based mainly on exclusion effects, such as differences in molecular size and/or shape or charge. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.E02261>) obo:IAO_0000115 obo:CHMO_0001010 "Column chromatography where the separation is caused by exclusion effects such as differences in molecular size, shape or charge.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001010 "CHMO:0001010")
 AnnotationAssertion(rdfs:label obo:CHMO_0001010 "exclusion chromatography")
 SubClassOf(obo:CHMO_0001010 obo:CHMO_0001001)
