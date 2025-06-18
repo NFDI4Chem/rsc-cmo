@@ -30522,7 +30522,9 @@ SubClassOf(obo:CHMO_0002385 obo:CHMO_0000050)
 
 # Class: obo:CHMO_0002386 (dielectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "Orange:8.5.4") obo:IAO_0000115 obo:CHMO_0002386 "The measurement of the relative permittivity of a solution as a function of concentration. Measurements are made indirectly across the resistance of the solution with alternating current.")
+AnnotationAssertion(Annotation(rdfs:comment "https://books.rsc.org/view-large/6384590
+8.144 dielectrometry 
+Electrochemical measurement principle based on the measurement of the relative permittivity of a sample resulting from the orientation of particles (molecules or ions), that have a dipole moment, in an electric field. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0002386 "The measurement of the relative permittivity of a solution as a function of concentration. Measurements are made indirectly across the resistance of the solution with alternating current.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002386 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002386 "2009-09-15T06:14:13Z")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0002386 "FIX:0000706")
