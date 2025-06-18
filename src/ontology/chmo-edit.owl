@@ -19922,7 +19922,9 @@ SubClassOf(obo:CHMO_0001491 obo:CHMO_0001490)
 
 # Class: obo:CHMO_0001492 (bomb digestion)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:10.3.4.9.5") obo:IAO_0000115 obo:CHMO_0001492 "The decomposition of a sample in strong acids such as nitric, sulfuric or perchloric acid in a sealed vessel (lined with PTFE), under high pressure and high temperature, in order to obtain the sample in liquid form.")
+AnnotationAssertion(Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384297
+3.111 bomb acid digestion 
+Type of closed-vessel acid digestion. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") obo:IAO_0000115 obo:CHMO_0001492 "The decomposition of a sample in strong acids such as nitric, sulfuric or perchloric acid in a sealed vessel (lined with PTFE), under high pressure and high temperature, in order to obtain the sample in liquid form.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001492 "bomb-digestion")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001492 "CHMO:0001492")
 AnnotationAssertion(rdfs:label obo:CHMO_0001492 "bomb digestion")
