@@ -1,6 +1,9 @@
 #curie_map:
 #  CHMO: http://purl.obolibrary.org/obo/CHMO_
 #  AFR: http://purl.allotrope.org/ontologies/result#AFR_
+#  AFE: http://purl.allotrope.org/ontologies/equipment#AFE_
+#  AFP: http://purl.allotrope.org/ontologies/process#AFP_
+#  AFQ: http://purl.allotrope.org/ontologies/quality#AFQ_
 #mapping_set_id: https://github.com/NFDI4Chem/rsc-cmo/blob/Add-definition-sources-and-mappings/src/mappings/afo-mappings.tsv
 #mapping_set_version:	1.0
 #mapping_set_title: Mapping CHMO to the Allotrope Foundation Ontology Suite (AFO)
@@ -17,4 +20,21 @@
 #issue_tracker: 
 #license: https://creativecommons.org/publicdomain/zero/1.0/
 subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	author_id	confidence	comment
-CHMO:0000801	absorption spectrum	skos:exactMatch	AFR:0000222	absorption spectrum	semapv:ManualMappingCuration	https://orcid.org/	0.95
+CHMO:0000801	absorption spectrum	skos:exactMatch	AFR:0000222	absorption spectrum	semapv:ManualMappingCuration	https://orcid.org/  	0.95
+CHMO:0000831	action spectrum	skos:exactMatch	AFR:0000319	action spectrum 	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003   	0.95
+CHMO:0002822    	amount concentration    	skos:exactMatch 	AFR:0002006 	amount concentration    	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003   	0.95
+CHMO:0002818    	angle of optical rotation 	skos:exactMatch 	AFR:0002394   	angle of optical rotation   	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003   	0.95
+CHMO:0002931    	anode   	skos:exactMatch 	AFE:0000049 	anode   	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003   	0.95
+CHMO:0000682    	calorimetry 	skos:exactMatch	AFP:0000611 	calorimetry 	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003   	0.95
+CHMO:0000987    	capillary column    	skos:exactMatch 	AFE:0000078 	capillary column	semapv:ManualMappingCuration    	https://orcid.semapv:ManualMappingCuration    org/0009-0009-1663-1003   	0.95
+CHMO:0002932	cathode	skos:exactMatch	AFE:0000532	cathode	semapv:ManualMappingCuration    	https://orcid.semapv:ManualMappingCuration    org/0009-0009-1663-1003   	0.95
+CHMO:0002387	chromatogram	skos:exactMatch	AFR:0000236	chromatogram	semapv:ManualMappingCuration    	https://orcid.semapv:ManualMappingCuration    org/0009-0009-1663-1003   	0.95
+CHMO:0002477	chromatograph	skos:exactMatch	AFE:0000392	chromatograph	semapv:ManualMappingCuration    	https://orcid.semapv:ManualMappingCuration    org/0009-0009-1663-1003   	0.95
+CHMO:0002820	concentration	skos:exactMatch	AFR:0002036	concentration	semapv:ManualMappingCuration    	https://orcid.semapv:ManualMappingCuration    org/0009-0009-1663-1003   	0.95
+CHMO:0000832	conversion spectrum	skos:exactMatch	AFR:0000044	conversion spectrum	semapv:ManualMappingCuration    	https://orcid.semapv:ManualMappingCuration    org/0009-0009-1663-1003   	0.95
+CHMO:0002858	diastereomeric ratio	skos:exactMatch	AFQ:0000218	diastereomeric ratio	semapv:ManualMappingCuration    	semapv:ManualMappingCuration    semapv:ManualMappingCuration        	0.95
+CHMO:0000684	differential scanning calorimetry	skos:exactMatch	AFP:0002124	differential scanning calorimetry	semapv:ManualMappingCuration    	semapv:ManualMappingCuration    semapv:ManualMappingCuration    	0.95
+CHMO:0002856	enantiomer excess	skos:exactMatch	AFQ:0000220	enantiomer excess	semapv:ManualMappingCuration    	semapv:ManualMappingCuration    semapv:ManualMappingCuration    	0.95
+CHMO:0002859	enantiomeric ratio	skos:exactMatch	AFQ:0000219	enantiomeric ratio	semapv:ManualMappingCuration    	semapv:ManualMappingCuration    semapv:ManualMappingCuration    	0.95
+CHMO:0000834	excitation-emission spectrum	skos:exactMatch	AFR:0000412	excitation-emission spectrum	semapv:ManualMappingCuration    	semapv:ManualMappingCuration    semapv:ManualMappingCuration    	0.95
+CHMO:0000960	ion source	skos:exactMatch	AFE:0000004	ion source	semapv:ManualMappingCuration    	semapv:ManualMappingCuration    semapv:ManualMappingCuration    	0.95
