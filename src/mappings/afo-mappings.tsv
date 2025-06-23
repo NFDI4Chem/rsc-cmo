@@ -17,3 +17,4 @@
 #issue_tracker: 
 #license: https://creativecommons.org/publicdomain/zero/1.0/
 subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	author_id	confidence	comment
+CHMO:0000801	absorption spectrum	skos:exactMatch	AFR:0000222	absorption spectrum	semapv:ManualMappingCuration	https://orcid.org/	0.95
