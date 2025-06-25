@@ -4,12 +4,13 @@
 #  AFE: http://purl.allotrope.org/ontologies/equipment#AFE_
 #  AFP: http://purl.allotrope.org/ontologies/process#AFP_
 #  AFQ: http://purl.allotrope.org/ontologies/quality#AFQ_
+#  AFRL: http://purl.allotrope.org/ontologies/role#AFRL_
 #mapping_set_id: https://github.com/NFDI4Chem/rsc-cmo/blob/Add-definition-sources-and-mappings/src/mappings/afo-mappings.tsv
 #mapping_set_version:	1.0
 #mapping_set_title: Mapping CHMO to the Allotrope Foundation Ontology Suite (AFO)
 #mapping_set_description: This file contains the mappings between the Chemical Methods Ontology (CHMO) and the Allotrope Foundation Ontology Suite (AFO). These mappings were manually created/curated by Ambika Gupta and reviewed by Philip Strömert & Colin Batchelor. The intended use case of this mapping set is the data integration of RDF knowledge graphs (KGs) that use AFO and are to be transformed into RDF KGs that use CHMO or vice versa. 
 #creator_id:
-#	- https://orcid.org/
+#	- https://orcid.org/0009-0009-1663-1003
 #	- https://orcid.org/0000-0002-1595-3213
 #	- https://orcid.org/0000-0001-5985-7429
 #subject_source:	http://purl.obolibrary.org/obo/chmo.owl
@@ -26,15 +27,61 @@ CHMO:0002822    	amount concentration    	skos:exactMatch 	AFR:0002006 	amount c
 CHMO:0002818    	angle of optical rotation 	skos:exactMatch 	AFR:0002394   	angle of optical rotation   	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003   	0.95
 CHMO:0002931    	anode   	skos:exactMatch 	AFE:0000049 	anode   	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003   	0.95
 CHMO:0000682    	calorimetry 	skos:exactMatch	AFP:0000611 	calorimetry 	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003   	0.95
-CHMO:0000987    	capillary column    	skos:exactMatch 	AFE:0000078 	capillary column	semapv:ManualMappingCuration    	https://orcid.semapv:ManualMappingCuration    org/0009-0009-1663-1003   	0.95
-CHMO:0002932	cathode	skos:exactMatch	AFE:0000532	cathode	semapv:ManualMappingCuration    	https://orcid.semapv:ManualMappingCuration    org/0009-0009-1663-1003   	0.95
-CHMO:0002387	chromatogram	skos:exactMatch	AFR:0000236	chromatogram	semapv:ManualMappingCuration    	https://orcid.semapv:ManualMappingCuration    org/0009-0009-1663-1003   	0.95
-CHMO:0002477	chromatograph	skos:exactMatch	AFE:0000392	chromatograph	semapv:ManualMappingCuration    	https://orcid.semapv:ManualMappingCuration    org/0009-0009-1663-1003   	0.95
-CHMO:0002820	concentration	skos:exactMatch	AFR:0002036	concentration	semapv:ManualMappingCuration    	https://orcid.semapv:ManualMappingCuration    org/0009-0009-1663-1003   	0.95
-CHMO:0000832	conversion spectrum	skos:exactMatch	AFR:0000044	conversion spectrum	semapv:ManualMappingCuration    	https://orcid.semapv:ManualMappingCuration    org/0009-0009-1663-1003   	0.95
-CHMO:0002858	diastereomeric ratio	skos:exactMatch	AFQ:0000218	diastereomeric ratio	semapv:ManualMappingCuration    	semapv:ManualMappingCuration    semapv:ManualMappingCuration        	0.95
-CHMO:0000684	differential scanning calorimetry	skos:exactMatch	AFP:0002124	differential scanning calorimetry	semapv:ManualMappingCuration    	semapv:ManualMappingCuration    semapv:ManualMappingCuration    	0.95
-CHMO:0002856	enantiomer excess	skos:exactMatch	AFQ:0000220	enantiomer excess	semapv:ManualMappingCuration    	semapv:ManualMappingCuration    semapv:ManualMappingCuration    	0.95
-CHMO:0002859	enantiomeric ratio	skos:exactMatch	AFQ:0000219	enantiomeric ratio	semapv:ManualMappingCuration    	semapv:ManualMappingCuration    semapv:ManualMappingCuration    	0.95
-CHMO:0000834	excitation-emission spectrum	skos:exactMatch	AFR:0000412	excitation-emission spectrum	semapv:ManualMappingCuration    	semapv:ManualMappingCuration    semapv:ManualMappingCuration    	0.95
-CHMO:0000960	ion source	skos:exactMatch	AFE:0000004	ion source	semapv:ManualMappingCuration    	semapv:ManualMappingCuration    semapv:ManualMappingCuration    	0.95
+CHMO:0000987    	capillary column    	skos:exactMatch 	AFE:0000078 	capillary column	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003   	0.95
+CHMO:0002932	cathode	skos:exactMatch	AFE:0000532	cathode	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003   	0.95
+CHMO:0002387	chromatogram	skos:exactMatch	AFR:0000236	chromatogram	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003   	0.95
+CHMO:0002477	chromatograph	skos:exactMatch	AFE:0000392	chromatograph	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003   	0.95
+CHMO:0002820	concentration	skos:exactMatch	AFR:0002036	concentration	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003   	0.95
+CHMO:0000832	conversion spectrum	skos:exactMatch	AFR:0000044	conversion spectrum	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003   	0.95
+CHMO:0002858	diastereomeric ratio	skos:exactMatch	AFQ:0000218	diastereomeric ratio	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003     	0.95
+CHMO:0000684	differential scanning calorimetry	skos:exactMatch	AFP:0002124	differential scanning calorimetry	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003   	0.95
+CHMO:0002856	enantiomer excess	skos:exactMatch	AFQ:0000220	enantiomer excess	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003    	0.95
+CHMO:0002859	enantiomeric ratio	skos:exactMatch	AFQ:0000219	enantiomeric ratio	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003 	0.95
+CHMO:0000834	excitation-emission spectrum	skos:exactMatch	AFR:0000412	excitation-emission spectrum	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003 	0.95
+CHMO:0000960	ion source	skos:exactMatch	AFE:0000004	ion source	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002821	mass concentration	skos:exactMatch	AFR:0001661	mass concentration	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003 	0,95
+CHMO:0000982	mass spectrometer	skos:exactMatch	AFE:0000648	mass spectrometer	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003 	0,95
+CHMO:0000470	mass spectrometry	skos:exactMatch	AFP:0001427	mass spectrometry	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0,95
+CHMO:0000806	mass spectrum	skos:exactMatch	AFR:0000439	mass spectrum	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0,95
+CHMO:0002743	matrix	skos:exactMatch	AFRL:0000547	matrix role	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0,95
+CHMO:0000974	open-tubular column	skos:exactMatch	AFE:0000691	open-tubular column	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000975	packed column	skos:exactMatch	AFE:0000692	packed column	semapv:ManualMappingCuration    	   https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001234	spectrometer	skos:exactMatch	AFE:0000857	spectrometer	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000986	stationary phase	skos:exactMatch	AFRL:0000032	stationary phase	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002162	titration curve	skos:exactMatch	AFR:0000490	titration curve	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000401	ultraviolet photoelectron spectroscopy	skos:exactMatch	AFP:0000896	ultraviolet spectrophotometry	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000995	mobile phase	skos:exactMatch	AFRL:0000011	mobile phase	semapv:ManualMappingCuration    semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000994	chromatographic phase	skos:exactMatch	AFRL:0000126	chromatographic phase	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000993	portion of material	skos:exactMatch	AFRL:0000126	portion of material	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000991	liquid mobile phase	skos:exactMatch	AFRL:0000339	liquid mobile phase	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000992	CHMO:0000992supercritical mobile phase	skos:exactMatch	AFRL:0000165	supercritical mobile phase	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000996	gaseous mobile phase	skos:exactMatch	AFRL:0000165	gaseous mobile phase	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002469	column eluent	skos:exactMatch	AFRL:0000220	column eluent	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000953	microscope	skos:exactMatch	AFE:0000825	microscope	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000947	optical microscope	skos:exactMatch	AFE:0000129	optical microscope	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000957	chemical ionisation source	skos:exactMatch	AFE:0000370	chemical ionization source	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000978	mass-to-charge analyser	skos:exactMatch	AFE:0000038	mass-to-charge analyzer	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000990	open chromatographic bed	skos:exactMatch	AFE:0000158	open chromatographic bed	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000997	chromatography column	skos:exactMatch	AFE:0000217	chromatography column	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000972	porous-layer open-tubular column	skos:exactMatch	AFE:0000112	porous-layer open-tubular column	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000971	support-coated open-tubular column	skos:exactMatch	AFE:0000307	support-coated open-tubular column	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000973	wall-coated open-tubular column	skos:exactMatch	AFE:0000779	wall-coated open-tubular column	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000976	high-performance liquid chromatography column	skos:exactMatch	AFE:0000231	high-performance liquid chromatography column	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002264	ion-exchange column	skos:exactMatch	AFE:0000803	ion-exchange column	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002263	cation-exchange column	skos:exactMatch	AFE:0000523	cation-exchange column	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002266	strong cation-exchange column	skos:exactMatch	AFE:0000360	strong cation-exchange column	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002267	weak cation-exchange column	skos:exactMatch	AFE:0000775	weak cation-exchange column	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002265	anion-exchange column	skos:exactMatch	AFE:0000550	anion-exchange column	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002268	strong anion-exchange column	skos:exactMatch	AFE:0000277	strong anion-exchange column	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002269	weak anion-exchange column	skos:exactMatch	AFE:0000301	weak anion-exchange column	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002244	detector	skos:exactMatch	AFE:0000317	detector	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003  	0.95
+CHMO:0001059	ion detector	skos:exactMatch	AFE:0000642	ion detector	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003  	0.95
+CHMO:0002503	diode array detector	skos:exactMatch	AFE:0000090	diode array detector	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003    	0.95
+CHMO:0002584	ultraviolet detector	skos:exactMatch	AFE:0000711	ultraviolet detector	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003    	0.95
+CHMO:0002585	refractive index detector	skos:exactMatch	AFE:0000363	refractive index detector	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003    	0.95
+CHMO:0002344	electrode	skos:exactMatch	AFE:0000422	electrode	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003    	0.95
+CHMO:0002579	autosampler	skos:exactMatch	AFE:0000073	autosampler	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003    	0.95
+CHMO:0000963	quadrupole mass spectrometer	skos:exactMatch	AFE:0000527	quadrupole mass spectrometer	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003    	0.95
+CHMO:0001235	Raman spectrometer	skos:exactMatch	AFE:0000551	Raman spectrometer	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003    	0.95
+CHMO:0001807	nuclear magnetic resonance spectrometer	skos:exactMatch	AFE:0002280	nuclear magnetic resonance spectrometer	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001823	Fourier transform infrared absorption spectroscopy	skos:exactMatch	AFP:0001787	Fourier transform infrared absorption spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
