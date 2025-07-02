@@ -157,4 +157,44 @@ CHMO:0002590	visible spectrophotometry	skos:exactMatch	AFP:0001760	visible spect
 CHMO:0000295	equimolar spectrophotometry	skos:exactMatch	AFP:0000813	equimolar spectrophotometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
 CHMO:0000792	ultraviolet-visible-near infrared spectrophotometry	skos:exactMatch	AFP:0002228	ultraviolet-visible-near infrared spectrophotometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
 CHMO:0000504	quadrupole mass spectrometry	skos:exactMatch	AFP:0001109	quadrupole mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
-	selective ion monitoring	skos:exactMatch	AFP:0002437	selected ion monitoring	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000571	selective ion monitoring	skos:exactMatch	AFP:0002437	selected ion monitoring	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000628	vibrational spectroscopy	skos:exactMatch	AFP:0000780	vibrational spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000630	infrared absorption spectroscopy	skos:exactMatch	AFP:0002016	infrared absorption spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000638	near-infrared absorption spectroscopy	skos:exactMatch	AFP:0002421	near infrared absorption spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002290	infrared transmission spectroscopy	skos:exactMatch	AFP:0002276	infrared transmission spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002414	scattering spectroscopy	skos:exactMatch	AFP:0001462	scattering spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000656	Raman spectroscopy	skos:exactMatch	AFP:0000047	Raman spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000665	Fourier transform Raman spectroscopy	skos:exactMatch	AFP:0001062	Fourier transform Raman spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002078	scanning calorimetry	skos:exactMatch	AFP:0001936	scanning calorimetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000915	rheometry	skos:exactMatch	AFP:0000840	rheometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000924	magnetometry	skos:exactMatch	AFP:0001266	magnetometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000927	velocimetry	skos:exactMatch	AFP:0002434	velocimetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001082	osmometry	skos:exactMatch	AFP:0000620	osmometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001135	viscometry	skos:exactMatch	AFP:0002171	viscometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001163	tensiometry	skos:exactMatch	AFP:0002122	tensiometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001167	sorption-desorption measurement	skos:exactMatch	AFP:0000855	sorption-desorption measurement	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000591	nuclear magnetic resonance spectroscopy	skos:exactMatch	AFP:0000326	nuclear magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002039	optical density measurement	skos:exactMatch	AFP:0000080	optical density measurement	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002095	densitometry	skos:exactMatch	AFP:0001666	densitometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002119	granulometry	skos:exactMatch	AFP:0000057	granulometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002123	zeta-potential measurement	skos:exactMatch	AFP:0000109	zeta-potential measurement	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002249	porosimetry	skos:exactMatch	AFP:0000260	porosimetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002386	dielectrometry	skos:exactMatch	AFP:0001650	dielectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002433	interferometry	skos:exactMatch	AFP:0002065	interferometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002642	dilatometry	skos:exactMatch	AFP:0000373	dilatometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000067	microscopy	skos:exactMatch	AFP:0000044	microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000004	amperometry	skos:exactMatch	AFP:0000733	amperometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000012	coulometry	skos:exactMatch	AFP:0001955	coulometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000024	voltammetry	skos:exactMatch	AFP:0000869	voltammetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002354	pH measurement	skos:exactMatch	AFP:0001861	pH measurement	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001720	flame photometric detection	skos:exactMatch	AFP:0003836	flame photometric detection	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001726	nitrogen–phosphorus detection	skos:exactMatch	AFP:0003833	nitrogen–phosphorus detection	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001211	titration	skos:exactMatch	AFP:0001916	titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001212	acid–base titration	skos:exactMatch	AFP:0001510	acid-base titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001230	chelatometric titration	skos:exactMatch	AFP:0001405	chelatometric titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002535	Karl–Fischer titration	skos:exactMatch	AFP:0000441	Karl–Fischer titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002678	Karl-Fischer coulometric titration	skos:exactMatch	AFP:0001001	Karl-Fischer coulometric titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002536	volumetric titration	skos:exactMatch	AFP:0000634	volumetric titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002537	coulometric titration	skos:exactMatch	AFP:0000304	coulometric titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002731	oxidation–reduction titration	skos:exactMatch	AFP:0001292	oxidation–reduction titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+	oximetry	skos:exactMatch	AFP:0002216	oximetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
