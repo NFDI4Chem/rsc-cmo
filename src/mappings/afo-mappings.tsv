@@ -6,6 +6,7 @@
 #  AFQ: http://purl.allotrope.org/ontologies/quality#AFQ_
 #  AFRL: http://purl.allotrope.org/ontologies/role#AFRL_
 #  IAO: http://purl.obolibrary.org/obo/IAO_
+#  AFFN: http://purl.allotrope.org/ontologies/function#AFFN_
 #mapping_set_id: https://github.com/NFDI4Chem/rsc-cmo/blob/Add-definition-sources-and-mappings/src/mappings/afo-mappings.tsv
 #mapping_set_version:	1.0
 #mapping_set_title: Mapping CHMO to the Allotrope Foundation Ontology Suite (AFO)
@@ -197,4 +198,63 @@ CHMO:0002678	Karl-Fischer coulometric titration	skos:exactMatch	AFP:0001001	Karl
 CHMO:0002536	volumetric titration	skos:exactMatch	AFP:0000634	volumetric titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
 CHMO:0002537	coulometric titration	skos:exactMatch	AFP:0000304	coulometric titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
 CHMO:0002731	oxidation–reduction titration	skos:exactMatch	AFP:0001292	oxidation–reduction titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
-	oximetry	skos:exactMatch	AFP:0002216	oximetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002108	oximetry	skos:exactMatch	AFP:0002216	oximetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001000	chromatography	skos:exactMatch	AFP:0001321	chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001001	column chromatography	skos:exactMatch	AFP:0000588	column chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001002	gas chromatography	skos:exactMatch	AFP:0000310	gas chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001003	supercritical-fluid chromatography	skos:exactMatch	AFP:0000253	supercritical-fluid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001004	liquid chromatography	skos:exactMatch	AFP:0000225	liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001050	reversed-phase liquid chromatography	skos:exactMatch	AFP:0001410	reversed-phase liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001051	normal-phase liquid chromatography	skos:exactMatch	AFP:0002328	normal-phase liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002262	hydrophilic interaction chromatography	skos:exactMatch	AFP:0000021	hydrophilic interaction chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002317	liquid–liquid chromatography	skos:exactMatch	AFP:0001543	liquid–liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002318	liquid–solid chromatography	skos:exactMatch	AFP:0001192	liquid–solid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001009	high-performance liquid chromatography	skos:exactMatch	AFP:0000748	high-performance liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000795	high-performance liquid chromatography	skos:exactMatch	AFP:0002059	ultra high-performance liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001259	reversed-phase high-performance liquid chromatography	skos:exactMatch	AFP:0001719	reversed-phase high-performance liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001278	capillary high-performance liquid chromatography	skos:exactMatch	AFP:0001763	capillary high-performance liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001279	nanoflow high-performance liquid chromatography	skos:exactMatch	AFP:0000698	nanoflow high-performance liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001280	reversed-phase nanoflow high-performance liquid chromatography	skos:exactMatch	AFP:0001719	reversed-phase high-performance liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001789	normal-phase high-performance liquid chromatography	skos:exactMatch	AFP:0002033	normal-phase high-performance liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002023	ion-exchange high-performance liquid chromatography	skos:exactMatch	AFP:0002423	ion-exchange high-performance liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002136	chiral stationary phase high-performance liquid chromatography	skos:exactMatch	AFP:0002243	chiral stationary phase high-performance liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002451	liquid chromatography at the critical condition	skos:exactMatch	AFP:0001046	liquid chromatography at the critical condition	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001013	size-exclusion chromatography	skos:exactMatch	AFP:0000843	size-exclusion chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001005	planar chromatography	skos:exactMatch	AFP:0002014	planar chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001049	capillary liquid chromatography	skos:exactMatch	AFP:0002305	capillary liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001128	adsorption chromatography	skos:exactMatch	AFP:0001023	adsorption chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001129	displacement chromatography	skos:exactMatch	AFP:0002314	displacement chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002302	reversed-phase chromatography	skos:exactMatch	AFP:0002361	reversed-phase chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002401	normal-phase chromatography	skos:exactMatch	AFP:0001183	normal-phase chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002403	partition chromatography	skos:exactMatch	AFP:0000131	partition chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002698	chiral chromatography	skos:exactMatch	AFP:0001677	chiral chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001019	electrophoresis	skos:exactMatch	AFP:0000669	electrophoresis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001024	capillary electrophoresis	skos:exactMatch	AFP:0000474	capillary electrophoresis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002231	purification	skos:exactMatch	AFP:0000812	purification	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001640	filtration	skos:exactMatch	AFP:0001530	filtration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001302	assembly	skos:exactMatch	AFP:0001640	assembly	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001470	coating method	skos:exactMatch	AFP:0001986	coating	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001487	decomposition	skos:exactMatch	AFFN:0000185	to decompose	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001549	sample drying	skos:exactMatch	AFP:0001876	drying	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001659	electrospray ionisation	skos:exactMatch	AFP:0002103	electrospray ionization	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001669	chemical ionisation	skos:exactMatch	AFP:0001026	chemical ionization	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001685	mixing	skos:exactMatch	AFP:0001135	mixing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002020	homogenisation	skos:exactMatch	AFP:0001649	homogenization	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002106	physical blending	skos:exactMatch	AFP:0001457	physical blending	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002773	dissolving	skos:exactMatch	AFP:0000112	dissolving	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002774	stirring	skos:exactMatch	AFP:0001698	stirring	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002775	magnetic stirring	skos:exactMatch	AFP:0000039	magnetic stirring	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001707	sonication	skos:exactMatch	AFP:0002293	sonication	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001465	annealing	skos:exactMatch	AFP:0000792	annealing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002771	concentrating	skos:exactMatch	AFP:0002185	concentrating	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002772	degassing	skos:exactMatch	AFP:0000593	degassing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000166	light scattering	skos:broadMatch	AFP:0003594	scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8	check definitions
+CHMO:0000996	gaseous mobile phase	skos:exactMatch	AFRL:0000164	gaseous mobile phase	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8	check definitions
+CHMO:0000997	chromatography column	skos:exactMatch	AFE:0000217	chromatography column	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0002793	sensor	skos:broadMatch	AFE:0002184	sensor	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002232	spectrophotometer	skos:broadMatch	AFE:0000185	spectrophotometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8	confirm predicate id
+CHMO:0002740	analyte role	skos:exactMatch	AFRL:0000127	analyte role	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002423	melting curve	skos:narrowMatch	AFR:0000297	melting curve	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.75	AFO definition more focused on DNA analysis
+CHMO:0001103	recorded image	skos:broadMatch	IAO:0000101	image	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8	confirm predicate id
+CHMO:0002752	chromatography column length	skos:exactMatch	AFR:0002029	chromatography column length	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0001215	magnetic resonance method	skos:narrowMatch	AFP:0002211	magnetic resonance assay	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
