@@ -17,3 +17,52 @@
 #issue_tracker: 
 #license: https://creativecommons.org/publicdomain/zero/1.0/
 subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	author_id	confidence	comment
+CHMO:0000801	CHMO:absorption spectrum	skos:exactMatch	Q865545	"
+absorption spectrum"	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000831	action spectrum	skos:exactMatch	Q4677424	"
+action spectrum"	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002822	amount concentration	skos:exactMatch	Q672821	"
+amount-of-substance concentration "	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002467	analyte	skos:exactMatch	Q2282401	analyte	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002818	angle of optical rotation	skos:exactMatch	Q96323385	"
+angle of optical rotation"	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002931	anode	skos:exactMatch	Q181232	anode	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000339	Auger electron spectroscopy	skos:broadMatch	Q28087	Auger electron spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002358	auxiliary electrode	skos:exactMatch	Q1768785	auxiliary electrode	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002795	biosensor	skos:exactMatch	Q669391	biosensor	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002804	blank value	skos:narrowMatch	Q884378	blank value	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8	check predicate id
+CHMO:0000682	calorimetry	skos:exactMatch	Q634314	calorimetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002592	carbon electrode	skos:broadMatch	Q11376187	"
+graphite/black carbon electrode"	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002932	cathode	skos:exactMatch	Q175233	cathode	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002387	chromatogram	skos:exactMatch	Q3192054	chromatogram	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002477	chromatograph	skos:broadMatch	Q107049539	chromatograph	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002820	concentration	skos:exactMatch	Q3686031	concentration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000684	differential scanning calorimetry	skos:exactMatch	Q904893	differential scanning calorimetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000687	differential thermal analysis	skos:closeMatch	Q905301	differential thermal analysis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002823	volume concentration	skos:exactMatch	Q907948	volume concentration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000813	emission spectrum	skos:exactMatch	Q216817	emission spectrum	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002509	flash photolysis	skos:exactMatch	Q5457567	flash photolysis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000370	high-resolution energy loss spectroscopy	skos:broadMatch	Q904960	High resolution electron energy loss spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002346	indicator electrode	skos:exactMatch	Q120907462	indicator electrode	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002393	ion-selective electrode	skos:exactMatch	Q2477607	ion selective electrode	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000960	ion source	skos:exactMatch	Q905291	ion source	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000166	light scattering	skos:exactMatch	Q1004846	light scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002801	limit of detection	skos:exactMatch	Q900165	detection limit	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002807	linear range	skos:exactMatch	Q6553497	linear range	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002350	liquid junction	skos:closeMatch	Q3820974	Liquid junction potential	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8	check if wiki and chmo terms are considered same or different
+CHMO:0000147	low energy electron diffraction	skos:exactMatch	Q905977	"
+low-energy electron diffraction "	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002821	mass concentration	skos:exactMatch	Q589446	"
+mass concentration"	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000982	mass spectrometer	skos:broadMatch	Q1327691	mass spectrometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000470	mass spectrometry	skos:exactMatch	Q180809	mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000806	mass spectrum	skos:exactMatch	Q2360668	mass spectrum	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002120	monochromator	skos:broadMatch	Q898306	monochromator	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000619	photoacoustic spectroscopy	skos:exactMatch	Q900415	photoacoustic spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000387	photoelectron spectroscopy	skos:exactMatch	Q1139350	"
+photoemission spectroscopy"	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002345	reference electrode	skos:exactMatch	Q653954	reference electrode	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002913	reference material	skos:exactMatch	Q25509247	reference material	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000146	reflection high energy electron diffraction	skos:broadMatch	Q455003	reflection high-energy electron diffraction	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001234	spectrometer		Q188463	spectrometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
