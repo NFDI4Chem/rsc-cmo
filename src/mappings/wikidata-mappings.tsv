@@ -65,4 +65,90 @@ photoemission spectroscopy"	semapv:ManualMappingCuration	https://orcid.org/0009-
 CHMO:0002345	reference electrode	skos:exactMatch	Q653954	reference electrode	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002913	reference material	skos:exactMatch	Q25509247	reference material	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000146	reflection high energy electron diffraction	skos:broadMatch	Q455003	reflection high-energy electron diffraction	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
-CHMO:0001234	spectrometer		Q188463	spectrometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001234	"spectrometer
+"	skos:exactMatch	Q188463	spectrometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000228	"
+spectroscopy"	skos:exactMatch	Q483666	"
+spectroscopy"	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000681	thermal analysis	skos:exactMatch	Q542419	thermal analysis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001097	thermocouple	skos:exactMatch	Q190241	thermocouple	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000690	thermogravimetry	skos:broadMatch	Q7783187	thermogravimetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000693	thermoluminescence	skos:broadMatch	Q36194	thermoluminescence	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002162	titration curve	skos:broadMatch	Q3699705	titration curve	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000401	ultraviolet photoelectron spectroscopy	skos:exactMatch	Q602144	ultraviolet photoelectron spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000297	X-ray spectroscopy	skos:broadMatch	Q901775	X-ray spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002782	silica gel	skos:exactMatch	Q308976	silica gel	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001462	buffer solution	skos:exactMatch	Q208465	buffer solution	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001748	acetate buffer	skos:exactMatch	Q682228	acetic acid/acetate buffer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001753	ACES buffer	skos:exactMatch	Q10859796	N-(carbamoylmethyl)taurine	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001756	ADA buffer	skos:exactMatch	Q27093765	N-(2-acetamido)iminodiacetic acid	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001760	MES buffer	skos:exactMatch	Q209294	2-(N-morpholino)ethanesulfonic acid	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001755	Tris-HCl buffer	skos:exactMatch	Q413961	tromethamine	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002069	TE buffer	skos:broadMatch	Q7670071	TE buffer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002786	filter cake	skos:exactMatch	Q266564	filter cake	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002879	certified reference material	skos:broadMatch	Q906323	certified reference material	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0010001	protective equipment	skos:broadMatch	Q3030569	protective device 	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0010011	personal protective equipment	skos:broadMatch	Q1333024	personal protective equipment	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0010020	fume hood	skos:exactMatch	Q336727	fume hood	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0010006	emergency shower	skos:exactMatch	Q3037859	emergency shower	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000946	optical tweezers	skos:exactMatch	Q1066633	optical tweezers	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000948	charge-coupled device	skos:exactMatch	Q189880	charge-coupled device	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002182	electron-multiplying charge-coupled device	skos:exactMatch	Q1326007	Electron multiplying charge-coupled device	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000953	microscope	skos:exactMatch	Q196538	microscope	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001095	fluorescence microscope	skos:exactMatch	Q840211	fluorescence microscope	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002180	inverted microscope	skos:exactMatch	Q1463415	inverted microscope	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000954	atomic force microscope	skos:broadMatch	Q49295	atomic force microscope	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001088	electron microscope	skos:exactMatch	Q132560	electron microscope	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000941	scanning electron microscope	skos:broadMatch	Q132560	electron microscope	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000942	field-emission scanning electron microscope	skos:broadMatch	Q96790721	Field emission scanning electron microscope	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002656	environmental scanning electron microscope	skos:exactMatch	Q268401	"
+Environmental scanning electron microscope"	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001099	transmission electron microscope	skos:broadMatch	Q744818	"
+transmission electron microscope"	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001814	Raman microscope	skos:exactMatch	Q7288894	Raman microscope	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000979	reflectron	skos:exactMatch	Q1750503	reflectron	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000997	chromatography column	skos:broadMatch	Q16466654	chromatography column	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000971	support-coated open-tubular column	skos:broadMatch	Q111518735	support-coated open-tubular (SCOT) column	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000973	wall-coated open-tubular column	skos:broadMatch	Q111518736	"
+wall-coated open-tubular (WCOT) column"	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001060	electron multiplier	skos:exactMatch	Q902750	electron multiplier	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001065	atomic force microscopy probe	skos:broadMatch	Q112133816	atomic force microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001098	Wollaston wire	skos:exactMatch	Q1766019	Wollaston wire 	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001810	synchrotron	skos:exactMatch	Q689863	synchrotron	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001909	focal-plane array	skos:broadMatch	Q5463830	focal plane array	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001957	flow cytometer	skos:exactMatch	Q67126484	flow cytometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001994	profilometer	skos:exactMatch	Q443756	profilometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002126	amplifier	skos:exactMatch	Q211554	electronic amplifier	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002340	lock-in amplifier	skos:exactMatch	Q1752933	lock-in amplifier	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002166	autoclave	skos:exactMatch	Q16692122	autoclave (industrial)	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002199	rotary evaporator	skos:broadMatch	Q899083	rotary evaporator	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002244	detector	skos:exactMatch	Q2066909	detector	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001059	ion detector	skos:exactMatch	Q114910039	ion detector 	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001058	Faraday cup	skos:exactMatch	Q19410	Faraday cup	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001063	Daly detector	skos:broadMatch	Q338539	Daly detector	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002503	diode array detector	skos:broadMatch	Q111527216	diode array detector	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002532	Everhart-Thornley detector	skos:broadMatch	Q908159	Everhart-Thornley detector	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002585	refractive index detector	skos:broadMatch	Q904306	differential refractometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002344	electrode	skos:exactMatch	Q176140	electrode	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002356	silver/silver chloride reference electrode	skos:broadMatch	Q900939	silver chloride electrode	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002357	saturated calomel electrode	skos:broadMatch	Q898591	saturated calomel electrode	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002632	rotating-disk electrode	skos:broadMatch	Q3587619	rotating disk electrode	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002394	dropping mercury electrode	skos:exactMatch	Q962292	dropping mercury electrode	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002351	electrochemical cell	skos:exactMatch	Q80097	electrochemical cell	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002427	potentiostat	skos:exactMatch	Q629290	potentiostat	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002444	microwave oven	skos:exactMatch	Q127956	microwave oven	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002473	Knudsen cell	skos:exactMatch	Q6423816	Knudsen cell	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002474	magnetic tweezers	skos:exactMatch	Q6731630	magnetic tweezers	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002579	autosampler	skos:exactMatch	Q1807610	autosampler	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002591	scanning mobility particle sizer	skos:exactMatch	Q7430071	Scanning mobility particle sizer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002607	micromanipulator	skos:exactMatch	Q1933900	micromanipulator	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002635	magnetometer	skos:broadMatch	Q333921	magnetometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002636	superconducting quantum interference device	skos:exactMatch	Q746502	SQUID	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002787	syringe pump	skos:closeMatch	Q63930625	syringe pump	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002793	sensor	skos:exactMatch	Q167676	sensor	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000950	diffractometer	skos:broadMatch	Q904573	diffractometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000963	quadrupole mass spectrometer	skos:broadMatch	Q874519	quadrupole mass spectrometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002021	triple quadrupole mass spectrometer	skos:exactMatch	Q7843529	triple quadrupole mass spectrometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000981	time-of-flight mass spectrometer	skos:broadMatch	Q104417696	time-of-flight mass spectrometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002657	ion trap mass spectrometer	skos:broadMatch	Q1482871	ion trap mass spectrometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001235	Raman spectrometer	skos:exactMatch	Q111486361	Raman spectrometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003
