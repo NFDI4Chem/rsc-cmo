@@ -344,4 +344,74 @@ CHMO:0000012	coulometry	skos:exactMatch	Q1136979	coulometry	semapv:ManualMapping
 CHMO:0000016	potentiometry	skos:broadMatch	Q900632	potentiometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000024	voltammetry	skos:broadMatch	Q904093	voltammetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000026	fast-scan cyclic voltammetry	skos:broadMatch	Q17145186	fast-scan cyclic voltammetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
-CHMO:0000027	hydrodynamic voltammetry		Q17028237	hydrodynamic voltammetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000027	hydrodynamic voltammetry	skos:broadMatch	Q17028237	hydrodynamic voltammetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000028	linear-sweep voltammetry	skos:broadMatch	Q620700	linear sweep voltammetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000030	differential pulse voltammetry	skos:broadMatch	Q5275361	differential pulse voltammetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000032	polarography	skos:broadMatch	Q899397	polarography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000042	anodic stripping voltammetry	skos:broadMatch	Q939328	anodic stripping voltammetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000046	adsorptive stripping voltammetry	skos:broadMatch	Q4685842	adsorptive stripping voltammetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000047	cathodic stripping voltammetry	skos:exactMatch	Q4016325	cathodic stripping voltammetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001285	gravimetric analysis	skos:exactMatch	Q192414	gravimetric analysis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000062	Forster resonance energy transfer	skos:broadMatch	Q367473	Förster resonance energy transfer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000063	bioluminescence resonance energy transfer	skos:broadMatch	Q908291	bioluminescence resonance energy transfer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000061	flow cytometry	skos:exactMatch	Q1141429	flow cytometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001085	fluorescence-activated cell sorting	skos:exactMatch	Q105426874	fluorescence-activated cell sorting	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000065	fluorescence recovery after photobleaching	skos:broadMatch	Q729923	fluorescence recovery after photobleaching	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000290	fluorescence anisotropy		Q903807	fluorescence anisotropy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001713	electrochemical detection	skos:broadMatch	Q117822152	electrochemical detection	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002580	colorimetric test	skos:exactMatch	Q106527425	colorimetric test	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001075	elemental analysis	skos:broadMatch	Q2533665	elemental analysis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001224	activation analysis	skos:broadMatch	Q73211166	activation analysis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000782	neutron activation analysis	skos:broadMatch	Q2408111	neutron activation analysis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001211	titration	skos:broadMatch	Q191010	titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001212	acid–base titration	skos:broadMatch	Q133716	acid–base titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001230	chelatometric titration	skos:broadMatch	Q2493922	chelatometric titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002143	conductometric titration	skos:exactMatch	Q11778221	conductometric titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002371	potentiometric titration	skos:exactMatch	Q1813495	potentiometric titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002535	Karl–Fischer titration	skos:broadMatch	Q899728	Karl Fischer titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002109	pulse oximetry	skos:broadMatch	Q1140495	pulse oximetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000999	separation method	skos:broadMatch	Q898987	separation process	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001000	chromatography	skos:exactMatch	Q170050	chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001001	column chromatography	skos:exactMatch	Q908955	column chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001002	gas chromatography	skos:exactMatch	Q677065	gas chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002671	inverse gas chromatography	skos:broadMatch	Q6060383	inverse gas chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001003	supercritical-fluid chromatography	skos:exactMatch	Q332584	supercritical fluid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001004	liquid chromatography	skos:broadMatch	Q901688	liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001051	normal-phase liquid chromatography	skos:broadMatch	Q2038338	normal phase liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002262	hydrophilic interaction chromatography	skos:broadMatch	Q5955221	hydrophilic interaction chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001009	high-performance liquid chromatography	skos:broadMatch	Q381233	high-performance liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001259	reversed-phase high-performance liquid chromatography	skos:broadMatch	Q117769063	reversed-phase high-performance liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001006	affinity chromatography	skos:broadMatch	Q382799	affinity chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001013	size-exclusion chromatography	skos:exactMatch	Q1617865	size-exclusion chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001007	thin-layer chromatography	skos:broadMatch	Q746133	thin layer chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001008	paper chromatography	skos:exactMatch	Q898473	paper chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001128	adsorption chromatography	skos:broadMatch	Q378597	adsorption chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001129	displacement chromatography	skos:exactMatch	Q5282613	displacement chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002302	reversed-phase chromatography	skos:exactMatch	Q645497	reversed-phase chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002403	partition chromatography	skos:broadMatch	Q907154	partition chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001019	electrophoresis	skos:exactMatch	Q185098	electrophoresis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001024	capillary electrophoresis	skos:broadMatch	Q747468	capillary electrophoresis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001033	capillary isoelectric focusing	skos:exactMatch	Q116798976	capillary isoelectric focusing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001025	isotachophoresis	skos:broadMatch	Q238614	isotachophoresis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001026	isoelectric focusing	skos:exactMatch	Q898861	isoelectric focusing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001021	gel electrophoresis	skos:broadMatch	Q903395	gel electrophoresis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001022	agarose gel electrophoresis	skos:exactMatch	Q903395	agarose gel electrophoresis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001023	polyacrylamide gel electrophoresis	skos:broadMatch	Q2102713	polyacrylamide gel electrophoresis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002275	native polyacrylamide gel electrophoresis	skos:exactMatch	Q15836380	native polyacrylamide gel electrophoresis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002276	blue native polyacrylamide gel electrophoresis	skos:broadMatch	Q117745371	BN-PAGE	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002278	quantitative preparative native continuous polyacrylamide gel electrophoresis	skos:broadMatch	Q592853	QPNC-PAGE	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001042	denaturing gradient gel electrophoresis	skos:exactMatch	Q857463	denaturing gradient gel electrophoresis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002316	pulsed-field gel electrophoresis	skos:narrowMatch	Q855275	pulsed field gel electrophoresis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001036	micellar electrokinetic chromatography	skos:broadMatch	Q258224	micellar electrokinetic chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001038	capillary electrochromatography	skos:exactMatch	Q5035393	capillary electrochromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001044	dielectrophoresis	skos:broadMatch	Q902890	dielectrophoresis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001784	pervaporation	skos:exactMatch	Q2072760	pervaporation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001029	two dimensional gel electrophoresis	skos:narrowMatch	Q4688061	two-dimensional gel electrophoresi	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001018	two-dimensional chromatography	skos:exactMatch	Q7858694	two-dimensional chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002087	thermophoresis	skos:exactMatch	Q610090	thermophoresis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002231	purification	skos:exactMatch	Q682483	refining	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001640	filtration	skos:exactMatch	Q244772	filtration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001643	reverse osmosis	skos:broadMatch	Q272175	reverse osmosis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001644	suction filtration	skos:broadMatch	Q3072255	suction filtration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002066	trituration	skos:narrowMatch	Q961231	trituration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002217	sample sublimation	skos:exactMatch	Q105582961	sublimation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
