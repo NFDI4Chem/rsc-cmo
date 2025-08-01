@@ -415,3 +415,152 @@ CHMO:0001643	reverse osmosis	skos:broadMatch	Q272175	reverse osmosis	semapv:Manu
 CHMO:0001644	suction filtration	skos:broadMatch	Q3072255	suction filtration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002066	trituration	skos:narrowMatch	Q961231	trituration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002217	sample sublimation	skos:exactMatch	Q105582961	sublimation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002218	fractional sublimation	skos:exactMatch	Q1440584	fractional sublimation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001132	laser ablation	skos:exactMatch	Q1806547	laser ablation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001305	self-assembly	skos:exactMatch	Q910150	self-assembly	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001307	molecular self-assambly	skos:exactMatch	Q13365147	molecular self-assambly	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001292	vacuum deposition	skos:broadMatch	Q3044964	vacuum deposition	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001311	atomic layer deposition	skos:broadMatch	Q757625	atomic layer deposition	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001314	chemical vapour deposition	skos:broadMatch	Q505668	chemical vapour deposition	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001325	plasma-assisted chemical vapour deposition	skos:broadMatch	Q905958	plasma-assisted chemical vapour deposition	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001329	dry deposition	skos:broadMatch	Q11873185	dry deposition	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001330	electrophoretic deposition	skos:broadMatch	Q925358	electrophoretic deposition	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001336	epitaxy	skos:exactMatch	Q1135540	epitaxy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001341	molecular beam epitaxy	skos:exactMatch	Q898542	molecular beam epitaxy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001356	physical vapour deposition	skos:broadMatch	Q900134	physical vapour deposition	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001357	cathodic arc deposition	skos:broadMatch	Q900966	cathodic arc deposition	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001358	electron-beam-induced deposition	skos:exactMatch	Q5358152	electron beam-induced deposition	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001363	pulsed laser deposition	skos:exactMatch	Q901321	pulsed laser deposition	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001364	sputter deposition	skos:broadMatch	Q847609	sputter deposition	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001376	thin-film deposition	skos:exactMatch	Q1758673	thin-film deposition	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002156	silanisation	skos:exactMatch	Q2285655	silanisation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002158	Czochralski process	skos:broadMatch	Q594666	Czochralski process	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002159	Verneuil process	skos:broadMatch	Q898662	Verneuil process	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002160	Bridgeman technique	skos:broadMatch	Q902938	Bridgman–Stockbarger technique	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001377	hydrothermal synthesis	skos:broadMatch	Q10861356	hydrothermal synthesismethod	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001379	chemical vapour infiltration	skos:exactMatch	Q1069426	chemical vapour infiltration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001450	steam reforming	skos:exactMatch	Q556466	steam reforming	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001456	scanning probe lithography	skos:exactMatch	Q7430072	scanning probe lithography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001457	dip-pen nanolithography	skos:broadMatch	Q5279666	dip-pen nanolithography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001388	lithography	skos:broadMatch	Q133036	lithography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001390	microlithography	skos:broadMatch	Q109875360	microlithography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001391	nanolithography	skos:exactMatch	Q1106386	nanolithography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001392	nanoimprint lithography	skos:exactMatch	Q1540138	nanoimprint lithography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001401	electron-beam lithography	skos:exactMatch	Q256845	electron-beam lithography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001407	ion-beam lithography	skos:exactMatch	Q1672059	ion beam lithography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001410	photolithography	skos:broadMatch	Q622938	photolithography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001414	interference lithography	skos:broadMatch	Q6046394	interference lithography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001417	ultraviolet lithography	skos:exactMatch	Q4474979	ultraviolet lithography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001418	contact lithography	skos:exactMatch	Q5164834	contact lithography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001422	extreme ultraviolet lithography	skos:exactMatch	Q371965	extreme ultraviolet lithography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001425	soft lithography	skos:exactMatch	Q7554001	soft lithography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001427	moulding	skos:exactMatch	Q1055732	molding	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001428	blow moulding	skos:exactMatch	Q881884	blow molding	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001430	injection moulding	skos:exactMatch	Q260606	injection molding	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001435	rotational moulding	skos:exactMatch	Q685905	rotational molding	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001436	transfer moulding	skos:exactMatch	Q382824	transfer molding	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001442	X-ray lithography	skos:exactMatch	Q1408939	X-ray lithography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002191	nanosphere lithography	skos:exactMatch	Q17043033	nanosphere lithography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002251	solvent vapour annealing	skos:broadMatch	Q85801975	solvent vapour annealing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001460	peptisation	skos:exactMatch	Q902564	peptization	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001464	ageing	skos:exactMatch	Q439078	ageing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001466	atomisation	skos:closeMatch	Q1066303	spray drying	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001471	dip coating	skos:broadMatch	Q1069196	dip coating	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001472	spin coating	skos:broadMatch	Q1305254	spin coating	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001473	combustion	skos:exactMatch	Q133235	combustion	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001475	laser cooling	skos:exactMatch	Q163117	laser cooling	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001480	curing	skos:exactMatch	Q2991861	curing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002497	ultraviolet curing	skos:exactMatch	Q18355911	ultraviolet curing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001485	derivatisation	skos:exactMatch	Q2294884	derivatization	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001488	chemical decomposition	skos:exactMatch	Q192036	chemical decomposition	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001499	spinodal decomposition	skos:exactMatch	Q2666979	spinodal decomposition	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001500	thermal decomposition	skos:exactMatch	Q2611095	thermal decomposition	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001501	gasification	skos:exactMatch	Q646882	gasification	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001502	pyrolysis	skos:exactMatch	Q176848	pyrolysis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001520	thermolysis	skos:exactMatch	Q2611095	thermal decomposition	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001521	flash vacuum thermolysis	skos:exactMatch	Q1427190	flash vacuum pyrolysis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001523	electrodialysis	skos:exactMatch	Q2290646	electrodialysis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001524	micro-dialysis	skos:broadMatch	Q3856966	microdialysis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001532	distillation	skos:exactMatch	Q101017	distillation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001534	continuous distillation	skos:broadMatch	Q1863368	continuous distillation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001535	extractive distillation	skos:exactMatch	Q1385210	extractive distillation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001536	fractional distillation	skos:exactMatch	Q840492	fractional distillation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001538	simple distillation	skos:exactMatch	Q30334249	simple distillation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001539	steam distillation	skos:broadMatch	Q1164392	steam distillation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001540	vacuum distillation	skos:exactMatch	Q1648382	vacuum distillation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001542	molecular distillation	skos:exactMatch	Q9206474	molecular distillation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001543	short-path distillation	skos:broadMatch	Q23645139	short path distillation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002634	azeotropic distillation	skos:exactMatch	Q593181	azeotropic distillation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001552	drum drying	skos:broadMatch	Q5309085	drum drying	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001553	freeze drying	skos:exactMatch	Q723912	freeze drying	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001554	oven drying	skos:closeMatch	Q63385598	oven drying	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001555	spray drying	skos:exactMatch	Q1066303	spray drying	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001555	supercritical drying	skos:broadMatch	Q332585	supercritical drying	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001557	vacuum drying	skos:exactMatch	Q25305160	vacuum drying	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001558	etching	skos:exactMatch	Q2368605	etching	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001559	dry etching	skos:exactMatch	Q1191918	dry etching	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001560	plasma etching	skos:broadMatch	Q2392011	plasma etching	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001561	deep reactive-ion etching	skos:broadMatch	Q486936	deep reactive-ion etching	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001562	advanced silicon etching	skos:broadMatch	Q4686274	advanced silicon etching	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001574	evaporation	skos:exactMatch	Q132814	evaporation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001577	extraction	skos:broadMatch	Q844704	extraction	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001583	liquid-solid extraction	skos:exactMatch	Q25383999	liquid-solid extraction	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001586	solid-phase micro-extraction	skos:exactMatch	Q903970	solid-phase micro-extraction	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001598	solvent extraction	skos:broadMatch	Q780219	liquid–liquid extraction	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001600	liquid–liquid extraction	skos:exactMatch	Q780219	liquid–liquid extraction	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001607	solid–liquid extraction	skos:exactMatch	Q25383999	solid–liquid extraction	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001609	Soxhlet extraction	skos:exactMatch	Q29509005	Soxhlet extraction	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001610	supercritical fluid extraction	skos:exactMatch	Q4410204	supercritical fluid extraction	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002742	elution	skos:exactMatch	Q684907	elution	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001613	extrusion	skos:exactMatch	Q139143	extrusion	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001618	spinning	skos:exactMatch	Q453762	spinning	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001619	dry spinning	skos:broadMatch	Q2454790	dry spinning	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001620	electrospinning	skos:broadMatch	Q1533542	electrospinning	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001621	gel spinning	skos:broadMatch	Q12018116	gel spinning	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001622	melt spinning	skos:broadMatch	Q1428318	melt spinning	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001623	wet spinning	skos:broadMatch	Q1275966	wet spinning	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001624	fermentation	skos:exactMatch	Q41760	fermentation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001625	fractionation	skos:exactMatch	Q15305109	fractionation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001626	field-flow fractionation	skos:exactMatch	Q782281	field-flow fractionation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001637	freeze distillation	skos:exactMatch	Q3489476	fractional freezing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001639	Cohn process	skos:exactMatch	Q5141378	Cohn process	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001646	gelation	skos:exactMatch	Q48995704	gelation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001659	electrospray ionisation	skos:exactMatch	Q902061	electrospray ionisation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001672	direct analysis in real time	skos:broadMatch	Q3614983	direct analysis in real time	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001674	hot isostatic pressing	skos:exactMatch	Q1601582	hot isostatic pressing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001675	labelling	skos:broadMatch	Q380709	labelling	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001677	isotopic labelling	skos:exactMatch	Q370228	isotopic labelling	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001681	leaching	skos:exactMatch	Q1483184	leaching	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001685	mixing	skos:exactMatch	Q379697	mixing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002020	homogenisation	skos:broadMatch	Q1165158	homogenisation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002773	dissolving	skos:exactMatch	Q3133701	dissolution	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002774	stirring	skos:exactMatch	Q2826873	stirring	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001686	Ostwald ripening	skos:exactMatch	Q903984	Ostwald ripening	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001687	photodegradation	skos:exactMatch	Q1902073	photodegradation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001698	radiolysis	skos:exactMatch	Q788463	radiolysis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001700	pulse radiolysis	skos:exactMatch	Q73225763	pulse radiolysis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001701	sintering	skos:exactMatch	Q844613	sintering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001705	selective laser sintering	skos:exactMatch	Q428412	selective laser sintering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001706	spark plasma sintering	skos:broadMatch	Q2307265	spark plasma sintering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001707	sonication	skos:exactMatch	Q3964828	sonication	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001938	collision-induced dissociation	skos:exactMatch	Q3710336	collision-induced dissociation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002151	passivation	skos:exactMatch	Q917260Q567502	passivation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002152	anodisation	skos:exactMatch	Q567502	anodisation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002196	activation	skos:exactMatch	Q4661718	activation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001477	crystallisation	skos:exactMatch	Q284256	crystallization	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001479	fractional crystallisation	skos:exactMatch	Q15045177	fractional crystallisation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001688	precipitation	skos:exactMatch	Q113796	precipitation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001690	co-precipitation	skos:exactMatch	Q131910403	coprecipitation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001691	immunoprecipitation	skos:exactMatch	Q901305	immunoprecipitation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001694	chromatin immunoprecipitation	skos:broadMatch	Q901026	chromatin immunoprecipitation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002466	protein precipitation	skos:broadMatch	Q7251495	protein precipitation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002550	emulsion polymerisation	skos:broadMatch	Q910678	emulsion polymerisation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002606	suspension polymerisation	skos:broadMatch	Q901073	suspension polymerisation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002609	graphitisation	skos:exactMatch	Q123182971	graphitization	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001465	annealing	skos:exactMatch	Q187360	annealing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001467	calcination	skos:exactMatch	Q105991955	calcination	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002772	degassing	skos:exactMatch	Q3633878	degassing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002836	Stöber process	skos:broadMatch	Q7630115	Stöber process	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002016	ultracentrifugation	skos:broadMatch	Q21403009	ultracentrifugation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002018	isopycnic centrifugation	skos:exactMatch	Q11602725	isopycnic centrifugation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002019	rate-zonal centrifugation	skos:broadMatch	Q19605688	rate-zonal centrifugation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
