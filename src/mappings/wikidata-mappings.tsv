@@ -32,8 +32,7 @@ CHMO:0002358	auxiliary electrode	skos:exactMatch	Q1768785	auxiliary electrode	se
 CHMO:0002795	biosensor	skos:exactMatch	Q669391	biosensor	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002804	blank value	skos:narrowMatch	Q884378	blank value	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8	check predicate id
 CHMO:0000682	calorimetry	skos:exactMatch	Q634314	calorimetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
-CHMO:0002592	carbon electrode	skos:broadMatch	Q11376187	"
-graphite/black carbon electrode"	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002592	carbon electrode	skos:broadMatch	Q11376187	graphite/black carbon electrode	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002932	cathode	skos:exactMatch	Q175233	cathode	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002387	chromatogram	skos:exactMatch	Q3192054	chromatogram	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002477	chromatograph	skos:broadMatch	Q107049539	chromatograph	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
@@ -564,3 +563,45 @@ CHMO:0002836	Stöber process	skos:broadMatch	Q7630115	Stöber process	semapv:Man
 CHMO:0002016	ultracentrifugation	skos:broadMatch	Q21403009	ultracentrifugation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002018	isopycnic centrifugation	skos:exactMatch	Q11602725	isopycnic centrifugation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002019	rate-zonal centrifugation	skos:broadMatch	Q19605688	rate-zonal centrifugation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001055	double-focusing mass spectrometer	skos:exactMatch	Q30934769	double-focusing mass spectrometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0001216	optically detected magnetic resonance	skos:broadMatch	Q56276866	optically detected magnetic resonance	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000619	photoacoustic spectroscopy	skos:exactMatch	Q900415	photoacoustic spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0010024	risk assessment	skos:exactMatch	Q1058438	risk assessment	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0002815	solubility	skos:exactMatch	Q170731	solubility	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0010003	protective clothing	skos:exactMatch	Q14524031	protective clothing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0010006	emergency shower	skos:exactMatch	Q3037859	emergency shower	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0010007	fire blanket	skos:exactMatch	Q1409603	fire blanket	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0010008	fire extinguisher	skos:exactMatch	Q190672	fire extinguisher	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0000943	scanning probe microscope	skos:exactMatch	Q96782348	scanning probe microscope	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0002532	Everhart–Thornley detector	skos:exactMatch	Q908159	Everhart–Thornley detector	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0002395	hanging mercury drop electrode	skos:exactMatch	Q568031	hanging mercury drop electrode	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0002657	ion trap mass spectrometer	skos:exactMatch	Q1482871	ion trap mass spectrometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0002521	atomic absorption spectrometer	skos:exactMatch	Q123855004	atomic absorption spectrometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0002682	ellipsometer	skos:exactMatch	Q114047914	ellipsometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0002794	chemosensor	skos:exactMatch	Q114047884	chemosensor	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0002826	Dean-Stark apparatus	skos:exactMatch	Q902057	Dean-Stark apparatus	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0000804	atomic spectrum	skos:exactMatch	Q10911238	atomic spectrum	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0000918	flow curve	skos:exactMatch	Q5691707	flow curve	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0002389	total ion chromatogram	skos:exactMatch	Q107392164	total ion chromatogram	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0002805	working range	skos:exactMatch	Q8034982	working range	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0002860	diastereomeric excess	skos:exactMatch	Q1209198	diastereomeric excess	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0010023	hazard analysis	skos:exactMatch	Q3614972	hazard analysis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0010025	control banding	skos:exactMatch	Q2676051	control banding	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0000197	spin-echo small angle neutron scattering	skos:exactMatch	Q57341078	spin-echo small angle neutron scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0000778	anomalous X-ray scattering	skos:exactMatch	Q4769932	anomalous X-ray scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0002617	X-ray photon correlation spectroscopy	skos:exactMatch	Q56291589	X-ray photon correlation spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0000433	ion scattering	skos:exactMatch	Q28687673	ion scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0000210	neutron reflectometry	skos:exactMatch	Q1981942	neutron reflectometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0000239	graphite furnace atomic absorption spectrometry	skos:exactMatch	Q2840139	graphite furnace atomic absorption spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0000421	impedance spectroscopy	skos:exactMatch	Q20820484	impedance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0000430	ion mobility spectroscopy	skos:exactMatch	Q102291040	ion mobility spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0000532	thermal ionisation mass spectrometry	skos:exactMatch	Q950059	thermal ionisation mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0000559	plasma desorption mass spectrometry	skos:exactMatch	Q3705997	plasma desorption mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0000563	fast-atom bombardment mass spectrometry	skos:exactMatch	Q72369916	fast-atom bombardment mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0000590	neutron spectroscopy	skos:exactMatch	Q7003117	neutron spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0000289	fluorescence cross-correlation spectroscopy	skos:exactMatch	Q8564081	fluorescence cross-correlation spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0001135	viscometry	skos:exactMatch	Q2528362	viscometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0001883	pulsed field gradient	skos:exactMatch	Q7259694	pulsed field gradient	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0001290	time-resolved microwave conductivity	skos:exactMatch	Q108337235	time-resolved microwave conductivity	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0000581	microspectroscopy	skos:exactMatch	Q48780694	microspectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
+CHMO:0000050	infrared microscopy	skos:exactMatch		infrared microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.7	semapv:LexicalMatching
