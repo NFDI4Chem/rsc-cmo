@@ -47,7 +47,7 @@ CHMO:0000470	mass spectrometry	skos:exactMatch	AFP:0001427	mass spectrometry	sem
 CHMO:0000806	mass spectrum	skos:exactMatch	AFR:0000439	mass spectrum	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0,95
 CHMO:0002743	matrix	skos:exactMatch	AFRL:0000547	matrix role	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0,95
 CHMO:0000974	open-tubular column	skos:exactMatch	AFE:0000691	open-tubular column	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
-CHMO:0000975	packed column	skos:exactMatch	AFE:0000692	packed column	semapv:ManualMappingCuration    	   https://orcid.org/0009-0009-1663-1003	0.95
+CHMO:0000975	packed column	skos:exactMatch	AFE:0000692	packed column	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
 CHMO:0001234	spectrometer	skos:exactMatch	AFE:0000857	spectrometer	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
 CHMO:0000986	stationary phase	skos:exactMatch	AFRL:0000032	stationary phase	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
 CHMO:0002162	titration curve	skos:exactMatch	AFR:0000490	titration curve	semapv:ManualMappingCuration    	https://orcid.org/0009-0009-1663-1003	0.95
@@ -248,17 +248,13 @@ CHMO:0001707	sonication	skos:exactMatch	AFP:0002293	sonication	semapv:ManualMapp
 CHMO:0001465	annealing	skos:exactMatch	AFP:0000792	annealing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
 CHMO:0002771	concentrating	skos:exactMatch	AFP:0002185	concentrating	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
 CHMO:0002772	degassing	skos:exactMatch	AFP:0000593	degassing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
-CHMO:0000166	light scattering	skos:broadMatch	AFP:0003594	scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8	check definitions
-CHMO:0000996	gaseous mobile phase	skos:exactMatch	AFRL:0000164	gaseous mobile phase	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8	check definitions
+CHMO:0000166	light scattering	skos:exactMatch	AFP:0003594	scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000997	chromatography column	skos:exactMatch	AFE:0000217	chromatography column	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
-CHMO:0002793	sensor	skos:broadMatch	AFE:0002184	sensor	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8	confirm predicate id
-CHMO:0002232	spectrophotometer	skos:broadMatch	AFE:0000185	spectrophotometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8	confirm predicate id
 CHMO:0002740	analyte role	skos:exactMatch	AFRL:0000127	analyte role	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
-CHMO:0002423	melting curve	skos:narrowMatch	AFR:0000297	melting curve	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.75	AFO definition more focused on DNA analysis
-CHMO:0001103	recorded image	skos:broadMatch	IAO:0000101	image	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8	confirm predicate id
+CHMO:0002423	melting curve	skos:exactMatch	AFR:0000297	melting curve	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.75
 CHMO:0002752	chromatography column length	skos:exactMatch	AFR:0002029	chromatography column length	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.95
 CHMO:0001215	magnetic resonance method	skos:narrowMatch	AFP:0002211	magnetic resonance assay	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
-CHMO:0002092	volumetry	skos:narrowMatch	AFP:0000022	volumetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.85	confirm predicate id
+CHMO:0002092	volumetry	skos:exactMatch	AFP:0000022	volumetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.85
 CHMO:0002827	weighing	skos:exactMatch	AFP:0000503	weighing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.9
 CHMO:0001487	decomposition	skos:exactMatch	AFFN:0000185	to decompose	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.9
 CHMO:0002823	volume concentration	skos:exactMatch	AFR:0002110	volume concentration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.9
