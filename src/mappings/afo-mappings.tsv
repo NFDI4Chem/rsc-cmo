@@ -261,3 +261,13 @@ CHMO:0001215	magnetic resonance method	skos:narrowMatch	AFP:0002211	magnetic res
 CHMO:0002092	volumetry	skos:narrowMatch	AFP:0000022	volumetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.85	confirm predicate id
 CHMO:0002827	weighing	skos:exactMatch	AFP:0000503	weighing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.9
 CHMO:0001487	decomposition	skos:exactMatch	AFFN:0000185	to decompose	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.9
+CHMO:0002823	volume concentration	skos:exactMatch	AFR:0002110	volume concentration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.9
+CHMO:0002824	number concentration	skos:exactMatch	AFR:0002935	number concentration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.9
+CHMO:0000996	gaseous mobile phase	skos:exactMatch	AFRL:0000164	gaseous mobile phase	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.9
+CHMO:0002776	stir bar	skos:exactMatch	AFE:0000199	stir bar	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8	semapv:LexicalMatching
+CHMO:0002793	sensor	skos:exactMatch	AFE:0002184	sensor	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.9
+CHMO:0002232	spectrophotometer	skos:exactMatch	AFE:0000185	spectrophotometer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.9
+CHMO:0002740	analyte role	skos:exactMatch	AFRL:0000127	analyte role	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.9
+CHMO:0001215	magnetic resonance method	skos:exactMatch	AFP:0002211	magnetic resonance method	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.9
+CHMO:0001247	charge transport measurement method	skos:exactMatch	AFP:0001227	charge transport measurement	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.9
+CHMO:0001718	evaporative light scattering detection	skos:exactMatch	AFP:0003837	evaporative light scattering detection	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.9
