@@ -41,3 +41,4 @@ CHMO:0000279	atomic fluorescence spectroscopy	skos:exactMatch	FIX:0000290	atomic
 CHMO:0000290	fluorescence anisotropy	skos:exactMatch	FIX:0000128	fluorescence anisotropy measurement	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000292	ultraviolet-visible spectrophotometry	skos:exactMatch	FIX:0000016	ultraviolet/visible spectrophotometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000316	soft X-ray emission spectroscopy	skos:exactMatch	FIX:0000672	soft X-ray emission spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000329	continuous-wave electron spin resonance spectroscopy	skos:exactMatch	FIX:0000033	continuous-wave EPR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
