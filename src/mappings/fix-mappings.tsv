@@ -49,3 +49,4 @@ CHMO:0000482	electrospray ionisation mass spectrometry	skos:exactMatch	FIX:00000
 CHMO:0000486	ionspray mass spectrometry	skos:exactMatch	FIX:0000862	ion spray ionization mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000491	field ionisation mass spectrometry	skos:exactMatch	FIX:0000913	field ionization mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000497	gas chromatography-mass spectrometry	skos:exactMatch	FIX:0000921	gas chromatography-mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000515	laser desorption-ionisation mass spectrometry	skos:exactMatch	FIX:0000080	laser ionization mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
