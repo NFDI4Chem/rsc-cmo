@@ -19,7 +19,7 @@
 subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	author_id	confidence	comment
 CHMO:0000003	electrochemical analysis	skos:exactMatch	FIX:0000764	electroanalytical method	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000011	high-frequency conductometry	skos:exactMatch	FIX:0000773	high frequency conductometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
-CHMO:0000056	Raman microscopy	skos:exactMatch	FIX:0000695	vibrational spectroscopic imaging	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000056	Raman microscopy	skos:exactMatch	FIX:0000697	Raman imaging	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000057	luminescence detection	skos:exactMatch	FIX:0000427	chemiluminescence method	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000067	microscopy	skos:exactMatch	FIX:0000005	microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000068	electron microscopy	skos:exactMatch	FIX:0000051	electron microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
