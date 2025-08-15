@@ -33,3 +33,4 @@ CHMO:0000132	scanning tunneling microscopy	skos:exactMatch	FIX:0000112	scanning 
 CHMO:0000181	neutron scattering	skos:exactMatch	FIX:0000400	neutron scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000184	small-angle neutron scattering	skos:exactMatch	FIX:0000253	small-angle neutron scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000232	electronic spectroscopy	skos:exactMatch	FIX:0000032	electronic spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000233	atomic spectroscopy	skos:exactMatch	FIX:0000054	atomic spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
