@@ -43,3 +43,4 @@ CHMO:0000292	ultraviolet-visible spectrophotometry	skos:exactMatch	FIX:0000016	u
 CHMO:0000316	soft X-ray emission spectroscopy	skos:exactMatch	FIX:0000672	soft X-ray emission spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000329	continuous-wave electron spin resonance spectroscopy	skos:exactMatch	FIX:0000033	continuous-wave EPR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000330	pulsed electron spin resonance spectroscopy	skos:exactMatch	FIX:0000034	pulse EPR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000404	X-ray photoelectron spectroscopy	skos:exactMatch	FIX:0000041	X-ray photoelectron spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
