@@ -26,3 +26,4 @@ CHMO:0000068	electron microscopy	skos:exactMatch	FIX:0000051	electron microscopy
 CHMO:0000073	scanning electron microscopy	skos:exactMatch	FIX:0000124	scanning electron microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000080	transmission electron microscopy	skos:exactMatch	FIX:0000126	transmission electron microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000087	fluorescence microscopy	skos:exactMatch	FIX:0000123	fluorescence microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000097	ion microscopy	skos:exactMatch	FIX:0000962	ion microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
