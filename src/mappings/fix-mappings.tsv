@@ -54,3 +54,4 @@ CHMO:0000519	matrix-assisted laser desorption-ionisation mass spectrometry	skos:
 CHMO:0000520	matrix-assisted laser desorption-ionisation time-of-flight mass spectrometry	skos:exactMatch	FIX:0000920	MALDI-TOF mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000524	liquid chromatography-mass spectrometry	skos:exactMatch	FIX:0000924	liquid chromatography-mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000525	photoionisation mass spectrometry	skos:exactMatch	FIX:0000906	photoionization mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000526	atmospheric pressure photoionisation mass spectrometry	skos:exactMatch	FIX:0000907	atmospheric pressure photoionisation mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
