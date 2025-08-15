@@ -47,3 +47,4 @@ CHMO:0000404	X-ray photoelectron spectroscopy	skos:exactMatch	FIX:0000041	X-ray 
 CHMO:0000480	electron ionisation mass spectrometry	skos:exactMatch	FIX:0000089	electron ionization mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000482	electrospray ionisation mass spectrometry	skos:exactMatch	FIX:0000079	electrospray ionization mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000486	ionspray mass spectrometry	skos:exactMatch	FIX:0000862	ion spray ionization mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000491	field ionisation mass spectrometry	skos:exactMatch	FIX:0000913	field ionization mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
