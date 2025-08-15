@@ -55,3 +55,4 @@ CHMO:0000520	matrix-assisted laser desorption-ionisation time-of-flight mass spe
 CHMO:0000524	liquid chromatography-mass spectrometry	skos:exactMatch	FIX:0000924	liquid chromatography-mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000525	photoionisation mass spectrometry	skos:exactMatch	FIX:0000906	photoionization mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000526	atmospheric pressure photoionisation mass spectrometry	skos:exactMatch	FIX:0000907	atmospheric pressure photoionisation mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000539		skos:exactMatch	FIX:0000864	electrothermal vaporization-inductively coupled plasma-mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
