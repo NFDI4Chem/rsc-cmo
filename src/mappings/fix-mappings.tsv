@@ -31,3 +31,4 @@ CHMO:0000101	scanning ion microscopy	skos:exactMatch	FIX:0000963	scanning ion mi
 CHMO:0000102	optical microscopy	skos:exactMatch	FIX:0000113	optical microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000132	scanning tunneling microscopy	skos:exactMatch	FIX:0000112	scanning tunneling microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000181	neutron scattering	skos:exactMatch	FIX:0000400	neutron scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000184	small-angle neutron scattering	skos:exactMatch	FIX:0000253	small-angle neutron scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
