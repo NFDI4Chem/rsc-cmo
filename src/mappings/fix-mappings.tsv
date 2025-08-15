@@ -23,3 +23,4 @@ CHMO:0000056	Raman microscopy	skos:exactMatch	FIX:0000695	vibrational spectrosco
 CHMO:0000057	luminescence detection	skos:exactMatch	FIX:0000427	chemiluminescence method	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000067	microscopy	skos:exactMatch	FIX:0000005	microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000068	electron microscopy	skos:exactMatch	FIX:0000051	electron microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000073	scanning electron microscopy	skos:exactMatch	FIX:0000124	scanning electron microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
