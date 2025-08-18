@@ -145,3 +145,4 @@ CHMO:0000380	momentum-resolved bremsstrahlung spectroscopy	skos:exactMatch	FIX:0
 CHMO:0000387	photoelectron spectroscopy	skos:exactMatch	FIX:0000040	photoelectron emission spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000388	angle-resolved photoelectron spectroscopy	skos:exactMatch	FIX:0000665	angle resolved synchrotron radiation photoelectron spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000389	depth-selective photoelectron spectroscopy	skos:exactMatch	FIX:0000675	gamma-ray photoelectron spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000394	synchrotron radiation photoelectron spectroscopy	skos:exactMatch	FIX:0000676	synchrotron radiation photoelectron spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
