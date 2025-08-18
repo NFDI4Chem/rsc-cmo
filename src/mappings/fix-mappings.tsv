@@ -152,3 +152,4 @@ CHMO:0000399	partial-yield spectroscopy	skos:exactMatch	FIX:0000679	partial yiel
 CHMO:0000400	resonance-enhanced photoelectron spectroscopy	skos:exactMatch	FIX:0000685	resonance enhanced photoelectron spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000401	ultraviolet photoelectron spectroscopy	skos:exactMatch	FIX:0000042	ultraviolet photoelectron spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000402	angle-resolved ultraviolet photoelectron spectroscopy	skos:exactMatch	FIX:0000683	angle resolved ultraviolet photoelectron spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000405	angle resolved X-ray photoelectron spectroscopy	skos:exactMatch	FIX:0000684	angle resolved X-ray photoelectron spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
