@@ -106,3 +106,4 @@ CHMO:0000052	near-infrared microscopy	skos:exactMatch	FIX:0000699	near-infrared 
 CHMO:0000055	secondary ion mass spectrometry imaging	skos:exactMatch	FIX:0000960	SIMS microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000060	fluorescence detection	skos:exactMatch	FIX:0000812	fluorescence method	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000088	fluorescence laser scanning microscopy	skos:exactMatch	FIX:0000421	laser scanning fluorescence microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000090	multi-photon laser scanning microscopy	skos:exactMatch	FIX:0000383	multiphoton laser scanning microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
