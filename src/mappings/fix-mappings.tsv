@@ -102,3 +102,4 @@ CHMO:0001016	gas-liquid chromatography	skos:exactMatch	FIX:0000631	gas-liquid ch
 CHMO:0000039	tast polarography	skos:exactMatch	FIX:0000795	tast polarography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000040	square-wave voltammetry	skos:exactMatch	FIX:0000816	square-wave polarography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000050	infrared microscopy	skos:exactMatch	FIX:0000583	infrared imaging	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000052	near-infrared microscopy	skos:exactMatch	FIX:0000699	near-infrared imaging	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
