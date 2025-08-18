@@ -95,3 +95,4 @@ CHMO:0000027	hydrodynamic voltammetry	skos:exactMatch	FIX:0000792	hydrodynamic v
 CHMO:0000028	linear-sweep voltammetry	skos:exactMatch	FIX:0000791	linear sweep voltammetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000032	polarography	skos:exactMatch	FIX:0000794	polarography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000033	alternating current polarography	skos:exactMatch	FIX:0000814	alternating current polarography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000035	square-wave polarography	skos:exactMatch	FIX:0000816	square-wave polarography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
