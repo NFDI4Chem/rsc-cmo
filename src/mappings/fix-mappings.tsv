@@ -158,3 +158,4 @@ CHMO:0000417	Mossbauer spectroscopy	skos:exactMatch	FIX:0000050	Mossbauer spectr
 CHMO:0000443	laser electric resonance spectroscopy	skos:exactMatch	FIX:0000074	laser electric resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000470	mass spectrometry	skos:exactMatch	FIX:0000047	mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000471	accelerator mass spectrometry	skos:exactMatch	FIX:0000707	accelerator mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000472	chemical ionisation mass spectrometry	skos:exactMatch	FIX:0000088	chemical ionization mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
