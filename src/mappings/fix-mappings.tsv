@@ -86,3 +86,4 @@ CHMO:0000005	chrono-amperometry	skos:exactMatch	FIX:0000785	chronoamperometry	se
 CHMO:0000014	chrono-coulometry	skos:exactMatch	FIX:0000786	chronocoulometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000015	potentiostatic coulometry	skos:exactMatch	FIX:0000787	controlled potential coulometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000016	potentiometry	skos:exactMatch	FIX:0000775	potentiometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000017	chrono-potentiometry	skos:exactMatch	FIX:0000780	chronopotentiometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
