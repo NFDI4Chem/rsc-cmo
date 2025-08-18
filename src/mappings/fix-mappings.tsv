@@ -170,3 +170,4 @@ CHMO:0000563	fast atom bombardment mass spectrometry	skos:exactMatch	FIX:0000086
 CHMO:0000565	time-of-flight secondary ion mass spectrometry	skos:exactMatch	FIX:0000959	time-of-flight secondary ion mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000567	15N nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000136	nitrogen-15 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000568	sector field mass spectrometry	skos:exactMatch	FIX:0000093	sector field mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000570	proton transfer reaction ion trap mass spectrometry	skos:exactMatch	FIX:0000919	proton transfer reaction ion trap mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
