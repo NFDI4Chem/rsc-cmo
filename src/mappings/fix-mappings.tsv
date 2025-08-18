@@ -72,3 +72,4 @@ CHMO:0000924	magnetometry	skos:exactMatch	FIX:0000048	magnetometry	semapv:Manual
 CHMO:0000999	separation method	skos:exactMatch	FIX:0000002	separation method	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001000	chromatography	skos:exactMatch	FIX:0000053	chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001002	gas chromatography	skos:exactMatch	FIX:0000098	gas chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001018	two-dimensional chromatography	skos:exactMatch	FIX:0001152	two-dimensional chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
