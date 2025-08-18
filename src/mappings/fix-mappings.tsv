@@ -111,3 +111,4 @@ CHMO:0000112	scanning probe microscopy	skos:exactMatch	FIX:0000121	scanning prob
 CHMO:0000113	atomic force microscopy	skos:exactMatch	FIX:0000114	atomic force microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000115	magnetic force microscopy	skos:exactMatch	FIX:0000118	magnetic force microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000120	scanning near-field optical microscopy	skos:exactMatch	FIX:0000385	scanning near-field optical microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000142	electron diffraction	skos:exactMatch	FIX:0000009	electron crystallography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
