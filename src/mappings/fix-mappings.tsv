@@ -119,3 +119,4 @@ CHMO:0000179	small-angle light scattering	skos:exactMatch	FIX:0000254	small-angl
 CHMO:0000187	wide angle neutron scattering	skos:exactMatch	FIX:0001130	wide-angle neutron scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000200	X-ray scattering	skos:exactMatch	FIX:0000073	X-ray scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000204	small-angle X-ray scattering	skos:exactMatch	FIX:0000223	small-angle X-ray scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000207	wide-angle X-ray scattering	skos:exactMatch	FIX:0001128	wide-angle X-ray scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
