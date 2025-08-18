@@ -114,3 +114,4 @@ CHMO:0000120	scanning near-field optical microscopy	skos:exactMatch	FIX:0000385	
 CHMO:0000142	electron diffraction	skos:exactMatch	FIX:0000009	electron crystallography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000156	X-ray diffraction	skos:exactMatch	FIX:0000007	X-ray crystallography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000166	light scattering	skos:exactMatch	FIX:0000402	light scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000169	Rayleigh scattering spectroscopy	skos:exactMatch	FIX:0000059	Rayleigh scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
