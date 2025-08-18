@@ -62,3 +62,4 @@ CHMO:0000617	cross-polarisation magic angle spinning	skos:exactMatch	FIX:0001002
 CHMO:0000619	photoacoustic spectroscopy	skos:exactMatch	FIX:0000700	photoacoustic spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000620	infrared photoacoustic spectroscopy	skos:exactMatch	FIX:0000661	infrared photoacoustic spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000624	surface plasmon resonance spectroscopy	skos:exactMatch	FIX:0000393	surface plasmon resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000636	Fourier transform infrared spectroscopy	skos:exactMatch	FIX:0000110	Fourier transform infrared spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
