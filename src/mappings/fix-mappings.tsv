@@ -90,3 +90,4 @@ CHMO:0000017	chrono-potentiometry	skos:exactMatch	FIX:0000780	chronopotentiometr
 CHMO:0000021	controlled-current potentiometry	skos:exactMatch	FIX:0000778	controlled-current potentiometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000024	voltammetry	skos:exactMatch	FIX:0000765	voltammetric method	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000025	cyclic voltammetry	skos:exactMatch	FIX:0000099	cyclic voltammetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000026	fast-scan cyclic voltammetry	skos:exactMatch	FIX:0000761	fast-scan cyclic voltammetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
