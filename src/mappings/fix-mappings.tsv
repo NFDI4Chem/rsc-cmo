@@ -36,7 +36,7 @@ CHMO:0000232	electronic spectroscopy	skos:exactMatch	FIX:0000032	electronic spec
 CHMO:0000233	atomic spectroscopy	skos:exactMatch	FIX:0000054	atomic spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000234	atomic absorption spectroscopy	skos:exactMatch	FIX:0000926	atomic absorption spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000251	atomic emission spectroscopy	skos:exactMatch	FIX:0000927	atomic emission spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
-CHMO:0000277	microwave induced plasma atomic emission spectrometry	skos:exactMatch		microwave induced plasma atomic emission spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8CHMO:0000277	microwave induced plasma atomic emission spectrometry	skos:exactMatch	FIX:0000931	microwave induced plasma atomic emission spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000277	microwave induced plasma atomic emission spectrometry	skos:exactMatch	FIX:0000931	microwave induced plasma atomic emission spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000279	atomic fluorescence spectroscopy	skos:exactMatch	FIX:0000290	atomic fluorescence spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000290	fluorescence anisotropy	skos:exactMatch	FIX:0000128	fluorescence anisotropy measurement	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000292	ultraviolet-visible spectrophotometry	skos:exactMatch	FIX:0000016	ultraviolet/visible spectrophotometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
@@ -55,4 +55,4 @@ CHMO:0000520	matrix-assisted laser desorption-ionisation time-of-flight mass spe
 CHMO:0000524	liquid chromatography-mass spectrometry	skos:exactMatch	FIX:0000924	liquid chromatography-mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000525	photoionisation mass spectrometry	skos:exactMatch	FIX:0000906	photoionization mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000526	atmospheric pressure photoionisation mass spectrometry	skos:exactMatch	FIX:0000907	atmospheric pressure photoionisation mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
-CHMO:0000539		skos:exactMatch	FIX:0000864	electrothermal vaporization-inductively coupled plasma-mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000539	electrothermal vaporisation inductively coupled plasma mass spectrometry	skos:exactMatch	FIX:0000864	electrothermal vaporization-inductively coupled plasma-mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
