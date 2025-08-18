@@ -80,3 +80,4 @@ CHMO:0001189	17O nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:000
 CHMO:0001192	7Li nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001081	lithium-7 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001215	magnetic resonance method	skos:exactMatch	FIX:0000012	magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001736	gas chromatography-flame ionisation detection	skos:exactMatch	FIX:0000859	gas chromatography with flame ionization detection	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002386	dielectrometry	skos:exactMatch	FIX:0000706	dielectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
