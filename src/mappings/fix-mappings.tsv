@@ -92,3 +92,4 @@ CHMO:0000024	voltammetry	skos:exactMatch	FIX:0000765	voltammetric method	semapv:
 CHMO:0000025	cyclic voltammetry	skos:exactMatch	FIX:0000099	cyclic voltammetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000026	fast-scan cyclic voltammetry	skos:exactMatch	FIX:0000761	fast-scan cyclic voltammetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000027	hydrodynamic voltammetry	skos:exactMatch	FIX:0000792	hydrodynamic voltammetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000028	linear-sweep voltammetry	skos:exactMatch	FIX:0000791	linear sweep voltammetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
