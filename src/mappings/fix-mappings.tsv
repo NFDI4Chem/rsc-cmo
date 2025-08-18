@@ -127,3 +127,4 @@ CHMO:0000282	flame atomic fluorescence spectroscopy	skos:exactMatch	FIX:0000930	
 CHMO:0000287	fluorescence spectroscopy	skos:exactMatch	FIX:0000028	fluorescence spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000288	fluorescence correlation spectroscopy	skos:exactMatch	FIX:0000352	fluorescence correlation spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000297	X-ray spectroscopy	skos:exactMatch	FIX:0000019	X-ray spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000298	X-ray absorption spectroscopy	skos:exactMatch	FIX:0000107	X-ray absorption spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
