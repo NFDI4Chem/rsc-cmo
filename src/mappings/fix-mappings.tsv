@@ -163,3 +163,4 @@ CHMO:0000473	atmospheric pressure chemical ionisation mass spectrometry	skos:exa
 CHMO:0000492	field desorption mass spectrometry	skos:exactMatch	FIX:0000087	field desorption mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000500	ion trap mass spectrometry	skos:exactMatch	FIX:0000917	ion trap mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000502	Fourier transform ion cyclotron resonance mass spectrometry	skos:exactMatch	FIX:0000083	Fourier transform-ion cyclotron resonance mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000532	thermal ionisation mass spectrometry	skos:exactMatch	FIX:0000912	thermal ionization mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
