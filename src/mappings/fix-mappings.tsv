@@ -142,3 +142,4 @@ CHMO:0000370	high-resolution energy loss spectroscopy	skos:exactMatch	FIX:000064
 CHMO:0000371	ionisation spectroscopy	skos:exactMatch	FIX:0000670	ionization spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000377	inverse photoemission spectroscopy	skos:exactMatch	FIX:0000687	inverse photoemission spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000380	momentum-resolved bremsstrahlung spectroscopy	skos:exactMatch	FIX:0000688	momentum-resolved bremsstrahlung spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000387	photoelectron spectroscopy	skos:exactMatch	FIX:0000040	photoelectron emission spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
