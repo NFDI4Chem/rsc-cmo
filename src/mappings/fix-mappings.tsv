@@ -137,3 +137,4 @@ CHMO:0000326	X-ray magnetic circular dichroism spectroscopy	skos:exactMatch	FIX:
 CHMO:0000327	vibrational circular dichroism spectroscopy	skos:exactMatch	FIX:0000231	vibrational circular dichroism spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000328	electron spin resonance spectroscopy	skos:exactMatch	FIX:0000023	electron paramagnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000331	electron spectroscopy	skos:exactMatch	FIX:0000064	electron spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000368	extended electron energy loss fine structure spectroscopy	skos:exactMatch		extended electron energy loss fine structure	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
