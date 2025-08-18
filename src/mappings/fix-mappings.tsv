@@ -65,3 +65,4 @@ CHMO:0000624	surface plasmon resonance spectroscopy	skos:exactMatch	FIX:0000393	
 CHMO:0000636	Fourier transform infrared spectroscopy	skos:exactMatch	FIX:0000110	Fourier transform infrared spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000642	transient infrared spectroscopy	skos:exactMatch	FIX:0001068	time-resolved infrared spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000643	infrared reflectance spectroscopy	skos:exactMatch	FIX:0000652	infrared reflection spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000644	diffuse reflectance infrared spectroscopy	skos:exactMatch	FIX:0000656	diffuse reflectance infrared spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
