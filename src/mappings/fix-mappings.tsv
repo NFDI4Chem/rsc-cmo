@@ -147,3 +147,4 @@ CHMO:0000388	angle-resolved photoelectron spectroscopy	skos:exactMatch	FIX:00006
 CHMO:0000389	depth-selective photoelectron spectroscopy	skos:exactMatch	FIX:0000675	gamma-ray photoelectron spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000394	synchrotron radiation photoelectron spectroscopy	skos:exactMatch	FIX:0000676	synchrotron radiation photoelectron spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000396	constant-final-state spectroscopy	skos:exactMatch	FIX:0000681	constant final state spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000398	photoelectron yield spectroscopy	skos:exactMatch	FIX:0000678	total yield spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
