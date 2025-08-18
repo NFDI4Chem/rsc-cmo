@@ -68,3 +68,4 @@ CHMO:0000643	infrared reflectance spectroscopy	skos:exactMatch	FIX:0000652	infra
 CHMO:0000644	diffuse reflectance infrared spectroscopy	skos:exactMatch	FIX:0000656	diffuse reflectance infrared spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000718	Carr-Purcell-Meiboom-Gill pulse sequence	skos:exactMatch	FIX:0000215	Carr-Purcell-Meiboom-Gill sequence	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000779	polarimetry	skos:exactMatch	FIX:0000230	polarimetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000924	magnetometry	skos:exactMatch	FIX:0000048	magnetometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
