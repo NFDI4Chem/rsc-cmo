@@ -168,3 +168,4 @@ CHMO:0000552	liquid chromatography-inductively coupled plasma mass spectrometry	
 CHMO:0000560	secondary ion mass spectrometry	skos:exactMatch	FIX:0000122	secondary ion mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000563	fast atom bombardment mass spectrometry	skos:exactMatch	FIX:0000086	fast atom bombardment mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000565	time-of-flight secondary ion mass spectrometry	skos:exactMatch	FIX:0000959	time-of-flight secondary ion mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000567	15N nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000136	nitrogen-15 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
