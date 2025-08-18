@@ -57,3 +57,4 @@ CHMO:0000525	photoionisation mass spectrometry	skos:exactMatch	FIX:0000906	photo
 CHMO:0000526	atmospheric pressure photoionisation mass spectrometry	skos:exactMatch	FIX:0000907	atmospheric pressure photoionisation mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000539	electrothermal vaporisation inductively coupled plasma mass spectrometry	skos:exactMatch	FIX:0000864	electrothermal vaporization-inductively coupled plasma-mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000614	solid-state nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000649	dispersive infrared spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000615	magic angle spinning nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000471	solid-state magic-angle-spinning NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
