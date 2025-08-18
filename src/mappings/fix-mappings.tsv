@@ -104,3 +104,4 @@ CHMO:0000040	square-wave voltammetry	skos:exactMatch	FIX:0000816	square-wave pol
 CHMO:0000050	infrared microscopy	skos:exactMatch	FIX:0000583	infrared imaging	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000052	near-infrared microscopy	skos:exactMatch	FIX:0000699	near-infrared imaging	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000055	secondary ion mass spectrometry imaging	skos:exactMatch	FIX:0000960	SIMS microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000060	fluorescence detection	skos:exactMatch	FIX:0000812	fluorescence method	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
