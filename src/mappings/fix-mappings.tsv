@@ -130,3 +130,4 @@ CHMO:0000297	X-ray spectroscopy	skos:exactMatch	FIX:0000019	X-ray spectroscopy	s
 CHMO:0000298	X-ray absorption spectroscopy	skos:exactMatch	FIX:0000107	X-ray absorption spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000300	extended X-ray absorption fine structure spectroscopy	skos:exactMatch	FIX:0000106	extended X-ray absorption fine structure spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000303	surface extended X-ray absorption fine structure spectroscopy	skos:exactMatch	FIX:0000686	surface extended X-ray absorption fine structure	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000311	particle-induced X-ray emission spectroscopy	skos:exactMatch	FIX:0000101	particle-induced X-ray emission spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
