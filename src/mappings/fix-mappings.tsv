@@ -156,3 +156,4 @@ CHMO:0000405	angle resolved X-ray photoelectron spectroscopy	skos:exactMatch	FIX
 CHMO:0000414	gamma-ray spectroscopy	skos:exactMatch	FIX:0000049	gamma-ray spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000417	Mossbauer spectroscopy	skos:exactMatch	FIX:0000050	Mossbauer spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000443	laser electric resonance spectroscopy	skos:exactMatch	FIX:0000074	laser electric resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000470	mass spectrometry	skos:exactMatch	FIX:0000047	mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
