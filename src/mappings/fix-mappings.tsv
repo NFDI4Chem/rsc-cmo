@@ -132,3 +132,4 @@ CHMO:0000300	extended X-ray absorption fine structure spectroscopy	skos:exactMat
 CHMO:0000303	surface extended X-ray absorption fine structure spectroscopy	skos:exactMatch	FIX:0000686	surface extended X-ray absorption fine structure	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000311	particle-induced X-ray emission spectroscopy	skos:exactMatch	FIX:0000101	particle-induced X-ray emission spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000323	circular dichroism spectroscopy	skos:exactMatch	FIX:0000043	circular dichroism spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000325	magnetic circular dichroism spectroscopy	skos:exactMatch	FIX:0000044	magnetic circular dichroism spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
