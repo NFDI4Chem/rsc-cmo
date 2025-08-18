@@ -121,3 +121,4 @@ CHMO:0000200	X-ray scattering	skos:exactMatch	FIX:0000073	X-ray scattering	semap
 CHMO:0000204	small-angle X-ray scattering	skos:exactMatch	FIX:0000223	small-angle X-ray scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000207	wide-angle X-ray scattering	skos:exactMatch	FIX:0001128	wide-angle X-ray scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000226	infrared spectroscopic ellipsometry	skos:exactMatch	FIX:0000662	infrared ellipsometric spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000239	graphite furnace atomic absorption spectrometry	skos:exactMatch	FIX:0000951	graphite furnace atomic absorption spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
