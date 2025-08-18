@@ -66,3 +66,4 @@ CHMO:0000636	Fourier transform infrared spectroscopy	skos:exactMatch	FIX:0000110
 CHMO:0000642	transient infrared spectroscopy	skos:exactMatch	FIX:0001068	time-resolved infrared spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000643	infrared reflectance spectroscopy	skos:exactMatch	FIX:0000652	infrared reflection spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000644	diffuse reflectance infrared spectroscopy	skos:exactMatch	FIX:0000656	diffuse reflectance infrared spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000718	Carr-Purcell-Meiboom-Gill pulse sequence	skos:exactMatch	FIX:0000215	Carr-Purcell-Meiboom-Gill sequence	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
