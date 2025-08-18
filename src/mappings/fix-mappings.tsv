@@ -60,3 +60,4 @@ CHMO:0000614	solid-state nuclear magnetic resonance spectroscopy	skos:exactMatch
 CHMO:0000615	magic angle spinning nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000471	solid-state magic-angle-spinning NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000617	cross-polarisation magic angle spinning	skos:exactMatch	FIX:0001002	cross-polarization magic-angle-spinning NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000619	photoacoustic spectroscopy	skos:exactMatch	FIX:0000700	photoacoustic spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000620	infrared photoacoustic spectroscopy	skos:exactMatch	FIX:0000661	infrared photoacoustic spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
