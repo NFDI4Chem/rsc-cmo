@@ -166,3 +166,4 @@ CHMO:0000502	Fourier transform ion cyclotron resonance mass spectrometry	skos:ex
 CHMO:0000532	thermal ionisation mass spectrometry	skos:exactMatch	FIX:0000912	thermal ionization mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000552	liquid chromatography-inductively coupled plasma mass spectrometry	skos:exactMatch	FIX:0000865	liquid chromatography-inductively coupled plasma mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000560	secondary ion mass spectrometry	skos:exactMatch	FIX:0000122	secondary ion mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000563	fast atom bombardment mass spectrometry	skos:exactMatch	FIX:0000086	fast atom bombardment mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
