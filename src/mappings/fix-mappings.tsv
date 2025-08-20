@@ -172,3 +172,4 @@ CHMO:0000567	15N nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:000
 CHMO:0000568	sector field mass spectrometry	skos:exactMatch	FIX:0000093	sector field mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000570	proton transfer reaction ion trap mass spectrometry	skos:exactMatch	FIX:0000919	proton transfer reaction ion trap mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000574	spark source mass spectrometry	skos:exactMatch	FIX:0000903	spark source mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000575	tandem mass spectrometry	skos:exactMatch	FIX:0000084	tandem mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
