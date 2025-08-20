@@ -280,3 +280,4 @@ CHMO:0001966	57Fe nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:00
 CHMO:0001967	17O electron nuclear double resonance spectroscopy	skos:exactMatch	FIX:0000671	17O ENDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001968	57Fe electron nuclear double resonance spectroscopy	skos:exactMatch	FIX:0000755	57Fe ENDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001969	95Mo electron nuclear double resonance spectroscopy	skos:exactMatch	FIX:0000758	95Mo ENDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001970	1H electron nuclear double resonance spectroscopy	skos:exactMatch	FIX:0000598	1H ENDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
