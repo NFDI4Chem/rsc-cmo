@@ -259,3 +259,4 @@ CHMO:0001209	anion-exchange chromatography	skos:exactMatch	FIX:0000798	anion-exc
 CHMO:0001210	cation-exchange chromatography	skos:exactMatch	FIX:0000799	cation-exchange chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001239	inversion recovery	skos:exactMatch	FIX:0000211	inversion recovery	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001251	magneto-optical rotatory dispersion	skos:exactMatch	FIX:0000227	magnetic optical rotatory dispersion spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001257	photoluminescence detection	skos:exactMatch	FIX:0000428	photoluminescence method	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
