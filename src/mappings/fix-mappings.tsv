@@ -268,3 +268,4 @@ CHMO:0001836	two-dimensional liquid chromatography-tandem mass spectrometry	skos
 CHMO:0001860	double pulsed field gradient spin echo pulse sequence	skos:exactMatch	FIX:0000465	double pulsed field gradient spin-echo excitation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001883	pulsed field gradient	skos:exactMatch	FIX:0000463	pulsed field gradient NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001897	lateral force microscopy	skos:exactMatch	FIX:0000115	lateral force microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001898	non-contact mode atomic force microscopy	skos:exactMatch	FIX:0000117	non-contact AFM	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
