@@ -261,3 +261,4 @@ CHMO:0001239	inversion recovery	skos:exactMatch	FIX:0000211	inversion recovery	s
 CHMO:0001251	magneto-optical rotatory dispersion	skos:exactMatch	FIX:0000227	magnetic optical rotatory dispersion spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001257	photoluminescence detection	skos:exactMatch	FIX:0000428	photoluminescence method	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001272	electron spin-echo envelope modulation	skos:exactMatch	FIX:0000035	electron spin echo envelope modulation spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001295	23Na nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000997	sodium-23 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
