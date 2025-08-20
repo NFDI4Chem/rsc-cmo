@@ -250,3 +250,4 @@ CHMO:0001081	125Te nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0
 CHMO:0001118	pulsed field-gradient spin echo nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001088	pulsed gradient spin-echo NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001128	adsorption chromatography	skos:exactMatch	FIX:0000611	adsorption chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001148	1H–13C heteronuclear multiple bond coherence	skos:exactMatch	FIX:0001024	13C-1H HMBC	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001149	1H–15N heteronuclear multiple bond coherence	skos:exactMatch	FIX:0001023	15N-1H HMBC	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
