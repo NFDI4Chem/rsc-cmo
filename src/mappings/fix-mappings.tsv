@@ -277,3 +277,4 @@ CHMO:0001954	29Si solid-state nuclear magnetic resonance spectroscopy	skos:exact
 CHMO:0001964	enzyme-dependent fluorescence recovery after photobleaching	skos:exactMatch	FIX:0000868	enzyme-dependent fluorescence recovery after photobleaching	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001965	111Cd nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000900	cadmium-111 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001966	57Fe nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000759	iron-57 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001967	17O electron nuclear double resonance spectroscopy	skos:exactMatch	FIX:0000671	17O ENDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
