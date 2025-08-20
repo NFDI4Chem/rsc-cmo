@@ -186,3 +186,4 @@ CHMO:0000597	19F nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:000
 CHMO:0000598	two-dimensional nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000056	two-dimensional NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000599	correlation spectroscopy	skos:exactMatch	FIX:0000543	correlated spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000600	heteronuclear correlation spectroscopy	skos:exactMatch	FIX:0001025	proton-detected heteronuclear correlated spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000601	heteronuclear multiple bond correlation	skos:exactMatch	FIX:0000180	heteronuclear multiple bond correlation spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
