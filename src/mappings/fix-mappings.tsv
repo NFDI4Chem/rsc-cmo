@@ -228,3 +228,4 @@ CHMO:0000785	optical rotatory dispersion	skos:exactMatch	FIX:0000045	optical rot
 CHMO:0000786	129Xe nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000139	xenon-129 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000787	197Au nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000749	gold-197 magnetic resonance spectroscopyy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000788	119Sn nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000741	tin-119 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000896	rotational-echo double-resonance spectroscopy	skos:exactMatch	FIX:0000973	rotational-echo double-resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
