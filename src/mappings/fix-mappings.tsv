@@ -176,3 +176,4 @@ CHMO:0000575	tandem mass spectrometry	skos:exactMatch	FIX:0000084	tandem mass sp
 CHMO:0000580	time-of-flight mass spectrometry	skos:exactMatch	FIX:0000082	time-of-flight mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000585	rotational spectroscopy	skos:exactMatch	FIX:0000031	rotational spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000586	microwave spectroscopy	skos:exactMatch	FIX:0000018	microwave spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000591	nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000022	nuclear magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
