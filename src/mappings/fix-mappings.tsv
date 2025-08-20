@@ -219,3 +219,4 @@ CHMO:0000745	pulsed electron–electron double resonance spectroscopy	skos:exact
 CHMO:0000747	electron nuclear double resonance spectroscopy	skos:exactMatch	FIX:0000024	electron-nuclear double resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000748	pulsed electron nuclear double resonance spectroscopy	skos:exactMatch	FIX:0000038	pulse ENDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000749	continuous-wave electron nuclear double resonance spectroscopy	skos:exactMatch	FIX:0000039	continuous-wave ENDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000761	confocal fluorescence correlation spectroscopy	skos:exactMatch	FIX:0000379	confocal fluorescence correlation spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
