@@ -193,3 +193,4 @@ CHMO:0000607	nuclear Overhauser enhancement spectroscopy	skos:exactMatch	FIX:000
 CHMO:0000608	heteronuclear Overhauser enhancement spectroscopy	skos:exactMatch	FIX:0001085	heteronuclear Overhauser effect spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000610	rotating frame Overhauser effect spectroscopy	skos:exactMatch	FIX:0000150	rotating frame Overhauser effect spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000612	insensitive nuclei enhanced by polarization transfer	skos:exactMatch	FIX:0000458	insensitive nuclei enhanced by polarization transfer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000632	far-infrared spectroscopy	skos:exactMatch		far-infrared spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
