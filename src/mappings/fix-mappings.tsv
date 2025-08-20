@@ -181,3 +181,4 @@ CHMO:0000592	one-dimensional nuclear magnetic resonance spectroscopy	skos:exactM
 CHMO:0000593	1H nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000134	proton magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000594	11B nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001106	boron-11 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000595	13C nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000135	carbon-13 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000596	distortionless enhancement with polarization transfer	skos:exactMatch	FIX:0000459	distortionless enhancement with polarization transfer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
