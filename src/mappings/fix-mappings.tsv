@@ -213,3 +213,4 @@ CHMO:0000722	77Se nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:00
 CHMO:0000727	2H nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000588	deuterium magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000733	diffusion-ordered spectroscopy	skos:exactMatch	FIX:0000563	diffusion ordered spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000739	31P nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000138	phosphorus-31 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000740	51V nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000998	vanadium-51 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
