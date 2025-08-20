@@ -188,3 +188,4 @@ CHMO:0000599	correlation spectroscopy	skos:exactMatch	FIX:0000543	correlated spe
 CHMO:0000600	heteronuclear correlation spectroscopy	skos:exactMatch	FIX:0001025	proton-detected heteronuclear correlated spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000601	heteronuclear multiple bond correlation	skos:exactMatch	FIX:0000180	heteronuclear multiple bond correlation spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000603	heteronuclear multiple quantum coherence	skos:exactMatch	FIX:0000149	heteronuclear multiple quantum correlation spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000604	heteronuclear single quantum coherence	skos:exactMatch	FIX:0000148	heteronuclear single quantum correlation spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
