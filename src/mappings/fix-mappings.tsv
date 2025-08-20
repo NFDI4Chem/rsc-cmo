@@ -278,3 +278,4 @@ CHMO:0001964	enzyme-dependent fluorescence recovery after photobleaching	skos:ex
 CHMO:0001965	111Cd nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000900	cadmium-111 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001966	57Fe nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000759	iron-57 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001967	17O electron nuclear double resonance spectroscopy	skos:exactMatch	FIX:0000671	17O ENDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001968	57Fe electron nuclear double resonance spectroscopy	skos:exactMatch	FIX:0000755	57Fe ENDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
