@@ -174,3 +174,4 @@ CHMO:0000570	proton transfer reaction ion trap mass spectrometry	skos:exactMatch
 CHMO:0000574	spark source mass spectrometry	skos:exactMatch	FIX:0000903	spark source mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000575	tandem mass spectrometry	skos:exactMatch	FIX:0000084	tandem mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000580	time-of-flight mass spectrometry	skos:exactMatch	FIX:0000082	time-of-flight mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000585	rotational spectroscopy	skos:exactMatch	FIX:0000031	rotational spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
