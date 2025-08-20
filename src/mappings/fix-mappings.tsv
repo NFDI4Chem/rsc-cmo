@@ -273,3 +273,4 @@ CHMO:0001916	13C cross-polarisation magic angle spinning	skos:exactMatch	FIX:000
 CHMO:0001917	time-resolved fluorescence spectroscopy	skos:exactMatch	FIX:0000109	time-resolved fluorescence spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001918	time-resolved fluorescence anisotropy	skos:exactMatch	FIX:0000129	time-resolved fluorescence anisotropy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001919	single-molecule fluorescence spectroscopy	skos:exactMatch	FIX:0000111	single molecule fluorescence spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001954	29Si solid-state nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001095	solid-state 29Si MAS NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
