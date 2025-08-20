@@ -221,3 +221,4 @@ CHMO:0000748	pulsed electron nuclear double resonance spectroscopy	skos:exactMat
 CHMO:0000749	continuous-wave electron nuclear double resonance spectroscopy	skos:exactMatch	FIX:0000039	continuous-wave ENDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000761	confocal fluorescence correlation spectroscopy	skos:exactMatch	FIX:0000379	confocal fluorescence correlation spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000763	attenuated total reflectance Fourier transform infrared spectroscopy	skos:exactMatch	FIX:0000644	attenuated total reflectance Fourier transform infrared spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000773	photoluminescence spectroscopy	skos:exactMatch	FIX:0000235	photoluminescencence spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
