@@ -290,3 +290,4 @@ CHMO:0001976	39K nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:000
 CHMO:0001977	139La nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001122	lanthanum-139 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001978	127I nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000600	iodine-127 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001979	121Sb nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000744	antimony-121 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001980	123Sb nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000745	antimony-123 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
