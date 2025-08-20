@@ -284,3 +284,4 @@ CHMO:0001970	1H electron nuclear double resonance spectroscopy	skos:exactMatch	F
 CHMO:0001971	3He nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001064	helium-3 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001972	6Li nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001080	lithium-6 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001973	9Be nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001083	beryllium-9 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001974	89Y nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001100	yttrium-89 NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
