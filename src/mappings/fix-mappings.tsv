@@ -232,3 +232,4 @@ CHMO:0000896	rotational-echo double-resonance spectroscopy	skos:exactMatch	FIX:0
 CHMO:0000909	polarisation inversion and spin exchange at the magic angle	skos:exactMatch	FIX:0001006	polarization inversion spin exchange at the magic angle	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000931	heteronuclear two-dimensional nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000147	heteronuclear 2D NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001003	supercritical-fluid chromatography	skos:exactMatch	FIX:0000609	supercritical-fluid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001004	liquid chromatography	skos:exactMatch	FIX:0000608	liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
