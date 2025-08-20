@@ -217,4 +217,5 @@ CHMO:0000740	51V nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:000
 CHMO:0000744	electron–electron double resonance spectroscopy	skos:exactMatch	FIX:0000171	electron–electron double resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000745	pulsed electron–electron double resonance spectroscopy	skos:exactMatch	FIX:0000172	pulse ELDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000747	electron nuclear double resonance spectroscopy	skos:exactMatch	FIX:0000024	electron-nuclear double resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
-CHMO:0000748		skos:exactMatch	FIX:0000038	pulse ENDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000748	pulsed electron nuclear double resonance spectroscopy	skos:exactMatch	FIX:0000038	pulse ENDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000749	continuous-wave electron nuclear double resonance spectroscopy	skos:exactMatch	FIX:0000039	continuous-wave ENDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
