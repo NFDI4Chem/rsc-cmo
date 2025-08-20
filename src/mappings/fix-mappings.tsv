@@ -256,3 +256,4 @@ CHMO:0001151	1H–1H nuclear Overhauser enhancement spectroscopy	skos:exactMatch
 CHMO:0001175	27Al nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001001	aluminium-27 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001194	14N nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001043	nitrogen-14 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001209	anion-exchange chromatography	skos:exactMatch	FIX:0000798	anion-exchange chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001210	cation-exchange chromatography	skos:exactMatch	FIX:0000799	cation-exchange chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
