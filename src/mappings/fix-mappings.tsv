@@ -293,3 +293,4 @@ CHMO:0001979	121Sb nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0
 CHMO:0001980	123Sb nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000745	antimony-123 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001981	95Mo nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000757	molybdenum-95 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001982	113Cd nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000434	cadmium-113 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001983	14N electron spin-echo envelope modulation	skos:exactMatch	FIX:0001045	14N ESEEM	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
