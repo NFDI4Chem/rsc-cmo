@@ -178,3 +178,4 @@ CHMO:0000585	rotational spectroscopy	skos:exactMatch	FIX:0000031	rotational spec
 CHMO:0000586	microwave spectroscopy	skos:exactMatch	FIX:0000018	microwave spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000591	nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000022	nuclear magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000592	one-dimensional nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000055	one-dimensional NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000593	1H nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000134	proton magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
