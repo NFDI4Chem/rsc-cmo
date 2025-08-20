@@ -275,3 +275,4 @@ CHMO:0001918	time-resolved fluorescence anisotropy	skos:exactMatch	FIX:0000129	t
 CHMO:0001919	single-molecule fluorescence spectroscopy	skos:exactMatch	FIX:0000111	single molecule fluorescence spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001954	29Si solid-state nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001095	solid-state 29Si MAS NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001964	enzyme-dependent fluorescence recovery after photobleaching	skos:exactMatch	FIX:0000868	enzyme-dependent fluorescence recovery after photobleaching	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001965	111Cd nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000900	cadmium-111 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
