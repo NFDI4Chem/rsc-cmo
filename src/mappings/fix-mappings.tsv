@@ -287,3 +287,4 @@ CHMO:0001973	9Be nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:000
 CHMO:0001974	89Y nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001100	yttrium-89 NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001975	63Cu nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001103	copper-63 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001976	39K nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001119	potassium-39 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001977	139La nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001122	lanthanum-139 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
