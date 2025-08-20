@@ -247,3 +247,4 @@ CHMO:0001032	capillary gel electrophoresis	skos:exactMatch	FIX:0000837	capillary
 CHMO:0001070	three-dimensional nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000144	three-dimensional NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001071	heteronuclear single quantum coherence total correlation spectroscopy	skos:exactMatch	FIX:0000152	3D TOCSY-HSQC	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001081	125Te nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000747	tellurium-125 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001118	pulsed field-gradient spin echo nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001088	pulsed gradient spin-echo NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
