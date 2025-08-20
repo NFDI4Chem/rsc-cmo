@@ -200,3 +200,4 @@ CHMO:0000645	diffuse reflectance infrared Fourier transform spectroscopy	skos:ex
 CHMO:0000647	reflection–absorption infrared spectroscopy	skos:exactMatch	FIX:0000659	reflection-absorption infrared spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000648	attenuated total reflectance spectroscopy	skos:exactMatch	FIX:0000653	attenuated total reflectance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000649	infrared emission spectroscopy	skos:exactMatch	FIX:0000651	infrared emission spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000656	Raman spectroscopy	skos:exactMatch	FIX:0000058	Raman spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
