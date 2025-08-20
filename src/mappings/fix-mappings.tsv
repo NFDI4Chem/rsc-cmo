@@ -253,3 +253,4 @@ CHMO:0001148	1H–13C heteronuclear multiple bond coherence	skos:exactMatch	FIX:
 CHMO:0001149	1H–15N heteronuclear multiple bond coherence	skos:exactMatch	FIX:0001023	15N-1H HMBC	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001150	1H-1H correlated spectroscopy	skos:exactMatch	FIX:0000189	1H-1H correlated spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001151	1H–1H nuclear Overhauser enhancement spectroscopy	skos:exactMatch	FIX:0000142	1H-1H nuclear Overhauser effect spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001175	27Al nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001001	aluminium-27 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
