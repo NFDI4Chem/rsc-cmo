@@ -236,3 +236,4 @@ CHMO:0001004	liquid chromatography	skos:exactMatch	FIX:0000608	liquid chromatogr
 CHMO:0001010	exclusion chromatography	skos:exactMatch	FIX:0000614	exclusion chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001012	ion-exclusion chromatography	skos:exactMatch	FIX:0000627	ion-exclusion chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001013	size-exclusion chromatography	skos:exactMatch	FIX:0000626	size-exclusion chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001014	ion-exchange chromatography	skos:exactMatch	FIX:0000613	ion-exchange chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
