@@ -224,3 +224,4 @@ CHMO:0000763	attenuated total reflectance Fourier transform infrared spectroscop
 CHMO:0000773	photoluminescence spectroscopy	skos:exactMatch	FIX:0000235	photoluminescencence spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000774	transverse relaxation optimised spectroscopy	skos:exactMatch	FIX:0000565	transverse relaxation optimized spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000776	linear dichroism spectroscopy	skos:exactMatch	FIX:0000228	linear dichroism	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000785	optical rotatory dispersion	skos:exactMatch	FIX:0000045	optical rotatory dispersion spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
