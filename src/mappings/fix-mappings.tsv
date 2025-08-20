@@ -297,3 +297,4 @@ CHMO:0001983	14N electron spin-echo envelope modulation	skos:exactMatch	FIX:0001
 CHMO:0001984	two-pulse electron spin-echo envelope modulation	skos:exactMatch	FIX:0000036	two-pulse ESEEM	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001985	three-pulse electron spin-echo envelope modulation	skos:exactMatch	FIX:0000037	three-pulse ESEEM	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001986	non-resonance Raman spectroscopy	skos:exactMatch	FIX:0000026	non-resonance Raman spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002010	analytical centrifugation	skos:exactMatch	FIX:0000255	analytical centrifugation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
