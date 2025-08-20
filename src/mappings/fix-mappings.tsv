@@ -270,3 +270,4 @@ CHMO:0001883	pulsed field gradient	skos:exactMatch	FIX:0000463	pulsed field grad
 CHMO:0001897	lateral force microscopy	skos:exactMatch	FIX:0000115	lateral force microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001898	non-contact mode atomic force microscopy	skos:exactMatch	FIX:0000117	non-contact AFM	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001916	13C cross-polarisation magic angle spinning	skos:exactMatch	FIX:0001003	13C CP/MAS	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001917	time-resolved fluorescence spectroscopy	skos:exactMatch	FIX:0000109	time-resolved fluorescence spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
