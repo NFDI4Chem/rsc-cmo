@@ -241,3 +241,4 @@ CHMO:0001015	gas-solid chromatography	skos:exactMatch	FIX:0000632	gas-solid chro
 CHMO:0001021	gel electrophoresis	skos:exactMatch	FIX:0000628	gel electrophoresis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001023	polyacrylamide gel electrophoresis	skos:exactMatch	FIX:0000883	polyacrylamide gel electrophoresis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001024	capillary electrophoresis	skos:exactMatch	FIX:0000836	capillary electrophoresis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001026	isoelectric focusing	skos:exactMatch	FIX:0000625	isoelectric focusing	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
