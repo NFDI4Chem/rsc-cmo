@@ -185,3 +185,4 @@ CHMO:0000596	distortionless enhancement with polarization transfer	skos:exactMat
 CHMO:0000597	19F nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000137	fluorine-19 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000598	two-dimensional nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000056	two-dimensional NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000599	correlation spectroscopy	skos:exactMatch	FIX:0000543	correlated spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000600	heteronuclear correlation spectroscopy	skos:exactMatch	FIX:0001025	proton-detected heteronuclear correlated spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
