@@ -263,3 +263,4 @@ CHMO:0001257	photoluminescence detection	skos:exactMatch	FIX:0000428	photolumine
 CHMO:0001272	electron spin-echo envelope modulation	skos:exactMatch	FIX:0000035	electron spin echo envelope modulation spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001295	23Na nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000997	sodium-23 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0001477	crystallisation	skos:exactMatch	FIX:0000214	crystallization	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0001818	vibrational microscopy	skos:exactMatch	FIX:0000695	vibrational spectroscopic imaging	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
