@@ -409,3 +409,4 @@ CHMO:0002710	two-dimensional infrared spectroscopy	skos:exactMatch	FIX:0001069	t
 CHMO:0002711	13C–15N rotational-echo double-resonance spectroscopy	skos:exactMatch	FIX:0000974	13C-15N REDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002713	magnetic resonance force microscopy	skos:exactMatch	FIX:0000125	magnetic resonance force microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002714	steady-state fluorescence spectroscopy	skos:exactMatch	FIX:0000108	steady state fluorescence spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002715	31P–13C rotational-echo double-resonance spectroscopy	skos:exactMatch	FIX:0000978	31P-13C REDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
