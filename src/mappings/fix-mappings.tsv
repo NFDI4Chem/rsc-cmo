@@ -425,3 +425,4 @@ CHMO:0002727	multiple isomorphous replacement with anomalous scattering	skos:exa
 CHMO:0002728	single isomorphous replacement with anomalous scattering	skos:exactMatch	FIX:0000248	single isomorphous replacement with anomalous scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002732	electron paramagnetic resonance monitored oxidation–reduction titration	skos:exactMatch	FIX:0000241	EPR-monitored redox titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002733	paramagnetic signals enhancement	skos:exactMatch	FIX:0000194	paramagnetic signals enhancement NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002734	nuclear Overhauser enhancement spectroscopy-correlation spectroscopy	skos:exactMatch	FIX:0000191	3D NOESY-COSY	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
