@@ -311,3 +311,4 @@ CHMO:0002035	129I Mossbauer spectroscopy	skos:exactMatch	FIX:0000754	iodine-129 
 CHMO:0002036	197Au Mossbauer spectroscopy	skos:exactMatch	FIX:0000738	gold-197 Mossbauer spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002055	four-dimensional nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000145	four-dimensional NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002060	two-dimensional heteronuclear single quantum coherence-nuclear Overhauser effect spectroscopy	skos:exactMatch	FIX:0000183	2D NOESY-HSQC	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002061	two-dimensional heteronuclear single quantum coherence-total correlation spectroscopy	skos:exactMatch	FIX:0000182	2D TOCSY-HSQC	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
