@@ -331,3 +331,4 @@ CHMO:0002303	gradient-elution chromatography	skos:exactMatch	FIX:0000621	gradien
 CHMO:0002304	isocratic-elution chromatography	skos:exactMatch	FIX:0000624	isocratic elution chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002305	step-wise elution chromatography	skos:exactMatch	FIX:0000622	stepwise elution chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002315	pulsed-field electrophoresis	skos:narrowMatch	FIX:0000629	pulsed field gel electrophoresis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002317	liquid–liquid chromatography	skos:exactMatch	FIX:0000633	liquid-liquid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
