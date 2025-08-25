@@ -328,3 +328,4 @@ CHMO:0002298	proton-induced X-ray emission spectroscopy	skos:exactMatch	FIX:0000
 CHMO:0002301	13C–13C correlation spectroscopy	skos:exactMatch	FIX:0000438	13C–13C correlation spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002302	reversed-phase chromatography	skos:exactMatch	FIX:0000620	reversed-phase chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002303	gradient-elution chromatography	skos:exactMatch	FIX:0000621	gradient elution chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002304	isocratic-elution chromatography	skos:exactMatch	FIX:0000624	isocratic elution chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
