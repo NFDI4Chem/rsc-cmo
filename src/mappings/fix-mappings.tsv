@@ -395,3 +395,4 @@ CHMO:0002559	three-dimensional nuclear Overhauser spectroscopy-heteronuclear sin
 CHMO:0002560	HCC(CO)NNH	skos:exactMatch	FIX:0000455	HCC(CO)NNH experiment	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002562	nuclear Overhauser effect difference spectroscopy	skos:exactMatch	FIX:0000203	nuclear Overhauser effect difference spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002564	HCANNH	skos:exactMatch	FIX:0000454	HCANNH experiment	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002565	HNCAHA	skos:exactMatch	FIX:0000452	HNCAHA experiment	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
