@@ -302,3 +302,4 @@ CHMO:0002012	low-speed centrifugation	skos:exactMatch	FIX:0000261	low speed cent
 CHMO:0002015	differential centrifugation	skos:exactMatch	FIX:0000264	differential centrifugation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002019	rate-zonal centrifugation	skos:exactMatch	FIX:0000263	rate zonal centrifugation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002028	129Xe Mossbauer spectroscopy	skos:exactMatch	FIX:0000750	xenon-129 Mossbauer spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002029	127I Mossbauer spectroscopy	skos:exactMatch	FIX:0000737	iodine-127 Mossbauer spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
