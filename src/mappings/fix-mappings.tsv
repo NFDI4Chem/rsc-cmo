@@ -343,3 +343,4 @@ CHMO:0002378	113Cd–113Cd correlation spectroscopy	skos:exactMatch	FIX:0001020	
 CHMO:0002379	1H–113Cd heteronuclear correlation spectroscopy	skos:exactMatch	FIX:0001019	1H-113Cd correlated spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002380	1H–13C heteronuclear correlation spectroscopy	skos:exactMatch	FIX:0001026	1H-13C heteronuclear correlated spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002381	1H–31P heteronuclear correlation spectroscopy	skos:exactMatch	FIX:0001028	1H-31P heteronuclear correlated spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002382	double-quantum-filtered correlation spectroscopy	skos:exactMatch	FIX:0000175	double quantum filtered COSY	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
