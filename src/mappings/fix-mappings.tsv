@@ -370,3 +370,4 @@ CHMO:0002483	6Li–1H heteronuclear Overhauser enhancement spectroscopy	skos:exa
 CHMO:0002484	19F–1H heteronuclear Overhauser enhancement spectroscopy	skos:exactMatch	FIX:0001087	19F-1H HOESY	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002485	2H pulsed field-gradient spin echo nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001089	2H PGSE	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002486	19F pulsed field-gradient spin echo nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001090	19F PGSE	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002487	1H pulsed field-gradient spin echo nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001091	1H PGSE	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
