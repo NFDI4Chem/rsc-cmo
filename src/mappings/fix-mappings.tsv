@@ -366,3 +366,4 @@ CHMO:0002479	13C rotational-echo double-resonance spectroscopy	skos:exactMatch	F
 CHMO:0002480	15N rotational-echo double-resonance spectroscopy	skos:exactMatch	FIX:0001040	15N REDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002481	31P rotational-echo double-resonance spectroscopy	skos:exactMatch	FIX:0001041	31P REDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002482	19F rotational-echo double-resonance spectroscopy	skos:exactMatch	FIX:0001042	19F REDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002483	6Li–1H heteronuclear Overhauser enhancement spectroscopy	skos:exactMatch	FIX:0001086	6Li-1H HOESY	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
