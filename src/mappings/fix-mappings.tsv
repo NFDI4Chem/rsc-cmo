@@ -308,3 +308,4 @@ CHMO:0002031	119Sn Mossbauer spectroscopy	skos:exactMatch	FIX:0000733	tin-119 Mo
 CHMO:0002033	125Te Mossbauer spectroscopy	skos:exactMatch	FIX:0000735	125Te Mossbauer spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002034	151Eu Mossbauer spectroscopy	skos:exactMatch	FIX:0000736	europium-151 Mossbauer spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002035	129I Mossbauer spectroscopy	skos:exactMatch	FIX:0000754	iodine-129 Mossbauer spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002036	197Au Mossbauer spectroscopy	skos:exactMatch	FIX:0000738	gold-197 Mossbauer spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
