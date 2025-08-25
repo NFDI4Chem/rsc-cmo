@@ -411,3 +411,4 @@ CHMO:0002713	magnetic resonance force microscopy	skos:exactMatch	FIX:0000125	mag
 CHMO:0002714	steady-state fluorescence spectroscopy	skos:exactMatch	FIX:0000108	steady state fluorescence spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002715	31P–13C rotational-echo double-resonance spectroscopy	skos:exactMatch	FIX:0000978	31P-13C REDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002716	31P–15N rotational-echo double-resonance spectroscopy	skos:exactMatch	FIX:0000979	31P-15N REDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002717	31P–19F rotational-echo double-resonance spectroscopy	skos:exactMatch	FIX:0000980	31P-19F REDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
