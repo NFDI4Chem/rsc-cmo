@@ -347,3 +347,4 @@ CHMO:0002382	double-quantum-filtered correlation spectroscopy	skos:exactMatch	FI
 CHMO:0002383	113Cd–113Cd double-quantum-filtered correlation spectroscopy	skos:exactMatch	FIX:0001022	113Cd-113Cd DQF-COSY	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002384	dielectrometric titration	skos:exactMatch	FIX:0000772	dielectrometric titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002385	mid-infrared microscopy	skos:exactMatch	FIX:0000698	mid-infrared imaging	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002397	solution-state nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000470	solution NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
