@@ -313,3 +313,4 @@ CHMO:0002055	four-dimensional nuclear magnetic resonance spectroscopy	skos:exact
 CHMO:0002060	two-dimensional heteronuclear single quantum coherence-nuclear Overhauser effect spectroscopy	skos:exactMatch	FIX:0000183	2D NOESY-HSQC	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002061	two-dimensional heteronuclear single quantum coherence-total correlation spectroscopy	skos:exactMatch	FIX:0000182	2D TOCSY-HSQC	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002075	29Si cross-polarisation magic angle spinning	skos:exactMatch	FIX:0001059	29Si CP/MAS	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002141	high-pressure fluorescence correlation spectroscopy	skos:exactMatch	FIX:0000760	high-pressure fluorescence correlation spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
