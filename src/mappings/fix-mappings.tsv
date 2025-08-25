@@ -385,3 +385,4 @@ CHMO:0002514	diffuse reflectance laser flash photolysis	skos:exactMatch	FIX:0000
 CHMO:0002515	laser Raman spectroscopy	skos:exactMatch	FIX:0000375	laser Raman spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002516	near-edge X-ray absorption fine structure microscopy	skos:exactMatch	FIX:0000377	NEXAFS microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002519	two-photon laser scanning microscopy	skos:exactMatch	FIX:0000382	two-photon laser scanning fluorescence microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002520	single-photon laser scanning microscopy	skos:exactMatch	FIX:0000381	single-photon laser scanning fluorescence microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
