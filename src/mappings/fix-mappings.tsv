@@ -350,3 +350,4 @@ CHMO:0002385	mid-infrared microscopy	skos:exactMatch	FIX:0000698	mid-infrared im
 CHMO:0002397	solution-state nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000470	solution NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002398	1H–15N heteronuclear multiple quantum coherence	skos:exactMatch	FIX:0000474	15N-1H HMQC	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002399	1H–13C heteronuclear multiple quantum coherence	skos:exactMatch	FIX:0000475	13C-1H HMQC	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002400	15N–15N correlation spectroscopy	skos:exactMatch	FIX:0000544	15N-15N correlated spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
