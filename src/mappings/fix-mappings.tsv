@@ -372,3 +372,4 @@ CHMO:0002485	2H pulsed field-gradient spin echo nuclear magnetic resonance spect
 CHMO:0002486	19F pulsed field-gradient spin echo nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001090	19F PGSE	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002487	1H pulsed field-gradient spin echo nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001091	1H PGSE	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002488	7Li pulsed field-gradient spin echo nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001092	7Li PGSE	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002489	13C pulsed field-gradient spin echo nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001093	13C PGSE	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
