@@ -428,3 +428,4 @@ CHMO:0002733	paramagnetic signals enhancement	skos:exactMatch	FIX:0000194	parama
 CHMO:0002734	nuclear Overhauser enhancement spectroscopy-correlation spectroscopy	skos:exactMatch	FIX:0000191	3D NOESY-COSY	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002735	correlation spectroscopy-nuclear Overhauser enhancement spectroscopy	skos:exactMatch	FIX:0000190	3D COSY-NOESY	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002736	total correlation spectroscopy-nuclear Overhauser enhancement spectroscopy	skos:exactMatch	FIX:0000193	3D TOCSY-NOESY	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002737	nuclear Overhauser enhancement spectroscopy-total correlation spectroscopy	skos:exactMatch	FIX:0000192	3D NOESY-TOCSY	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
