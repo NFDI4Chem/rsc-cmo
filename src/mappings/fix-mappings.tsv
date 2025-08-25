@@ -363,3 +363,4 @@ CHMO:0002416	phosphorescence spectroscopy	skos:exactMatch	FIX:0000029	phosphores
 CHMO:0002417	radio frequency spectroscopy	skos:exactMatch	FIX:0000017	radio-frequency spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002457	Kelvin probe force microscopy	skos:exactMatch	FIX:0000120	scanning surface potential microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002479	13C rotational-echo double-resonance spectroscopy	skos:exactMatch	FIX:0001039	13C REDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002480	15N rotational-echo double-resonance spectroscopy	skos:exactMatch	FIX:0001040	15N REDOR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
