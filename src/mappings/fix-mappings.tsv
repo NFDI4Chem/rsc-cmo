@@ -403,3 +403,4 @@ CHMO:0002569	13C–15N edited 1H–1H nuclear Overhauser enhancement spectroscop
 CHMO:0002638	electrostatic force microscopy	skos:exactMatch	FIX:0000119	electric force microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002669	contact mode atomic force microscopy	skos:exactMatch	FIX:0000116	contact AFM	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002707	gas-phase nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001060	gas-phase NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002708	liquid chromatography nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:00001158	liquid chromatography nuclear magnetic resonance	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
