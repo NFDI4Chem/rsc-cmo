@@ -304,3 +304,4 @@ CHMO:0002019	rate-zonal centrifugation	skos:exactMatch	FIX:0000263	rate zonal ce
 CHMO:0002028	129Xe Mossbauer spectroscopy	skos:exactMatch	FIX:0000750	xenon-129 Mossbauer spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002029	127I Mossbauer spectroscopy	skos:exactMatch	FIX:0000737	iodine-127 Mossbauer spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002030	57Fe Mossbauer spectroscopy	skos:exactMatch	FIX:0000732	iron-57 Mossbauer spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002031	119Sn Mossbauer spectroscopy	skos:exactMatch	FIX:0000733	tin-119 Mossbauer spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
