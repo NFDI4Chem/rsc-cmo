@@ -315,3 +315,4 @@ CHMO:0002061	two-dimensional heteronuclear single quantum coherence-total correl
 CHMO:0002075	29Si cross-polarisation magic angle spinning	skos:exactMatch	FIX:0001059	29Si CP/MAS	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002141	high-pressure fluorescence correlation spectroscopy	skos:exactMatch	FIX:0000760	high-pressure fluorescence correlation spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002142	continuous-scan cyclic voltammetry	skos:exactMatch	FIX:0000762	continuous scan cyclic voltammetry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002143	conductometric titration	skos:exactMatch	FIX:0000771	conductometric titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
