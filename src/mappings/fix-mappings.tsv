@@ -405,3 +405,4 @@ CHMO:0002669	contact mode atomic force microscopy	skos:exactMatch	FIX:0000116	co
 CHMO:0002707	gas-phase nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001060	gas-phase NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002708	liquid chromatography nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:00001158	liquid chromatography nuclear magnetic resonance	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002709	liquid chromatography-nuclear magnetic resonance-mass spectrometry	skos:exactMatch	FIX:0001157	liquid chromatography/NMR spectrometry/mass spectrometry	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002710	two-dimensional infrared spectroscopy	skos:exactMatch	FIX:0001069	two-dimensional infrared spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
