@@ -346,3 +346,4 @@ CHMO:0002381	1H–31P heteronuclear correlation spectroscopy	skos:exactMatch	FIX
 CHMO:0002382	double-quantum-filtered correlation spectroscopy	skos:exactMatch	FIX:0000175	double quantum filtered COSY	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002383	113Cd–113Cd double-quantum-filtered correlation spectroscopy	skos:exactMatch	FIX:0001022	113Cd-113Cd DQF-COSY	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002384	dielectrometric titration	skos:exactMatch	FIX:0000772	dielectrometric titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002385	mid-infrared microscopy	skos:exactMatch	FIX:0000698	mid-infrared imaging	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
