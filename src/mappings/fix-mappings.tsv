@@ -355,3 +355,4 @@ CHMO:0002401	normal-phase chromatography	skos:exactMatch	FIX:0000619	normal-phas
 CHMO:0002402	elution chromatography	skos:exactMatch	FIX:0000617	elution chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002403	partition chromatography	skos:exactMatch	FIX:0000612	partition chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002404	deuterium-decoupled nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0000589	2H decoupled NMR	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002412	ultraviolet melting	skos:exactMatch	FIX:0000390	UV melting	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
