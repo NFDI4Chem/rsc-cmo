@@ -338,3 +338,4 @@ CHMO:0002373	surface-enhanced non-resonance Raman spectroscopy	skos:exactMatch	F
 CHMO:0002374	109Ag nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001015	silver-109 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002375	109Ag cross-polarisation magic angle spinning	skos:exactMatch	FIX:0001016	109Ag CP/MAS	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002376	1H–109Ag heteronuclear multiple quantum coherence	skos:exactMatch	FIX:0001017	1H-109Ag HMQC	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002377	1H–113Cd heteronuclear multiple quantum coherence	skos:exactMatch	FIX:0001021	1H-113Cd HMQC	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
