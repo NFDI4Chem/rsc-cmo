@@ -359,3 +359,4 @@ CHMO:0002412	ultraviolet melting	skos:exactMatch	FIX:0000390	UV melting	semapv:M
 CHMO:0002413	cryogenic electron microscopy	skos:exactMatch	FIX:0000052	cryo-electron microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002414	scattering spectroscopy	skos:exactMatch	FIX:0000057	scattering spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002415	luminescence spectroscopy	skos:exactMatch	FIX:0000027	luminescence spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002416	phosphorescence spectroscopy	skos:exactMatch	FIX:0000029	phosphorescence spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
