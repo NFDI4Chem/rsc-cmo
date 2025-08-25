@@ -417,3 +417,4 @@ CHMO:0002719	quadrupole time-of-flight mass spectrometry	skos:exactMatch	FIX:000
 CHMO:0002720	microwave induced plasma atomic emission detection	skos:exactMatch	FIX:0000925	gas chromatography with microwave-induced plasma and atomic-emission detection	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002721	gas chromatography-microwave-induced plasma atomic emission detection	skos:broadMatch	FIX:0000925	gas chromatography with microwave-induced plasma and atomic-emission detection	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002722	chemiluminescence spectroscopy	skos:exactMatch	FIX:0000238	chemiluminescence spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002723	thermoluminescence spectroscopy	skos:exactMatch	FIX:0000239	thermoluminescence spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
