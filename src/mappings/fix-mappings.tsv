@@ -391,3 +391,4 @@ CHMO:0002555	triple-resonance spectroscopy	skos:exactMatch	FIX:0000153	triple re
 CHMO:0002556	HNCO	skos:exactMatch	FIX:0000154	FIX:0000154	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002557	HNCA	skos:exactMatch	FIX:0000155	HNCA experiment	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002558	HNCOCA	skos:exactMatch	FIX:0000156	HN(CO)CA experiment	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002559	three-dimensional nuclear Overhauser spectroscopy-heteronuclear single quantum coherence	skos:exactMatch	FIX:0000151	3D NOESY-HSQC	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
