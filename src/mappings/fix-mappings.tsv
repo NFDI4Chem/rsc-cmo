@@ -299,3 +299,4 @@ CHMO:0001985	three-pulse electron spin-echo envelope modulation	skos:exactMatch	
 CHMO:0001986	non-resonance Raman spectroscopy	skos:exactMatch	FIX:0000026	non-resonance Raman spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002010	analytical centrifugation	skos:exactMatch	FIX:0000255	analytical centrifugation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002012	low-speed centrifugation	skos:exactMatch	FIX:0000261	low speed centrifugation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002015	differential centrifugation	skos:exactMatch	FIX:0000264	differential centrifugation	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
