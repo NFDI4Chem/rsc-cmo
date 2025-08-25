@@ -319,3 +319,4 @@ CHMO:0002143	conductometric titration	skos:exactMatch	FIX:0000771	conductometric
 CHMO:0002144	high-frequency conductometric titration	skos:exactMatch	FIX:0000774	high frequency conductometric titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002289	fast Fourier transform infrared spectroscopy	skos:exactMatch	FIX:0000647	fast Fourier transform infrared spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002290	infrared transmission spectroscopy	skos:exactMatch			semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002291	dispersive infrared spectroscopy	skos:exactMatch	FIX:0000649	dispersive infrared spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
