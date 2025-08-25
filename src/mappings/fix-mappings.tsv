@@ -380,3 +380,4 @@ CHMO:0002493	63Cu pulsed electron spin resonance spectroscopy	skos:exactMatch	FI
 CHMO:0002494	65Cu pulsed electron spin resonance spectroscopy	skos:exactMatch	FIX:0001110	copper-65 electron paramagnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002509	flash photolysis	skos:exactMatch	FIX:0000370	flash photolysis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002510	laser flash photolysis	skos:exactMatch	FIX:0000371	laser flash photolysis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002511	nanosecond laser flash photolysis	skos:exactMatch	FIX:0000372	nanosecond laser flash photolysis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
