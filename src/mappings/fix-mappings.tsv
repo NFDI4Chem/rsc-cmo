@@ -419,3 +419,4 @@ CHMO:0002721	gas chromatography-microwave-induced plasma atomic emission detecti
 CHMO:0002722	chemiluminescence spectroscopy	skos:exactMatch	FIX:0000238	chemiluminescence spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002723	thermoluminescence spectroscopy	skos:exactMatch	FIX:0000239	thermoluminescence spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002724	isomorphous replacement	skos:exactMatch	FIX:0000245	isomorphous replacement	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002725	single isomorphous replacement	skos:exactMatch	FIX:0000246	single isomorphous replacement	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
