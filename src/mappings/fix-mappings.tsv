@@ -352,3 +352,4 @@ CHMO:0002398	1H–15N heteronuclear multiple quantum coherence	skos:exactMatch	F
 CHMO:0002399	1H–13C heteronuclear multiple quantum coherence	skos:exactMatch	FIX:0000475	13C-1H HMQC	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002400	15N–15N correlation spectroscopy	skos:exactMatch	FIX:0000544	15N-15N correlated spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002401	normal-phase chromatography	skos:exactMatch	FIX:0000619	normal-phase chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002402	elution chromatography	skos:exactMatch	FIX:0000617	elution chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
