@@ -335,3 +335,4 @@ CHMO:0002317	liquid–liquid chromatography	skos:exactMatch	FIX:0000633	liquid-l
 CHMO:0002318	liquid–solid chromatography	skos:exactMatch	FIX:0000634	liquid-solid chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002371	potentiometric titration	skos:exactMatch	FIX:0000066	potentiometric titration	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002373	surface-enhanced non-resonance Raman spectroscopy	skos:exactMatch	FIX:0000078	surface enhanced non-resonance Raman spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002374	109Ag nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0001015	silver-109 magnetic resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
