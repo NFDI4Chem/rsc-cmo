@@ -322,3 +322,4 @@ CHMO:0002290	infrared transmission spectroscopy	skos:exactMatch			semapv:ManualM
 CHMO:0002291	dispersive infrared spectroscopy	skos:exactMatch	FIX:0000649	dispersive infrared spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002292	near-infrared surface plasmon resonance spectroscopy	skos:exactMatch	FIX:0000394	near infrared surface plasmon resonance spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002293	magnetophoresis	skos:exactMatch	FIX:0000689	magnetophoresis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002295	electron-induced photoelectron spectroscopy	skos:exactMatch	FIX:0000667	electron-induced photon emission spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
