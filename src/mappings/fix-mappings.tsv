@@ -339,3 +339,4 @@ CHMO:0002374	109Ag nuclear magnetic resonance spectroscopy	skos:exactMatch	FIX:0
 CHMO:0002375	109Ag cross-polarisation magic angle spinning	skos:exactMatch	FIX:0001016	109Ag CP/MAS	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002376	1H–109Ag heteronuclear multiple quantum coherence	skos:exactMatch	FIX:0001017	1H-109Ag HMQC	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002377	1H–113Cd heteronuclear multiple quantum coherence	skos:exactMatch	FIX:0001021	1H-113Cd HMQC	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002378	113Cd–113Cd correlation spectroscopy	skos:exactMatch	FIX:0001020	113Cd-113Cd correlated spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
