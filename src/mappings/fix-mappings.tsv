@@ -399,3 +399,4 @@ CHMO:0002565	HNCAHA	skos:exactMatch	FIX:0000452	HNCAHA experiment	semapv:ManualM
 CHMO:0002566	four-dimensional HCCH-total correlation spectroscopy	skos:exactMatch	FIX:0000449	4D HCCH-TOCSY	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002567	gradient 13C–13C 1H–1H nuclear Overhauser spectroscopy	skos:exactMatch	FIX:0000450	gradient 13C/13C 1H-1H NOESY	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002568	13C–13C edited 1H–1H nuclear Overhauser enhancement spectroscopy	skos:exactMatch	FIX:0000447	13C/13C edited 1H-1H NOESY	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002569	13C–15N edited 1H–1H nuclear Overhauser enhancement spectroscopy	skos:exactMatch	FIX:0000560	15N/15N edited 1H-1H NOESY	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
