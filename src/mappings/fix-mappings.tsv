@@ -448,3 +448,4 @@ CHMO:0000313	electron probe X-ray microanalysis	skos:narrowtMatch	FIX:0000105	el
 CHMO:0000313	electron probe X-ray microanalysis	skos:exactMatch	FIX:0000674	electron probe X-ray microanalysis	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000307	X-ray emission spectroscopy	skos:exactMatch	FIX:0000100	X-ray emission spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000307	X-ray emission spectroscopy	skos:narrowtMatch	FIX:0000673	X-ray fluorescence spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000003	electrochemical analysis	skos:exactMatch	FIX:0000764	electroanalytical method	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
