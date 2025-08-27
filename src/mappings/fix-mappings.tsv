@@ -325,6 +325,7 @@ CHMO:0002293	magnetophoresis	skos:exactMatch	FIX:0000689	magnetophoresis	semapv:
 CHMO:0002295	electron-induced photoelectron spectroscopy	skos:exactMatch	FIX:0000667	electron-induced photon emission spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002297	electron-induced X-ray emission spectroscopy	skos:exactMatch	FIX:0000682	electron-induced X-ray emission spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002298	proton-induced X-ray emission spectroscopy	skos:exactMatch	FIX:0000102	proton-induced X-ray emission spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0002299	phosphorescence detection	skos:exactMatch	FIX:0000426	phosphorescence method	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002301	13C–13C correlation spectroscopy	skos:exactMatch	FIX:0000438	13C–13C correlation spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002302	reversed-phase chromatography	skos:exactMatch	FIX:0000620	reversed-phase chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0002303	gradient-elution chromatography	skos:exactMatch	FIX:0000621	gradient elution chromatography	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
