@@ -452,6 +452,8 @@ CHMO:0000291	spectrophotometry	skos:narrowtMatch	FIX:0000943	molecular electroni
 CHMO:0000291	spectrophotometry	skos:exactMatchskos:exactMatch	FIX:0000011	molecular electronic absorption spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000307	X-ray emission spectroscopy	skos:exactMatch	FIX:0000100	X-ray emission spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000307	X-ray emission spectroscopy	skos:narrowtMatch	FIX:0000673	X-ray fluorescence spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000309	energy-dispersive X-ray emission spectroscopy	skos:exactMatch	FIX:0000104	energy-dispersive spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000309	energy-dispersive X-ray emission spectroscopy	skos:exactMatch	FIX:0000677	energy distribution spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000003	electrochemical analysis	skos:exactMatch	FIX:0000764	electroanalytical method	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000064	fluorescence resonance energy transfer	skos:exactMatch	FIX:0000472	fluorescence resonance energy transfer	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000064	fluorescence resonance energy transfer	skos:narrowtMatch	FIX:0000473	FRET microscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
