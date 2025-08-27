@@ -442,3 +442,5 @@ CHMO:0000305	near-edge X-ray absorption fine structure spectroscopy	skos:exactMa
 CHMO:0000305	near-edge X-ray absorption fine structure spectroscopy	skos:exactMatch	FIX:0000025	X-ray absorption near edge structure	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000164	electron scattering	skos:narrowMatch	FIX:0000401	electron scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000164	electron scattering	skos:exactMatch	FIX:0000666	electron scattering spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000630	infrared absorption spectroscopy	skos:exactMatch	FIX:0000658	infrared absorption spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000630	infrared absorption spectroscopy	skos:narrowMatch	FIX:0000015	infrared spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
