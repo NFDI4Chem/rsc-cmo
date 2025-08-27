@@ -440,3 +440,5 @@ CHMO:0000366	electron energy loss spectroscopy	skos:exactMatch	FIX:0000663	elect
 CHMO:0002032	121Sb Mossbauer spectroscopy	skos:exactMatch	FIX:0000734	antimony-121 Mossbauer spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000305	near-edge X-ray absorption fine structure spectroscopy	skos:exactMatch	FIX:0000376	near edge X-ray absorption fine structure	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
 CHMO:0000305	near-edge X-ray absorption fine structure spectroscopy	skos:exactMatch	FIX:0000025	X-ray absorption near edge structure	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000164	electron scattering	skos:narrowMatch	FIX:0000401	electron scattering	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
+CHMO:0000164	electron scattering	skos:exactMatch	FIX:0000666	electron scattering spectroscopy	semapv:ManualMappingCuration	https://orcid.org/0009-0009-1663-1003	0.8
