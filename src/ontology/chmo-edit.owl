@@ -15010,7 +15010,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "Orange:9.2.1.6") obo:IAO_0000
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001050 "RPLC")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001050 "reverse phase liquid chromatography")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001050 "reversed phase liquid chromatography")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001050 "reversed-phase liquid chromatography")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001050 "CHMO:0001050")
 AnnotationAssertion(rdfs:label obo:CHMO_0001050 "reversed-phase liquid chromatography")
 SubClassOf(obo:CHMO_0001050 obo:CHMO_0001004)
