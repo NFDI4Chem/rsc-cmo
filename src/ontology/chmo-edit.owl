@@ -7419,7 +7419,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000381 "ultra-violet brem
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000381 "ultra-violet bremsstrahlung isochromat spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000381 "ultra-violet bremsstrahlung spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000381 "ultraviolet bremsstrahlung isochromat spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000381 "ultraviolet bremsstrahlung isochromat spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000381 "ultraviolet bremsstrahlung spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000381 "ultraviolet bremsstrahlung spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000381 "CHMO:0000381")
