@@ -31999,7 +31999,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000154") Annotation(oboI
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002556 "Hils")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002556 "2009-10-25T08:08:23Z")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0002556 "CHMO:0002057")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002556 "HNCO")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002556 "HNCO experiment")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002556 "CHMO:0002556")
 AnnotationAssertion(rdfs:label obo:CHMO_0002556 "HNCO")
