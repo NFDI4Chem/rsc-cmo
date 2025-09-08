@@ -5704,7 +5704,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000241 "direct solid samp
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000241 "direct solid sampling graphite furnace atomic absorption spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000241 "solid samples graphite furnace atomic absorption spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000241 "solid samples graphite furnace atomic absorption spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000241 "solid sampling graphite furnace atomic absorption spectrometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000241 "CHMO:0000241")
 AnnotationAssertion(rdfs:label obo:CHMO_0000241 "solid sampling graphite furnace atomic absorption spectrometry")
 SubClassOf(obo:CHMO_0000241 obo:CHMO_0000239)
