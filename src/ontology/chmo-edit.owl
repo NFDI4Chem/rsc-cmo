@@ -32023,7 +32023,6 @@ AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002558 "2009-10-25T08:11:11
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0002558 "CHMO:0002059")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002558 "HN(CO)CA")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002558 "HN(CO)CA experiment")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002558 "HNCOCA")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002558 "HNCOCA experiment")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002558 "CHMO:0002558")
 AnnotationAssertion(rdfs:label obo:CHMO_0002558 "HNCOCA")
