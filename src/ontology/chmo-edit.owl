@@ -5742,7 +5742,6 @@ SubClassOf(obo:CHMO_0000244 obo:CHMO_0000237)
 
 AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000245 "A type of atomic absorption spectrometry where the sample is carried to the spectrometer by flow injection and forced through a heated metal capillary tip before atomisation in a flame furnace.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000245 "FI-TS-FF-AAS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000245 "flow injection thermospray flame furnace absorption spectrometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000245 "CHMO:0000245")
 AnnotationAssertion(rdfs:label obo:CHMO_0000245 "flow injection thermospray flame furnace absorption spectrometry")
 SubClassOf(obo:CHMO_0000245 obo:CHMO_0000244)
