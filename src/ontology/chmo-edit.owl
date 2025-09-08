@@ -25318,7 +25318,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001997 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001997 "2009-06-19T10:59:52Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001997 "multi-dimensional HPLC")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001997 "multi-dimensional high-performance liquid chromatography")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001997 "multidimensional HPLC")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001997 "multidimensional high-pressure liquid chromatography")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001997 "CHMO:0001997")
