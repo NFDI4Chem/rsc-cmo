@@ -9181,7 +9181,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000520 "matrix assisted l
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000520 "matrix assisted laser desorption/ionization time of flight mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000520 "matrix assisted laser desorption/ionization time of flight mass spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000520 "matrix-assisted laser desorption ionization (MALDI-TOF) mass spectrometry (MS)")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000520 "matrix-assisted laser desorption-ionisation time-of-flight mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000520 "matrix-associated laser desorption/ionization-time of flight mass spectrometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000520 "CHMO:0000520")
 AnnotationAssertion(rdfs:label obo:CHMO_0000520 "matrix-assisted laser desorption-ionisation time-of-flight mass spectrometry")
