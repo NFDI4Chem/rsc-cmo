@@ -17974,7 +17974,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001309 "breath figure met
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001309 "breath figure templating")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001309 "breath figure-driven templating")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001309 "breath-figure method")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001309 "breath-figure templating")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001309 "CHMO:0001309")
 AnnotationAssertion(rdfs:label obo:CHMO_0001309 "breath-figure templating")
 SubClassOf(obo:CHMO_0001309 obo:CHMO_0002213)
