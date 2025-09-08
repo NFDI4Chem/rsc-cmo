@@ -3658,7 +3658,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000052 "near infrared mic
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000052 "near infrared optical microscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000052 "near-IR spectromicroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000052 "near-infra-red microscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000052 "near-infrared microscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000052 "near-infrared spectromicroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000052 "CHMO:0000052")
 AnnotationAssertion(rdfs:label obo:CHMO_0000052 "near-infrared microscopy")
