@@ -5112,7 +5112,6 @@ SubClassOf(obo:CHMO_0000182 obo:CHMO_0000181)
 # Class: obo:CHMO_0000183 (elastic neutron scattering)
 
 AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000183 "A method for determining structure by measuring the change in direction of scattered neutrons. Neutrons are scattered by the atomic nuclei in the sample and retain all of their kinetic energy during collisions.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000183 "elastic neutron scattering")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000183 "CHMO:0000183")
 AnnotationAssertion(rdfs:label obo:CHMO_0000183 "elastic neutron scattering")
 SubClassOf(obo:CHMO_0000183 obo:CHMO_0000181)
