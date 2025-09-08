@@ -10929,7 +10929,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000654 "planar array IR e
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000654 "planar array IRES")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000654 "planar array infra-red emission spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000654 "planar array infrared emission spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000654 "planar array infrared emission spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000654 "CHMO:0000654")
 AnnotationAssertion(rdfs:label obo:CHMO_0000654 "planar array infrared emission spectroscopy")
 SubClassOf(obo:CHMO_0000654 obo:CHMO_0000649)
