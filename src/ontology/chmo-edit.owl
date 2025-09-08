@@ -12415,7 +12415,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000791 "diffusion-edited 
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000791 "diffusion-edited NMR spectrum")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000791 "diffusion-edited spectra")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000791 "diffusion-edited spectrum")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000791 "diffusion-ordered spectrum")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000791 "CHMO:0000791")
 AnnotationAssertion(rdfs:label obo:CHMO_0000791 "diffusion-ordered spectrum")
 SubClassOf(obo:CHMO_0000791 obo:CHMO_0000835)
