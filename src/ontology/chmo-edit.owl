@@ -31328,7 +31328,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002500 "IEF cathode buffe
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002500 "IEF cathodic buffer")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002500 "cathode buffer")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002500 "cathodic buffer")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002500 "electrophoresis cathode buffer")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002500 "isoelectric focusing cathode buffer")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002500 "isoelectric focusing cathodic buffer")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002500 "CHMO:0002500")
