@@ -22659,7 +22659,6 @@ AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001802 "2009-05-21T01:51:51
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001802 "TEM image")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001802 "TEM images")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001802 "TEM micrograph")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001802 "transmission electron micrograph")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001802 "transmission electron microphotograph")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001802 "transmission electron microscope (TEM) image")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001802 "transmission electron microscope image")
