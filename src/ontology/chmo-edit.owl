@@ -8125,7 +8125,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000440 "collinear laser b
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000440 "collinear laser beam spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000440 "collinear laser ion beam spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000440 "collinear laser ion-beam spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000440 "collinear laser ion-beam spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000440 "CHMO:0000440")
 AnnotationAssertion(rdfs:label obo:CHMO_0000440 "collinear laser ion-beam spectroscopy")
 SubClassOf(obo:CHMO_0000440 obo:CHMO_0000438)
