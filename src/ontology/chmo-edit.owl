@@ -8851,7 +8851,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b8153
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000498 "HR-MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000498 "HRMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000498 "high resolution mass spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000498 "high-resolution mass spectrometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000498 "CHMO:0000498")
 AnnotationAssertion(rdfs:label obo:CHMO_0000498 "high-resolution mass spectrometry")
 SubClassOf(obo:CHMO_0000498 obo:CHMO_0000470)
