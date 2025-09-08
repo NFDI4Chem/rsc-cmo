@@ -6366,7 +6366,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000296 "vacuum ultra-viol
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000296 "vacuum ultra-violet spectrophotometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000296 "vacuum ultraviolet absorption spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000296 "vacuum ultraviolet absorption spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000296 "vacuum ultraviolet spectrophotometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000296 "CHMO:0000296")
 AnnotationAssertion(rdfs:label obo:CHMO_0000296 "vacuum ultraviolet spectrophotometry")
 SubClassOf(obo:CHMO_0000296 obo:CHMO_0001253)
