@@ -24587,7 +24587,6 @@ AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001943 "https://orcid.org/0000
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001943 "2009-06-10T10:23:02Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001943 "HORSES")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001943 "higher order Raman spectral excitation studies")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001943 "higher-order Raman spectral excitation spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001943 "higher-order Raman spectral excitation studies")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001943 "CHMO:0001943")
 AnnotationAssertion(rdfs:label obo:CHMO_0001943 "higher-order Raman spectral excitation spectroscopy")
