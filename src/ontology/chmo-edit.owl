@@ -20453,7 +20453,6 @@ SubClassOf(obo:CHMO_0001582 obo:CHMO_0001579)
 # Class: obo:CHMO_0001583 (liquid-solid extraction)
 
 AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0-13-147835-4") obo:IAO_0000115 obo:CHMO_0001583 "The process of transferring a substance from a liquid to a solid phase by passing the liquid sample through a stationary phase (e.g. silica particles).")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001583 "liquid-solid extraction")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001583 "solid phase extraction")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001583 "solid-phase extraction")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001583 "sorbent extraction")
