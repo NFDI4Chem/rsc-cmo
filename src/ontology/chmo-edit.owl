@@ -27720,7 +27720,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002202 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002202 "2009-07-23T03:47:52Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002202 "MALDI mass spectrometer")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002202 "matrix assisted laser desorption-ionisation mass spectrometer")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002202 "CHMO:0002202")
 AnnotationAssertion(rdfs:label obo:CHMO_0002202 "matrix assisted laser desorption-ionisation mass spectrometer")
 SubClassOf(obo:CHMO_0002202 obo:CHMO_0000982)
