@@ -10142,7 +10142,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000598 "2D nuclear magnet
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000598 "2D nuclear magnetic resonance spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000598 "two-dimensional NMR")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000598 "two-dimensional nuclear magnetic resonance spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000598 "two-dimensional nuclear magnetic resonance spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000598 "CHMO:0000598")
 AnnotationAssertion(rdfs:label obo:CHMO_0000598 "two-dimensional nuclear magnetic resonance spectroscopy")
 SubClassOf(obo:CHMO_0000598 obo:CHMO_0000613)
