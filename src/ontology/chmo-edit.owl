@@ -10902,7 +10902,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000652 "Fourier transform
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000652 "Fourier transform infra-red emission spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000652 "Fourier transform infra-red emission spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000652 "Fourier transform infrared emission spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000652 "Fourier transform infrared emission spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000652 "Fourier-transform infrared spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000652 "CHMO:0000652")
 AnnotationAssertion(rdfs:label obo:CHMO_0000652 "Fourier transform infrared emission spectroscopy")
