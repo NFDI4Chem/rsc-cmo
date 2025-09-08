@@ -29650,7 +29650,6 @@ AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002365 "2009-09-15T03:12:18
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002365 "CFHF-LPME")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002365 "continuous flow hollow fiber liquid-phase micro-extraction")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002365 "continuous flow hollow fiber liquid-phase microextraction")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002365 "continuous flow hollow fibre liquid-phase micro-extraction")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002365 "CHMO:0002365")
 AnnotationAssertion(rdfs:label obo:CHMO_0002365 "continuous flow hollow fibre liquid-phase micro-extraction")
 SubClassOf(obo:CHMO_0002365 obo:CHMO_0002364)
