@@ -4139,7 +4139,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000093 "NIRF microscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000093 "NIRFM")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000093 "near infra-red fluorescence microscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000093 "near-infrared fluorescence microscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000093 "CHMO:0000093")
 AnnotationAssertion(rdfs:label obo:CHMO_0000093 "near-infrared fluorescence microscopy")
 SubClassOf(obo:CHMO_0000093 obo:CHMO_0000092)
