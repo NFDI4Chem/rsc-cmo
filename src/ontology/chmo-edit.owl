@@ -25275,7 +25275,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001993 "N2 adsorption and
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001993 "N2 adsorption-desorption isotherm")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001993 "N2 adsorption-desorption isotherms")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001993 "N2 adsorption/desorption isotherm")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001993 "nitrogen adsorption-desorption isotherm")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001993 "nitrogen adsorption-desorption isotherms")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001993 "CHMO:0001993")
 AnnotationAssertion(rdfs:label obo:CHMO_0001993 "nitrogen adsorption-desorption isotherm")
