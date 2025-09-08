@@ -5148,7 +5148,6 @@ SubClassOf(obo:CHMO_0000186 obo:CHMO_0000184)
 
 AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0001130") Annotation(oboInOwl:hasDbXref "https://doi.org/10.1002/pol.1982.180200207") obo:IAO_0000115 obo:CHMO_0000187 "A method for determining structure by measuring the change in direction or energy of scattered neutrons at wide angles (corresponding to Q > 1 inverse degrees).")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000187 "WANS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000187 "wide angle neutron scattering")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000187 "CHMO:0000187")
 AnnotationAssertion(rdfs:label obo:CHMO_0000187 "wide angle neutron scattering")
 SubClassOf(obo:CHMO_0000187 obo:CHMO_0000181)
