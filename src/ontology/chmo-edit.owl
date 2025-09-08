@@ -20753,7 +20753,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.2.7.7") obo:IAO_
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001610 "SCFE")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001610 "SFE")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001610 "supercritical extraction")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001610 "supercritical fluid extraction")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001610 "CHMO:0001610")
 AnnotationAssertion(rdfs:label obo:CHMO_0001610 "supercritical fluid extraction")
 SubClassOf(obo:CHMO_0001610 obo:CHMO_0001598)
