@@ -23639,7 +23639,6 @@ AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001874 "2009-05-29T12:00:00
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001874 "CT experiment")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001874 "CT method")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001874 "constant time experiment")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001874 "constant time method")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001874 "CHMO:0001874")
 AnnotationAssertion(rdfs:label obo:CHMO_0001874 "constant time method")
 SubClassOf(obo:CHMO_0001874 obo:CHMO_0001806)
