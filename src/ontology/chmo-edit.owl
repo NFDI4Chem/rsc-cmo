@@ -19792,7 +19792,6 @@ SubClassOf(obo:CHMO_0001497 obo:CHMO_0001489)
 # Class: obo:CHMO_0001498 (enzymic decomposition)
 
 AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:10.3.4.9.5") obo:IAO_0000115 obo:CHMO_0001498 "The conversion of a high-molecular-mass species into a lower-molecular-mass species using an enzyme.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001498 "enzymic decomposition")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001498 "CHMO:0001498")
 AnnotationAssertion(rdfs:label obo:CHMO_0001498 "enzymic decomposition")
 SubClassOf(obo:CHMO_0001498 obo:CHMO_0001487)
