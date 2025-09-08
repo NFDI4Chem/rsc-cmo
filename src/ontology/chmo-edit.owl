@@ -27709,7 +27709,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002201 "MALDI mass spectr
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002201 "MALDI spectra")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002201 "MALDI spectrum")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002201 "matrix assisted laser desorption-ionisation mass spectra")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002201 "matrix assisted laser desorption-ionisation mass spectrum")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002201 "CHMO:0002201")
 AnnotationAssertion(rdfs:label obo:CHMO_0002201 "matrix assisted laser desorption-ionisation mass spectrum")
 SubClassOf(obo:CHMO_0002201 obo:CHMO_0001289)
