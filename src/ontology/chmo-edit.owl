@@ -25655,7 +25655,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "CHEBI:52453") Annotation(oboI
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002028 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002028 "2009-06-22T04:27:35Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002028 "129Xe Moessbauer spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002028 "129Xe Moessbauer spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002028 "129Xe Mossbauer spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002028 "129Xe Mossbauer spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002028 "129Xe Mössbauer spectrometry")
