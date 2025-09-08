@@ -16985,7 +16985,6 @@ AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001232 "https://orcid.org/0000
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001232 "2009-03-25T01:36:55Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001232 "continuous flow enthalpimetric analysis")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001232 "continuous flow enthalpimetry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001232 "continuous-flow calorimetry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001232 "continuous-flow enthalpimetry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001232 "CHMO:0001232")
 AnnotationAssertion(rdfs:label obo:CHMO_0001232 "continuous-flow calorimetry")
