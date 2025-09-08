@@ -25720,7 +25720,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "CHEBI:52624") Annotation(oboI
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002032 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002032 "2009-06-22T04:43:30Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002032 "121Sb Moessbauer spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002032 "121Sb Mossbauer spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002032 "121Sb recoil-free gamma-ray resonance absorption spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002032 "antimony-121 Moessbauer spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002032 "CHMO:0002032")
