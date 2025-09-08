@@ -8190,7 +8190,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000446 "intra-cavity lase
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000446 "intra-cavity laser spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000446 "intra-cavity laser spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000446 "intracavity laser absorption spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000446 "intracavity laser absorption spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000446 "intracavity laser spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000446 "intracavity spectrometry")
 AnnotationAssertion(oboInOwl:hasRelatedSynonym obo:CHMO_0000446 "ILS")
