@@ -33830,7 +33830,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1002/anie.
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002705 "Hils")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002705 "2010-07-24T10:52:23Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002705 "Bonnemann colloidal method")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002705 "Bonnemann method")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002705 "Bonnemann's method")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002705 "CHMO:0002705")
 AnnotationAssertion(rdfs:label obo:CHMO_0002705 "Bonnemann method")
