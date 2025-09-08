@@ -21189,7 +21189,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001661 "electrospray-assi
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001661 "electrospray-assisted laser desorption-ionization")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001661 "electrospray-assisted laser desorption–ionisation")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001661 "electrospray-assisted laser desorption–ionization")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001661 "laser desorption electrospray ionisation")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001661 "laser desorption electrospray ionization")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001661 "CHMO:0001661")
 AnnotationAssertion(rdfs:label obo:CHMO_0001661 "laser desorption electrospray ionisation")
