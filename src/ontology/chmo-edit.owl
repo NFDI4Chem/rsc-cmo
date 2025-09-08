@@ -10634,7 +10634,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000633 "IRMPD spectrometr
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000633 "IRMPD spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000633 "infra-red multiphoton dissociation spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000633 "infrared multiphoton dissociation spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000633 "infrared multiphoton dissociation spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000633 "CHMO:0000633")
 AnnotationAssertion(rdfs:label obo:CHMO_0000633 "infrared multiphoton dissociation spectroscopy")
 SubClassOf(obo:CHMO_0000633 obo:CHMO_0000630)
