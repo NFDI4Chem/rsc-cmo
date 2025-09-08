@@ -12202,7 +12202,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000771 "multi-photon fluo
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000771 "multi-photon fluorescence microscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000771 "multiphoton excitation microscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000771 "multiphoton fluorescence imaging")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000771 "multiphoton fluorescence microscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000771 "CHMO:0000771")
 AnnotationAssertion(rdfs:label obo:CHMO_0000771 "multiphoton fluorescence microscopy")
 SubClassOf(obo:CHMO_0000771 obo:CHMO_0000087)
