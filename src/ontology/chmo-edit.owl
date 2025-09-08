@@ -25689,7 +25689,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "CHEBI:52623") Annotation(oboI
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002030 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002030 "2009-06-22T04:33:40Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002030 "57Fe Moessbauer spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002030 "57Fe Mossbauer spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002030 "57Fe Mössbauer spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002030 "57Fe Mößbauer spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002030 "57Fe recoil-free gamma-ray resonance absorption spectroscopy")
