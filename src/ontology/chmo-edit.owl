@@ -10468,7 +10468,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000620 "infra-red photoac
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000620 "infrared optoacoustic spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000620 "infrared optoacoustic spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000620 "infrared photoacoustic spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000620 "infrared photoacoustic spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000620 "CHMO:0000620")
 AnnotationAssertion(rdfs:label obo:CHMO_0000620 "infrared photoacoustic spectroscopy")
 SubClassOf(obo:CHMO_0000620 obo:CHMO_0000619)
