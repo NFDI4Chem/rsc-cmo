@@ -5049,7 +5049,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b8108
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000178 "IR-TDFRS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000178 "IR-TDFRS analysis")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000178 "IR-TDFRS method")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000178 "infrared thermal diffusion forced Rayleigh scattering")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000178 "CHMO:0000178")
 AnnotationAssertion(rdfs:label obo:CHMO_0000178 "infrared thermal diffusion forced Rayleigh scattering")
 SubClassOf(obo:CHMO_0000178 obo:CHMO_0000177)
