@@ -29675,7 +29675,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1016/j.aca
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002367 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002367 "2009-09-15T03:21:58Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002367 "LLLME")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002367 "liquid-liquid-liquid micro-extraction")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002367 "liquid-liquid-liquid microextraction")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002367 "CHMO:0002367")
 AnnotationAssertion(rdfs:label obo:CHMO_0002367 "liquid-liquid-liquid micro-extraction")
