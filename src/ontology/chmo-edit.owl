@@ -10729,7 +10729,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000639 "Fourier transform
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000639 "Fourier transform near infra-red spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000639 "Fourier transform near infra-red spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000639 "Fourier transform near infrared absorbance spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000639 "Fourier transform near infrared absorbance spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000639 "Fourier transform near infrared absorption spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000639 "Fourier transform near infrared absorption spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000639 "CHMO:0000639")
