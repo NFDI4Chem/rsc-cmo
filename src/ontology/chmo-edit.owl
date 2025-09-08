@@ -33864,7 +33864,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0001158") obo:IAO_0000115
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002708 "Hils")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002708 "2010-07-24T11:09:14Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002708 "LC-NMR")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002708 "liquid chromatography nuclear magnetic resonance spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002708 "CHMO:0002708")
 AnnotationAssertion(rdfs:label obo:CHMO_0002708 "liquid chromatography nuclear magnetic resonance spectroscopy")
 EquivalentClasses(obo:CHMO_0002708 ObjectIntersectionOf(obo:CHMO_0000613 ObjectSomeValuesFrom(obo:BFO_0000118 obo:CHMO_0001004)))
