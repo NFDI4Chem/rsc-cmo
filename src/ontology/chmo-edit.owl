@@ -30465,7 +30465,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b9nr0
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002431 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002431 "2009-09-22T11:37:33Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002431 "two-step UV-assisted CFL")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002431 "two-step UV-assisted capillary force lithography")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002431 "two-step UV-assisted capillary force lithography (CFL)")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002431 "CHMO:0002431")
 AnnotationAssertion(rdfs:label obo:CHMO_0002431 "two-step UV-assisted capillary force lithography")
