@@ -10913,7 +10913,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0-534-98144-5") obo:IAO_
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000653 "MIRES")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000653 "mid-infra-red emission spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000653 "mid-infrared emission spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000653 "mid-infrared emission spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000653 "CHMO:0000653")
 AnnotationAssertion(rdfs:label obo:CHMO_0000653 "mid-infrared emission spectroscopy")
 SubClassOf(obo:CHMO_0000653 obo:CHMO_0000649)
