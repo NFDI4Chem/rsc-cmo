@@ -7474,7 +7474,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000386 "SP-MDS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000386 "SPMDS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000386 "spin-polarized metastable de-excitation spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000386 "spin-polarized metastable de-excitation spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000386 "spin-polarized metastable deexcitation spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000386 "spin-polarized metastable deexcitation spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000386 "CHMO:0000386")
