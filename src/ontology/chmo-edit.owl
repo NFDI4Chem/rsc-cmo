@@ -31989,7 +31989,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002555 "triple resonance 
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002555 "triple resonance nuclear magnetic spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002555 "triple resonance spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002555 "triple-resonance NMR")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002555 "triple-resonance spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002555 "CHMO:0002555")
 AnnotationAssertion(rdfs:label obo:CHMO_0002555 "triple-resonance spectroscopy")
 SubClassOf(obo:CHMO_0002555 obo:CHMO_0000613)
