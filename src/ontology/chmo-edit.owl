@@ -27865,7 +27865,6 @@ AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002215 "https://orcid.org/0000
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002215 "2009-07-28T01:21:07Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002215 "Loeb-Sourirajan method")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002215 "Loeb-Sourirajan technique")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002215 "dry-wet phase inversion technique")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002215 "CHMO:0002215")
 AnnotationAssertion(rdfs:label obo:CHMO_0002215 "dry-wet phase inversion technique")
 SubClassOf(obo:CHMO_0002215 obo:CHMO_0002214)
