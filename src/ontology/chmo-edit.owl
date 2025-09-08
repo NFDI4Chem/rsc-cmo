@@ -16100,7 +16100,6 @@ AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001158 "2009-03-13T11:45:02
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001158 "SP-PLP-EPR")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001158 "SP-PLP-ESR")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001158 "single pulse-pulsed laser polymerization-electron paramagnetic resonance")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001158 "single pulse-pulsed laser polymerization-electron spin resonance")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001158 "CHMO:0001158")
 AnnotationAssertion(rdfs:label obo:CHMO_0001158 "single pulse-pulsed laser polymerization-electron spin resonance")
 SubClassOf(obo:CHMO_0001158 obo:CHMO_0000330)
