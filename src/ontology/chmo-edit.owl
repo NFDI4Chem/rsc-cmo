@@ -6486,7 +6486,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000306 "X-ray micro-probe spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000306 "X-ray microanalysis")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000306 "X-ray microprobe spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000306 "X-ray microprobe spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000306 "XMPS")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000306 "CHMO:0000306")
 AnnotationAssertion(rdfs:label obo:CHMO_0000306 "X-ray microprobe spectroscopy")
