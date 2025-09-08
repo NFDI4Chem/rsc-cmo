@@ -30613,7 +30613,6 @@ AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002445 "2009-09-23T03:06:09
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002445 "PP spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002445 "pump probe spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002445 "pump-probe (PP) spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002445 "pump-probe spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002445 "CHMO:0002445")
 AnnotationAssertion(rdfs:label obo:CHMO_0002445 "pump-probe spectroscopy")
 SubClassOf(obo:CHMO_0002445 obo:CHMO_0000435)
