@@ -10055,7 +10055,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000592 "1D NMR spectrosco
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000592 "1D nuclear magnetic resonance spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000592 "1D nuclear magnetic resonance spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000592 "one-dimensional nuclear magnetic resonance spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000592 "one-dimensional nuclear magnetic resonance spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000592 "CHMO:0000592")
 AnnotationAssertion(rdfs:label obo:CHMO_0000592 "one-dimensional nuclear magnetic resonance spectroscopy")
 SubClassOf(obo:CHMO_0000592 obo:CHMO_0000613)
