@@ -10889,7 +10889,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000651 "FT-FIRE")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000651 "Fourier transform FIRE")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000651 "Fourier transform flame infra-red emission spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000651 "Fourier transform flame infrared emission spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000651 "CHMO:0000651")
 AnnotationAssertion(rdfs:label obo:CHMO_0000651 "Fourier transform flame infrared emission spectroscopy")
 SubClassOf(obo:CHMO_0000651 obo:CHMO_0000650)
