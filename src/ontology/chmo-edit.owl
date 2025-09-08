@@ -20524,7 +20524,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001589 "HSPME")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001589 "HSSE")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001589 "hSPME")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001589 "headspace solid-phase micro-extraction")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001589 "headspace solid-phase microextraction")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001589 "headspace sorptive extraction")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001589 "CHMO:0001589")
