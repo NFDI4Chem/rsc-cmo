@@ -8435,7 +8435,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000468 "resonance enhanced laser microanalysis")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000468 "resonance-enchanced laser micro-probe spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000468 "resonance-enhanced laser microprobe spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000468 "resonance-enhanced laser microprobe spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000468 "CHMO:0000468")
 AnnotationAssertion(rdfs:label obo:CHMO_0000468 "resonance-enhanced laser microprobe spectroscopy")
 SubClassOf(obo:CHMO_0000468 obo:CHMO_0000467)
