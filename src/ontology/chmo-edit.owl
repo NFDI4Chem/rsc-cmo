@@ -12431,7 +12431,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000792 "UV-vis-NIR absorp
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000792 "UV-visible-near IR absorption spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000792 "UV-visible-near IR spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000792 "ultraviolet-visible-near infrared absorption spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000792 "ultraviolet-visible-near infrared spectrophotometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000792 "ultraviolet-visible-near infrared spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000792 "CHMO:0000792")
 AnnotationAssertion(rdfs:label obo:CHMO_0000792 "ultraviolet-visible-near infrared spectrophotometry")
