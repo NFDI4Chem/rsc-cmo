@@ -10785,7 +10785,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000643 "IR reflectance sp
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000643 "IR reflection spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000643 "infra-red reflectance spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000643 "infrared reflectance spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000643 "infrared reflectance spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000643 "infrared reflection spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000643 "CHMO:0000643")
 AnnotationAssertion(rdfs:label obo:CHMO_0000643 "infrared reflectance spectroscopy")
