@@ -26177,7 +26177,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002072 "UV-vis-NIR absorp
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002072 "UV-visible-near IR absorption spectrometer")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002072 "UV-visible-near IR spectrometer")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002072 "ultraviolet-visible-near infrared absorption spectrometer")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002072 "ultraviolet-visible-near infrared spectrometer")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002072 "CHMO:0002072")
 AnnotationAssertion(rdfs:label obo:CHMO_0002072 "ultraviolet-visible-near infrared spectrometer")
 SubClassOf(obo:CHMO_0002072 obo:CHMO_0002232)
