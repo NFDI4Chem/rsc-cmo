@@ -33878,7 +33878,6 @@ AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002709 "2010-07-24T11:11:47
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002709 "LC-NMR-MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002709 "LC/NMR/MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002709 "liquid chromatography nuclear magnetic resonance mass spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002709 "liquid chromatography-nuclear magnetic resonance-mass spectrometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002709 "CHMO:0002709")
 AnnotationAssertion(rdfs:label obo:CHMO_0002709 "liquid chromatography-nuclear magnetic resonance-mass spectrometry")
 SubClassOf(obo:CHMO_0002709 obo:CHMO_0000716)
