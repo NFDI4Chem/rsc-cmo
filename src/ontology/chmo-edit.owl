@@ -25733,7 +25733,6 @@ AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002033 "https://orcid.org/0000
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002033 "2009-06-22T04:46:12Z")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0002033 "FIX:0000735")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002033 "125Te Moessbauer spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002033 "125Te Mossbauer spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002033 "125Te recoil-free gamma-ray resonance absorption spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002033 "tellurium-125 Moessbauer spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002033 "CHMO:0002033")
