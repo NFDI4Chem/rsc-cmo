@@ -8817,7 +8817,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000496 "temperature-progr
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000496 "temperature-programmed pyrolysis field ionisation mass spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000496 "temperature-programmed pyrolysis field ionization mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000496 "temperature-programmed pyrolysis field ionization mass spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000496 "temperature-resolved pyrolysis field ionisation mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000496 "temperature-resolved pyrolysis field ionisation mass spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000496 "temperature-resolved pyrolysis field ionization mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000496 "temperature-resolved pyrolysis field ionization mass spectroscopy")
