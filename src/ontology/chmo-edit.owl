@@ -31726,7 +31726,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1021/j1001
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002534 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002534 "2009-10-21T05:30:07Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002534 "SHG-CD")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002534 "second harmonic generation circular dichroism spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002534 "second harmonic generation-circular dichroism")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002534 "second-harmonic generation-circular dichroism")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002534 "CHMO:0002534")
