@@ -27296,7 +27296,6 @@ AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002168 "https://orcid.org/0000
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002168 "2009-07-15T01:43:07Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002168 "MW-polyol method")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002168 "microwave-assisted polyol method")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002168 "microwave-polyol method")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002168 "CHMO:0002168")
 AnnotationAssertion(rdfs:label obo:CHMO_0002168 "microwave-polyol method")
 SubClassOf(obo:CHMO_0002168 obo:CHMO_0002167)
