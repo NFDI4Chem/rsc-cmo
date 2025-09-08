@@ -11592,7 +11592,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000718 "CPMG pulse sequen
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000718 "CPMG sequence")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000718 "Carr, Purcell,Meiboom,Gill pulse sequence")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000718 "Carr-Purcell Meiboom-Gill pulse sequence")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000718 "Carr-Purcell-Meiboom-Gill pulse sequence")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000718 "CHMO:0000718")
 AnnotationAssertion(rdfs:label obo:CHMO_0000718 "Carr-Purcell-Meiboom-Gill pulse sequence")
 SubClassOf(obo:CHMO_0000718 obo:CHMO_0001841)
