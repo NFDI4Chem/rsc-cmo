@@ -11171,7 +11171,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000677 "surface enhanced 
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000677 "surface-enhanced Raman scattering")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000677 "surface-enhanced Raman scattering (SERS) spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000677 "surface-enhanced Raman spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000677 "surface-enhanced Raman spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000677 "CHMO:0000677")
 AnnotationAssertion(rdfs:label obo:CHMO_0000677 "surface-enhanced Raman spectroscopy")
 SubClassOf(obo:CHMO_0000677 obo:CHMO_0002515)
