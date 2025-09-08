@@ -4159,7 +4159,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000095 "UV fluorescence m
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000095 "UVF microscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000095 "UVFM")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000095 "ultra-violet fluorescence microscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000095 "ultraviolet fluorescence microscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000095 "CHMO:0000095")
 AnnotationAssertion(rdfs:label obo:CHMO_0000095 "ultraviolet fluorescence microscopy")
 SubClassOf(obo:CHMO_0000095 obo:CHMO_0000087)
