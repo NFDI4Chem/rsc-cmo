@@ -33495,7 +33495,6 @@ AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002678 "https://orcid.org/0000
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002678 "2010-01-16T03:01:09Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002678 "Karl Fischer coulometric titration")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002678 "Karl Fischer coulometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002678 "Karl-Fischer coulometric titration")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002678 "Karl-Fischer coulometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002678 "coulometric Karl Fischer titration")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002678 "coulometric Karl-Fischer titration")
