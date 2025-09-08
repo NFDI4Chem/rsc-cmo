@@ -16112,7 +16112,6 @@ AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001159 "2009-03-13T12:37:11
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001159 "PLP-SEC")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001159 "PLP/SEC")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001159 "pulsed laser polymerisation size exclusion chromatography")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001159 "pulsed laser polymerisation-size exclusion chromatography")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001159 "pulsed laser polymerisation-size-exclusion chromatography")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001159 "pulsed-laser polymerisation-size-exclusion chromatography")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001159 "CHMO:0001159")
