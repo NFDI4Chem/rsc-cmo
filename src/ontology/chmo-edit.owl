@@ -6307,7 +6307,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000292 "ultra-violet-visi
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000292 "ultra-violet-visible spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000292 "ultraviolet-visible")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000292 "ultraviolet-visible spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000292 "ultraviolet-visible spectrophotometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000292 "ultraviolet-visible spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000292 "CHMO:0000292")
 AnnotationAssertion(rdfs:label obo:CHMO_0000292 "ultraviolet-visible spectrophotometry")
