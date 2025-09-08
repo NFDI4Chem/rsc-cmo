@@ -26393,7 +26393,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1016/0165-
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002090 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002090 "2009-07-03T09:02:54Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002090 "VPC")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002090 "volume perturbation calorimetry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002090 "volume-controlled scanning calorimetry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002090 "volume-perturbation calorimetry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002090 "CHMO:0002090")
