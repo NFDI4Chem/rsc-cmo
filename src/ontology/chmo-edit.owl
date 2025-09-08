@@ -22935,7 +22935,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001821 "synchrotron Fouri
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001821 "synchrotron Fourier transform infrared (FT-IR) spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001821 "synchrotron Fourier transform infrared (S-FTIR)")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001821 "synchrotron Fourier transform infrared spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001821 "synchrotron Fourier transform infrared spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001821 "synchrotron-based FTIR")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001821 "CHMO:0001821")
 AnnotationAssertion(rdfs:label obo:CHMO_0001821 "synchrotron Fourier transform infrared spectroscopy")
