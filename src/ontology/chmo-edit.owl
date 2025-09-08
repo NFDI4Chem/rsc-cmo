@@ -5083,7 +5083,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000180 "differential ligh
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000180 "differential light-scattering spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000180 "differential static light scattering")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000180 "integrated light scattering")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000180 "static light scattering")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000180 "static light scattering spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000180 "static light scattering spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000180 "total intensity light scattering")
