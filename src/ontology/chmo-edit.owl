@@ -28716,7 +28716,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002286 "polarised Fourier
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002286 "polarised Fourier transform infra-red spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002286 "polarised Fourier transform infrared (FT-IR) spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002286 "polarised Fourier transform infrared spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002286 "polarised Fourier transform infrared spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002286 "polarized FTIR")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002286 "polarized Fourier transform infra-red absorption spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002286 "polarized Fourier transform infra-red spectrometry")
