@@ -10870,7 +10870,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000651") Annotation(oboI
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000649 "IES")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000649 "infra-red emission spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000649 "infrared emission spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000649 "infrared emission spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000649 "CHMO:0000649")
 AnnotationAssertion(rdfs:label obo:CHMO_0000649 "infrared emission spectroscopy")
 SubClassOf(obo:CHMO_0000649 obo:CHMO_0000628)
