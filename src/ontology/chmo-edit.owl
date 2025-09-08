@@ -21007,7 +21007,6 @@ SubClassOf(obo:CHMO_0001638 obo:CHMO_0001625)
 # Class: obo:CHMO_0001639 (Cohn process)
 
 AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001639 "A method for separating proteins from plasma by changing the conditions of the plasma by simultaneous cooling and addition of alcohol. This causes precipitation of the proteins, which can then be removed by centrifugation.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001639 "Cohn process")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001639 "CHMO:0001639")
 AnnotationAssertion(rdfs:label obo:CHMO_0001639 "Cohn process")
 SubClassOf(obo:CHMO_0001639 obo:CHMO_0001638)
