@@ -7823,7 +7823,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000414 "gamma spectrometr
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000414 "gamma spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000414 "gamma-ray emission spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000414 "gamma-ray spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000414 "gamma-ray spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000414 "CHMO:0000414")
 AnnotationAssertion(rdfs:label obo:CHMO_0000414 "gamma-ray spectroscopy")
 SubClassOf(obo:CHMO_0000414 obo:CHMO_0000228)
