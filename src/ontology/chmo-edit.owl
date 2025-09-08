@@ -35696,7 +35696,6 @@ AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-5
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002924 "PGC chromatography")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002924 "graphitised carbon HPLC")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002924 "graphitized carbon HPLC")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002924 "graphitized carbon liquid chromatography")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002924 "porous graphitic carbon chromatography")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002924 "CHMO:0002924")
 AnnotationAssertion(rdfs:label obo:CHMO_0002924 "graphitized carbon liquid chromatography")
