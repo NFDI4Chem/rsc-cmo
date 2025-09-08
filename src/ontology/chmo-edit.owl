@@ -6614,7 +6614,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000314 "wavelength disper
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000314 "wavelength dispersive X-ray fluorescence spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000314 "wavelength dispersive X-ray fluorescence spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000314 "wavelength dispersive X-ray spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000314 "wavelength dispersive X-ray spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000314 "CHMO:0000314")
 AnnotationAssertion(rdfs:label obo:CHMO_0000314 "wavelength dispersive X-ray spectroscopy")
 SubClassOf(obo:CHMO_0000314 obo:CHMO_0000307)
