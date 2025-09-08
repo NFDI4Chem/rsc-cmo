@@ -18225,7 +18225,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001327 "remote plasma enh
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001327 "remote plasma-assisted CVD")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001327 "remote plasma-enhanced CVD")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001327 "remote plasma-enhanced chemical vapor deposition")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001327 "remote plasma-enhanced chemical vapour deposition")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001327 "CHMO:0001327")
 AnnotationAssertion(rdfs:label obo:CHMO_0001327 "remote plasma-enhanced chemical vapour deposition")
 SubClassOf(obo:CHMO_0001327 obo:CHMO_0001325)
