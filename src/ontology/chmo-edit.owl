@@ -7981,7 +7981,6 @@ SubClassOf(obo:CHMO_0000426 obo:CHMO_0000425)
 
 AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000427 "Spectroscopy where a focused beam of ions is directed at a sample causes binary collisions with surface molecules which result in molecular decomposition and the emission of atoms.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000427 "DRS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000427 "direct recoil spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000427 "CHMO:0000427")
 AnnotationAssertion(rdfs:label obo:CHMO_0000427 "direct recoil spectroscopy")
 SubClassOf(obo:CHMO_0000427 obo:CHMO_0000426)
