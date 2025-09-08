@@ -25746,7 +25746,6 @@ AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002034 "https://orcid.org/0000
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002034 "2009-06-22T04:47:53Z")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0002034 "FIX:0000736")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002034 "151Eu Moessbauer spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002034 "151Eu Mossbauer spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002034 "151Eu recoil-free gamma-ray resonance absorption spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002034 "europium-151 Moessbauer spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002034 "CHMO:0002034")
