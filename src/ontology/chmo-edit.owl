@@ -5038,7 +5038,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000177 "Soret forced Rayl
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000177 "TDFRS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000177 "TDFRS analysis")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000177 "TDFRS method")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000177 "thermal diffusion forced Rayleigh scattering")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000177 "thermal-diffusion forced Rayleigh scattering")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000177 "CHMO:0000177")
 AnnotationAssertion(rdfs:label obo:CHMO_0000177 "thermal diffusion forced Rayleigh scattering")
