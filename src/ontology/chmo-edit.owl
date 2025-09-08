@@ -5249,7 +5249,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000197 "non-magnetic SEAN
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000197 "non-magnetic spin-echo SANS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000197 "non-magnetic spin-echo small angle neutron scattering")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000197 "spin-echo SANS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000197 "spin-echo small angle neutron scattering")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000197 "CHMO:0000197")
 AnnotationAssertion(rdfs:label obo:CHMO_0000197 "spin-echo small angle neutron scattering")
 SubClassOf(obo:CHMO_0000197 obo:CHMO_0000196)
