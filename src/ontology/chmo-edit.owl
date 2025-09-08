@@ -16415,7 +16415,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001183 "MALDI-TOF mass sp
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001183 "MALDI-TOF mass spectrum")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001183 "MALDI-TOF-MS spectra")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001183 "MALDI-TOF-MS spectrum")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001183 "matrix assisted laser desorption-ionisation time-of-flight mass spectrum")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001183 "CHMO:0001183")
 AnnotationAssertion(rdfs:label obo:CHMO_0001183 "matrix assisted laser desorption-ionisation time-of-flight mass spectrum")
 SubClassOf(obo:CHMO_0001183 obo:CHMO_0000828)
