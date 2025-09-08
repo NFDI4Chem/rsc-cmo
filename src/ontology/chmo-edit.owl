@@ -12190,7 +12190,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000770 "single molecule s
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000770 "single molecule surface enhanced Raman scattering spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000770 "single molecule surface-enhanced Raman scattering")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000770 "single molecule surface-enhanced Raman scattering spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000770 "single molecule surface-enhanced Raman spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000770 "CHMO:0000770")
 AnnotationAssertion(rdfs:label obo:CHMO_0000770 "single molecule surface-enhanced Raman spectroscopy")
 SubClassOf(obo:CHMO_0000770 obo:CHMO_0000677)
