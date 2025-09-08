@@ -33317,7 +33317,6 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002664 "back-scattering-b
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002664 "back-scattering-type near-field optical microscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002664 "backscattering SNIM")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002664 "backscattering SNOM")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002664 "backscattering near-field optical microscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002664 "backscattering s-SNOM")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002664 "backscattering-based SNIM")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002664 "backscattering-type near-field optical microscopy")
