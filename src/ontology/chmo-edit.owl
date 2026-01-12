@@ -6737,10 +6737,8 @@ SubClassOf(obo:CHMO_0000319 obo:CHMO_0000297)
 
 # Class: obo:CHMO_0000320 (total reflection X-ray fluorescence spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382322
-10.61 total reflection X-ray fluorescence spectroscopy, (TXRF) 
-Measurement method in which an X-ray spectrometer is used to measure the energy distribution of fluorescence X-rays emitted from a surface irradiated by primary X-rays under the condition of total reflection. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000320 "Spectroscopy where the sample is bombarded with X-rays and the energies of totally reflected X-rays are measured.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000320 "TXRF")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09211>) obo:IAO_0000115 obo:CHMO_0000320 "An X-ray reflection spectroscopy in which the sample is bombarded with X-rays and the energies of totally reflected X-rays are measured.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09211>) obo:OMO_0003012 obo:CHMO_0000320 "TXRF")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000320 "total reflection X-ray fluorescence analysis")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000320 "total reflection X-ray fluorescence spectrometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000320 "CHMO:0000320")
@@ -7047,10 +7045,10 @@ SubClassOf(obo:CHMO_0000345 obo:CHMO_0000344)
 
 # Class: obo:CHMO_0000346 (ion-excited Auger electron spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "Orange:17.2.4") obo:IAO_0000115 obo:CHMO_0000346 "Spectroscopy where ion bombardment of a sample results in the ionisation of core electrons and the emission of so-called 'Auger' electrons, which are detected as a function of incident ion energy.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000346 "IAES")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000346 "IEAES")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000346 "IIAES")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://media.iupac.org/publications/analytical_compendium/>) obo:IAO_0000115 obo:CHMO_0000346 "An Auger electron spectroscopy in which ion bombardment of a sample results in the ionisation of core electrons and the emission of so-called 'Auger' electrons, which are detected as a function of incident ion energy..")
+AnnotationAssertion(Annotation(dcterms:source <https://media.iupac.org/publications/analytical_compendium/>) obo:OMO_0003012 obo:CHMO_0000346 "IAES")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000346 "IEAES")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000346 "IIAES")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000346 "ion neutralisation spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000346 "ion neutralisation spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000346 "ion neutralization spectrometry")
@@ -7085,11 +7083,9 @@ SubClassOf(obo:CHMO_0000348 obo:CHMO_0000346)
 
 # Class: obo:CHMO_0000349 (angle-resolved ion-excited Auger electron spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382256
-10.1 angle resolved Auger electron spectroscopy, (ARAES) 
-angle dependent Auger electron spectroscopy 
-Measurement method in which Auger electron intensities are measured as a function of angle of emission.(from:  https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000349 "Spectroscopy where ion bombardment of a sample results in the ionisation of core electrons and the emission of so-called 'Auger' electrons, which are detected as a function of emission angle.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000349 "AIRES")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://books.rsc.org/view-large/6382256>) obo:IAO_0000115 obo:CHMO_0000349 "An ion-excited Auger electron spectroscopy in which the emitted 'Auger' electrons are detected as a function of emission angle.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000349 "AIRES")
+AnnotationAssertion(Annotation(dcterms:source <https://books.rsc.org/view-large/6382256>) obo:OMO_0003012 obo:CHMO_0000349 "ARAES")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000349 "angle-resolved ion-electron spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000349 "angle-resolved ion-electron spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000349 "CHMO:0000349")
@@ -7127,16 +7123,13 @@ SubClassOf(obo:CHMO_0000352 obo:CHMO_0000351)
 
 # Class: obo:CHMO_0000353 (X-ray excited Auger electron spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "Orange:17.2.4") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382326
-10.65 X-ray excited Auger electron spectroscopy, (XAES) 
-Auger spectroscopy that uses a synchrotron X-ray beam for excitation of the sample. 
-(from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000353 "Spectroscopy where X-ray bombardment of a sample results in the ionisation of core electrons and the emission of so-called 'Auger' electrons, which are detected as a function of incident X-ray energy.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://books.rsc.org/view-large/6382326>) obo:IAO_0000115 obo:CHMO_0000353 "An Auger electron spectroscopy in which the sample is bombarded with X-rays and the resulting 'Auger' electrons are detected as a function of incident X-ray energy.")
+AnnotationAssertion(Annotation(dcterms:source <https://books.rsc.org/view-large/6382326>) obo:OMO_0003012 obo:CHMO_0000353 "XAES")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000353 "XEAES")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000353 "XIAES")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000353 "X-ray excited Auger electron spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000353 "X-ray induced Auger electron spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000353 "X-ray induced Auger electron spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000353 "XAES")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000353 "XEAES")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000353 "XIAES")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000353 "CHMO:0000353")
 AnnotationAssertion(rdfs:label obo:CHMO_0000353 "X-ray excited Auger electron spectroscopy")
 SubClassOf(obo:CHMO_0000353 obo:CHMO_0000339)
@@ -7168,13 +7161,12 @@ SubClassOf(obo:CHMO_0000355 obo:CHMO_0000331)
 
 # Class: obo:CHMO_0000356 (Auger-photoelectron coincidence spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382260
-10.5 Auger photoelectron coincidence spectroscopy, (APECS) 
-Detection of an Auger electron and a core-level photoelectron, emitted from a solid irradiated by mono-energetic X-rays, within a sufficiently short time that the Auger electron shall arise from the decay of the particular core-hole associated with the photoelectron. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000356 "Spectroscopy where the sample is bombarded with X-rays resulting in the emission of photoelectrons and 'Auger' electrons which are detected as a function of energy.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000356 "AEPECS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000356 "APECS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09173>) obo:IAO_0000115 obo:CHMO_0000356 "An electron coincidence spectroscopy in which the sample is bombarded with X-rays resulting in the emission of photoelectrons and 'Auger' electrons which are detected as a function of energy.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000356 "AEPECS")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09173>) obo:OMO_0003012 obo:CHMO_0000356 "APECS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000356 "Auger electron photoelectron coincidence spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000356 "Auger electron-photoelectron coincidence spectroscopy")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09173>) oboInOwl:hasExactSynonym obo:CHMO_0000356 "Auger photoelectron coincidence spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000356 "Auger-photoelectron electron coincidence spectrometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000356 "CHMO:0000356")
 AnnotationAssertion(rdfs:label obo:CHMO_0000356 "Auger-photoelectron coincidence spectroscopy")
@@ -7272,20 +7264,18 @@ SubClassOf(obo:CHMO_0000365 obo:CHMO_0000355)
 
 # Class: obo:CHMO_0000366 (electron energy loss spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000663") Annotation(oboInOwl:hasDbXref "FIX:0000664") Annotation(oboInOwl:hasDbXref "ISBN:0-19-280031-0") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6385080
-6.447 electron energy loss spectroscopy, (EELS) 
-Measurement method of vibrational spectroscopy in which a constant-energy beam of electrons passes through or is reflected from a sample and the energy distribution in the transmitted or reflected beam is analysed to give a spectrum of number of electrons against electron energy loss. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.R05236>) obo:IAO_0000115 obo:CHMO_0000366 "Spectroscopy where a beam of electrons with a known, narrow range of kinetic energies (50–200 eV) interacts with a surface and the energy loss (0.005–100 eV) the electrons suffer as a result of the interaction is measured.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000366 "EELS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000366 "IESS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000366 "REELS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000663") Annotation(oboInOwl:hasDbXref "FIX:0000664") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08593>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <ISBN:0-19-280031-0>) obo:IAO_0000115 obo:CHMO_0000366 "An electron spectroscopy in which a beam of electrons with a known, narrow range of kinetic energies (50–200 eV) interacts with a surface and the energy loss (0.005–100 eV) the electrons suffer as a result of the interaction is measured.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08593>) obo:OMO_0003012 obo:CHMO_0000366 "EELS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000366 "EIS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000366 "ELS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000366 "IESS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000366 "REELS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000366 "electron energy loss spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000366 "electron impact spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000366 "inelastic electron scattering spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000366 "inelastic electron scattering spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000366 "reflection electron energy loss spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000366 "reflection electron energy loss spectroscopy")
-AnnotationAssertion(oboInOwl:hasRelatedSynonym obo:CHMO_0000366 "EIS")
-AnnotationAssertion(oboInOwl:hasRelatedSynonym obo:CHMO_0000366 "ELS")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000366 "CHMO:0000366")
 AnnotationAssertion(rdfs:label obo:CHMO_0000366 "electron energy loss spectroscopy")
 SubClassOf(obo:CHMO_0000366 obo:CHMO_0000331)
@@ -7390,10 +7380,10 @@ SubClassOf(obo:CHMO_0000373 obo:CHMO_0000366)
 
 # Class: obo:CHMO_0000374 (vibrational electron energy loss spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6385084
-6.451 high resolution electron energy loss spectroscopy, (HREELS) 
-vibrational electron energy loss spectroscopy, (VEELS). (from:  https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000374 "Spectroscopy where a beam of electrons with a known, narrow range of kinetic energies is reflected by a surface and energy loss the electrons suffer (corresponding to vibrational modes in the sample) is measured.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000374 "VEELS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://books.rsc.org/view-large/6385084>) obo:IAO_0000115 obo:CHMO_0000374 "An electron energy loss spectroscopy in which the beam of electrons is reflected by a surface and the energy loss the electrons suffer (corresponding to vibrational modes in the sample) is measured.")
+AnnotationAssertion(Annotation(dcterms:source <https://books.rsc.org/view-large/6385084>) obo:OMO_0003012 obo:CHMO_0000374 "HREELS")
+AnnotationAssertion(Annotation(dcterms:source <https://books.rsc.org/view-large/6385084>) obo:OMO_0003012 obo:CHMO_0000374 "VEELS")
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000374 "high resolution electron energy loss spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000374 "vibrational electron energy loss spectrometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000374 "CHMO:0000374")
 AnnotationAssertion(rdfs:label obo:CHMO_0000374 "vibrational electron energy loss spectroscopy")
@@ -7425,8 +7415,8 @@ SubClassOf(obo:CHMO_0000376 obo:CHMO_0000375)
 # Class: obo:CHMO_0000377 (inverse photoelectron spectroscopy)
 
 AnnotationAssertion(Annotation(oboInOwl:hasDbXref <FIX:0000687>) obo:IAO_0000115 obo:CHMO_0000377 "An electron spectroscopy in which the sample is bombarded with electrons and the photons emitted are detected.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000377 "IPES")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000377 "IPS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000377 "IPES")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000377 "IPS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000377 "inverse photoelectron spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000377 "inverse photoemission spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000377 "inverse photoemission spectroscopy")
@@ -7872,10 +7862,7 @@ SubClassOf(obo:CHMO_0000413 obo:CHMO_0000331)
 
 # Class: obo:CHMO_0000414 (gamma-ray spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381367
-9.159 gamma-ray spectrometry 
-obsolete: gamma-ray spectroscopy 
-Measurement principle of the quantitative study of the energy spectra of gamma-ray sources. (from:  https://books.rsc.org/books/edited-volume/2059/chapter/6381192/Radioanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000414 "Spectroscopy where the energies of gamma-rays emitted or absorbed by a sample is measured.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08728>) obo:IAO_0000115 obo:CHMO_0000414 "A spectroscopy in which the energies of gamma-rays emitted or absorbed by a sample is measured.")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0000414 "FIX:0000049")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000414 "gamma ray spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000414 "gamma spectrometry")
@@ -7912,12 +7899,11 @@ SubClassOf(obo:CHMO_0000416 obo:CHMO_0000414)
 
 # Class: obo:CHMO_0000417 (Mossbauer spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381368
-9.160 Mössbauer spectrometry 
-Measurement method in which recoil-less resonance gamma ray scattering and absorption in solids is applied to measure the nuclear environment of atoms of elements in a material. (from:  https://books.rsc.org/books/edited-volume/2059/chapter/6381192/Radioanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000417 "Spectroscopy where the intensity of a gamma-rays beam transmitted through a solid sample is detected.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08736>) obo:IAO_0000115 obo:CHMO_0000417 "A gamma-ray spectroscopy in which the intensity of a gamma-rays beam transmitted through a solid sample is detected.")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0000417 "FIX:0000050")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000417 "Moessbauer spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000417 "Mossbauer spectroscopy")
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000417 "Mössbauer spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000417 "Mössbauer spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000417 "Mößbauer spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000417 "recoil-free gamma-ray resonance absorption spectroscopy")
@@ -8042,13 +8028,12 @@ SubClassOf(obo:CHMO_0000426 obo:CHMO_0000425)
 
 # Class: obo:CHMO_0000427 (direct recoil spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382268
-10.11 direct recoil spectroscopy, (DRS) 
-elastic recoil detection, (ERD) 
-elastic recoil detection analysis, (ERDA) 
-Measurement method to elucidate composition and structure of the outermost atomic layers of a solid material, in which principally monoenergetic neutral atoms or singly charged probe ions are used to sputter atoms or ions out of the solid surface, their energy being recorded at one or more angle of scattering. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000427 "Spectroscopy where a focused beam of ions is directed at a sample causes binary collisions with surface molecules which result in molecular decomposition and the emission of atoms.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000427 "DRS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000427 "direct recoil spectroscopy")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09175>) obo:IAO_0000115 obo:CHMO_0000427 "An ion-beam spectroscopy in which a focused beam of ions is directed at a sample causes binary collisions with surface molecules which result in molecular decomposition and the emission of atoms.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09175>) obo:OMO_0003012 obo:CHMO_0000427 "DRS")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09175>) obo:OMO_0003012 obo:CHMO_0000427 "ERD")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09175>) obo:OMO_0003012 obo:CHMO_0000427 "ERDA")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09175>) oboInOwl:hasExactSynonym obo:CHMO_0000427 "elastic recoil detection")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09175>) oboInOwl:hasExactSynonym obo:CHMO_0000427 "elastic recoil detection analysis")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000427 "CHMO:0000427")
 AnnotationAssertion(rdfs:label obo:CHMO_0000427 "direct recoil spectroscopy")
 SubClassOf(obo:CHMO_0000427 obo:CHMO_0000426)
@@ -8535,12 +8520,10 @@ SubClassOf(obo:CHMO_0000470 ObjectSomeValuesFrom(obo:OBI_0000299 obo:CHMO_000080
 
 # Class: obo:CHMO_0000471 (acceleration mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000707") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381388
-9.178 accelerator mass spectrometry, (AMS) 
-Measurement method of mass spectrometry in which atoms and molecules from a sample are ionized, accelerated to megaelectron volt (1 MeV = 1.602176634 × 10−13 J) energies and separated according to their momentum, charge, and energy, allowing high discrimination for measurement of nuclide abundances. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6381192/Radioanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000471 "Mass spectrometry where the sample is ionised and the ions are accelerated to very high kinetic energies.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000471 "AMS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000707") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08712>) obo:IAO_0000115 obo:CHMO_0000471 "A mass spectrometry in which the sample is ionised and the ions are accelerated to very high kinetic energies.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08712>) obo:OMO_0003012 obo:CHMO_0000471 "AMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000471 "accelerator MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000471 "accelerator mass spectrometry")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08712>) oboInOwl:hasExactSynonym obo:CHMO_0000471 "accelerator mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000471 "accelerator mass spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000471 "CHMO:0000471")
 AnnotationAssertion(rdfs:label obo:CHMO_0000471 "acceleration mass spectrometry")
@@ -8907,20 +8890,18 @@ SubClassOf(obo:CHMO_0000496 ObjectSomeValuesFrom(obo:BFO_0000118 obo:CHMO_000151
 
 # Class: obo:CHMO_0000497 (gas chromatography-mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383182
-7.147 gas chromatography-mass spectrometry, (GC-MS) 
-gas chromatography/mass spectrometry (GC/MS) 
-Measurement method of mass spectrometry by which a mixture is separated into individual components by gas chromatography, followed by detection with a mass spectrometer.  (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0000497 "Any method where a sample mixture is first separated by gas chromatography then ionised and characterised according to mass-to-charge ratio and relative abundance.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.12421>) obo:IAO_0000115 obo:CHMO_0000497 "A mass spectrometry in which a sample mixture is first separated by gas chromatography then ionised and characterised according to mass-to-charge ratio and relative abundance.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000497 "GC MS")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12421>) obo:OMO_0003012 obo:CHMO_0000497 "GC-MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000497 "GC/MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000497 "GCMS")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0000497 "FIX:0000921")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000497 "GC MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000497 "GC-MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000497 "GC/MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000497 "GCMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000497 "gas chromatography mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000497 "gas chromatography mass spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000497 "gas chromatography with mass spectrometric detection")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000497 "gas chromatography-mass spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000497 "gas chromatography/mass spectrometry")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12421>) oboInOwl:hasExactSynonym obo:CHMO_0000497 "gas chromatography/mass spectrometry (GC/MS)")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000497 "CHMO:0000497")
 AnnotationAssertion(rdfs:label obo:CHMO_0000497 "gas chromatography-mass spectrometry")
 EquivalentClasses(obo:CHMO_0000497 ObjectIntersectionOf(obo:CHMO_0000470 ObjectSomeValuesFrom(obo:BFO_0000118 obo:CHMO_0001002)))
@@ -8971,14 +8952,12 @@ SubClassOf(obo:CHMO_0000500 obo:CHMO_0000470)
 
 # Class: obo:CHMO_0000501 (ion cyclotron resonance mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:comment "https://books.rsc.org/view-large/6383208
-7.173 ion cyclotron resonance-mass spectrometer, (ICR-MS) 
-Mass spectrometer in which the ions to be detected, with a selected value of m/z, absorb energy through the effect of a high-frequency electric field and a constant magnetic field perpendicular to the electric field. Maximum energy is gained by the ions that satisfy the cyclotron resonance condition and as a result they are separated from ions of different m/z. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0000501 "Mass spectrometry where the mass-to-charge ratio of the sample ions is determined by measuring their cyclotron frequency (the frequency at which they precesses in a fixed magnetic field).")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000501 "ICR MS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.I03162>) obo:IAO_0000115 obo:CHMO_0000501 "An ion trap mass spectrometry in which the mass-to-charge ratio of the sample ions is determined by measuring their cyclotron frequency (the frequency at which they precesses in a fixed magnetic field).")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000501 "ICR MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000501 "ICR-MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000501 "ICRMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000501 "ICR mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000501 "ICR mass spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000501 "ICR-MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000501 "ICRMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000501 "ion cyclotron resonance mass spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000501 "ion-cyclotron-resonance mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000501 "ion-cyclotron-resonance mass spectroscopy")
@@ -8988,21 +8967,21 @@ SubClassOf(obo:CHMO_0000501 obo:CHMO_0000500)
 
 # Class: obo:CHMO_0000502 (Fourier transform ion cyclotron resonance mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000083") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.F02492>) obo:IAO_0000115 obo:CHMO_0000502 "Mass spectrometry where the mass-to-charge ratio of the sample ions is determined by measuring their cyclotron frequency (the frequency at which they precesses in a fixed magnetic field) and subjecting it to a Fourier transform.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000502 "FT ICR MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000502 "FT-ICR MS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000083") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.F02492>) obo:IAO_0000115 obo:CHMO_0000502 "A Fourier transform ion cyclotron resonance mass spectrometry in which the mass-to-charge ratio of the sample ions is determined by measuring their cyclotron frequency (the frequency at which they precesses in a fixed magnetic field) and subjecting it to a Fourier transform.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000502 "FT ICR MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000502 "FT-ICR MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000502 "FT-ICR-MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000502 "FT-ICRMS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000502 "FTICRMS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000502 "ICR-FT-MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000502 "FT-ICR mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000502 "FT-ICR mass spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000502 "FT-ICR-MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000502 "FT-ICRMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000502 "FT/ICR mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000502 "FT/ICR mass spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000502 "FTICRMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000502 "FTMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000502 "Fourier transform ion cyclotron resonance mass spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000502 "Fourier transform mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000502 "Fourier transform mass spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000502 "ICR-FT-MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000502 "in-beam Fourier-transform ion cyclotron resonance")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000502 "ion cyclotron resonance Fourier transform mass spectrometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000502 "CHMO:0000502")
@@ -9012,14 +8991,13 @@ SubClassOf(obo:CHMO_0000502 obo:CHMO_0002925)
 
 # Class: obo:CHMO_0000503 (high-resolution Fourier transform ion cyclotron resonance mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383177
-7.142 Fourier transform-ion cyclotron resonance-mass spectrometer, (FT-ICR-MS) 
-Mass spectrometer based on the principle of ion cyclotron resonance in which an ion in a magnetic field moves in a circular orbit at the cyclotron frequency that is characteristic of its m/z value. Ions are coherently excited to a larger radius orbit using a pulse of radio frequency electric field, and their image charge is detected on receiver plates as a time domain signal. Fourier transformation of the time domain signal results in a frequency domain signal that is converted to a mass spectrum based on the inverse relationship between cyclotron frequency and m/z. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0000503 "Mass spectrometry where the mass-to-charge ratio of the sample ions is determined by measuring their cyclotron frequency (the frequency at which they precesses in a fixed magnetic field). The 'exact' mass of the sample ions is determined as opposed to the 'nominal' mass (the number of protons and neutrons).")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000503 "HR FT/ICR MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000503 "HR-FT-ICR MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000503 "HR-FT-ICR-MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000503 "HR-FT-ICRMS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000503 "HR-FTICRMS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.F02492>) obo:IAO_0000115 obo:CHMO_0000503 "A Fourier transform ion cyclotron resonance mass spectrometry in which the 'exact' mass of the sample ions is determined as opposed to the 'nominal' mass (the number of protons and neutrons).")
+AnnotationAssertion(Annotation(dcterms:source <https://books.rsc.org/view-large/6383177>) obo:OMO_0003012 obo:CHMO_0000503 "FT-ICR-MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000503 "HR FT/ICR MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000503 "HR-FT-ICR MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000503 "HR-FT-ICR-MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000503 "HR-FT-ICRMS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000503 "HR-FTICRMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000503 "high resolution Fourier transform ion cyclotron resonance mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000503 "high resolution Fourier transform ion cyclotron resonance mass spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000503 "CHMO:0000503")
@@ -9058,17 +9036,15 @@ SubClassOf(obo:CHMO_0000505 obo:CHMO_0000504)
 
 # Class: obo:CHMO_0000506 (isotope ratio mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383241
-7.206 isotope ratio mass spectrometry, (IRMS) 
-stable isotope mass spectrometry 
-Measurement and study of the relative abundances of the different isotopes of an element in a material using a mass spectrometer. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0000506 "Mass spectrometry where the relative abundance of isotopes in a sample is determined.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000506 "IR MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000506 "IR-MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000506 "IRMS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.12453>) obo:IAO_0000115 obo:CHMO_0000506 "A mass spectrometry in which the relative abundance of isotopes in a sample is determined.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000506 "IR MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000506 "IR-MS")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12453>) obo:OMO_0003012 obo:CHMO_0000506 "IRMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000506 "isotope ratio mass spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000506 "isotope-ratio mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000506 "isotopic ratios mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000506 "isotopic ratios mass spectroscopy")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12453>) oboInOwl:hasExactSynonym obo:CHMO_0000506 "stable isotope mass spectrometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000506 "CHMO:0000506")
 AnnotationAssertion(rdfs:label obo:CHMO_0000506 "isotope ratio mass spectrometry")
 SubClassOf(obo:CHMO_0000506 obo:CHMO_0000470)
@@ -9119,11 +9095,9 @@ SubClassOf(obo:CHMO_0000509 ObjectSomeValuesFrom(obo:BFO_0000118 obo:CHMO_000100
 
 # Class: obo:CHMO_0000510 (isotope dilution mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b614612k") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383238
-7.203 isotope dilution mass spectrometry, (IDMS) 
-Measurement method of mass spectrometry in which an isotopically enriched compound is used as a surrogate internal standard. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0000510 "Mass spectrometry where the relative abundance of isotopes in a sample is determined by using an isotope dilution standard (the sample labelled with a rare isotope).")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000510 "ID-MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000510 "IDMS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b614612k") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.12451>) obo:IAO_0000115 obo:CHMO_0000510 "An isotope ratio mass spectrometry in which the relative abundance of isotopes in a sample is determined by using an isotope dilution standard (the sample labelled with a rare isotope).")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000510 "ID-MS")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12451>) obo:OMO_0003012 obo:CHMO_0000510 "IDMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000510 "isotope dilution mass spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000510 "CHMO:0000510")
 AnnotationAssertion(rdfs:label obo:CHMO_0000510 "isotope dilution mass spectrometry")
@@ -9206,12 +9180,10 @@ SubClassOf(obo:CHMO_0000515 obo:CHMO_0000712)
 
 # Class: obo:CHMO_0000516 (laser microprobe mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383258
-7.223 laser microprobe mass spectrometry, (LMMS) 
-Laser desorption ionization mass spectrometry, particularly emphasizing spatially resolved composition information. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0000516 "Mass spectrometry where the sample is vaporised and ionised using a finely focused (<10 um diameter) high-energy pulsed laser.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000516 "LAMMA")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000516 "LAMMS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000516 "LMMS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.12464>) obo:IAO_0000115 obo:CHMO_0000516 "A laser mass spectrometry in which the sample is vaporised and ionised using a finely focused (<10 um diameter) high-energy pulsed laser.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000516 "LAMMA")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000516 "LAMMS")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12464>) obo:OMO_0003012 obo:CHMO_0000516 "LMMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000516 "laser micro mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000516 "laser micro-probe mass analysis")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000516 "laser micro-probe mass spectrometry")
@@ -9331,17 +9303,15 @@ SubClassOf(obo:CHMO_0000523 ObjectSomeValuesFrom(obo:BFO_0000118 obo:CHMO_000100
 
 # Class: obo:CHMO_0000524 (liquid chromatography-mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383261
-7.226 liquid chromatography-mass spectrometry, (LC-MS) 
-liquid chromatography/mass spectrometry, (LC/MS) 
-Hyphenated mass spectrometry technique by which a mixture of analytes is separated into individual components by liquid chromatography (typically high-performance liquid chromatography), followed by detection with a mass spectrometer. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0000524 "A method where a sample mixture is first separated by liquid chromatography before being converted into ions which are characterised by their mass-to-charge ratio and relative abundance.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.12466>) obo:IAO_0000115 obo:CHMO_0000524 "A mass spectrometry in which a sample mixture is first separated by liquid chromatography before being converted into ions which are characterised by their mass-to-charge ratio and relative abundance.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000524 "LC MS")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12466>) obo:OMO_0003012 obo:CHMO_0000524 "LC-MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000524 "LC/MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000524 "LCMS")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0000524 "FIX:0000924")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000524 "LC MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000524 "LC-MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000524 "LC/MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000524 "LCMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000524 "iquid chromatography/mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000524 "liquid chromatography mass spectrometry")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12466>) oboInOwl:hasExactSynonym obo:CHMO_0000524 "liquid chromatography/mass spectrometry (LC/MS)")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000524 "CHMO:0000524")
 AnnotationAssertion(rdfs:label obo:CHMO_0000524 "liquid chromatography-mass spectrometry")
 EquivalentClasses(obo:CHMO_0000524 ObjectIntersectionOf(obo:CHMO_0000470 ObjectSomeValuesFrom(obo:BFO_0000118 obo:CHMO_0001004)))
@@ -9797,24 +9767,23 @@ SubClassOf(obo:CHMO_0000559 obo:CHMO_0000534)
 
 # Class: obo:CHMO_0000560 (secondary ion mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000122") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382295
-10.36 secondary-ion mass spectrometry, (SIMS) 
-Measurement method in which a focused beam of primary ions produces secondary ions by sputtering from a solid surface. The secondary ions are analysed by mass spectrometry. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000560 "Mass spectrometry where the sample is bombarded with a stream of primary mass-selected particles and the secondary ions ejected from the sample are detected.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000560 "SIMS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000122") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09192>) obo:IAO_0000115 obo:CHMO_0000560 "A mass spectrometry in which the sample is bombarded with a stream of primary mass-selected particles and the secondary ions ejected from the sample are detected.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09192>) obo:OMO_0003012 obo:CHMO_0000560 "SIMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000560 "secondary ion mass spectroscopy")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09192>) oboInOwl:hasExactSynonym obo:CHMO_0000560 "secondary-ion mass spectrometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000560 "CHMO:0000560")
 AnnotationAssertion(rdfs:label obo:CHMO_0000560 "secondary ion mass spectrometry")
 SubClassOf(obo:CHMO_0000560 obo:CHMO_0000470)
 
 # Class: obo:CHMO_0000561 (dynamic secondary ion mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382285
-10.26 dynamic secondary-ion mass spectrometry, (DSIMS) 
-Secondary-ion mass spectrometry analysis with primary ion current density sufficiently high for use in analysis of sample surface layers in the depth direction. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000561 "Mass spectrometry where the sample is bombarded with a continuous focused beam of primary mass-selected ions which remove material from the surface of the sample by sputtering. The secondary ions ejected from the sample are then detected.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000561 "DSIMS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09183>) obo:IAO_0000115 obo:CHMO_0000561 "A secondary ion mass spectrometry in which the sample is bombarded with a continuous focused beam of primary mass-selected ions which remove material from the surface of the sample by sputtering. The secondary ions ejected from the sample are then detected.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09183>) obo:OMO_0003012 obo:CHMO_0000561 "DSIMS")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09183>) obo:OMO_0003012 obo:CHMO_0000561 "SIMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000561 "dynamic mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000561 "dynamic mass spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000561 "dynamic secondary ion mass spectroscopy")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09183>) oboInOwl:hasExactSynonym obo:CHMO_0000561 "dynamic secondary-ion mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000561 "sputtered mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000561 "sputtered mass spectroscopy")
 AnnotationAssertion(oboInOwl:hasRelatedSynonym obo:CHMO_0000561 "DMS")
@@ -9842,12 +9811,13 @@ SubClassOf(obo:CHMO_0000562 obo:CHMO_0000561)
 
 # Class: obo:CHMO_0000563 (fast-atom bombardment mass spectrometry)
 
-AnnotationAssertion(Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382288
-10.29 fast-atom bombardment secondary ion mass spectrometry, (FAB-SIMS) 
-Secondary ion mass spectrometry in which the primary-ion beam is replaced by a fast-atom beam. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> "https://doi.org/10.1351/goldbook.F02328") obo:IAO_0000115 obo:CHMO_0000563 "Mass spectrometry where the sample (which is held in a liquid matrix) is bombarded with a stream of primary noble gas atoms and the secondary ions ejected from the sample are detected.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://books.rsc.org/view-large/6382288>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.F02328>) obo:IAO_0000115 obo:CHMO_0000563 "A secondary ion mass spectrometry in which the sample (which is held in a liquid matrix) is bombarded with a stream of primary noble gas atoms and the secondary ions ejected from the sample are detected..")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.F02328>) obo:OMO_0003012 obo:CHMO_0000563 "FAB")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000563 "FAB-MS")
+AnnotationAssertion(Annotation(dcterms:source <https://books.rsc.org/view-large/6382288>) obo:OMO_0003012 obo:CHMO_0000563 "FAB-SIMS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000563 "FABMS")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0000563 "FIX:0000086")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000563 "FAB-MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000563 "FABMS")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.F02328>) oboInOwl:hasExactSynonym obo:CHMO_0000563 "FAB mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000563 "LSI-MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000563 "LSIMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000563 "MS (FAB)")
@@ -9936,16 +9906,11 @@ SubClassOf(obo:CHMO_0000570 obo:CHMO_0000569)
 
 # Class: obo:CHMO_0000571 (selective ion monitoring)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.SO5547") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383411
-7.376 selected ion monitoring, (SIM) 
-deprecated: multiple ion detection 
-deprecated: mass fragmentography 
-deprecated: selected ion recording 
-Operation of a mass spectrometer in which the abundances of ions of one or more specific m/z values are recorded rather than the entire mass spectrum. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0000571 "Mass spectrometry where the intensities of one or more specific ion beams are recorded rather than the entire mass spectrum.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000571 "selected ion monitoring")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'selected ion monitoring' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.S05547") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.S05547>) obo:IAO_0000115 obo:CHMO_0000571 "A mass spectrometry \"in which the intensities of [one or more] specific ion beams are recorded rather than the entire mass spectrum\".")
+AnnotationAssertion(Annotation(dcterms:source <https://books.rsc.org/view-large/6383411>) obo:OMO_0003012 obo:CHMO_0000571 "SIM")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.S05547>) oboInOwl:hasExactSynonym obo:CHMO_0000571 "selected ion monitoring")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000571 "selected-ion monitoring")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000571 "selective-ion monitoring")
-AnnotationAssertion(Annotation(oboInOwl:hasSynonymType chmo:non-mining_synonym) oboInOwl:hasRelatedSynonym obo:CHMO_0000571 "SIM")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000571 "CHMO:0000571")
 AnnotationAssertion(rdfs:label obo:CHMO_0000571 "selective ion monitoring")
 SubClassOf(obo:CHMO_0000571 obo:CHMO_0000470)
@@ -9981,13 +9946,12 @@ SubClassOf(obo:CHMO_0000574 obo:CHMO_0000470)
 
 # Class: obo:CHMO_0000575 (tandem mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000084") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383436
-7.401 tandem mass spectrometry in space 
-Tandem mass spectrometry procedure in which product ion spectra are recorded for ion beams in m/z analysers separated in space. Specific m/z separation functions are designed so that in one section of the instrument ions are selected, dissociated in an intermediate region, and the product ions are then transmitted to another analyser for m/z separation and data acquisition. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0000575 "Mass spectrometry involving multiple mass-selection steps, with some form of fragmentation occurring between each stage.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000084") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.12485>) obo:IAO_0000115 obo:CHMO_0000575 "A Mass spectrometry involving multiple mass-selection steps, with some form of fragmentation occurring between each stage.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12485>) obo:OMO_0003012 obo:CHMO_0000575 "MS/MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000575 "MS-MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000575 "MS/MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000575 "MS2")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000575 "double mass spectrometry")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12485>) oboInOwl:hasExactSynonym obo:CHMO_0000575 "mass spectrometry/mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000575 "tandem MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000575 "tandem mass spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000575 "tandem-MS")
@@ -10051,7 +10015,7 @@ SubClassOf(obo:CHMO_0000579 obo:CHMO_0000575)
 
 # Class: obo:CHMO_0000580 (time-of-flight mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000082") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> "https://doi.org/10.1351/goldbook.T06382") obo:IAO_0000115 obo:CHMO_0000580 "Mass spectrometry where sample ions with different masses are accelerated to the same (known) kinetic energy and the time taken for each ion to reach a detector at a known distance is measured. This time is dependent on the mass-to-charge ratio of the ion.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000082") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> "https://doi.org/10.1351/goldbook.T06382") obo:IAO_0000115 obo:CHMO_0000580 "A mass spectrometry in which sample ions with different masses are accelerated to the same (known) kinetic energy and the time taken for each ion to reach a detector at a known distance is measured. This time is dependent on the mass-to-charge ratio of the ion.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000580 "TOF-MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000580 "TOFMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000580 "ToF-MS")
@@ -10154,11 +10118,9 @@ SubClassOf(obo:CHMO_0000590 obo:CHMO_0000228)
 
 # Class: obo:CHMO_0000591 (nuclear magnetic resonance spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384615
-6.4 nuclear magnetic resonance spectroscopy, (NMR) 
-Measurement principle of spectroscopy to measure the precession of magnetic moments placed in a magnetic induction based on absorption of electromagnetic radiation of a specific frequency by an atomic nucleus. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000591 "Spectroscopy where the energy states of spin-active nuclei placed in a static magnetic field are interrogated by inducing transitions between the states via radio frequency irradiation.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08218>) obo:IAO_0000115 obo:CHMO_0000591 "A nuclear magnetic resonance method in which the energy states of spin-active nuclei placed in a static magnetic field are interrogated by inducing transitions between the states via radio frequency irradiation.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08218>) obo:OMO_0003012 obo:CHMO_0000591 "NMR")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0000591 "FIX:0000022")
-AnnotationAssertion(oboInOwl:hasNarrowSynonym obo:CHMO_0000591 "NMR")
 AnnotationAssertion(oboInOwl:hasNarrowSynonym obo:CHMO_0000591 "NMR spectrometry")
 AnnotationAssertion(oboInOwl:hasNarrowSynonym obo:CHMO_0000591 "NMR spectroscopy")
 AnnotationAssertion(oboInOwl:hasNarrowSynonym obo:CHMO_0000591 "nuclear magnetic resonance (NMR) spectroscopy")
@@ -10258,12 +10220,9 @@ SubClassOf(obo:CHMO_0000597 ObjectSomeValuesFrom(obo:CHMO_0002922 obo:CHEBI_3694
 
 # Class: obo:CHMO_0000598 (two-dimensional nuclear magnetic resonance spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000056") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384917
-6.294 two-dimensional nuclear magnetic resonance spectroscopy 
-2-D NMR 
-Measurement method of nuclear magnetic resonance spectroscopy in which data are collected in two time domains: acquisition of the free induction decay (t2) and a successively incremented delay (t1). (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000598 "An NMR experiment in which a second frequency dimension is employed to disperse the signals and reveal correlations between interacting nuclei.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000598 "2-D NMR")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000598 "2D NMR")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000056") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08439>) obo:IAO_0000115 obo:CHMO_0000598 "A pulsed nuclear magnetic resonance spectroscopy in which a second frequency dimension is employed to disperse the signals and reveal correlations between interacting nuclei.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08439>) obo:OMO_0003012 obo:CHMO_0000598 "2-D NMR")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000598 "2D NMR")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000598 "2D NMR spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000598 "2D NMR spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000598 "2D nuclear magnetic resonance")
@@ -10277,10 +10236,8 @@ SubClassOf(obo:CHMO_0000598 obo:CHMO_0000613)
 
 # Class: obo:CHMO_0000599 (correlation spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000543") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384868
-6.245 correlation spectroscopy in NMR, (COSY) 
-Homonuclear two-dimensional nuclear magnetic resonance spectroscopy correlation experiment showing cross peaks representing spin–spin coupling between pairs of nuclei. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000599 "A type of homonuclear NMR spectroscopy where a second frequency dimension is employed to disperse the signals and reveal correlations between nuclei which are J-coupled (usually <=3 bonds apart).")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000599 "COSY")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000543") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08323>) obo:IAO_0000115 obo:CHMO_0000599 "A homonuclear two-dimensional nuclear magnetic resonance spectroscopy in which the nuclei  are J-coupled (usually <=3 bonds apart).")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08323>) obo:OMO_0003012 obo:CHMO_0000599 "COSY")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000599 "correlated spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000599 "correlated spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000599 "correlation spectrometry")
@@ -10337,30 +10294,27 @@ SubClassOf(obo:CHMO_0000603 obo:CHMO_0000931)
 
 # Class: obo:CHMO_0000604 (heteronuclear single quantum coherence)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384889
-6.266 heteronuclear single quantum correlation, (HSQC) 
-heteronuclear single quantum coherence 
-1H (inverse) detected two-dimensional nuclear magnetic resonance spectroscopy heteronuclear experiment that correlates 1H nuclei with their directly coupled nucleus through a single bond. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000604 "A type of heteronuclear NMR spectroscopy where a second frequency dimension is employed to disperse the signals and reveal correlations between protons and the nuclei to which they are covalently bound. In HSQC only the magnetisation of one nucleus is allowed to evolve over time.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08358>) obo:IAO_0000115 obo:CHMO_0000604 "A heteronuclear two-dimensional nuclear magnetic resonance spectroscopy in which a second frequency dimension is employed to disperse the signals and reveal correlations between protons and the nuclei to which they are covalently bound. In HSQC only the magnetisation of one nucleus is allowed to evolve over time.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08358>) obo:OMO_0003012 obo:CHMO_0000604 "HSQC")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0000604 "FIX:0000148")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000604 "HSQC")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08358>) oboInOwl:hasExactSynonym obo:CHMO_0000604 "heteronuclear single quantum correlation")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000604 "CHMO:0000604")
 AnnotationAssertion(rdfs:label obo:CHMO_0000604 "heteronuclear single quantum coherence")
 SubClassOf(obo:CHMO_0000604 obo:CHMO_0000931)
 
 # Class: obo:CHMO_0000605 (total correlation spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384913
-6.290 total correlation spectroscopy, (TOCSY) 
-homonuclear Hartmann-Hahn spectroscopy, (HOHAHA) 
-Two-dimensional nuclear magnetic resonance spectroscopy homonuclear correlation experiment, which creates correlations between all protons within a given spin system, not just between geminal or vicinal protons as in COSY. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000605 "A type of homonuclear NMR spectroscopy which reveal correlations between all nuclei of a spin-system.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08435>) obo:IAO_0000115 obo:CHMO_0000605 "A pulsed nuclear magnetic resonance spectroscopy which reveal correlations between all nuclei of a spin-system.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08435>) obo:OMO_0003012 obo:CHMO_0000605 "HOHAHA")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08435>) obo:OMO_0003012 obo:CHMO_0000605 "TOCSY")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0000605 "FIX:0000133")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0000605 "FIX:0000556")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000605 "HOHAHA spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000605 "HOHAHA spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000605 "TOCSY")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000605 "homonuclear Hartmann Hahn spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000605 "homonuclear Hartmann,Hahn spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000605 "homonuclear Hartmann-Hahn spectroscopy")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08435>) oboInOwl:hasExactSynonym obo:CHMO_0000605 "homonuclear Hartmann-Hahn spectroscopy (HOHAHA)")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000605 "total correlated spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000605 "total correlation spectrometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000605 "CHMO:0000605")
@@ -10390,24 +10344,22 @@ SubClassOf(obo:CHMO_0000606 obo:CHMO_0000598)
 
 # Class: obo:CHMO_0000607 (nuclear Overhauser enhancement spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384903
-6.280 nuclear Overhauser effect spectroscopy, (NOESY) 
-nuclear Overhauser enhancement spectroscopy 
-Measurement method of nuclear magnetic resonance spectroscopy based on the nuclear Overhauser effect to observe nuclei that are close to each other in space. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000607 "A type of homonuclear NMR spectroscopy based on the nuclear Overhauser enhancement effect in which correlations are seen between nuclei that are spatially proximate within a molecule (⩽6 Å apart).")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'nuclear Overhauser effect spectroscopy' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.08387") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08387>) obo:IAO_0000115 obo:CHMO_0000607 "A pulsed \"nuclear magnetic resonance spectroscopy based on the nuclear Overhauser [enhancement] effect\" in which correlations are seen between nuclei that are spatially proximate within a molecule (⩽6 Å apart).")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08387>) obo:OMO_0003012 obo:CHMO_0000607 "NOESY")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000607 "NOEsy")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000607 "nOesy")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0000607 "FIX:0000143")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000607 "2D EXSY")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000607 "2D exchange spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000607 "EXSY")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000607 "NOE experiments")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000607 "NOESY")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000607 "NOESY NMR")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000607 "NOEsy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000607 "exchange spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000607 "exchange spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000607 "nOesy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000607 "nuclear Overhauser effect spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000607 "nuclear Overhauser effect spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000607 "nuclear Overhauser enhancement spectrometry")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08387>) oboInOwl:hasExactSynonym obo:CHMO_0000607 "nuclear Overhauser enhancement spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000607 "CHMO:0000607")
 AnnotationAssertion(rdfs:label obo:CHMO_0000607 "nuclear Overhauser enhancement spectroscopy")
 SubClassOf(obo:CHMO_0000607 obo:CHMO_0000613)
@@ -10493,12 +10445,10 @@ SubClassOf(obo:CHMO_0000613 obo:CHMO_0000591)
 
 # Class: obo:CHMO_0000614 (solid-state nuclear magnetic resonance spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384909
-6.286 single crystal nuclear magnetic resonance spectroscopy 
-Solid-state nuclear magnetic resonance spectroscopy on a single crystal in a similar manner to that used in X-ray diffraction. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000614 "Spectroscopy where the response of nuclei with non-zero spin, in a solid sample, to a perturbing magnetic field is detected. Each experiment consists of a sequence of radio frequency pulses with delay periods in between them.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08415>) obo:IAO_0000115 obo:CHMO_0000614 "A pulsed nuclear magnetic resonance spectroscopy in which the response of nuclei with non-zero spin, in a solid sample, to a perturbing magnetic field is detected.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000614 "SS-NMR")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08415>) obo:OMO_0003012 obo:CHMO_0000614 "SSNMR")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0000614 "FIX:0000649")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000614 "SS-NMR")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000614 "SSNMR")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000614 "solid state NMR")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000614 "solid state nuclear magnetic resonance spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000614 "solid-state NMR")
@@ -10526,10 +10476,8 @@ SubClassOf(obo:CHMO_0000615 ObjectSomeValuesFrom(obo:BFO_0000118 obo:CHMO_000291
 
 # Class: obo:CHMO_0000616 (combined rotation and multiple pulse spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0824783328") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384867
-6.244  combined rotation and multiple pulse spectroscopy, (CRAMPS) 
-Measurement method of nuclear magnetic resonance spectroscopy for obtaining high-resolution solid-state nuclear magnetic resonance spectra on nuclei with high magnetogyric ratio such as 1H and 19F. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000616 "A type of NMR spectroscopy using a solid sample. Anisotropic interactions between nuclei, which are usually averaged by Brownian motion in liquid samples, cause significant line broadening in solid state NMR, but can be averaged to zero by spinning the sample very rapidly at the magic angle (54.74° with respect to the direction of the magnetic field).The combination of multiple-pulse NMR experiments and magic angle spinning. Each experiment consists of a sequence of radio frequency pulses with delay periods in between them.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000616 "CRAMPS")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <ISBN:0824783328>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08321>) obo:IAO_0000115 obo:CHMO_0000616 "A magic angle spinning nuclear magnetic resonance spectroscopy using a solid sample. Anisotropic interactions between nuclei, which are usually averaged by Brownian motion in liquid samples, cause significant line broadening in solid state NMR, but can be averaged to zero by spinning the sample very rapidly at the magic angle (54.74° with respect to the direction of the magnetic field).The combination of multiple-pulse NMR experiments and magic angle spinning. Each experiment consists of a sequence of radio frequency pulses with delay periods in between them.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08321>) obo:OMO_0003012 obo:CHMO_0000616 "CRAMPS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000616 "combined rotation and multiple pulse spectrometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000616 "CHMO:0000616")
 AnnotationAssertion(rdfs:label obo:CHMO_0000616 "combined rotation and multiple pulse spectroscopy")
@@ -10537,20 +10485,19 @@ SubClassOf(obo:CHMO_0000616 obo:CHMO_0000615)
 
 # Class: obo:CHMO_0000617 (cross-polarisation magic angle spinning)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0-19-855567-9") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384870
-6.247 cross polarisation with magic angle spinning NMR, (CP/MAS) 
-Combined use of cross polarization with magic-angle spinning for solid-state nuclear magnetic resonance spectroscopy. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000617 "Magic angle spinning spectroscopy where cross polarisation is used to enhance the signal from weakly coupled nuclei.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08326>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <ISBN:0-19-855567-9>) obo:IAO_0000115 obo:CHMO_0000617 "A magic angle spinning nuclear magnetic resonance spectroscopy in which cross polarisation is used to enhance the signal from weakly coupled nuclei.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000617 "CP-MAS")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08326>) obo:OMO_0003012 obo:CHMO_0000617 "CP/MAS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000617 "CPMAS")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0000617 "FIX:0001002")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000617 "CP-MAS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000617 "CP-MAS NMR")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000617 "CP/MAS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000617 "CP/MAS NMR")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000617 "CPMAS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000617 "CPMAS NMR")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000617 "cross polarisation magic angle spinning")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000617 "cross polarisation magic angle spinning nuclear magnetic resonance spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000617 "cross polarization magic angle spinning")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000617 "cross polarization magic angle spinning nuclear magnetic resonance spectroscopy")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08326>) oboInOwl:hasExactSynonym obo:CHMO_0000617 "cross polarization with magic angle spinning NMR")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000617 "cross-polarisation magic angle spinning nuclear magnetic resonance spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000617 "cross-polarization magic angle spinning")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000617 "cross-polarization magic angle spinning nuclear magnetic resonance spectroscopy")
@@ -10644,9 +10591,7 @@ SubClassOf(obo:CHMO_0000621 obo:CHMO_0000620)
 
 # Class: obo:CHMO_0000622 (photothermal spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6385090
-6.457 photothermal spectroscopy 
-Measurement method of spectroscopy in which the absorption of electromagnetic radiation by a sample is detected as a result of the heat caused by the absorption. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000622 "Spectroscopy where light energy absorbed by the sample results in heating and the subsequent change in temperature, pressure or density is measured.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08659>) obo:IAO_0000115 obo:CHMO_0000622 "A spectroscopy in which light energy absorbed by the sample results in heating and the subsequent change in temperature, pressure or density is measured.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000622 "photothermal spectrometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000622 "CHMO:0000622")
 AnnotationAssertion(rdfs:label obo:CHMO_0000622 "photothermal spectroscopy")
@@ -10712,9 +10657,7 @@ SubClassOf(obo:CHMO_0000627 obo:CHMO_0000228)
 
 # Class: obo:CHMO_0000628 (vibrational spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384617
-6.6 vibrational spectroscopy 
-Measurement principle of molecular spectroscopy to analyse molecular properties based on vibrations (bond stretching or deformation modes) in chemical species. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000628 "Spectroscopy which probes the vibrational degrees of freedom of a molecule.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08708>) obo:IAO_0000115 obo:CHMO_0000628 "A spectroscopy that probes the vibrational degrees of freedom of a molecule.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000628 "vibrational spectroscopic analysis")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000628 "CHMO:0000628")
 AnnotationAssertion(rdfs:label obo:CHMO_0000628 "vibrational spectroscopy")
@@ -10722,10 +10665,8 @@ SubClassOf(obo:CHMO_0000628 obo:CHMO_0000228)
 
 # Class: obo:CHMO_0000629 (inelastic electron tunnelling spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6385086
-6.453 inelastic electron tunnelling spectroscopy, (IETS) 
-Measurement method of vibrational spectroscopy to obtain spectra of molecules on metal oxide surfaces. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000629 "Spectroscopy where a metal-molecule-metal sandwich is formed and electrons tunnel from metal to metal through the molecules. Any additional molecules adsorbed onto the inner layer of the sandwhich can affect the tunneling via the excitation of vibrational states.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000629 "IETS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08616>) obo:IAO_0000115 obo:CHMO_0000629 "A vibrational spectroscopy in which a metal-molecule-metal sandwich is formed and electrons tunnel from metal to metal through the molecules. Any additional molecules adsorbed onto the inner layer of the sandwhich can affect the tunneling via the excitation of vibrational states.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08616>) obo:OMO_0003012 obo:CHMO_0000629 "IETS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000629 "inelastic electron tunnelling spectrometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000629 "CHMO:0000629")
 AnnotationAssertion(rdfs:label obo:CHMO_0000629 "inelastic electron tunnelling spectroscopy")
@@ -10960,16 +10901,15 @@ SubClassOf(obo:CHMO_0000644 obo:CHMO_0000643)
 
 # Class: obo:CHMO_0000645 (diffuse reflectance infrared Fourier transform spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000657") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382302
-10.41 diffuse reflection-absorption infrared spectroscopy, (DRAIRS) 
-diffuse reflectance infrared Fourier transform spectroscopy, (DRIFTS) 
-Measurement method in which the infrared absorption spectrum of light reflected and transmitted from powdered samples is measured. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000645 "Spectroscopy where the diffuse reflection of a single pulse of infrared radiation by a sample is measured, and the spectrum obtained is subject to a Fourier transform.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000657") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.09196>) obo:IAO_0000115 obo:CHMO_0000645 "A diffuse reflectance infrared spectroscopy in which the diffuse reflection of a single pulse of infrared radiation by a sample is measured, and the spectrum obtained is subject to a Fourier transform.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09196>) obo:OMO_0003012 obo:CHMO_0000645 "DRAIRS")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09196>) obo:OMO_0003012 obo:CHMO_0000645 "DRIFTS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000645 "DRIFT")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000645 "DRIFTS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000645 "diffuse reflectance infra-red Fourier transform spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000645 "diffuse reflectance infrared Fourier transform spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000645 "diffuse reflectance infrared Fourier transform spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000645 "diffuse reflectance infrared spectroscopy by Fourier transform")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09196>) oboInOwl:hasExactSynonym obo:CHMO_0000645 "diffuse reflection-absorption infrared spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000645 "CHMO:0000645")
 AnnotationAssertion(rdfs:label obo:CHMO_0000645 "diffuse reflectance infrared Fourier transform spectroscopy")
 SubClassOf(obo:CHMO_0000645 obo:CHMO_0000644)
@@ -11116,9 +11056,7 @@ SubClassOf(obo:CHMO_0000655 obo:CHMO_0000649)
 
 # Class: obo:CHMO_0000656 (Raman spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000058") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6385091
-6.458 Raman spectroscopy 
-Measurement principle of vibrational spectroscopy based on Raman scattering. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000656 "Spectroscopy where the Raman scattering of monochromatic light, usually from a laser in the visible, near infrared, or near ultraviolet range by a sample is detected.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000058") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08669>) obo:IAO_0000115 obo:CHMO_0000656 "A scatteing spectroscopy in which the Raman scattering of monochromatic light, usually from a laser in the visible, near infrared, or near ultraviolet range by a sample is detected.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000656 "Raman scattering spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000656 "Raman scattering spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000656 "Raman spectrometry")
@@ -11163,10 +11101,8 @@ SubClassOf(obo:CHMO_0000660 obo:CHMO_0000659)
 
 # Class: obo:CHMO_0000661 (coherent anti-Stokes Raman spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000075") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:comment "https://books.rsc.org/view-large/6385079
-6.446 coherent anti-Stokes Raman spectroscopy, (CARS) 
-Measurement method of Raman spectroscopy that uses third-order susceptibility and is one of several four-wave mixing spectroscopies. The excitation is through lasers of wavenumber  and which coincide spatially and temporally in the sample and produce an output laser of wavenumber . (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000661 "Spectroscopy where the Raman scattering of monochromatic light by a sample is detected. A Stokes frequency stimulation beam is used and an anti-Stokes frequency beam is observed. multiphoton excitation is used to produce a signal in which the emitted waves are coherent.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000661 "CARS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000075") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08579>) obo:IAO_0000115 obo:CHMO_0000661 "A coherent Raman spectroscopy in which a Stokes frequency stimulation beam is used and an anti-Stokes frequency beam is observed. Multiphoton excitation is used to produce a signal in which the emitted waves are coherent.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08579>) obo:OMO_0003012 obo:CHMO_0000661 "CARS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000661 "coherent anti-Stokes Raman scattering spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000661 "coherent anti-Stokes Raman scattering spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000661 "coherent anti-Stokes Raman spectrometry")
@@ -11204,29 +11140,27 @@ SubClassOf(obo:CHMO_0000664 obo:CHMO_0000663)
 
 # Class: obo:CHMO_0000665 (Fourier transform Raman spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6385083
-6.450 Fourier-transform Raman spectroscopy 
-Fourier-transform Raman spectrometry 
-Raman spectroscopy in which a Fourier-transform spectrometer is used to separate the scattered radiation into its component wavenumbers. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000665 "Spectroscopy where the Raman scattering of light (produced by a single laser pulse) by a sample is detected and the spectrum is subject to a Fourier transform.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08606>) obo:IAO_0000115 obo:CHMO_0000665 "A laser Raman spectroscopy in which the light is produced by a single laser pulse and the detected spectrum is subject to a Fourier transform.")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0000665 "FIX:0000384")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000665 "FT-Raman")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000665 "Fourier transform Raman spectrometry")
+AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000665 "Fourier-transform Raman spectrometry")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08606>) oboInOwl:hasExactSynonym obo:CHMO_0000665 "Fourier-transform Raman spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000665 "CHMO:0000665")
 AnnotationAssertion(rdfs:label obo:CHMO_0000665 "Fourier transform Raman spectroscopy")
 SubClassOf(obo:CHMO_0000665 obo:CHMO_0002515)
 
 # Class: obo:CHMO_0000666 (hyper Raman spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6385085
-6.452 hyper-Raman spectroscopy, (HRS) 
-Raman spectroscopy in which scattering occurs through hyperpolarizabilities. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000666 "Spectroscopy where the Raman scattering of light by a (liquid) sample is detected. During scattering, photons from the incident laser (with frequency ω) are scattered by sample into photons of the second harmonic (photons with frequency 2ω).")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08613>) obo:IAO_0000115 obo:CHMO_0000666 "A laser Raman spectroscopy in which the sample is liquid. During scattering, photons from the incident laser (with frequency ω) are scattered by sample into photons of the second harmonic (photons with frequency 2ω).")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08613>) obo:OMO_0003012 obo:CHMO_0000666 "HRS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000666 "hyper Raman scattering spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000666 "hyper Raman scattering spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000666 "hyper Raman spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000666 "hyper-Raman scattering spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000666 "hyper-Raman scattering spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000666 "hyper-Raman spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000666 "hyper-Raman spectroscopy")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08613>) oboInOwl:hasExactSynonym obo:CHMO_0000666 "hyper-Raman spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000666 "CHMO:0000666")
 AnnotationAssertion(rdfs:label obo:CHMO_0000666 "hyper Raman spectroscopy")
 SubClassOf(obo:CHMO_0000666 obo:CHMO_0002515)
@@ -11301,15 +11235,13 @@ AnnotationAssertion(owl:deprecated obo:CHMO_0000673 "true"^^xsd:boolean)
 
 # Class: obo:CHMO_0000674 (spatially-offset Raman spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6385093
-6.460 spatially offset Raman spectroscopy, (SORS) 
-Measurement method of Raman spectroscopy in which the sample is illuminated at one location, and the Raman signal is collected from a different location on the sample surface. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000674 "Spectroscopy where the Raman scattering of monochromatic light, from a laser, by a sample is detected. Scattered light is collected from regions laterally offset from the excitation laser spot.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000674 "SORS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08679>) obo:IAO_0000115 obo:CHMO_0000674 "A laser Raman spectroscopy in which scattered light is collected from regions laterally offset from the excitation laser spot.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08679>) obo:OMO_0003012 obo:CHMO_0000674 "SORS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000674 "SORSS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000674 "spatially offset Raman scattering spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000674 "spatially offset Raman scattering spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000674 "spatially offset Raman spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000674 "spatially offset Raman spectroscopy")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08679>) oboInOwl:hasExactSynonym obo:CHMO_0000674 "spatially offset Raman spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000674 "CHMO:0000674")
 AnnotationAssertion(rdfs:label obo:CHMO_0000674 "spatially-offset Raman spectroscopy")
 SubClassOf(obo:CHMO_0000674 obo:CHMO_0002515)
@@ -11343,10 +11275,8 @@ SubClassOf(obo:CHMO_0000676 obo:CHMO_0000675)
 
 # Class: obo:CHMO_0000677 (surface-enhanced Raman spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000076") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382317
-10.56 surface-enhanced Raman spectroscopy, (SERS) 
-Measurement method of Raman spectroscopy by which the intensity of vibrational bands in the Raman spectra of molecules within a few nanometres of the surface of microscopically rough metals, metal colloids, and metal nanoparticles is increased by 106 or more. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000677 "Spectroscopy where the Raman scattering of monochromatic light, from a visible laser, by a sample adsorbed onto a metal (Au, Ag or Cu) surface is detected.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000677 "SERS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000076") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08689>) obo:IAO_0000115 obo:CHMO_0000677 "A laser Raman spectroscopy in which the light is visible laser and the sample is adsorbed onto a metal (Au, Ag or Cu) surface.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08689>) obo:OMO_0003012 obo:CHMO_0000677 "SERS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000677 "SERS spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000677 "surface enhanced Raman scattering")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000677 "surface enhanced Raman spectrometry")
@@ -11361,10 +11291,8 @@ SubClassOf(obo:CHMO_0000677 obo:CHMO_0002515)
 
 # Class: obo:CHMO_0000678 (tip-enhanced Raman spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1002/anie.200460656") Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b9nr00156e") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382321
-10.60 tip enhanced Raman spectroscopy, (TERS) 
-Measurement method of Raman spectroscopy combining surface-enhanced Raman spectroscopy and scanning using an atomic force microscope or scanning tunnelling microscope to give complementary maps of a surface. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000678 "Spectroscopy where the Raman scattering of monochromatic light, from a visible laser (500–650 nm), by metal surfaces, where scattering is enhanced by the optical near-field of a metal-coated scanning probe microscopy tip, is detected.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000678 "TERS")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1039/b9nr00156e>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1002/anie.200460656>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08699>) obo:IAO_0000115 obo:CHMO_0000678 "A laser Raman spectroscopy in which the Raman scattering of monochromatic light, from a visible laser (500–650 nm), by metal surfaces, where scattering is enhanced by the optical near-field of a metal-coated scanning probe microscopy tip, is detected.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08699>) obo:OMO_0003012 obo:CHMO_0000678 "TERS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000678 "tip-enhanced Raman scattering spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000678 "tip-enhanced Raman scattering spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000678 "CHMO:0000678")
@@ -11437,9 +11365,10 @@ SubClassOf(obo:CHMO_0000685 obo:CHMO_0000684)
 
 # Class: obo:CHMO_0000686 (power-compensation differential scanning calorimetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381151
-11.20 power-compensation differential scanning calorimetry 
-Measurement method where the difference between electrical powers into a sample and a reference material is measured as a function of temperature. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6381113/Thermal-Analysis1-2)") obo:IAO_0000115 obo:CHMO_0000686 "The measurement of thermodynamic parameters (e.g. enthalpy) during a chemical or biochemical reaction of both a sample and a reference, by the known variation (step-wise or linear) of one variable, whilst a second is kept constant using a power compensation differential scanning calorimeter.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.12292>) obo:IAO_0000115 obo:CHMO_0000686 "A differential scanning calorimetry in which thermodynamic parameters (e.g. enthalpy) during a chemical or biochemical reaction of both a sample and a reference are measured, by the known variation (step-wise or linear) of one variable, whilst a second is kept constant using a power compensation differential scanning calorimeter.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12292>) obo:OMO_0003012 obo:CHMO_0000686 "DSC")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12292>) oboInOwl:hasExactSynonym obo:CHMO_0000686 "power compensation DSC")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12292>) oboInOwl:hasExactSynonym obo:CHMO_0000686 "power compensation differential scanning calorimetry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000686 "power-compensation DSC")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000686 "CHMO:0000686")
 AnnotationAssertion(rdfs:label obo:CHMO_0000686 "power-compensation differential scanning calorimetry")
@@ -11507,7 +11436,7 @@ SubClassOf(obo:CHMO_0000693 obo:CHMO_0000692)
 
 # Class: obo:CHMO_0000694 (thermophotometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "Orange:5.2.2") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.T06336>) obo:IAO_0000115 obo:CHMO_0000694 "The measurement of the total light, or the light of a specific wavelength emitted by a sample as a function of temperature.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'thermoptometry' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.T06336") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.T06336>) obo:IAO_0000115 obo:CHMO_0000694 "A thermoptometry in which \"total light, [or] light of specific wavelength(s)\" emitted by a sample is measured as a function of temperature.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000694 "CHMO:0000694")
 AnnotationAssertion(rdfs:label obo:CHMO_0000694 "thermophotometry")
 SubClassOf(obo:CHMO_0000694 obo:CHMO_0000692)
@@ -11763,14 +11692,11 @@ SubClassOf(obo:CHMO_0000716 ObjectSomeValuesFrom(obo:BFO_0000118 obo:CHMO_000100
 
 # Class: obo:CHMO_0000717 (extractive electrospray ionisation mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382287
-10.28 extractive electrospray ionization (EESI) mass spectrometry 
-Measurement method in which a mass spectrometer is used to measure m/z and abundance of ionized entities emitted from a sample in air as a result of an inert gas being passed over the sample to pick up the molecules which are subsequently ionized by ionized solvent droplets generated by pneumatically assisted electrospray ionization.
-(from:  https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000717 "Mass spectrometry where a neutral sample, in the form of a gas or aerosol flow, is ionised by directing it into a plume of charged droplets, generated by forcing a solution of pure solvent through a small heated capillary (at a flow rate of 1-10 microlitres per minute) into an electric field.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000717 "EESI-MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000717 "EESI/MS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09185>) obo:IAO_0000115 obo:CHMO_0000717 "An electrospray ionisation mass spectrometry in which a neutral sample, in the form of a gas or aerosol flow, is ionised by directing it into a plume of charged droplets, generated by forcing a solution of pure solvent through a small heated capillary (at a flow rate of 1-10 microlitres per minute) into an electric field.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09185>) obo:OMO_0003012 obo:CHMO_0000717 "EESI")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000717 "EESI-MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000717 "EESI/MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000717 "extractive electrospray ionisation mass spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000717 "extractive electrospray ionization mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000717 "extractive electrospray ionization mass spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000717 "CHMO:0000717")
 AnnotationAssertion(rdfs:label obo:CHMO_0000717 "extractive electrospray ionisation mass spectrometry")
@@ -12541,10 +12467,8 @@ SubClassOf(obo:CHMO_0000784 obo:CHMO_0000783)
 
 # Class: obo:CHMO_0000785 (optical rotatory dispersion)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000045") Annotation(oboInOwl:hasDbXref "ISBN:0387448993") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6385191
-6.557 optical rotatory dispersion, (ORD) 
-Wavelength dependence of the angle of rotation of the plane of linearly-polarized electromagnetic radiation when transmitted through optically active materials. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000785 "The measurement of light rotation as a function of wavelength.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000785 "ORD")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000045") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <ISBN:0387448993>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08654>) obo:IAO_0000115 obo:CHMO_0000785 "A spectroscopy in which light rotation is measured as a function of wavelength.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08654>) obo:OMO_0003012 obo:CHMO_0000785 "ORD")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000785 "CHMO:0000785")
 AnnotationAssertion(rdfs:label obo:CHMO_0000785 "optical rotatory dispersion")
 SubClassOf(obo:CHMO_0000785 obo:CHMO_0000228)
@@ -13400,11 +13324,10 @@ SubClassOf(obo:CHMO_0000862 obo:CHMO_0000156)
 
 # Class: obo:CHMO_0000863 (positron annihilation lifetime spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "http://academic.sun.ac.za/unesco/Conferences/Conference2003/ABSTRACTS/SIMON.htm") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381354
-9.148 positron lifetime spectrometry, (PLS) 
-positron annihilation lifetime spectrometry, (PALS) 
-Measurement method of positron annihilation analysis in which the time interval between the emission of positrons from a radioactive source and the detection of gamma rays due to annihilation of these positrons with electrons from the surrounding matter is the lifetime of the positron or positronium. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6381192/Radioanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000863 "A method for probing the free volume between polymer chains in which the anti-particle of an electron (a positron) is injected, from a radioactive source into the sample. When the positron is annihilated a characteristic energy is emitted, and the time from injection to energy emission is measured.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000863 "PALS")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <http://academic.sun.ac.za/unesco/Conferences/Conference2003/ABSTRACTS/SIMON.htm>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08752>) obo:IAO_0000115 obo:CHMO_0000863 "A spectroscopy method for probing the free volume between polymer chains in which the anti-particle of an electron (a positron) is injected, from a radioactive source into the sample. When the positron is annihilated a characteristic energy is emitted, and the time from injection to energy emission is measured.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08752>) obo:OMO_0003012 obo:CHMO_0000863 "PALS")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08752>) obo:OMO_0003012 obo:CHMO_0000863 "PLS")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08752>) oboInOwl:hasExactSynonym obo:CHMO_0000863 "positron annihilation lifetime spectrometry (PALS)")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000863 "positron lifetime spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000863 "CHMO:0000863")
 AnnotationAssertion(rdfs:label obo:CHMO_0000863 "positron annihilation lifetime spectroscopy")
@@ -13637,11 +13560,11 @@ SubClassOf(obo:CHMO_0000882 obo:CHMO_0000329)
 
 # Class: obo:CHMO_0000883 (plasma-assisted desorption–ionisation mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382293
-10.34 plasma assisted desorption ionization (PADI) mass spectrometry 
-Measurement method in which a mass spectrometer is used to measure m/z and abundance of ionized entities emitted from a sample in air as a result of the bombardment by a focused plasma. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000883 "Mass spectrometry where a plasma (a partially ionised gas–-such as Ar–-containing free electrons) is directed onto the surface of interest causing desorption of sample molecules from the surface and subsequent ionisation.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000883 "PADI-MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000883 "PADI/MS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09190>) obo:IAO_0000115 obo:CHMO_0000883 "A plasma mass spectrometry in which a plasma is directed onto the surface of interest causing desorption of sample molecules from the surface and subsequent ionisation.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09190>) obo:OMO_0003012 obo:CHMO_0000883 "PADI")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000883 "PADI-MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000883 "PADI/MS")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09190>) oboInOwl:hasExactSynonym obo:CHMO_0000883 "plasma assisted desorption ionization mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000883 "plasma-assisted desorption-ionisation mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000883 "plasma-assisted desorption-ionisation mass spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000883 "CHMO:0000883")
@@ -13778,10 +13701,8 @@ SubClassOf(obo:CHMO_0000895 obo:CHMO_0000894)
 
 # Class: obo:CHMO_0000896 (rotational-echo double-resonance spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000973") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:comment "https://books.rsc.org/view-large/6384907
-6.284 rotational echo double resonance, (REDOR) 
-Measurement method of nuclear magnetic resonance spectroscopy allowing recoupling of heteronuclear dipolar coupling under magic angle spinning. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000896 "A magic angle spinning NMR experiment in which the evolution of dipolar couplings between nuclei is controlled by applying pulses at appropriate points in the rotational period, allowing the determination of the size of the coupling and, thus, yielding distance information.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000896 "REDOR")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000973") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08409>) obo:IAO_0000115 obo:CHMO_0000896 "A magic angle spinning nuclear magnetic resonance spectroscopy in which the evolution of dipolar couplings between nuclei is controlled by applying pulses at appropriate points in the rotational period, allowing the determination of the size of the coupling and, thus, yielding distance information.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08409>) obo:OMO_0003012 obo:CHMO_0000896 "REDOR")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000896 "rotational echo double resonance spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000896 "rotational echo double-resonance (REDOR) spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000896 "CHMO:0000896")
@@ -15831,14 +15752,11 @@ SubClassOf(obo:CHMO_0001112 obo:CHMO_0000104)
 
 # Class: obo:CHMO_0001113 (membrane-inlet mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:978-0-470-51634-8") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383297
-7.262 membrane introduction mass spectrometry, (MIMS) 
-membrane inlet mass spectrometry 
-membrane interface mass spectrometry 
-Measurement method in mass spectrometry that uses a semi-permeable membrane separator that permits the passage of analytes directly from solutions or ambient air to the mass spectrometer ion source. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0001113 "Mass spectrometry where a thin membrane (usually made of a silicone elastomer) provides a selective means introducing low-molecular-weight volatile organic compounds into the ionisation source.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001113 "MIMS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001113 "membrane inlet mass spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001113 "membrane introduction mass spectrometry")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.12487>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <ISBN:978-0-470-51634-8>) obo:IAO_0000115 obo:CHMO_0001113 "A mass spectrometry in which a thin membrane (usually made of a silicone elastomer) provides a selective means introducing low-molecular-weight volatile organic compounds into the ionisation source.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12487>) obo:OMO_0003012 obo:CHMO_0001113 "MIMS")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12487>) oboInOwl:hasExactSynonym obo:CHMO_0001113 "membrane inlet mass spectrometry")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12487>) oboInOwl:hasExactSynonym obo:CHMO_0001113 "membrane interface mass spectrometry")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12487>) oboInOwl:hasExactSynonym obo:CHMO_0001113 "membrane introduction mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001113 "membrane-inlet MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001113 "membrane-introduction MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001113 "membrane-introduction mass spectrometry")
@@ -17071,27 +16989,27 @@ SubClassOf(obo:CHMO_0001217 obo:CHMO_0001216)
 
 # Class: obo:CHMO_0001218 (absorption detected magnetic resonance)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> "https://doi.org/10.1351/goldbook.O04278") obo:IAO_0000115 obo:CHMO_0001218 "A double resonance technique in which transitions between spin sublevels are detected by light absorption. Usually these are sublevels of a triplet and the transitions are induced by microwaves.")
+AnnotationAssertion(obo:IAO_0000115 obo:CHMO_0001218 "An optically detected magnetic resonance in which transitions between spin sublevels are detected by light absorption.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001218 "ADMR")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001218 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001218 "2009-03-25T11:49:13Z")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001218 "ADMR")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001218 "CHMO:0001218")
 AnnotationAssertion(rdfs:label obo:CHMO_0001218 "absorption detected magnetic resonance")
 SubClassOf(obo:CHMO_0001218 obo:CHMO_0001216)
 
 # Class: obo:CHMO_0001219 (delayed emission detected magnetic resonance)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> "https://doi.org/10.1351/goldbook.O04278") obo:IAO_0000115 obo:CHMO_0001219 "A double resonance technique in which transitions between spin sublevels are detected by delayed light emission. Usually these are sublevels of a triplet and the transitions are induced by microwaves.")
+AnnotationAssertion(obo:IAO_0000115 obo:CHMO_0001219 "An optically detected magnetic resonance in which transitions between spin sublevels are detected by delayed light emission.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001219 "DEDMR")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001219 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001219 "2009-03-25T11:53:02Z")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001219 "DEDMR")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001219 "CHMO:0001219")
 AnnotationAssertion(rdfs:label obo:CHMO_0001219 "delayed emission detected magnetic resonance")
 SubClassOf(obo:CHMO_0001219 obo:CHMO_0001216)
 
 # Class: obo:CHMO_0001220 (delayed fluorescence detected magnetic resonance)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> "https://doi.org/10.1351/goldbook.O04278") obo:IAO_0000115 obo:CHMO_0001220 "A double resonance technique in which transitions between spin sublevels are detected by delayed fluorescence. Usually these are sublevels of a triplet and the transitions are induced by microwaves.")
+AnnotationAssertion(obo:IAO_0000115 obo:CHMO_0001220 "A delayed emission detected magnetic resonance in which transitions between spin sublevels are detected by delayed fluorescence.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001220 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001220 "2009-03-25T11:54:19Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001220 "DFDMR")
@@ -17101,27 +17019,27 @@ SubClassOf(obo:CHMO_0001220 obo:CHMO_0001219)
 
 # Class: obo:CHMO_0001221 (fluorescence detected magnetic resonance)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> "https://doi.org/10.1351/goldbook.O04278") obo:IAO_0000115 obo:CHMO_0001221 "A double resonance technique in which transitions between spin sublevels are detected by fluorescence. Usually these are sublevels of a triplet and the transitions are induced by microwaves.")
+AnnotationAssertion(obo:IAO_0000115 obo:CHMO_0001221 "An optically detected magnetic resonance in which transitions between spin sublevels are detected by fluorescence.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001221 "FDMR")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001221 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001221 "2009-03-25T11:56:33Z")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001221 "FDMR")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001221 "CHMO:0001221")
 AnnotationAssertion(rdfs:label obo:CHMO_0001221 "fluorescence detected magnetic resonance")
 SubClassOf(obo:CHMO_0001221 obo:CHMO_0001216)
 
 # Class: obo:CHMO_0001222 (phosphorescence detected magnetic resonance)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> "https://doi.org/10.1351/goldbook.O04278") obo:IAO_0000115 obo:CHMO_0001222 "A double resonance technique in which transitions between spin sublevels are detected by phosphorescence. Usually these are sublevels of a triplet and the transitions are induced by microwaves.")
+AnnotationAssertion(obo:IAO_0000115 obo:CHMO_0001222 "An optically detected magnetic resonance in which transitions between spin sublevels are detected by phosphorescence. Usually these are sublevels of a triplet and the transitions are induced by microwaves.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001222 "PDMR")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001222 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001222 "2009-03-25T11:57:46Z")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001222 "PDMR")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001222 "CHMO:0001222")
 AnnotationAssertion(rdfs:label obo:CHMO_0001222 "phosphorescence detected magnetic resonance")
 SubClassOf(obo:CHMO_0001222 obo:CHMO_0001216)
 
 # Class: obo:CHMO_0001223 (reaction yield detected magnetic resonance)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> "https://doi.org/10.1351/goldbook.O04278") obo:IAO_0000115 obo:CHMO_0001223 "A double resonance technique in which transitions between spin sublevels are detected by means of reaction yield. Usually these are sublevels of a triplet and the transitions are induced by microwaves.")
+AnnotationAssertion(obo:IAO_0000115 obo:CHMO_0001223 "A magnetic resonance method in which transitions between spin sublevels are detected by means of reaction yield. Usually these are sublevels of a triplet and the transitions are induced by microwaves.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001223 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001223 "2009-03-25T11:59:11Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001223 "RYDMR")
@@ -17957,19 +17875,18 @@ SubClassOf(obo:CHMO_0001287 obo:CHMO_0002793)
 
 # Class: obo:CHMO_0001288 (sum-frequency generation spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1021/ja9831453") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382312
-10.51 sum frequency generation spectroscopy, (SFGS) 
-vibrational sum frequency spectroscopy, (VSFS) 
-Measurement method from non-linear optics in which a structurally ordered sample at an interface between two phases is irradiated by single frequency visible and variable frequency infrared pulses of light to generate a sum frequency vibrational spectrum of the interfacial species without any bulk phase contribution. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0001288 "A method for generating surface-specific vibrational spectra by mixing two light beams at a surface and detecting the output beam, which has frequency equal to the sum of the two input frequencies.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1021/ja9831453>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.09205>) obo:IAO_0000115 obo:CHMO_0001288 "A vibrational spectroscopy in which surface-specific vibrational spectra is generated by mixing two light beams at a surface and detecting the output beam, which has frequency equal to the sum of the two input frequencies.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001288 "SFG")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09205>) obo:OMO_0003012 obo:CHMO_0001288 "SFGS")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001288 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001288 "2009-05-07T03:31:21Z")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001288 "SFG")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001288 "SFG spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001288 "SFG vibrational spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001288 "VSFG spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001288 "sum frequency generation (SFG) spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001288 "sum frequency generation (SFG) vibrational spectroscopy")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001288 "sum frequency generation spectroscopy")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09205>) oboInOwl:hasExactSynonym obo:CHMO_0001288 "sum frequency generation spectroscopy")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09205>) oboInOwl:hasExactSynonym obo:CHMO_0001288 "vibrational sum frequency spectroscopy (VSFS)")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001288 "vibrational sum-frequency generation (VSFG) spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001288 "vibrational sum-frequency generation spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001288 "CHMO:0001288")
@@ -22445,12 +22362,10 @@ SubClassOf(obo:CHMO_0001765 obo:CHMO_0000835)
 
 # Class: obo:CHMO_0001766 (transmission Raman spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:comment "https://books.rsc.org/view-large/6385095
-6.462 transmission Raman spectroscopy, (TRS) 
-Measurement method of Raman spectroscopy in which the sample is illuminated on one side and the Raman signal is collected from the opposite side. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0001766 "Spectroscopy where the Raman scattering of monochromatic light, usually from a laser, by a sample is detected. The light is collected from the non-illuminated side of the sample.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08703>) obo:IAO_0000115 obo:CHMO_0001766 "A laser Raman spectroscopy in which the light, usually from a laser, is collected from the non-illuminated side of the sample.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08703>) obo:OMO_0003012 obo:CHMO_0001766 "TRS")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001766 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001766 "2009-05-20T10:12:23Z")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001766 "TRS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001766 "transmission Raman")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001766 "transmission Raman scattering spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001766 "transmission Raman spectrometry")
@@ -26548,9 +26463,7 @@ SubClassOf(obo:CHMO_0002077 obo:CHMO_0000682)
 
 # Class: obo:CHMO_0002078 (scanning calorimetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381154
-11.23 scanning calorimetry 
-Measurement principle where heat is measured as a function of temperature. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6381113/Thermal-Analysis1-2)") obo:IAO_0000115 obo:CHMO_0002078 "The measurement of thermodynamic parameters (e.g. enthalpy) during a chemical or biochemical reaction by the known variation (step-wise or linear) of one variable, whilst a second is kept constant.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.12305>) obo:IAO_0000115 obo:CHMO_0002078 "A calorimetry in which measurement of parameters is by the known variation (step-wise or linear) of one variable, whilst a second is kept constant.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002078 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002078 "2009-07-02T03:38:23Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002078 "CHMO:0002078")
@@ -30179,14 +30092,13 @@ SubClassOf(obo:CHMO_0002381 obo:CHMO_0000600)
 
 # Class: obo:CHMO_0002382 (double-quantum-filtered correlation spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000175") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384875
-6.252 double-quantum filtered correlation spectroscopy, (DQF-COSY) 
-Variant of the COSY experiment with a double quantum filter to remove, or at least reduce, impact of large singlet peaks on dynamic range and artefacts. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0002382 "A type of homonuclear NMR spectroscopy where a second frequency dimension is employed to disperse the signals and reveal correlations between nuclei which are J-coupled (usually <=3 bonds apart). The response is edited by selecting only two-spin coupled systems, usually achieved by appropriate cycling of the phase (direction of application) of the pulses in the experiment.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000175") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08335>) obo:IAO_0000115 obo:CHMO_0002382 "A correlation spectroscopy in which the response is edited by selecting only two-spin coupled systems, usually achieved by appropriate cycling of the phase (direction of application) of the pulses in the experiment.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08335>) obo:OMO_0003012 obo:CHMO_0002382 "DQF-COSY")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002382 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002382 "2009-09-15T05:47:13Z")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002382 "DQF-COSY")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002382 "double quantum filtered COSY")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002382 "double quantum filtered correlation spectroscopy")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08335>) oboInOwl:hasExactSynonym obo:CHMO_0002382 "double-quantum filtered correlation spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002382 "double-quantum-filtered COSY")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002382 "CHMO:0002382")
 AnnotationAssertion(rdfs:label obo:CHMO_0002382 "double-quantum-filtered correlation spectroscopy")
@@ -32365,10 +32277,7 @@ SubClassOf(obo:CHMO_0002561 obo:CHMO_0001072)
 
 # Class: obo:CHMO_0002562 (nuclear Overhauser effect difference spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000203") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384902
-6.279 nuclear Overhauser effect difference spectroscopy 
-nOe difference spectroscopy 
-One dimensional nuclear magnetic resonance spectroscopy that yields, through subtraction of spectra generated with and without selective excitation of a specific resonance, the nuclear Overhauser effect of nuclei spatially close to a selectively excited nucleus. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0002562 "A 1D NMR experiment in which a 1D spectrum is subtracted from a spectrum acquired under steady-state NOE conditions.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000203") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08386>) obo:IAO_0000115 obo:CHMO_0002562 "A one-dimensional nuclear Overhauser enhancement spectroscopy in which a 1D spectrum is subtracted from a spectrum acquired under steady-state NOE conditions.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002562 "Hils")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002562 "2009-10-25T09:04:28Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002562 "1D NOE Difference")
@@ -32379,6 +32288,7 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002562 "NOE-DIFF")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002562 "NOE-Difference")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002562 "NOE-difference")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002562 "NOEd")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08386>) oboInOwl:hasExactSynonym obo:CHMO_0002562 "nOe difference spectroscopy")
 AnnotationAssertion(oboInOwl:hasNarrowSynonym obo:CHMO_0002562 "NOEDIFF")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002562 "CHMO:0002562")
 AnnotationAssertion(rdfs:label obo:CHMO_0002562 "nuclear Overhauser effect difference spectroscopy")
@@ -35883,9 +35793,8 @@ SubClassOf(obo:CHMO_0002907 obo:CHMO_0000681)
 
 # Class: obo:CHMO_0002908 (temperature-programmed reduction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b105466j") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381159
-11.28 temperature-programmed reduction, (TPR) 
-Experiment using a reducing atmosphere, usually hydrogen. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6381113/Thermal-Analysis1-2)") obo:IAO_0000115 obo:CHMO_0002908 "Thermal analysis of a system where the consumption of reducing agent in moles per second per gram of material is measured against temperature.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1039/b105466j>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.12312>) obo:IAO_0000115 obo:CHMO_0002908 "A thermal analysis of a system in which the consumption of reducing agent in moles per second per gram of material is measured against temperature.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12312>) obo:OMO_0003012 obo:CHMO_0002908 "TPR")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002908 "CHMO:0002908")
 AnnotationAssertion(rdfs:label obo:CHMO_0002908 "temperature-programmed reduction")
 SubClassOf(obo:CHMO_0002908 obo:CHMO_0000681)
@@ -36022,11 +35931,10 @@ SubClassOf(obo:CHMO_0002924 obo:CHMO_0001000)
 
 # Class: obo:CHMO_0002925 (Fourier transform mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-5865-8994") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383178
-7.143 Fourier transform mass spectrometry 
-Measurement method of mass spectrometry in which m/z values are represented by frequencies of ion motion and mass spectra are generated by Fourier transform mathematical operations from time domain transients produced by image current detection. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0002925 "Mass spectrometry where the mass-to-charge ratio of the sample ions is determined by Fourier transform of a recorded time-domain transient.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002925 "FT-MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002925 "FTMS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-5865-8994") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.12419>) obo:IAO_0000115 obo:CHMO_0002925 "An ion trap mass spectrometry in which the mass-to-charge ratio of the sample ions is determined by Fourier transform of a recorded time-domain transient.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0002925 "FT-MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0002925 "FTMS")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12419>) oboInOwl:hasExactSynonym obo:CHMO_0002925 <http://purl.obolibrary.org/obo/chmo.owl#Fourier-transform mass spectrometry>)
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002925 "CHMO:0002925")
 AnnotationAssertion(rdfs:label obo:CHMO_0002925 "Fourier transform mass spectrometry")
 SubClassOf(obo:CHMO_0002925 obo:CHMO_0000500)
