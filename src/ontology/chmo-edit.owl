@@ -10235,7 +10235,7 @@ SubClassOf(obo:CHMO_0000598 obo:CHMO_0000613)
 
 # Class: obo:CHMO_0000599 (correlation spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000543") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08323>) obo:IAO_0000115 obo:CHMO_0000599 "A homonuclear two-dimensional nuclear magnetic resonance spectroscopy in which the nuclei are J-coupled (usually <=3 bonds apart).")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000543") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08323>) obo:IAO_0000115 obo:CHMO_0000599 "A homonuclear two-dimensional nuclear magnetic resonance spectroscopy that reveals correlations between nuclei which are J-coupled (usually <=3 bonds apart).")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08323>) obo:OMO_0003012 obo:CHMO_0000599 "COSY")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000599 "correlated spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000599 "correlated spectroscopy")
@@ -10303,7 +10303,7 @@ SubClassOf(obo:CHMO_0000604 obo:CHMO_0000931)
 
 # Class: obo:CHMO_0000605 (total correlation spectroscopy)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08435>) obo:IAO_0000115 obo:CHMO_0000605 "A pulsed nuclear magnetic resonance spectroscopy that reveal correlations between all nuclei of a spin-system.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08435>) obo:IAO_0000115 obo:CHMO_0000605 "A pulsed nuclear magnetic resonance spectroscopy that reveals correlations between all nuclei of a spin-system.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08435>) obo:OMO_0003012 obo:CHMO_0000605 "HOHAHA")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08435>) obo:OMO_0003012 obo:CHMO_0000605 "TOCSY")
 AnnotationAssertion(oboInOwl:hasDbXref obo:CHMO_0000605 "FIX:0000133")
@@ -11150,7 +11150,7 @@ SubClassOf(obo:CHMO_0000665 obo:CHMO_0002515)
 
 # Class: obo:CHMO_0000666 (hyper Raman spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08613>) obo:IAO_0000115 obo:CHMO_0000666 "A laser Raman spectroscopy in which the sample is liquid. During scattering, photons from the incident laser (with frequency ω) are scattered by sample into photons of the second harmonic (photons with frequency 2ω).")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08613>) obo:IAO_0000115 obo:CHMO_0000666 "A laser Raman spectroscopy in which photons from the incident laser (with frequency ω) are scattered by a liquid sample into photons of the second harmonic (photons with frequency 2ω).")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08613>) obo:OMO_0003012 obo:CHMO_0000666 "HRS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000666 "hyper Raman scattering spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000666 "hyper Raman scattering spectroscopy")
@@ -11273,7 +11273,7 @@ SubClassOf(obo:CHMO_0000676 obo:CHMO_0000675)
 
 # Class: obo:CHMO_0000677 (surface-enhanced Raman spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000076") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08689>) obo:IAO_0000115 obo:CHMO_0000677 "A laser Raman spectroscopy in which the light is visible laser and the sample is adsorbed onto a metal (Au, Ag or Cu) surface.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000076") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08689>) obo:IAO_0000115 obo:CHMO_0000677 "A laser Raman spectroscopy in which the light is visible and the sample is adsorbed onto a metal (Au, Ag or Cu) surface.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08689>) obo:OMO_0003012 obo:CHMO_0000677 "SERS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000677 "SERS spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000677 "surface enhanced Raman scattering")
@@ -11289,7 +11289,7 @@ SubClassOf(obo:CHMO_0000677 obo:CHMO_0002515)
 
 # Class: obo:CHMO_0000678 (tip-enhanced Raman spectroscopy)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1039/b9nr00156e>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1002/anie.200460656>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08699>) obo:IAO_0000115 obo:CHMO_0000678 "A laser Raman spectroscopy in which the ight from a visible laser (500–650 nm) scatters by metal surfaces, where scattering is enhanced by the optical near-field of a metal-coated scanning probe microscopy tip, is detected.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1039/b9nr00156e>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1002/anie.200460656>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08699>) obo:IAO_0000115 obo:CHMO_0000678 "A laser Raman spectroscopy in which visible light (500–650 nm) is used to detect Raman scattering by metal surfaces, where the scattering is enhanced by the optical near-field of a metal-coated scanning probe microscopy tip.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08699>) obo:OMO_0003012 obo:CHMO_0000678 "TERS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000678 "tip-enhanced Raman scattering spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000678 "tip-enhanced Raman scattering spectroscopy")
@@ -17873,7 +17873,7 @@ SubClassOf(obo:CHMO_0001287 obo:CHMO_0002793)
 
 # Class: obo:CHMO_0001288 (sum-frequency generation spectroscopy)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1021/ja9831453>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.09205>) obo:IAO_0000115 obo:CHMO_0001288 "A vibrational spectroscopy in which surface-specific vibrational spectra is generated by mixing two light beams at a surface and detecting the output beam, which has frequency equal to the sum of the two input frequencies.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1021/ja9831453>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.09205>) obo:IAO_0000115 obo:CHMO_0001288 "A vibrational spectroscopy in which a surface-specific vibrational spectrum is generated by mixing two light beams at a surface and detecting the output beam, which has frequency equal to the sum of the two input frequencies.")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001288 "SFG")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09205>) obo:OMO_0003012 obo:CHMO_0001288 "SFGS")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001288 "https://orcid.org/0000-0001-5985-7429")
@@ -22360,7 +22360,7 @@ SubClassOf(obo:CHMO_0001765 obo:CHMO_0000835)
 
 # Class: obo:CHMO_0001766 (transmission Raman spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08703>) obo:IAO_0000115 obo:CHMO_0001766 "A laser Raman spectroscopy in which the light, usually from a laser, is collected from the non-illuminated side of the sample.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08703>) obo:IAO_0000115 obo:CHMO_0001766 "A laser Raman spectroscopy in which the monochromatic light, usually from a laser, is collected from the non-illuminated side of the sample.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08703>) obo:OMO_0003012 obo:CHMO_0001766 "TRS")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001766 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001766 "2009-05-20T10:12:23Z")
@@ -26461,7 +26461,7 @@ SubClassOf(obo:CHMO_0002077 obo:CHMO_0000682)
 
 # Class: obo:CHMO_0002078 (scanning calorimetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.12305>) obo:IAO_0000115 obo:CHMO_0002078 "A calorimetry in which measurement of parameters is by the known variation (step-wise or linear) of one variable, whilst a second is kept constant.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.12305>) obo:IAO_0000115 obo:CHMO_0002078 "A calorimetry that varies a known variable (step-wise or linear), whilst another variable is kept constant.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002078 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002078 "2009-07-02T03:38:23Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002078 "CHMO:0002078")
