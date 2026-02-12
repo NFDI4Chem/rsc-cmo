@@ -3205,9 +3205,7 @@ SubClassOf(obo:CHMO_0000003 obo:OBI_0000443)
 
 # Class: obo:CHMO_0000004 (amperometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000783") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384522
-8.97 amperometry 
-Electrochemical measurement principle based on measurement of electric current at a controlled applied potential. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000004 "An electrochemical analysis in which the cell current is measured whilst the potential difference between the indicator and reference electrodes is controlled.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000783") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.09128>) obo:IAO_0000115 obo:CHMO_0000004 "An electrochemical analysis in which the cell current is measured whilst the potential difference between the indicator and reference electrodes is controlled.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000004 "amperometric method")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000004 "CHMO:0000004")
 AnnotationAssertion(rdfs:label obo:CHMO_0000004 "amperometry")
@@ -3215,9 +3213,7 @@ SubClassOf(obo:CHMO_0000004 obo:CHMO_0000003)
 
 # Class: obo:CHMO_0000005 (chrono-amperometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000785") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384523
-8.98 chronoamperometry 
-Amperometry in which the electric current is measured as a function of time after a change in the applied potential. (from: https://books.rsc.org/view-large/6384594)") obo:IAO_0000115 obo:CHMO_0000005 "Amperometry in which the time dependence of the cell current is measured whilst the potential difference between the indicator and reference electrodes is controlled.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000785") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09129>) obo:IAO_0000115 obo:CHMO_0000005 "An amperometry in which the time dependence of the cell current is measured whilst the potential difference between the indicator and reference electrodes is controlled.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09129>) oboInOwl:hasExactSynonym obo:CHMO_0000005 "chronoamperometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000005 "CHMO:0000005")
 AnnotationAssertion(rdfs:label obo:CHMO_0000005 "chrono-amperometry")
@@ -3296,10 +3292,7 @@ SubClassOf(obo:CHMO_0000013 obo:CHMO_0000012)
 
 # Class: obo:CHMO_0000014 (chrono-coulometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000786") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384572
-8.133 chronocoulometry 
-Direct coulometry at controlled potential in which the electric charge passed after application of a potential step perturbation is measured as a function of time (Q–t curve).
-(from:  https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000014 "Amperostatic coulometry in which the time-dependence of the total Coulombs of electricity required to complete (fully oxidise or fully reduce the sample in) an electrochemical reaction is measured whilst the current is held at a constant value.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000786") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09156>) obo:IAO_0000115 obo:CHMO_0000014 "An amperostatic coulometry in which the time-dependence of the total Coulombs of electricity required to complete (fully oxidise or fully reduce the sample in) an electrochemical reaction is measured whilst the current is held at a constant value.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09156>) oboInOwl:hasExactSynonym obo:CHMO_0000014 "chronocoulometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000014 "CHMO:0000014")
 AnnotationAssertion(rdfs:label obo:CHMO_0000014 "chrono-coulometry")
@@ -3317,9 +3310,7 @@ SubClassOf(obo:CHMO_0000015 obo:CHMO_0000012)
 
 # Class: obo:CHMO_0000016 (potentiometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000775") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384519
-8.96 potentiometry 
-Electrochemical measurement principle where the potential difference between an indicator electrode and a reference electrode is measured. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000016 "An electrochemical analysis in which the potential difference between the indicator and reference electrodes is measured under conditions where the current passed is sufficiently small to maintain thermodynamic equilibrium.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'potentiometry' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.09127") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09127>) Annotation(oboInOwl:hasDbXref "FIX:0000775") obo:IAO_0000115 obo:CHMO_0000016 "An electrochemical analysis in which \"the potential difference between an indicator electrode and a reference electrode is measured\" under conditions where the current passed is sufficiently small to maintain thermodynamic equilibrium.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000016 "potentiometric method")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000016 "CHMO:0000016")
 AnnotationAssertion(rdfs:label obo:CHMO_0000016 "potentiometry")
@@ -3327,9 +3318,7 @@ SubClassOf(obo:CHMO_0000016 obo:CHMO_0000003)
 
 # Class: obo:CHMO_0000017 (chrono-potentiometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000780") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384518
-8.95 chronopotentiometry 
-Potentiometry in which the potential is measured with time following a change in applied current. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000017 "Potentiometry the time-dependence of the potential difference between the indicator and reference electrodes is measured under conditions where the current passed is sufficiently small to maintain thermodynamic equilibrium.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000780") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09126>) obo:IAO_0000115 obo:CHMO_0000017 "A potentiometry in which the time-dependence of the potential difference between the indicator and reference electrodes is measured under conditions where the current passed is sufficiently small to maintain thermodynamic equilibrium.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09126>) oboInOwl:hasExactSynonym obo:CHMO_0000017 "chronopotentiometry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000017 "CHMO:0000017")
 AnnotationAssertion(rdfs:label obo:CHMO_0000017 "chrono-potentiometry")
@@ -3395,15 +3384,11 @@ SubClassOf(obo:CHMO_0000024 obo:CHMO_0000003)
 
 # Class: obo:CHMO_0000025 (cyclic voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000099") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384531
-8.103 cyclic voltammetry, (CV) 
-cyclic linear scan voltammetry 
-Voltammetry in which the electric current is recorded as the electrode potential is varied with time cyclically between two potential limits, normally at a constant scan rate. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000025 "Voltammetry in which the potential is varied linearly and inverts at the end point resulting in a cycle.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000099") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09134>) obo:IAO_0000115 obo:CHMO_0000025 "A voltammetry in which the potential is varied linearly and inverts at the end point resulting in a cycle.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09134>) obo:OMO_0003012 obo:CHMO_0000025 "CV")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09134>) oboInOwl:hasExactSynonym obo:CHMO_0000025 "cyclic linear scan voltammetry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000025 "cyclic triangular wave voltammetry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000025 "cyclovoltammetry")
-AnnotationAssertion(Annotation(oboInOwl:hasSynonymType chmo:non-mining_synonym) oboInOwl:hasRelatedSynonym obo:CHMO_0000025 "CV")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000025 "CHMO:0000025")
 AnnotationAssertion(rdfs:label obo:CHMO_0000025 "cyclic voltammetry")
 SubClassOf(obo:CHMO_0000025 obo:CHMO_0000024)
@@ -3421,9 +3406,7 @@ SubClassOf(obo:CHMO_0000026 obo:CHMO_0000025)
 
 # Class: obo:CHMO_0000027 (hydrodynamic voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000792") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384540
-8.109 hydrodynamic voltammetry 
-Voltammetry with forced flow of the solution towards the electrode surface. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000027 "Voltammetry in which the cell current flowing during convective mass transfer (the movement of material by the action of a fluid) is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The potential is varied linearly and inverts at the end point resulting in a cycle.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000792") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.09138>) obo:IAO_0000115 obo:CHMO_0000027 "A voltammetry in which the cell current flows during convective mass transfer (the movement of material by the action of a fluid). The potential is varied linearly and inverts at the end point resulting in a cycle.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000027 "linear scan hydrodynamic voltammetry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000027 "linear-scan hydrodynamic voltammetry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000027 "CHMO:0000027")
@@ -3432,10 +3415,7 @@ SubClassOf(obo:CHMO_0000027 obo:CHMO_0000024)
 
 # Class: obo:CHMO_0000028 (linear-sweep voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000791") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384543
-8.112 linear-scan voltammetry, (LSV) 
-linear-sweep voltammetry 
-Voltammetry in which the electric current is recorded as the electrode potential is varied linearly with time.(from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000028 "Voltammetry in which the potential is varied linearly and stops at an end point.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000791") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09141>) obo:IAO_0000115 obo:CHMO_0000028 "A voltammetry in which the potential is varied linearly and stops at an end point.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09141>) obo:OMO_0003012 obo:CHMO_0000028 "LSV")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000028 "chrono amperometry with linear potenial sweep")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000028 "chronoamperometry with linear sweep")
@@ -3456,9 +3436,7 @@ SubClassOf(obo:CHMO_0000029 obo:CHMO_0000024)
 
 # Class: obo:CHMO_0000030 (differential pulse voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384535
-8.105 differential pulse voltammetry, (DPV) 
-Voltammetry in which small potential pulses (constant height 10 to 100 mV, constant width 10 to 100 ms) are superimposed onto a linearly varying potential or onto a staircase potential ramp. The current is sampled just before the onset of the pulse (e.g. 10 to 20 ms) and for the same sampling time just before the end of the pulse. The difference between the two sampled currents is plotted versus the potential applied before the pulse. Thus, a differential pulse voltammogram is peak-shaped. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000030 "Pulse voltammetry in which the potential is varied using pulses of increasing amplitude and the current is sampled before and after each voltage pulse.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09136>) obo:IAO_0000115 obo:CHMO_0000030 "A pulse voltammetry in which the current is sampled before and after each voltage pulse.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09136>) obo:OMO_0003012 obo:CHMO_0000030 "DPV")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000030 "differential-pulse voltammetry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000030 "CHMO:0000030")
@@ -3467,9 +3445,7 @@ SubClassOf(obo:CHMO_0000030 obo:CHMO_0000029)
 
 # Class: obo:CHMO_0000031 (normal pulse voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:978-3-540-74597-6") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384545
-8.113 normal pulse voltammetry, (NPV) 
-Voltammetry in which potential pulses of amplitude increasing by a constant increment and pulse width of 2 to 200 ms are superimposed on a constant initial potential. The electric current is sampled at the end of the pulse and then plotted versus the potential of the pulse. Sigmoidal wave-shaped voltammograms are obtained. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000031 "Pulse voltammetry in which the potential is varied using pulses of increasing amplitude and the current is sampled after each voltage pulse.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:978-3-540-74597-6") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09142>) obo:IAO_0000115 obo:CHMO_0000031 "A pulse voltammetry in which the current is sampled after each voltage pulse.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09142>) obo:OMO_0003012 obo:CHMO_0000031 "NPV")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000031 "normal-pulse voltammetry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000031 "CHMO:0000031")
@@ -3478,7 +3454,7 @@ SubClassOf(obo:CHMO_0000031 obo:CHMO_0000029)
 
 # Class: obo:CHMO_0000032 (polarography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000794") Annotation(oboInOwl:hasDbXref "OrangeBook:8.5.3") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.P04716>) obo:IAO_0000115 obo:CHMO_0000032 "Voltammetry in which the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes. The working electrode is a dropping mercury (or other liquid conductor) electrode and unstirred solutions are used.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'polarography' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.P04716") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.P04716>) Annotation(oboInOwl:hasDbXref "FIX:0000794") obo:IAO_0000115 obo:CHMO_0000032 "A voltammetry in which \"the working electrode is a dropping mercury (or other liquid conductor) electrode and unstirred solutions are used\".")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000032 "CHMO:0000032")
 AnnotationAssertion(rdfs:label obo:CHMO_0000032 "polarography")
 SubClassOf(obo:CHMO_0000032 obo:CHMO_0000024)
@@ -3510,18 +3486,15 @@ SubClassOf(obo:CHMO_0000035 obo:CHMO_0000033)
 
 # Class: obo:CHMO_0000036 (differential pulse polarography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000813") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384535
-8.105 differential pulse voltammetry, (DPV) 
-Voltammetry in which small potential pulses (constant height 10 to 100 mV, constant width 10 to 100 ms) are superimposed onto a linearly varying potential or onto a staircase potential ramp. The current is sampled just before the onset of the pulse (e.g. 10 to 20 ms) and for the same sampling time just before the end of the pulse. The difference between the two sampled currents is plotted versus the potential applied before the pulse. Thus, a differential pulse voltammogram is peak-shaped. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000036 "Polarography in which the potential is varied using pulses of linearly increasing amplitude (one pulse during each drop lifetime) and the current is sampled before and after each voltage pulse.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000813") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://books.rsc.org/view-large/6384535>) obo:IAO_0000115 obo:CHMO_0000036 "A polarography in which the potential is varied using pulses of linearly increasing amplitude (one pulse during each drop lifetime) and the current is sampled before and after each voltage pulse.")
+AnnotationAssertion(Annotation(dcterms:source <https://books.rsc.org/view-large/6384535>) obo:OMO_0003012 obo:CHMO_0000036 "DVP")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000036 "CHMO:0000036")
 AnnotationAssertion(rdfs:label obo:CHMO_0000036 "differential pulse polarography")
 SubClassOf(obo:CHMO_0000036 obo:CHMO_0000032)
 
 # Class: obo:CHMO_0000037 (normal pulse polarography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000812") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384545
-8.113 normal pulse voltammetry, (NPV) 
-Voltammetry in which potential pulses of amplitude increasing by a constant increment and pulse width of 2 to 200 ms are superimposed on a constant initial potential. The electric current is sampled at the end of the pulse and then plotted versus the potential of the pulse. Sigmoidal wave-shaped voltammograms are obtained. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000037 "Polarography in which the potential is varied using pulses of linearly increasing amplitude (one pulse during each drop lifetime) and the current is sampled after each voltage pulse.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000812") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000037 "A polarography in which the potential is varied using pulses of linearly increasing amplitude (one pulse during each drop lifetime) and the current is sampled after each voltage pulse.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000037 "CHMO:0000037")
 AnnotationAssertion(rdfs:label obo:CHMO_0000037 "normal pulse polarography")
 SubClassOf(obo:CHMO_0000037 obo:CHMO_0000032)
@@ -3537,33 +3510,25 @@ SubClassOf(obo:CHMO_0000038 obo:CHMO_0000032)
 
 # Class: obo:CHMO_0000039 (tast polarography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000795") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384553
-8.119 sampled DC polarography 
-TAST polarography 
-DC polarography with current sampling at the end of each drop life mechanically enforced by a knocker at a preset drop time value. The current sampling and mechanical drop dislodge are synchronized. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000039 "Polarography in which the current is sampled only during a specific time interval of the life of each drop of the droppping mercury electrode.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000795") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09145>) obo:IAO_0000115 obo:CHMO_0000039 "A polarography in which the current is sampled only during a specific time interval of the life of each drop of the droppping mercury electrode.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09145>) oboInOwl:hasExactSynonym obo:CHMO_0000039 "TAST polarography")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09145>) oboInOwl:hasExactSynonym obo:CHMO_0000039 "sampled DC polarography")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000039 "CHMO:0000039")
 AnnotationAssertion(rdfs:label obo:CHMO_0000039 "tast polarography")
 SubClassOf(obo:CHMO_0000039 obo:CHMO_0000032)
 
 # Class: obo:CHMO_0000040 (square-wave voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000816") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384558
-8.123 square-wave voltammetry, (SWV) 
-Osteryoung square-wave voltammetry, (OSWV) 
-Voltammetry in which a square-wave potential waveform is superimposed on an underlying linearly-varying potential ramp or staircase ramp. The current is sampled just before the end of the forward-going pulse and of the backward-going pulse and the difference of the two sampled currents is plotted versus the applied potential of the potential or staircase ramp. The square-wave voltammogram is peak-shaped. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000040 "Voltammetry in which the potential is varied as a square wave and the current is measured at the end of each half-wave, just prior to potential change.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000816") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09147>) obo:IAO_0000115 obo:CHMO_0000040 "A voltammetry in which the potential is varied as a square wave and the current is measured at the end of each half-wave, just prior to potential change.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09147>) obo:OMO_0003012 obo:CHMO_0000040 "SWV")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000040 "square wave voltammetry")
-AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09147>) oboInOwl:hasExactSynonym obo:CHMO_0000040 "Osteryoung square-wave voltammetry (OSWV)")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000040 "CHMO:0000040")
 AnnotationAssertion(rdfs:label obo:CHMO_0000040 "square-wave voltammetry")
 SubClassOf(obo:CHMO_0000040 obo:CHMO_0000024)
 
 # Class: obo:CHMO_0000041 (stripping voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384570
-8.132 stripping voltammetry 
-Two-step electrochemical measurement in which (1) material is accumulated at an electrode and (2) the amount of an accumulated species is measured by voltammetry. The measured electric current in step 2 is related to the concentration of analyte in the solution by calibration. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000041 "Voltammerty in which the analyte of interest is first deposited (usually by electroplating) onto the working electrode before being removed or 'stripped'. During removal the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.09155>) obo:IAO_0000115 obo:CHMO_0000041 "A voltammerty in which the analyte of interest is first deposited (usually by electroplating) onto the working electrode before being removed or 'stripped'. The measurement takes place during the removal.")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000041 "SV")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000041 "CHMO:0000041")
 AnnotationAssertion(rdfs:label obo:CHMO_0000041 "stripping voltammetry")
@@ -3571,9 +3536,7 @@ SubClassOf(obo:CHMO_0000041 obo:CHMO_0000024)
 
 # Class: obo:CHMO_0000042 (anodic stripping voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384566
-8.129 anodic stripping voltammetry, (ASV) 
-Stripping voltammetry in which material accumulated at the working electrode is electrochemically oxidized in the stripping step. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000042 "Stripping voltammetry in which the analyte of interest is first electroplated onto the working electrode before being removed or 'stripped' by applying an oxidising potential.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09152>) obo:IAO_0000115 obo:CHMO_0000042 "A stripping voltammetry in which the analyte of interest is removed by applying an oxidising potential.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09152>) obo:OMO_0003012 obo:CHMO_0000042 "ASV")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000042 "CHMO:0000042")
 AnnotationAssertion(rdfs:label obo:CHMO_0000042 "anodic stripping voltammetry")
@@ -3608,9 +3571,7 @@ SubClassOf(obo:CHMO_0000045 obo:CHMO_0000042)
 
 # Class: obo:CHMO_0000046 (adsorptive stripping voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384565
-8.128 adsorptive stripping voltammetry, (AdSV) 
-Stripping voltammetry involving pre-concentration by adsorption of the analyte (in contrast to electrochemical accumulation). (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000046 "An electrochemical technique where the analyte of interest is first adsorbed onto the working electrode before being removed or 'stripped'. During removal the cell current is measured as a function of time and as a function of the potential between the indicator and reference electrodes.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09151>) obo:IAO_0000115 obo:CHMO_0000046 "A stripping voltammetry in which the analyte of interest is first adsorbed onto the working electrode.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09151>) obo:OMO_0003012 obo:CHMO_0000046 "AdSV")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000046 "adsorptive-stripping voltammetry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000046 "CHMO:0000046")
@@ -3619,9 +3580,7 @@ SubClassOf(obo:CHMO_0000046 obo:CHMO_0000041)
 
 # Class: obo:CHMO_0000047 (cathodic stripping voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384567
-8.130 cathodic stripping voltammetry, (CSV) 
-Stripping voltammetry in which material accumulated at the working electrode is electrochemically reduced in the stripping step. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000047 "Stripping voltammetry in which the analyte of interest is first electroplated onto the working electrode before being removed or 'stripped' by applying a reducing potential.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09153>) obo:IAO_0000115 obo:CHMO_0000047 "A stripping voltammetry in which the analyte of interest is first electroplated onto the working electrode before being removed or 'stripped' by applying a reducing potential.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09153>) obo:OMO_0003012 obo:CHMO_0000047 "CSV")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000047 "CHMO:0000047")
 AnnotationAssertion(rdfs:label obo:CHMO_0000047 "cathodic stripping voltammetry")
@@ -3713,11 +3672,9 @@ SubClassOf(obo:CHMO_0000052 obo:CHMO_0000050)
 
 # Class: obo:CHMO_0000053 (imaging mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b812533c") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383195
-7.160 imaging mass spectrometry 
-Procedure used to form chemically selective images of an object based on the mass spectrometric detection of ions desorbed from its surface. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0000053 "Chemical imaging in which spatially resolved mass spectra of a sample is collected during microscopy which is used to visualise the spatial distribution of compounds by their molecular masses.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000053 "I-MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000053 "IMS")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b812533c") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.12431>) obo:IAO_0000115 obo:CHMO_0000053 "A chemical imaging in which spatially resolved mass spectra of a sample is collected during microscopy which is used to visualise the spatial distribution of compounds by their molecular masses.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000053 "I-MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000053 "IMS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000053 "imaging MS")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000053 "CHMO:0000053")
 AnnotationAssertion(rdfs:label obo:CHMO_0000053 "imaging mass spectrometry")
@@ -3836,14 +3793,13 @@ SubClassOf(obo:CHMO_0000063 obo:CHMO_0000062)
 
 # Class: obo:CHMO_0000064 (fluorescence resonance energy transfer)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.FT07378>) obo:IAO_0000115 obo:CHMO_0000064 "Forster resonance energy transfer in which the energy transfer usually occurs between a cyan fluorescent protein (donor) and a yellow fluorescent protein (acceptor).")
-AnnotationAssertion(Annotation(dcterms:title <https://doi.org/10.1351/goldbook.FT07378>) obo:OMO_0003012 obo:CHMO_0000064 "FRET")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000064 "A Forster resonance energy transfer in which the energy transfer occurs between two fluorescent chromophores,  usually a cyan fluorescent protein (donor) and a yellow fluorescent protein (acceptor), in close proximity (typically 10 nm)")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.FT07378>) obo:OMO_0003012 obo:CHMO_0000064 "FRET")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0000064 "FIX:0000472")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0000064 "FIX:0000473")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000064 "fluorescence resonance energy transfer assay")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000064 "fluorescence resonance energy transfer microscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000064 "fluorescent resonance energy transfer")
-AnnotationAssertion(Annotation(oboInOwl:hasSynonymType chmo:non-mining_synonym) oboInOwl:hasRelatedSynonym obo:CHMO_0000064 "FRET")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000064 "CHMO:0000064")
 AnnotationAssertion(rdfs:label obo:CHMO_0000064 "fluorescence resonance energy transfer")
 SubClassOf(obo:CHMO_0000064 obo:CHMO_0000062)
@@ -3883,9 +3839,9 @@ SubClassOf(obo:CHMO_0000067 ObjectSomeValuesFrom(obo:BFO_0000057 obo:CHMO_000095
 
 # Class: obo:CHMO_0000068 (electron microscopy)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.E02002>) Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> "https://doi.org/10.1351/goldbook.S05484") obo:IAO_0000115 obo:CHMO_0000068 "Microscopy where the specimen is bombarded with a finely focused (<10 nm diameter) electron beam with an acceleration voltage 50-150 kV under vacuum. The interaction of the electrons with the specimen produces transmitted, secondary, backscattered and diffracted electrons and characteristic X-rays which are detected.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.E02002>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.S05484>) obo:IAO_0000115 obo:CHMO_0000068 "A microscopy in which the specimen is bombarded with a finely focused (<10 nm diameter) electron beam with an acceleration voltage 50-150 kV under vacuum. The interaction of the electrons with the specimen produces transmitted, secondary, backscattered and diffracted electrons and characteristic X-rays which are detected.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000068 "EM")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0000068 "FIX:0000051")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000068 "EM")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000068 "CHMO:0000068")
 AnnotationAssertion(rdfs:label obo:CHMO_0000068 "electron microscopy")
 SubClassOf(obo:CHMO_0000068 obo:CHMO_0000067)
@@ -3941,7 +3897,7 @@ SubClassOf(obo:CHMO_0000072 obo:CHMO_0000068)
 
 # Class: obo:CHMO_0000073 (scanning electron microscopy)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> "https://doi.org/10.1351/goldbook.S05484") obo:IAO_0000115 obo:CHMO_0000073 "Electron microscopy in which the electron beam is scanned across the specimen under vacuum and the interaction of the electrons with the specimen is determined.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.S05484>) obo:IAO_0000115 obo:CHMO_0000073 "An electron microscopy in which the electron beam is scanned across the specimen under vacuum and the interaction of the electrons with the specimen is determined.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.S05484>) obo:OMO_0003012 obo:CHMO_0000073 "SEM")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0000073 "FIX:0000124")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000073 "scanning electronic microscopy")
@@ -4028,10 +3984,9 @@ SubClassOf(obo:CHMO_0000079 obo:CHMO_0000073)
 
 # Class: obo:CHMO_0000080 (transmission electron microscopy)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> "https://doi.org/10.1351/goldbook.T06481") obo:IAO_0000115 obo:CHMO_0000080 "Electron microscopy where the intensities of the electrons through an electron-transparent specimen are measured.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.T06481>) obo:IAO_0000115 obo:CHMO_0000080 "An electron microscopy in which the intensities of the electrons through an electron-transparent specimen are measured.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.T06481>) obo:OMO_0003012 obo:CHMO_0000080 "TEM")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0000080 "FIX:0000126")
-AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.T06481>) oboInOwl:hasExactSynonym obo:CHMO_0000080 "electron microscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000080 "CHMO:0000080")
 AnnotationAssertion(rdfs:label obo:CHMO_0000080 "transmission electron microscopy")
 SubClassOf(obo:CHMO_0000080 obo:CHMO_0000068)
@@ -4112,11 +4067,12 @@ SubClassOf(obo:CHMO_0000085 obo:CHMO_0000080)
 
 # Class: obo:CHMO_0000086 (scanning transmission electron microscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.S05486>) obo:IAO_0000115 obo:CHMO_0000086 "Transmission electron microscopy in which the finely focused electron beam is scanned across an electron-transparent specimen under vacuum and the intensities of the transmitted electrons are measured.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.S05486>) obo:IAO_0000115 obo:CHMO_0000086 "A scanning transmission electron microscopy.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.S05486>) obo:OMO_0003012 obo:CHMO_0000086 "STEM")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000086 "scanning TEM")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000086 "CHMO:0000086")
 AnnotationAssertion(rdfs:label obo:CHMO_0000086 "scanning transmission electron microscopy")
+SubClassOf(obo:CHMO_0000086 obo:CHMO_0000073)
 SubClassOf(obo:CHMO_0000086 obo:CHMO_0000080)
 
 # Class: obo:CHMO_0000087 (fluorescence microscopy)
@@ -4227,7 +4183,7 @@ SubClassOf(obo:CHMO_0000096 obo:CHMO_0000087)
 
 # Class: obo:CHMO_0000097 (ion microscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso <https://doi.org/10.1351/goldbook.I03221>) obo:IAO_0000115 obo:CHMO_0000097 "Microscopy where ions are used to produce an image.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.I03221>) obo:IAO_0000115 obo:CHMO_0000097 "A microscopy in which ions are used to produce an image.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.I03221>) obo:OMO_0003012 obo:CHMO_0000097 "SIMS")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0000097 "FIX:0000962")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000097 "IM")
@@ -4467,13 +4423,9 @@ SubClassOf(obo:CHMO_0000119 obo:CHMO_0000118)
 
 # Class: obo:CHMO_0000120 (scanning near-field optical microscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000385") Annotation(oboInOwl:hasDbXref "ISBN:1-86094-199-0") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382308
-10.47 scanning near-field optical microscopy, (SNOM) 
-near-field scanning optical microscopy, (NSOM) 
-near-field optical microscopy 
-Measurement method in microscopy in which spectroscopic data may be collected with the detector closer to the sample than the optical wavelength employed. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0000120 "Scanning near-field optical microscopy in which the probe consisits of a laser transmitted through a tapered optical fibre is positioned very close to (<10 nm from) the surface of the specimen. The tip is coated with metal (to prevent light from escaping from the sides) and near-field (or evanescent field) light is emitted through a small opening or 'aperture' (50–100 nm in diameter) at the apex of the probe. An image is produced by scanning the probe over the specimen and detecting the disturbance of the near-field as a function of position. A force feedback loop is used to maintain a fixed relationship between the probe and surface during scanning.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000385") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09202>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <ISBN:1-86094-199-0>) obo:IAO_0000115 obo:CHMO_0000120 "A scanning near-field microscopy in which a probe consisting of a laser transmitted through a tapered optical fibre is positioned very close to ( 10 nm from) the surface of the specimen. The tip is coated with metal (to prevent light from escaping from the sides) and near-field (or evanescent field) light is emitted through a small opening or 'aperture' (50–100 nm in diameter) at the apex of the probe. An image is produced by scanning the probe over the specimen and detecting the disturbance of the near-field as a function of position. A force feedback loop is used to maintain a fixed relationship between the probe and surface during scanning.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000120 "NSOM")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09202>) obo:OMO_0003012 obo:CHMO_0000120 "SNOM")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000120 "NSOM")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000120 "aperture NSOM")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000120 "aperture SNOM")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000120 "aperture scanning near-field optical microscopy")
@@ -11927,9 +11879,7 @@ SubClassOf(obo:CHMO_0000732 obo:CHMO_0000156)
 
 # Class: obo:CHMO_0000733 (diffusion-ordered spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000563") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384872
-6.249 diffusion ordered spectroscopy, (DOSY) 
-Pseudo-two-dimensional nuclear magnetic resonance spectroscopy experiment that resolves NMR signals of a one-dimensional nuclear magnetic resonance spectrum in a second dimension through the diffusion times of their corresponding molecules. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0000733 "A type of nuclear magnetic resonance diffusumetry using pulsed-field gradients where the rate of decay of NMR signals in each component of a sample mixture is measured across a series of experiments. The rate of signal decay is proportional to the diffusion coefficient for each component.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000563") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08329>) obo:IAO_0000115 obo:CHMO_0000733 "A nuclear magnetic resonance diffusumetry using pulsed-field gradients where the rate of decay of NMR signals in each component of a sample mixture is measured across a series of experiments. The rate of signal decay is proportional to the diffusion coefficient for each component.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08329>) obo:OMO_0003012 obo:CHMO_0000733 "DOSY")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000733 "DOSY NMR")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000733 "diffusion NMR")
@@ -12495,9 +12445,7 @@ SubClassOf(obo:CHMO_0000781 obo:CHMO_0000330)
 
 # Class: obo:CHMO_0000782 (neutron activation analysis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381341
-9.137 neutron activation analysis, (NAA) 
-Activation analysis using neutrons as the incident particles. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6381192/Radioanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000782 "A type of activation analysis where a sample is bombarded with neutrons, the capture of which results in the generation of radioactive nuclei for most elements in the sample. These activated nuclei then decay according to their characteristic half-lives.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'neutron activation analysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.08739") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08739>) Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0000782 "An \"activation analysis [in which the sample is bombarded] using neutrons\", the capture of which results in the generation of radioactive nuclei for most elements in the sample. These activated nuclei then decay according to their characteristic half-lives.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08739>) obo:OMO_0003012 obo:CHMO_0000782 "NAA")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000782 "CHMO:0000782")
 AnnotationAssertion(rdfs:label obo:CHMO_0000782 "neutron activation analysis")
@@ -14028,10 +13976,7 @@ SubClassOf(obo:CHMO_0000920 obo:CHMO_0000909)
 
 # Class: obo:CHMO_0000921 (Osteryoung square-wave voltammetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0471594628") Annotation(rdfs:comment "https://books.rsc.org/view-large/6384558
-8.123 square-wave voltammetry, (SWV) 
-Osteryoung square-wave voltammetry, (OSWV) 
-Voltammetry in which a square-wave potential waveform is superimposed on an underlying linearly-varying potential ramp or staircase ramp. The current is sampled just before the end of the forward-going pulse and of the backward-going pulse and the difference of the two sampled currents is plotted versus the applied potential of the potential or staircase ramp. The square-wave voltammogram is peak-shaped. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0000921 "Square-wave voltammetry in which the potential is varied as a square wave and there is one square wave cycle per staircase step.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0471594628") obo:IAO_0000115 obo:CHMO_0000921 "A square-wave voltammetry in which there is one square wave cycle per staircase step.")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000921 "OSWV")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000921 "Osteryoung square wave voltammetry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000921 "CHMO:0000921")
@@ -15409,10 +15354,7 @@ SubClassOf(obo:CHMO_0001069 obo:CHMO_0000632)
 
 # Class: obo:CHMO_0001070 (three-dimensional nuclear magnetic resonance spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000144") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384911
-6.288 three-dimensional nuclear magnetic resonance spectroscopy 
-3-D NMR 
-Measurement method of nuclear magnetic resonance spectroscopy in which data are collected in three time domains. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0001070 "A pulsed nuclear magnetic resonance spectroscopy in which three independent frequency dimensions are employed for the correlation and dispersal of signals (by employing two magnetisation transfer steps). Each signal is described by three frequencies, thus effecting the distribution of signals within a cube.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000144") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08432>) obo:IAO_0000115 obo:CHMO_0001070 "A pulsed nuclear magnetic resonance spectroscopy in which three independent frequency dimensions are employed for the correlation and dispersal of signals (by employing two magnetisation transfer steps). Each signal is described by three frequencies, thus effecting the distribution of signals within a cube.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08432>) obo:OMO_0003012 obo:CHMO_0001070 "3-D NMR")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001070 "3D NMR")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001070 "3D-NMR")
@@ -16980,7 +16922,7 @@ SubClassOf(obo:CHMO_0001210 obo:CHMO_0001014)
 
 # Class: obo:CHMO_0001211 (titration)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.T06387>) obo:IAO_0000115 obo:CHMO_0001211 "A quantitative determination method in which the quantity of a sample is determined by adding measured increments of a titrant until the end-point, at which essentially all of the sample has reacted, is reached.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'titration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.T06387") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.T06387>) obo:IAO_0000115 obo:CHMO_0001211 "A quantitative determination method that determins \" the quantity of a substance [...] by adding measured increments of [a titrant until] the end-point at which essentially all of [the substance] has reacted, is reached.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001211 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001211 "2009-03-25T11:20:53Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001211 "titrimetic analysis")
@@ -16991,7 +16933,7 @@ SubClassOf(obo:CHMO_0001211 obo:CHMO_0002739)
 
 # Class: obo:CHMO_0001212 (acid–base titration)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:6.2") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.A00076>) obo:IAO_0000115 obo:CHMO_0001212 "A form of titration in which the sample is acid or base and the titrant is base or acid respectively.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.A00076>) obo:IAO_0000115 obo:CHMO_0001212 "A titration in which the sample is acid or base and the titrant is base or acid respectively.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001212 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001212 "2009-03-25T11:27:08Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001212 "acid-base titration")
@@ -17002,7 +16944,7 @@ SubClassOf(obo:CHMO_0001212 obo:CHMO_0001211)
 
 # Class: obo:CHMO_0001213 (acidimetric titration)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.A00078>) obo:IAO_0000115 obo:CHMO_0001213 "Acid-base titration where the sample is a base and the titrant is an acid.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.A00078>) obo:IAO_0000115 obo:CHMO_0001213 "An acid-base titration in which the sample is a base and the titrant is an acid.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001213 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001213 "2009-03-25T11:32:04Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001213 "acidimetry")
@@ -17117,16 +17059,17 @@ SubClassOf(obo:CHMO_0001223 obo:CHMO_0001215)
 
 # Class: obo:CHMO_0001224 (activation analysis)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'activation analysis (nuclear)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00096>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00096>) obo:IAO_0000115 obo:CHMO_0001224 "\"A kind of elemental or isotopic analysis based on the measurement of characteristic radiation from nuclides formed directly or indirectly by activation of the test portion.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'activation analysis (nuclear)' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00096") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00096>) obo:IAO_0000115 obo:CHMO_0001224 "An elemental analysis that is \"based on the measurement of characteristic radiation from nuclides formed directly or indirectly by activation of the test portion\"")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001224 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001224 "2009-03-25T12:02:33Z")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00096>) oboInOwl:hasExactSynonym obo:CHMO_0001224 "nuclear activation analysis")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001224 "CHMO:0001224")
 AnnotationAssertion(rdfs:label obo:CHMO_0001224 "activation analysis")
 SubClassOf(obo:CHMO_0001224 obo:CHMO_0001075)
 
 # Class: obo:CHMO_0001225 (absolute activation analysis)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'absolute activation analysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00018>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00018>) obo:IAO_0000115 obo:CHMO_0001225 "\"A kind of activation analysis in which the elemental concentrations in the material are calculated from known nuclear constants, irradiation and measurement parameters, rather than by comparing with known standards.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'absolute activation analysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00018") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00018>) obo:IAO_0000115 obo:CHMO_0001225 "An \"activation analysis in which the elemental concentrations in the material are calculated from known nuclear constants, irradiation and measurement parameters, rather than by comparing with known standards.\"")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001225 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001225 "2009-03-25T12:05:01Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001225 "CHMO:0001225")
@@ -17159,7 +17102,7 @@ SubClassOf(obo:CHMO_0001227 obo:CHMO_0000682)
 
 # Class: obo:CHMO_0001228 (calorimetric titration)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'calorimetric titration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.C00785>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C00785>) obo:IAO_0000115 obo:CHMO_0001228 "\"The titration [which is] performed in a calorimeter which produces a plot of heat change vs. volume of titrant.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'calorimetric titration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.C00785") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C00785>) obo:IAO_0000115 obo:CHMO_0001228 "A \"titration performed in a calorimeter which produces a plot of heat change versus volume of titrant.\"")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001228 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001228 "2009-03-25T01:21:27Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001228 "CHMO:0001228")
@@ -17168,7 +17111,7 @@ SubClassOf(obo:CHMO_0001228 obo:CHMO_0001211)
 
 # Class: obo:CHMO_0001229 (catalymetric titration)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'catalymetric titration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.C00872>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C00872>) obo:IAO_0000115 obo:CHMO_0001229 "\"The titration [which] involves a catalyst, and the end-point is detected by the sudden increase or decrease in the rate of a reaction.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'catalymetric titration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.C00872") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C00872>) obo:IAO_0000115 obo:CHMO_0001229 "\"A titration [...] which involves a catalyst, where the end-point is detected by the sudden increase or decrease in the rate of a reaction.\"")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001229 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001229 "2009-03-25T01:22:48Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001229 "CHMO:0001229")
@@ -17177,7 +17120,7 @@ SubClassOf(obo:CHMO_0001229 obo:CHMO_0001211)
 
 # Class: obo:CHMO_0001230 (chelatometric titration)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "USPatent:3878059") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.C01013>) obo:IAO_0000115 obo:CHMO_0001230 "The process of determining the quantity of a sample (metal cation) by adding measured increments of a titrant (a chelating agent) until the end-point, at which essentially all of the sample has reacted, is reached.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref <USPatent:3878059>) Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.C01013>) obo:IAO_0000115 obo:CHMO_0001230 "A titration in which the substance of interest is a metal cation and the titrant is a chelating agent.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001230 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001230 "2009-03-25T01:25:08Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001230 "CHMO:0001230")
@@ -17186,12 +17129,12 @@ SubClassOf(obo:CHMO_0001230 obo:CHMO_0001211)
 
 # Class: obo:CHMO_0001231 (catalysed chemiluminescence detection)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.C01080>) obo:IAO_0000115 obo:CHMO_0001231 "Chemiluminescence detection in which the detected luminescence results from a thermal electron-transfer reaction.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'chemically initiated electron exchange luminescence' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.CT07340") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C01080>) obo:IAO_0000115 obo:CHMO_0001231 "A chemiluminescence detection in which the detected luminescence results \"from a thermal electron-transfer reaction\".")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.CT07340>) obo:OMO_0003012 obo:CHMO_0001231 "CIEEL")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001231 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001231 "2009-03-25T01:30:44Z")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001231 "CIEEL")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001231 "catalysed chemiluminescence")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001231 "catalyzed chemiluminescence")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.CT07340>) oboInOwl:hasExactSynonym obo:CHMO_0001231 "catalyzed chemiluminescence")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001231 "chemically initiated electron exchange luminescence")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001231 "chemically-initiated electron exchange luminescence")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001231 "CHMO:0001231")
@@ -17274,15 +17217,11 @@ SubClassOf(obo:CHMO_0001238 obo:CHMO_0000605)
 
 # Class: obo:CHMO_0001239 (inversion recovery)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000211") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384822
-6.203 inversion recovery sequence 
-inversion recovery 
-Spin echo sequence preceded by an inversion 180° pulse used to determine spin–lattice relaxation times in nuclear magnetic resonance spectroscopy. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0001239 "A nuclear magnetic resonance method in which spin-lattice (T1) relaxation rates are measured by acquiring spectra at different delay times following inversion of the spin-state populations.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000211") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08370>) obo:IAO_0000115 obo:CHMO_0001239 "A nuclear magnetic resonance method in which spin-lattice (T1) relaxation rates are measured by acquiring spectra at different delay times following inversion of the spin-state populations.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001239 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001239 "2009-03-25T02:26:05Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001239 "IRFT")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001239 "inversion recovery Fourier transform")
-AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08370>) oboInOwl:hasExactSynonym obo:CHMO_0001239 "inversion recovery sequence")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001239 "CHMO:0001239")
 AnnotationAssertion(rdfs:label obo:CHMO_0001239 "inversion recovery")
 SubClassOf(obo:CHMO_0001239 obo:CHMO_0001806)
@@ -17918,10 +17857,7 @@ SubClassOf(obo:CHMO_0001284 ObjectSomeValuesFrom(obo:BFO_0000118 obo:MS_1000073)
 
 # Class: obo:CHMO_0001285 (gravimetric analysis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384125
-4.14 gravimetric analysis 
-gravimetry 
-Measurement principle of quantitative analysis based on measurement of mass. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383820/Mass-and-Volume-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001285 "An analyte assay based on the measurement of the mass of the sample.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.09043>) obo:IAO_0000115 obo:CHMO_0001285 "An analyte assay based on the measurement of the mass of the sample.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001285 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001285 "2009-05-06T03:21:36Z")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09043>) oboInOwl:hasExactSynonym obo:CHMO_0001285 "gravimetry")
@@ -17986,10 +17922,10 @@ SubClassOf(obo:CHMO_0001289 obo:CHMO_0000806)
 
 # Class: obo:CHMO_0001290 (time-resolved microwave conductivity)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'time-resolved microwave conductivity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.T06384>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.T06384>) Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/FT9949003315") obo:IAO_0000115 obo:CHMO_0001290 "A charge transport measurement method which \"allows the quantitative and qualitative detection of radiation-induced  [charge separation] by time-resolved measurement of the changes in microwave absorption resulting from\" the production and decay of charged and dipolar molecular entities. In a typical TRMC experiment, separated charge carriers, which are generated by a laser pulse, lead to a perturbation of the initial microwave absorbance. The temporal decay of the conductivity signal (i.e. microwave absorbance) reflects the lifetime of the photogenerated carriers.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'time-resolved microwave conductivity' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.T06384") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.T06384>) Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/FT9949003315") obo:IAO_0000115 obo:CHMO_0001290 "A charge transport measurement method that allows \"the quantitative and qualitative detection of radiation-induced [charge separation] by time-resolved measurement of changes in the microwave absorption resulting from the\" production and decay of charged and dipolar molecular entities. In a typical TRMC experiment, separated charge carriers, which are generated by a laser pulse, lead to a perturbation of the initial microwave absorbance. The temporal decay of the conductivity signal (i.e. microwave absorbance) reflects the lifetime of the photogenerated carriers.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.T06384>) obo:OMO_0003012 obo:CHMO_0001290 "TRMC")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001290 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001290 "2009-05-11T09:43:39Z")
-AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.T06384>) oboInOwl:hasExactSynonym obo:CHMO_0001290 "TRMC")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001290 "time resolved microwave conductivity")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001290 "CHMO:0001290")
 AnnotationAssertion(rdfs:label obo:CHMO_0001290 "time-resolved microwave conductivity")
@@ -17997,7 +17933,7 @@ SubClassOf(obo:CHMO_0001290 obo:CHMO_0001247)
 
 # Class: obo:CHMO_0001291 (pulse radiolysis time-resolved microwave conductivity)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1021/j100140a051") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> "https://doi.org/10.1351/goldbook.T06384") obo:IAO_0000115 obo:CHMO_0001291 "A time-resolved microwave conductivity in which charge carriers are generated by a nanosecond pulse of 3-MeV electrons, which leads to the perturbation of the initial microwave absorbance.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1021/j100140a051") obo:IAO_0000115 obo:CHMO_0001291 "A time-resolved microwave conductivity in which charge carriers are generated by a nanosecond pulse of 3-MeV electrons.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001291 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001291 "2009-05-11T09:53:21Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001291 "pulse radiolysis TRMC")
@@ -23944,11 +23880,10 @@ SubClassOf(obo:CHMO_0001878 obo:CHMO_0001875)
 
 # Class: obo:CHMO_0001879 (phase cycle)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384831
-6.210 phase cycling 
-Component of nuclear magnetic resonance experiment that repeats a pulse sequence changing only the phases of the pulse(s) and the phase-sensitive detector reference. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0001879 "A nuclear magnetic resonance method in which the sense of application (or phase) of the rf pulses is altered on repeating the experiment such that addition of the resulting signals results in increased intensity for the signals of interest, elimination of artefacts and more effective noise reduction.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08392>) obo:IAO_0000115 obo:CHMO_0001879 "A nuclear magnetic resonance method in which the sense of application (or phase) of the rf pulses is altered on repeating the experiment such that addition of the resulting signals results in increased intensity for the signals of interest, elimination of artefacts and more effective noise reduction.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001879 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001879 "2009-05-29T12:00:00Z")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08392>) oboInOwl:hasExactSynonym obo:CHMO_0001879 "phase cycling")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001879 "phase sequence")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001879 "CHMO:0001879")
 AnnotationAssertion(rdfs:label obo:CHMO_0001879 "phase cycle")
@@ -26692,9 +26627,7 @@ SubClassOf(obo:CHMO_0002091 obo:CHMO_0002080)
 
 # Class: obo:CHMO_0002092 (volumetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384151
-4.40 volumetry 
-Titration when the titrant is added by volume. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383820/Mass-and-Volume-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0002092 "An assay for determining the exact amount of an analyte by adding an equivalent amount of a reagent of exactly known concentration to the sample.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.09055>) obo:IAO_0000115 obo:CHMO_0002092 "An assay for determining the exact amount of an analyte by adding an equivalent amount of a reagent of exactly known concentration to the sample.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002092 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002092 "2009-07-03T09:40:56Z")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09055>) oboInOwl:hasExactSynonym obo:CHMO_0002092 "volumetric titration")
@@ -27312,9 +27245,7 @@ SubClassOf(obo:CHMO_0002142 obo:CHMO_0000025)
 
 # Class: obo:CHMO_0002143 (conductometric titration)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000771") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384586
-8.142 conductometric titration 
-Titration in which the electric conductivity of a solution is measured as a function of the amount of titrant added. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0002143 "The titration which is monitored by measuring the conductance of the solution.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000771") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09165>) obo:IAO_0000115 obo:CHMO_0002143 "A titration which is monitored by measuring the conductance of the solution.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002143 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002143 "2009-07-09T06:37:39Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002143 "CHMO:0002143")
@@ -29302,14 +29233,12 @@ SubClassOf(obo:CHMO_0002310 obo:CHMO_0000981)
 
 # Class: obo:CHMO_0002311 (X-ray fluorescence microscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381385
-9.177 X-ray fluorescence microscopy, (XRM) 
-Measurement method of X-ray fluorescence to obtain quantitative and spatial information of elements in a sample. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6381192/Radioanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0002311 "X-ray microscopy in which a beam of X-rays is directed at the specimen and the intensities of the X-rays emitted due to core-to-core transitions (known as 'X-ray fluorescence') are detected as a function of wavelength and position. As these energies are element-specific, X-ray fluorescence microscopy can be used to determine spatially-resolved elemental composition.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08772>) obo:IAO_0000115 obo:CHMO_0002311 "An X-ray microscopy in which a beam of X-rays is directed at the specimen and the intensities of the X-rays emitted due to core-to-core transitions (known as 'X-ray fluorescence') are detected as a function of wavelength and position. As these energies are element-specific, X-ray fluorescence microscopy can be used to determine spatially-resolved elemental composition.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0002311 "XFM")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08772>) obo:OMO_0003012 obo:CHMO_0002311 "XRM")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002311 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002311 "2009-08-26T05:09:12Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002311 "X-ray fluorescence imaging")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002311 "XFM")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002311 "XRF imaging")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002311 "x-ray fluorescence microprobe (XFM) analysis")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002311 "CHMO:0002311")
@@ -29697,10 +29626,7 @@ SubClassOf(obo:CHMO_0002342 obo:CHMO_0000812)
 
 # Class: obo:CHMO_0002343 (relaxometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384901
-6.278 nuclear magnetic resonance relaxometry, (NMRR) 
-relaxometry 
-Measurement method of nuclear magnetic resonance spectroscopy (NMR) to measure nuclear relaxation variables.  (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0002343 "A magnetic resonance method in which relaxation variables in nuclear magnetic resonance spectroscopy are measured.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08383>) obo:IAO_0000115 obo:CHMO_0002343 "A magnetic resonance method in which relaxation variables are measured.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08383>) obo:OMO_0003012 obo:CHMO_0002343 "NMRR")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002343 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002343 "2009-09-04T04:27:29Z")
@@ -32060,9 +31986,7 @@ SubClassOf(obo:CHMO_0002536 obo:CHMO_0001211)
 
 # Class: obo:CHMO_0002537 (coulometric titration)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000781") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384574
-8.135 coulometric titration 
-Titration in which the titrant is generated electrochemically either by constant electric current or at constant potential. The titrant reacts stoichiometrically with the analyte, the amount of which is calculated using Faraday's laws of electrolysis from the electric charge required to reach the end-point. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384413/Electroanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0002537 "Titration in which the titrant is generated electrochemically by passing a constant current through an electrolyte.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'titration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.T06387") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.T06387>) Annotation(oboInOwl:hasDbXref "FIX:0000781") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0002537 "A \"titrations, in which the titrant is generated electrolytically\" by passing a constant current through an electrolyte.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002537 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002537 "2009-10-21T05:46:08Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002537 "CHMO:0002537")
@@ -32286,10 +32210,7 @@ SubClassOf(obo:CHMO_0002554 obo:CHMO_0002548)
 
 # Class: obo:CHMO_0002555 (triple-resonance spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000153") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384916
-6.293 triple-resonance nuclear magnetic resonance spectroscopy 
-triple-resonance NMR 
-Measurement method of nuclear magnetic resonance spectroscopy using three NMR-active nuclei. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0002555 "A type of pulsed nuclear magnetic resonance spectroscopy in which excitation of the spin states of three different types of nuclei (usually 1H, 13C and 15N) is employed. The name of the experiment describes the path taken by the magnetisation during the experiment.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000153") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08438>) obo:IAO_0000115 obo:CHMO_0002555 "A pulsed nuclear magnetic resonance spectroscopy in which excitation of the spin states of three different types of nuclei (usually 1H, 13C and 15N) is employed. The name of the experiment describes the path taken by the magnetisation during the experiment.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002555 "Hils")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002555 "2009-10-25T08:06:32Z")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0002555 "CHMO:0002056")
@@ -32308,9 +32229,7 @@ SubClassOf(obo:CHMO_0002555 obo:CHMO_0000613)
 
 # Class: obo:CHMO_0002556 (HNCO)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000154") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384895
-6.272 HNCO 
-Three-dimensional nuclear magnetic resonance spectroscopy for the assignment of protein structure with nitrogen, carbon and hydrogen dimensions.  (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0002556 "A triple-resonance spectroscopy experiment used to determine the chemical shifts of nuclei in a (isotopically enriched) protein. The chemical shift of the (backbone) amide proton is correlated with the chemical shift of the covalently bound nitrogen and the carbonyl carbon of the preceding residue.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000154") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08364>) obo:IAO_0000115 obo:CHMO_0002556 "A triple-resonance spectroscopy used to determine the chemical shifts of nuclei in a (isotopically enriched) protein. The chemical shift of the (backbone) amide proton is correlated with the chemical shift of the covalently bound nitrogen and the carbonyl carbon of the preceding residue.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002556 "Hils")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002556 "2009-10-25T08:08:23Z")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0002556 "CHMO:0002057")
@@ -32322,9 +32241,7 @@ SubClassOf(obo:CHMO_0002556 obo:CHMO_0002555)
 
 # Class: obo:CHMO_0002557 (HNCA)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000155") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384894
-6.271 HNCA 
-Three-dimensional nuclear magnetic resonance spectroscopy for the assignment of protein structure with nitrogen, carbon and hydrogen dimensions. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0002557 "A triple-resonance spectroscopy used in to determine the chemical shifts of nuclei in a (isotopically enriched) protein. The chemical shift of the (backbone) amide proton is correlated with the chemical shift of the covalently bound nitrogen and the alpha carbons of the same and preceding residues.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000155") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08363>) obo:IAO_0000115 obo:CHMO_0002557 "A triple-resonance spectroscopy used to determine the chemical shifts of nuclei in a (isotopically enriched) protein. The chemical shift of the (backbone) amide proton is correlated with the chemical shift of the covalently bound nitrogen and the alpha carbons of the same and preceding residues.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002557 "Hils")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002557 "2009-10-25T08:10:21Z")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0002557 "CHMO:0002058")
@@ -32335,9 +32252,7 @@ SubClassOf(obo:CHMO_0002557 obo:CHMO_0002555)
 
 # Class: obo:CHMO_0002558 (HNCOCA)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000156") Annotation(oboInOwl:hasDbXref "rsc:pr") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384893
-6.270 HN(CO)CA 
-Three-dimensional nuclear magnetic resonance spectroscopy for the assignment of protein structure with nitrogen, carbon and hydrogen dimensions.  (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384600/Analytical-Spectroscopy1-2)") obo:IAO_0000115 obo:CHMO_0002558 "A triple resonancespectroscopy used to determine the chemical shifts of nuclei in a (isotopically enriched) protein. The chemical shift of the (backbone) amide proton is correlated with the chemical shift of the covalently bound nitrogen and the \\alpha-carbon of the preceding residue.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000156") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08362>) obo:IAO_0000115 obo:CHMO_0002558 "A triple-resonance spectroscopy used to determine the chemical shifts of nuclei in a (isotopically enriched) protein. The chemical shift of the (backbone) amide proton is correlated with the chemical shift of the covalently bound nitrogen and the alpha-carbon of the preceding residue.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002558 "Hils")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002558 "2009-10-25T08:11:11Z")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0002558 "CHMO:0002059")
