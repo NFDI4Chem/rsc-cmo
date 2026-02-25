@@ -6161,7 +6161,7 @@ SubClassOf(obo:CHMO_0000278 obo:CHMO_0000251)
 
 # Class: obo:CHMO_0000279 (atomic fluorescence spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.08454>) obo:IAO_0000115 obo:CHMO_0000279 "An atomic spectroscopy in which an atom absorbs then spontaneously emits a photon.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.08454>) obo:IAO_0000115 obo:CHMO_0000279 "An atomic spectroscopy in which an atom absorbs then spontaneously emits a photon.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.08454>) obo:OMO_0003012 obo:CHMO_0000279 "AFS")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0000279 "FIX:0000290")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000279 "atomic fluorescence spectrometry")
@@ -14987,7 +14987,7 @@ SubClassOf(obo:CHMO_0001030 obo:CHMO_0001019)
 
 # Class: obo:CHMO_0001031 (capillary sieving electrophoresis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/pac200476020443") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09917>) obo:IAO_0000115 obo:CHMO_0001031 "A sieving electrophoresis \"which takes place in a capillary.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'capillary sieving electrophoresis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.09917") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09917>) obo:IAO_0000115 obo:CHMO_0001031 "A sieving electrophoresis \"which takes place in a capillary.\"")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09917>) obo:OMO_0003012 obo:CHMO_0001031 "CSE")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001031 "CHMO:0001031")
 AnnotationAssertion(rdfs:label obo:CHMO_0001031 "capillary sieving electrophoresis")
@@ -19688,7 +19688,7 @@ SubClassOf(obo:CHMO_0001463 obo:CHMO_0001462)
 
 # Class: obo:CHMO_0001464 (ageing of precipitate)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'adsorption chromatography' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00157") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00180>) obo:IAO_0000115 obo:CHMO_0001464 "A material processing that is a \"time-dependent change of the properties of a precipitate e.g. loss of water or growth of crystals\" as a result of prolonged heat treatment.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'ageing of precipitate' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00180") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00180>) obo:IAO_0000115 obo:CHMO_0001464 "A material processing that is a \"time-dependent change of the properties of a precipitate e.g. loss of water or growth of crystals\" as a result of prolonged heat treatment.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001464 "age hardening")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001464 "dispersion hardening")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001464 "precipitate ageing")
