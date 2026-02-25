@@ -21202,14 +21202,14 @@ SubClassOf(obo:CHMO_0001639 obo:CHMO_0001638)
 
 # Class: obo:CHMO_0001640 (filtration)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'filtration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.F02388 >) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.F02388>) obo:IAO_0000115 obo:CHMO_0001640 "\"The process of segregation of phases; the separation of suspended solids from a liquid or gas, usually by forcing a carrier gas or liquid through a porous medium.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'filtration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.F02388") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.F02388>) obo:IAO_0000115 obo:CHMO_0001640 "A purification in which \"the process of segregation of phases; e.g. the separation of suspended solids from a liquid or gas, usually by forcing a carrier gas or liquid through a porous medium\" takes place.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001640 "CHMO:0001640")
 AnnotationAssertion(rdfs:label obo:CHMO_0001640 "filtration")
 SubClassOf(obo:CHMO_0001640 obo:CHMO_0002231)
 
 # Class: obo:CHMO_0001641 (micro-filtration)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'microfiltration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.MT06887>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20 >) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.MT06887>) obo:IAO_0000115 obo:CHMO_0001641 "A filtarion method which consists of \"a pressure-driven membrane-based [...] process in which particles and dissolved macromolecules larger than 0.1 micrometre are rejected.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'microfiltration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.MT06887") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.MT06887>) obo:IAO_0000115 obo:CHMO_0001641 "A filtarion in which \"a pressure-driven membrane-based separation process in which particles and dissolved macromolecules larger than 0.1 μm are rejected\" takes place.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.MT06887>) oboInOwl:hasExactSynonym obo:CHMO_0001641 "microfiltration")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001641 "CHMO:0001641")
 AnnotationAssertion(rdfs:label obo:CHMO_0001641 "micro-filtration")
@@ -21217,7 +21217,7 @@ SubClassOf(obo:CHMO_0001641 obo:CHMO_0001640)
 
 # Class: obo:CHMO_0001642 (nano-filtration)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'nanofiltration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.NT06888>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.NT06888>) Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001642 "A filtration method which consists of \"a pressure-driven membrane-based [...] process in which particles and dissolved macromolecules larger 200 Da are rejected.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'nanofiltration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.NT06888") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.NT06888>) Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001642 "A filtration in which \"a pressure-driven membrane-based separation process where particles and dissolved macromolecules smaller than 2 nm are rejected\" takes place.")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001642 "NF")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.NT06888>) oboInOwl:hasExactSynonym obo:CHMO_0001642 "nanofiltration")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001642 "CHMO:0001642")
@@ -21226,7 +21226,7 @@ SubClassOf(obo:CHMO_0001642 obo:CHMO_0001640)
 
 # Class: obo:CHMO_0001643 (reverse osmosis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.RT06893>) obo:IAO_0000115 obo:CHMO_0001643 "A filtration process which involves using pressure to force a solution through a membrane, retaining the solute on one side and allowing the pure solvent to pass to the other side. (This is the reverse of the normal osmosis process, which is the natural movement of solvent from an area of low solute concentration, through a membrane, to an area of high solute concentration.)")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.RT06893>) obo:IAO_0000115 obo:CHMO_0001643 "A filtration which involves using pressure to force a solution through a membrane, retaining the solute on one side and allowing the pure solvent to pass to the other side. (This is the reverse of the normal osmosis process, which is the natural movement of solvent from an area of low solute concentration, through a membrane, to an area of high solute concentration.)")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001643 "RO")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001643 "CHMO:0001643")
 AnnotationAssertion(rdfs:label obo:CHMO_0001643 "reverse osmosis")
@@ -21242,7 +21242,7 @@ SubClassOf(obo:CHMO_0001644 obo:CHMO_0001640)
 
 # Class: obo:CHMO_0001645 (ultra-filtration)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'ultrafiltration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.U06548 >) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.U06548>) obo:IAO_0000115 obo:CHMO_0001645 "A form of filtration which consiists of \"a [...] process whereby a solution containing a solute of molecular size significantly greater than that of the solvent molecule is removed from the solvent by the application of hydraulic pressure which forces only the solvent to flow through a suitable membrane, usually having a pore size in the range 0.001–0.1 μm.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'ultrafiltration' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.U06548") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.U06548>) obo:IAO_0000115 obo:CHMO_0001645 "A filtration in which \"a separation process whereby a solution containing a solute of molecular size significantly greater than that of the solvent molecule is removed from the solvent by the application of hydraulic pressure which forces only the solvent to flow through a suitable membrane, usually having a pore size in the range 0.001–0.1 μm.\"")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001645 "UF")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.U06548>) oboInOwl:hasExactSynonym obo:CHMO_0001645 "ultrafiltration")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001645 "CHMO:0001645")
@@ -28854,10 +28854,10 @@ SubClassOf(obo:CHMO_0002279 obo:CHMO_0001106)
 
 # Class: obo:CHMO_0002280 (ion-pair chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:9781439800966") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09893>) obo:IAO_0000115 obo:CHMO_0002280 "A type of column chromatography in which ions in solution can be 'paired' or neutralised and separated as an ion pair on a reversed-phase column. Ion-pairing agents are usually ionic compounds that contain a hydrocarbon chain.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:9781439800966") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09893>) obo:IAO_0000115 obo:CHMO_0002280 "A column chromatography in which ions in solution can be 'paired' or neutralised and separated as an ion pair on a reversed-phase column. Ion-pairing agents are usually ionic compounds that contain a hydrocarbon chain.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0002280 "IPC")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002280 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002280 "2009-08-19T01:58:34Z")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002280 "IPC")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002280 "ion pair chromatography")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002280 "ion pairing chromatography")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002280 "ion-pairing chromatography")
@@ -29128,7 +29128,7 @@ SubClassOf(obo:CHMO_0002301 obo:CHMO_0000599)
 
 # Class: obo:CHMO_0002302 (reversed-phase chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000620") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.R05376>) obo:IAO_0000115 obo:CHMO_0002302 "A chromatography method where the components are distributed between two phases, one of which is stationary and non-polar, while the other is polar and moves in a definite direction.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000620") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.R05376>) obo:IAO_0000115 obo:CHMO_0002302 "A chromatography in which the components are distributed between two phases, one of which is stationary and non-polar, while the other is polar and moves in a definite direction.")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0002302 "RPC")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002302 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002302 "2009-08-24T04:18:04Z")
@@ -30356,7 +30356,7 @@ SubClassOf(obo:CHMO_0002400 obo:CHMO_0000599)
 
 # Class: obo:CHMO_0002401 (normal-phase chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000619") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.N04214>) obo:IAO_0000115 obo:CHMO_0002401 "A chromatogrphy method where the components are distributed between two phases, one of which is stationary and polar, while the other is non-polar and moves in a definite direction.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000619") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.N04214>) obo:IAO_0000115 obo:CHMO_0002401 "A chromatogrphy in which the components are distributed between two phases, one of which is stationary and polar, while the other is non-polar and moves in a definite direction.")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0002401 "NPC")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002401 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002401 "2009-09-16T11:52:38Z")
@@ -30367,7 +30367,7 @@ SubClassOf(obo:CHMO_0002401 obo:CHMO_0001000)
 
 # Class: obo:CHMO_0002402 (elution chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000617") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.E02046>) obo:IAO_0000115 obo:CHMO_0002402 "A column chromatography method in which the stationary bed is within a tube and the mobile phase moves continuously through the column and the analyte is detected as it emerges from the column.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000617") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.E02046>) obo:IAO_0000115 obo:CHMO_0002402 "A column chromatography in which the stationary bed is within a tube and the mobile phase moves continuously through the column and the analyte is detected as it emerges from the column.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002402 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002402 "2009-09-16T11:54:28Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002402 "CHMO:0002402")
@@ -30376,7 +30376,7 @@ SubClassOf(obo:CHMO_0002402 obo:CHMO_0001001)
 
 # Class: obo:CHMO_0002403 (partition chromatography)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'partition chromatography' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.P04436>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:license <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.P04436>) Annotation(oboInOwl:hasDbXref "FIX:0000612") obo:IAO_0000115 obo:CHMO_0002403 "\"Chromatography in which separation is based mainly on differences between the solubility of the sample components in the stationary phase (gas chromatography), or on differences between the solubilities of the components in the mobile and stationary phases (liquid chromatography)\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'partition chromatography' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.P04436") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:license <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.P04436>) Annotation(oboInOwl:hasDbXref "FIX:0000612") obo:IAO_0000115 obo:CHMO_0002403 "A \"chromatography in which separation is based mainly on differences between the solubility of the sample components in the stationary phase (gas chromatography), or on differences between the solubilities of the components in the mobile and stationary phases (liquid chromatography)\"")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002403 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002403 "2009-09-16T11:59:04Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002403 "CHMO:0002403")
@@ -33968,12 +33968,12 @@ SubClassOf(obo:CHMO_0002697 obo:CHMO_0002698)
 
 # Class: obo:CHMO_0002698 (chiral chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383595
-5.29 enantioselective chromatography 
-chiral chromatography 
-Separation of enantiomeric species due to the enantioselectivity of their interaction with the chiral selector(s) of a chromatographic (electrophoretic) system. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0002698 "A separation method where the components (in this case stereoisomers) are distributed between two chiral phases, one of which is stationary, while the other moves in a definite direction.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09888>) obo:IAO_0000115 obo:CHMO_0002698 "A chromatography in which the components (in this case stereoisomers) are distributed between two chiral phases.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002698 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002698 "2010-05-13T01:20:25Z")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09888>) oboInOwl:hasExactSynonym obo:CHMO_0002698 "chiral electrophoresis")
+AnnotationAssertion(Annotation(rdfs:comment <https://doi.org/10.1351/goldbook.09888>) oboInOwl:hasExactSynonym obo:CHMO_0002698 "enantioselective chromatography")
+AnnotationAssertion(Annotation(rdfs:comment <https://doi.org/10.1351/goldbook.09888>) oboInOwl:hasExactSynonym obo:CHMO_0002698 "enantioselective electrophoresis")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002698 "CHMO:0002698")
 AnnotationAssertion(rdfs:label obo:CHMO_0002698 "chiral chromatography")
 SubClassOf(obo:CHMO_0002698 obo:CHMO_0001000)
@@ -35571,12 +35571,10 @@ SubClassOf(obo:CHMO_0002873 obo:CHMO_0000956)
 
 # Class: obo:CHMO_0002874 (ion chromatography)
 
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'ion-exchange chromatography' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.I03168") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.I03168>) obo:IAO_0000115 obo:CHMO_0002874 "A \" [present day] chromatography in which separation is based mainly on differences in the ion-exchange affinities of the sample components. [It is] chromatography on small particle high efficiency columns, and usually utilizing conductometric or spectroscopic detectors.\"")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.I03168>) obo:OMO_0003012 obo:CHMO_0002874 "IC")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002874 "CHMO:0002874")
 AnnotationAssertion(rdfs:label obo:CHMO_0002874 "ion chromatography")
-AnnotationAssertion(rdfs:seeAlso obo:CHMO_0002874 "https://books.rsc.org/view-large/6383601
-5.35 ion-exchange chromatography 
-ion chromatography, (IC) 
-Chromatography in which separation is based mainly on differences in the ion-exchange affinities of the components of the analytical sample. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)")
 SubClassOf(obo:CHMO_0002874 obo:CHMO_0001000)
 
 # Class: obo:CHMO_0002875 (two-dimensional ion chromatography)
@@ -35687,11 +35685,10 @@ SubClassOf(obo:CHMO_0002890 obo:CHMO_0001000)
 
 # Class: obo:CHMO_0002891 (flow-injection analysis)
 
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "Compendium of Terminology in Analytical Chemistry; 4rth edition, edited by B Hibbert, Royal Society of Chemistry, 2023. Chapter3.195. ISBN  978-1-78262-947-4. https://books.rsc.org/view-large/6384390") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://books.rsc.org/view-large/6384390>) obo:IAO_0000115 obo:CHMO_0002891 "An assay in which \"analysis of sample by rapid injection into a continuous stream of liquid for extraction, separation or modification by reaction\" takes place.")
+AnnotationAssertion(Annotation(dcterms:source <https://books.rsc.org/view-large/6384390>) obo:OMO_0003012 obo:CHMO_0002891 "FIA")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002891 "CHMO:0002891")
 AnnotationAssertion(rdfs:label obo:CHMO_0002891 "flow-injection analysis")
-AnnotationAssertion(rdfs:seeAlso obo:CHMO_0002891 "https://books.rsc.org/view-large/6384390
-3.195 flow injection analysis, (FIA) 
-Analysis of sample by rapid injection into a continuous stream of liquid for extraction, separation or modification by reaction. (from: https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)")
 SubClassOf(obo:CHMO_0002891 obo:OBI_0000443)
 
 # Class: obo:CHMO_0002892 (excitation laser function)
@@ -35971,7 +35968,7 @@ SubClassOf(obo:CHMO_0002924 obo:CHMO_0001000)
 AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-5865-8994") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.12419>) obo:IAO_0000115 obo:CHMO_0002925 "An ion trap mass spectrometry in which the mass-to-charge ratio of the sample ions is determined by Fourier transform of a recorded time-domain transient.")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0002925 "FT-MS")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0002925 "FTMS")
-AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12419>) oboInOwl:hasExactSynonym obo:CHMO_0002925 <http://purl.obolibrary.org/obo/chmo.owl#Fourier-transform mass spectrometry>)
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12419>) oboInOwl:hasExactSynonym obo:CHMO_0002925 <Fourier-transform mass spectrometry>)
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002925 "CHMO:0002925")
 AnnotationAssertion(rdfs:label obo:CHMO_0002925 "Fourier transform mass spectrometry")
 SubClassOf(obo:CHMO_0002925 obo:CHMO_0000500)
