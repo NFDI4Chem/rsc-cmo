@@ -13832,8 +13832,8 @@ SubClassOf(obo:CHMO_0000908 obo:CHMO_0000905)
 
 # Class: obo:CHMO_0000909 (polarisation inversion and spin exchange at the magic angle)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0001006") Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0000909 "Magic angle spinning NMR experiments in which dipolar coupling is reintroduced to obtain information on the proximity of nuclei within the sample.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000909 "PISEMA")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0001006") obo:IAO_0000115 obo:CHMO_0000909 "A magic angle spinning NMR experiments in which dipolar coupling is reintroduced to obtain information on the proximity of nuclei within the sample.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0000909 "PISEMA")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000909 "dipolar recoupling distance experiment")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000909 "dipolar recoupling experiment")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000909 "polarization inversion and spin exchange at the magic angle")
@@ -20153,14 +20153,14 @@ SubClassOf(obo:CHMO_0001521 obo:CHMO_0001500)
 
 # Class: obo:CHMO_0001522 (dialysis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.D01666>) obo:IAO_0000115 obo:CHMO_0001522 "A form of material processing in which molecules in solution are separated by the difference in their rates of diffusion through a semipermeable membrane.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.D01666>) obo:IAO_0000115 obo:CHMO_0001522 "A material processing in which molecules in solution are separated by the difference in their rates of diffusion through a semipermeable membrane.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001522 "CHMO:0001522")
 AnnotationAssertion(rdfs:label obo:CHMO_0001522 "dialysis")
 SubClassOf(obo:CHMO_0001522 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001523 (electrodialysis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0824705092") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.ET06890>) obo:IAO_0000115 obo:CHMO_0001523 "A dialysis in which the selective separation of molecules in solution across the semipermeable membrane is under the influence of an electric field.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'electro-dialysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.ET06890") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.ET06890>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <ISBN:0824705092>) obo:IAO_0000115 obo:CHMO_0001523 "A dialysis in which the separation is \"under the influence of an electric field.\"")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.ET06890>) oboInOwl:hasExactSynonym obo:CHMO_0001523 "electro-dialysis")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001523 "CHMO:0001523")
 AnnotationAssertion(rdfs:label obo:CHMO_0001523 "electrodialysis")
@@ -20168,7 +20168,7 @@ SubClassOf(obo:CHMO_0001523 obo:CHMO_0001522)
 
 # Class: obo:CHMO_0001524 (micro-dialysis)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10283>) obo:IAO_0000115 obo:CHMO_0001524 "A form of dialysis in which the membrane is attached to a small probe (<10 μm diameter) which is inserted into the sample.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.10283>) obo:IAO_0000115 obo:CHMO_0001524 "A dialysis in which the membrane is attached to a small probe (<10 μm diameter) which is inserted into the sample.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.10283>) oboInOwl:hasExactSynonym obo:CHMO_0001524 "microdialysis")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001524 "CHMO:0001524")
 AnnotationAssertion(rdfs:label obo:CHMO_0001524 "micro-dialysis")
@@ -20183,7 +20183,7 @@ SubClassOf(obo:CHMO_0001525 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001526 (colloidal dispersion)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.C01174>) obo:IAO_0000115 obo:CHMO_0001526 "A sample dispersion in which solid particles are dispersed in a liquid phase.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'colloidal dispersion' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.C01174") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C01174>) obo:IAO_0000115 obo:CHMO_0001526 "A sample dispersion \"in which particles of colloidal size of any nature (e.g. solid, liquid or gas) are dispersed in a continuous phase of a different composition (or state).\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001526 "CHMO:0001526")
 AnnotationAssertion(rdfs:label obo:CHMO_0001526 "colloidal dispersion")
 SubClassOf(obo:CHMO_0001526 obo:CHMO_0001525)
@@ -20255,7 +20255,7 @@ SubClassOf(obo:CHMO_0001534 obo:CHMO_0001532)
 
 # Class: obo:CHMO_0001535 (extractive distillation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10195>) obo:IAO_0000115 obo:CHMO_0001535 "A distillation method of separating two components of very similar boiling point from a mixture. A third, miscible and high-boiling-point solvent is added to the mixture which causes a change in the volatilities of the components.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10195>) obo:IAO_0000115 obo:CHMO_0001535 "A distillation separating two components of very similar boiling point from a mixture. A third, miscible and high-boiling-point solvent is added to the mixture which causes a change in the volatilities of the components.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001535 "CHMO:0001535")
 AnnotationAssertion(rdfs:label obo:CHMO_0001535 "extractive distillation")
 SubClassOf(obo:CHMO_0001535 obo:CHMO_0001532)
@@ -20522,7 +20522,7 @@ SubClassOf(obo:CHMO_0001567 obo:CHMO_0001558)
 
 # Class: obo:CHMO_0001568 (sputter etching)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.S05895>) obo:IAO_0000115 obo:CHMO_0001568 "The process of removing a thin layer of a sample surface by bombarding it with energetic ions.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.S05895>) obo:IAO_0000115 obo:CHMO_0001568 "An etching done by bombarding the sample surface with energetic ions.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001568 "ion etching")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001568 "ion milling")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.S05895>) oboInOwl:hasExactSynonym obo:CHMO_0001568 "sputtering")
@@ -20569,7 +20569,7 @@ AnnotationAssertion(owl:deprecated obo:CHMO_0001573 "true"^^xsd:boolean)
 
 # Class: obo:CHMO_0001574 (evaporation)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'evaporation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.E02227 >) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.E02227>) obo:IAO_0000115 obo:CHMO_0001574 "\"[ A material processing method] by which a liquid substance is converted to a gas or vapour. This may occur at or below the normal boiling point of the liquid (the temperature at which a liquid boils at 1 atmosphere pressure) and the process is endothermic.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'evaporation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.E02227") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.E02227>) obo:IAO_0000115 obo:CHMO_0001574 "A material processing \"by which a liquid substance is converted to a gas or vapour. This may occur at or below the normal boiling point of the liquid (the temperature at which a liquid boils at 1 atmosphere pressure) and the process is endothermic.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001574 "CHMO:0001574")
 AnnotationAssertion(rdfs:label obo:CHMO_0001574 "evaporation")
 SubClassOf(obo:CHMO_0001574 obo:OBI_0000094)
@@ -20590,14 +20590,14 @@ SubClassOf(obo:CHMO_0001576 obo:CHMO_0002208)
 
 # Class: obo:CHMO_0001577 (extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.4.1") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.E02302>) obo:IAO_0000115 obo:CHMO_0001577 "A material processing in which a solute is transferred from a liquid phase to another immiscible or partially-miscible liquid phase in contact with it.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.E02302>) obo:IAO_0000115 obo:CHMO_0001577 "A material processing in which a solute is transferred from a liquid phase to another immiscible or partially-miscible liquid phase in contact with it.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001577 "CHMO:0001577")
 AnnotationAssertion(rdfs:label obo:CHMO_0001577 "extraction")
 SubClassOf(obo:CHMO_0001577 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001578 (coextraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.4.1") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.C01127>) obo:IAO_0000115 obo:CHMO_0001578 "An extraction in which two solutes from a liquid phase are transferred to a (low-polarity) organic liquid phase in contact with it. The solutes form mixed-species aggregates in the organic phase.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.C01127>) obo:IAO_0000115 obo:CHMO_0001578 "An extraction in which two solutes from a liquid phase are transferred to a (low-polarity) organic liquid phase in contact with it. The solutes form mixed-species aggregates in the organic phase.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001578 "co-extraction")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001578 "CHMO:0001578")
 AnnotationAssertion(rdfs:label obo:CHMO_0001578 "coextraction")
@@ -20605,9 +20605,7 @@ SubClassOf(obo:CHMO_0001578 obo:CHMO_0001577)
 
 # Class: obo:CHMO_0001579 (headspace extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384245
-3.69 headspace extraction 
-See: stir bar sorptive extraction. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") obo:IAO_0000115 obo:CHMO_0001579 "An extraction in which a substance from a solid or liquid matrix is transferred to the vapour phase by heating.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'stir bar sorptive extraction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.10259") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.10259>) Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001579 "An \"extraction of compounds from solution by a sorbent coated magnetic stir bar by exposure to the headspace above a sample (headspace extraction).\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001579 "CHMO:0001579")
 AnnotationAssertion(rdfs:label obo:CHMO_0001579 "headspace extraction")
 SubClassOf(obo:CHMO_0001579 obo:CHMO_0001577)
@@ -20623,7 +20621,7 @@ SubClassOf(obo:CHMO_0001580 obo:CHMO_0001579)
 
 # Class: obo:CHMO_0001581 (multiple headspace extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0471328456") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10199>) obo:IAO_0000115 obo:CHMO_0001581 "A headspace extraction in which once the concentration of the analyte in the headspace is in equilibrium with the concentration in the sample matrix, the headspace is removed. The process is repeated multiple times, allowing the new equilibrium to form at each stage.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <ISBN:0471328456>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.10199>) obo:IAO_0000115 obo:CHMO_0001581 "A headspace extraction in which once the concentration of the analyte in the headspace is in equilibrium with the concentration in the sample matrix, the headspace is removed. The process is repeated multiple times, allowing the new equilibrium to form at each stage.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001581 "CHMO:0001581")
 AnnotationAssertion(rdfs:label obo:CHMO_0001581 "multiple headspace extraction")
 SubClassOf(obo:CHMO_0001581 obo:CHMO_0001579)
@@ -20766,7 +20764,7 @@ SubClassOf(obo:CHMO_0001592 obo:CHMO_0001577)
 
 # Class: obo:CHMO_0001593 (membrane extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:0824705092") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10281>) obo:IAO_0000115 obo:CHMO_0001593 "An extraction in which a solute is transferred from one phase (the 'donor' or 'feed' phase) to another (the 'acceptor' or 'strip' phase) across a nonporous membrane.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10281>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <ISBN:0824705092>) obo:IAO_0000115 obo:CHMO_0001593 "An extraction in which a solute is transferred across a nonporous membrane.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001593 "CHMO:0001593")
 AnnotationAssertion(rdfs:label obo:CHMO_0001593 "membrane extraction")
 SubClassOf(obo:CHMO_0001593 obo:CHMO_0001577)
@@ -20810,7 +20808,7 @@ SubClassOf(obo:CHMO_0001597 obo:CHMO_0001577)
 
 # Class: obo:CHMO_0001598 (solvent extraction)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'solvent extraction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.S05752>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.S05752>) Annotation(oboInOwl:hasDbXref "OrangeBook:9.4.1") obo:IAO_0000115 obo:CHMO_0001598 "\"[An extraction] process of transferring a substance from any matrix to an appropriate liquid phase.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'solvent extraction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.S05752") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.S05752>) obo:IAO_0000115 obo:CHMO_0001598 "An extraction \"transferring a substance from any matrix to an appropriate liquid phase.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001598 "CHMO:0001598")
 AnnotationAssertion(rdfs:label obo:CHMO_0001598 "solvent extraction")
 SubClassOf(obo:CHMO_0001598 obo:CHMO_0001577)
@@ -20848,9 +20846,9 @@ SubClassOf(obo:CHMO_0001601 obo:CHMO_0001600)
 
 # Class: obo:CHMO_0001602 (liquid-phase micro-extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10216>) obo:IAO_0000115 obo:CHMO_0001602 "A liquid-liquid extraction process of transferring a microlitre amount of a substance from an aqueous phase to an organic phase (or vice versa).")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10216>) obo:IAO_0000115 obo:CHMO_0001602 "A microextraction transferring a microlitre amount of a substance from an aqueous phase to an organic phase (or vice versa).")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001602 "LLME")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001602 "LPME")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001602 "LLME")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001602 "liquid phase micro-extraction")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001602 "liquid phase microextraction")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001602 "liquid-liquid microextraction")
@@ -20862,7 +20860,7 @@ SubClassOf(obo:CHMO_0001602 obo:CHMO_0002806)
 
 # Class: obo:CHMO_0001603 (single-drop micro-extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1021/ac035437e") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10218>) obo:IAO_0000115 obo:CHMO_0001603 "A microextraction in which a microdrop of organic solvent (8 μL), is suspended from the end of Teflon rod immersed in a stirred aqueous solution of the sample. The sample solution is stirred until equilibrium is reached, after which, the drop is retracted into the Teflon rod.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10218>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1021/ac035437e>) obo:IAO_0000115 obo:CHMO_0001603 "A microextraction in which a microdrop of organic solvent (8 μL), is suspended from the end of Teflon rod immersed in a stirred aqueous solution of the sample. The sample solution is stirred until equilibrium is reached, after which, the drop is retracted into the Teflon rod.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.10218>) obo:OMO_0003012 obo:CHMO_0001603 "SDME")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001603 "single drop microextraction")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.10218>) oboInOwl:hasExactSynonym obo:CHMO_0001603 "single-drop microextraction")
@@ -20922,8 +20920,8 @@ SubClassOf(obo:CHMO_0001607 obo:CHMO_0001598)
 
 # Class: obo:CHMO_0001608 (microwave-assisted extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1016/S0021-9673(02)01335-3") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10225>) obo:IAO_0000115 obo:CHMO_0001608 "A solid-liquid extraction in which the organic components of a solid are transferred to an organic liquid phase. The process is accelerated by directing radiation in the microwave region (1–1000 mm) at the sample.")
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10225>) obo:OMO_0003012 obo:CHMO_0001608 "MAE")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10225>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1016/S0021-9673(02)01335-3>) obo:IAO_0000115 obo:CHMO_0001608 "A solid-liquid extraction in which the organic components of a solid are transferred to an organic liquid phase. The process is accelerated by directing radiation in the microwave region (1–1000 mm) at the sample.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.10225>) obo:OMO_0003012 obo:CHMO_0001608 "MAE")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001608 "microwave extraction")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001608 "CHMO:0001608")
 AnnotationAssertion(rdfs:label obo:CHMO_0001608 "microwave-assisted extraction")
@@ -20949,7 +20947,7 @@ SubClassOf(obo:CHMO_0001610 obo:CHMO_0001598)
 
 # Class: obo:CHMO_0001611 (ultrasound extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10231>) obo:IAO_0000115 obo:CHMO_0001611 "The process of transferring a substance from any matrix to an appropriate liquid phase, assisted by sound waves (>20 KHz in frequency) that propagate through the liquid media.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10231>) obo:IAO_0000115 obo:CHMO_0001611 "A solvent extraction assisted by sound waves (>20 KHz in frequency) that propagate through the liquid media.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.10231>) obo:OMO_0003012 obo:CHMO_0001611 "UAE")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001611 "UE")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001611 "ultrasonic accelerated extraction")
@@ -20964,7 +20962,7 @@ SubClassOf(obo:CHMO_0001611 obo:CHMO_0001598)
 
 # Class: obo:CHMO_0001612 (substoichiometric extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.2.7.7") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.S06080>) obo:IAO_0000115 obo:CHMO_0001612 "The process of transferring a substance from any matrix to another where the amount of reagent used is lower than that dictated by stoichiometry.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'substoichiometric extraction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.S06080") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.S06080>) obo:IAO_0000115 obo:CHMO_0001612 "An extraction \"in which the amount of reagent used is lower than that dictated by stoichiometry.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001612 "CHMO:0001612")
 AnnotationAssertion(rdfs:label obo:CHMO_0001612 "substoichiometric extraction")
 SubClassOf(obo:CHMO_0001612 obo:CHMO_0001577)
@@ -21055,22 +21053,22 @@ SubClassOf(obo:CHMO_0001623 obo:CHMO_0001618)
 
 # Class: obo:CHMO_0001624 (fermentation)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'fermentation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.F02337>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.F02337>) obo:IAO_0000115 obo:CHMO_0001624 "A material processing \"in which cells (microorganisms, plant or animal cells) are cultured in a bioreactor in a liquid or solid medium to convert organic substances into biomass (growth) or into products.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'fermentation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.F02337") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.F02337>) obo:IAO_0000115 obo:CHMO_0001624 "A material processing \"in which cells (microorganisms, plant or animal cells) are cultured in a bioreactor in a liquid or solid medium to convert organic substances into biomass (growth) or into products.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001624 "CHMO:0001624")
 AnnotationAssertion(rdfs:label obo:CHMO_0001624 "fermentation")
 SubClassOf(obo:CHMO_0001624 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001625 (fractionation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.FT06825>) obo:IAO_0000115 obo:CHMO_0001625 "A material processing in which a sample mixture is divided up into smaller quantities according to their physical (e.g. size, solubility) or chemical (e.g. bonding, reactivity) properties.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'fractionation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.FT06825") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.FT06825>) Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001625 "A material processing in which a sample mixture is divided up into smaller quantities \"according to physical (e.g. size, solubility) or chemical (e.g. bonding, reactivity) properties.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001625 "CHMO:0001625")
 AnnotationAssertion(rdfs:label obo:CHMO_0001625 "fractionation")
 SubClassOf(obo:CHMO_0001625 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001626 (field-flow fractionation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09934>) obo:IAO_0000115 obo:CHMO_0001626 "A fractionation which consists of a separation technique based on the application of a field perpendicular to a flow stream in a narrow channel.")
-AnnotationAssertion(Annotation(dce:source <https://doi.org/10.1351/goldbook.09934>) obo:OMO_0003012 obo:CHMO_0001626 "FFF")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09934>) obo:IAO_0000115 obo:CHMO_0001626 "A fractionation based on the application of a field perpendicular to a flow stream in a narrow channel.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09934>) obo:OMO_0003012 obo:CHMO_0001626 "FFF")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001626 "field flow fractionation")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001626 "CHMO:0001626")
 AnnotationAssertion(rdfs:label obo:CHMO_0001626 "field-flow fractionation")
@@ -21114,7 +21112,7 @@ SubClassOf(obo:CHMO_0001629 obo:CHMO_0001626)
 
 # Class: obo:CHMO_0001630 (gravitational field-flow fractionation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1016/S0021-9673(01)00807-X") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09936>) obo:IAO_0000115 obo:CHMO_0001630 "A field-flow fractionation in which the small particles are separated from solution by placing the sample in a narrow channel such that the Earth's gravitational field is perpendicular to the channel. A carrier liquid is then passed through the channel and the particles are separated on the basis of particle size.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'gravitational field-flow fractionation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.09936") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09936>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1016/S0021-9673(01)00807-X>) obo:IAO_0000115 obo:CHMO_0001630 "A \"field-flow fractionation in which the physical force field is the Earth’s gravitational field.\"  A carrier liquid is then passed through the channel and the particles are separated on the basis of particle size.")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001630 "G-FFF")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09936>) obo:OMO_0003012 obo:CHMO_0001630 "GFFF")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001630 "GrFFF")
@@ -21145,7 +21143,7 @@ SubClassOf(obo:CHMO_0001632 obo:CHMO_0001626)
 
 # Class: obo:CHMO_0001633 (sedimentation field-flow fractionation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09938>) obo:IAO_0000115 obo:CHMO_0001633 "A field-flow fractionation in which particles from solution are separated by placing the sample in a narrow channel within a centrifuge such that the centripetal force is applied perpendicular to the flow stream (driving the particles towards the walls of the channel). A carrier liquid is then passed through the channel removing the smallest particles first.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'sedimentation field-flow fractionation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.09938") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09938>) Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001633 "A \"field-flow fractionation in which the physical force field is a centrifugal force field\" (driving the particles towards the walls of the channel). A carrier liquid is then passed through the channel removing the smallest particles first.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09938>) obo:OMO_0003012 obo:CHMO_0001633 "SdFFF")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001633 "sedimentation FFF")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001633 "sedimentation field flow fractionation")
@@ -21165,9 +21163,7 @@ SubClassOf(obo:CHMO_0001634 obo:CHMO_0001626)
 
 # Class: obo:CHMO_0001635 (thermal field-flow fractionation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383814
-5.224 thermal field-flow fractionation, (TFFF) 
-Field-flow fractionation in which the physical force field is created by a temperature difference across the channel.(from:https://books.rsc.org/books/edited-volume/2059/chapter/6383551/Separation-in-Analytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001635 "A field-flow fractionation in which polymer particles are separated from solution by placing the sample in a narrow channel and heating one end, whilst cooling the other. The polymer particles migrate towards the cooler plate and are then removed with a carrier liquid.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09942>) obo:IAO_0000115 obo:CHMO_0001635 "A field-flow fractionation in which polymer particles are separated from solution by placing the sample in a narrow channel and heating one end, whilst cooling the other. The polymer particles migrate towards the cooler plate and are then removed with a carrier liquid.")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09942>) obo:OMO_0003012 obo:CHMO_0001635 "TFFF")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001635 "ThFFF")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001635 "thermal FFF")
@@ -21178,7 +21174,7 @@ SubClassOf(obo:CHMO_0001635 obo:CHMO_0001626)
 
 # Class: obo:CHMO_0001636 (foam fractionation)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'foam fractionation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.F02468>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.F02468>) obo:IAO_0000115 obo:CHMO_0001636 "\"A [fractionation] method of separation in which a component of the bulk liquid is preferentially adsorbed at the liquid–vapour interface and is removed by foaming.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'foam fractionation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.F02468") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.F02468>) obo:IAO_0000115 obo:CHMO_0001636 "A fractionation \"in which a component of the bulk liquid is preferentially adsorbed at the liquid/vapour (L/V) interface and is removed by foaming.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001636 "CHMO:0001636")
 AnnotationAssertion(rdfs:label obo:CHMO_0001636 "foam fractionation")
 SubClassOf(obo:CHMO_0001636 obo:CHMO_0001625)
@@ -21194,10 +21190,7 @@ SubClassOf(obo:CHMO_0001637 obo:CHMO_0001625)
 
 # Class: obo:CHMO_0001638 (plasma protein fractionation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381681
-12.246 protein fractionation 
-protein separation 
-Methodical approach to simplify a complex mixture of a proteomic sample. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6381409/Bioanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001638 "A fractionation in which proteins are separated from plasma by changing the conditions (e.g. temperature or acidity) of the plasma, causing precipitation of the proteins, which can then be removed by centrifugation.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.09766>) obo:IAO_0000115 obo:CHMO_0001638 "A fractionation in which proteins are separated from plasma by changing the conditions (e.g. temperature or acidity) of the plasma, causing precipitation of the proteins, which can then be removed by centrifugation.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001638 "plasma-protein fractionation")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001638 "CHMO:0001638")
 AnnotationAssertion(rdfs:label obo:CHMO_0001638 "plasma protein fractionation")
@@ -21305,7 +21298,7 @@ SubClassOf(obo:CHMO_0001651 obo:CHMO_0001646)
 
 # Class: obo:CHMO_0001652 (grinding)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'milling' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.M03928>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20 >) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.M03928>) obo:IAO_0000115 obo:CHMO_0001652 "\"A material processing in which the particle size of a solid sample is mechanically reduced by attribution (friction), impact or cutting.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'milling' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.M03928") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.M03928>) obo:IAO_0000115 obo:CHMO_0001652 "A material processing that reduces \"the particle size of a sample by attribution (friction), impact or cutting.\"")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001652 "dry grinding")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.M03928>) oboInOwl:hasExactSynonym obo:CHMO_0001652 "milling")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001652 "solid-state grinding")
@@ -29864,7 +29857,7 @@ SubClassOf(obo:CHMO_0002363 obo:CHMO_0001910)
 
 # Class: obo:CHMO_0002364 (hollow fibre liquid-phase micro-extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1016/j.jchromb.2004.08.034") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10280>) obo:IAO_0000115 obo:CHMO_0002364 "A liquid-phase micro-extraction process of transferring a substance from an aqueous phase to an organic phase immobilised within the pores of the wall of a porous hollow fibre (<10 μm diameter).")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1016/j.jchromb.2004.08.034") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10280>) obo:IAO_0000115 obo:CHMO_0002364 "A liquid-phase micro-extraction transferring a substance from an aqueous phase to an organic phase immobilised within the pores of the wall of a porous hollow fibre (<10 μm diameter).")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.10280>) obo:OMO_0003012 obo:CHMO_0002364 "HF-LPME")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0002364 "HFLPME")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002364 "https://orcid.org/0000-0001-5985-7429")
@@ -29995,15 +29988,15 @@ SubClassOf(obo:CHMO_0002373 obo:CHMO_0001986)
 
 # Class: obo:CHMO_0002374 (109Ag nuclear magnetic resonance spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0001015") Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0002374 "Spectroscopy where the energy states of 109Ag nuclei placed in a static magnetic field are interrogated by inducing transitions between the states via radio frequency irradiation. Each experiment consists of a sequence of radio frequency pulses with delay periods in between them.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0001015") obo:IAO_0000115 obo:CHMO_0002374 "A pulsed nuclear magnetic resonance spectroscopy in which the spin-active nuclei are of 109Ag.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0002374 "109Ag NMR")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0002374 "109Ag-NMR")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0002374 "silver-109 NMR")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002374 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002374 "2009-09-15T05:19:03Z")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002374 "109Ag NMR")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002374 "109Ag NMR spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002374 "109Ag NMR spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002374 "109Ag nuclear magnetic resonance spectrometry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002374 "109Ag-NMR")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002374 "silver-109 NMR")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002374 "silver-109 magnetic resonance spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002374 "CHMO:0002374")
 AnnotationAssertion(rdfs:label obo:CHMO_0002374 "109Ag nuclear magnetic resonance spectroscopy")
@@ -31257,13 +31250,13 @@ SubClassOf(obo:CHMO_0002478 obo:CHMO_0002477)
 
 # Class: obo:CHMO_0002479 (13C rotational-echo double-resonance spectroscopy)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0001039") Annotation(oboInOwl:hasDbXref "rsc:pr") obo:IAO_0000115 obo:CHMO_0002479 "A magic angle spinning NMR experiment in which the evolution of dipolar couplings between 13C nuclei is controlled by applying pulses at appropriate points in the rotational period, allowing the determination of the size of the coupling and, thus, yielding distance information.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0001039") obo:IAO_0000115 obo:CHMO_0002479 "A rotational-echo double-resonance spectroscopy in which the evolution of dipolar couplings is between 13C nuclei.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0002479 "13C REDOR")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0002479 "13C REDOR NMR")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0002479 "13C-REDOR")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0002479 "13C-REDOR NMR")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002479 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002479 "2009-09-30T01:00:55Z")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002479 "13C REDOR")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002479 "13C REDOR NMR")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002479 "13C-REDOR")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002479 "13C-REDOR NMR")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002479 "CHMO:0002479")
 AnnotationAssertion(rdfs:label obo:CHMO_0002479 "13C rotational-echo double-resonance spectroscopy")
 SubClassOf(obo:CHMO_0002479 obo:CHMO_0000896)
@@ -33175,14 +33168,12 @@ SubClassOf(obo:CHMO_0002633 obo:CHMO_0000922)
 
 # Class: obo:CHMO_0002634 (azeotropic distillation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384231
-3.57 azeotropic distillation 
-See: extractive distillation. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") obo:IAO_0000115 obo:CHMO_0002634 "A distillation method for azeotropes. An azeotrope (a mixture of two or more liquids which produces vapor with the same ratio of constituents as the original mixture) cannot be separated by normal distillation, therefore an additional third component (known as an 'entrainer') is added to the mixture. This has the effect of changing the volatility of one of liquids in the azeotrope to a greater extent than the other, allowing separation to occur.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'extractive distillation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.10195") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://goldbook.iupac.org/terms/view/10195>) Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0002634 "An extractive distillation in which \"the separation solvent forms an azeotrope with one or more sample components\". An azeotrope (a mixture of two or more liquids which produces vapor with the same ratio of constituents as the original mixture) cannot be separated by normal distillation, therefore an additional third component (known as an 'entrainer') is added to the mixture. This has the effect of changing the volatility of one of liquids in the azeotrope to a greater extent than the other, allowing separation to occur.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002634 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002634 "2009-12-07T05:40:30Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002634 "CHMO:0002634")
 AnnotationAssertion(rdfs:label obo:CHMO_0002634 "azeotropic distillation")
-SubClassOf(obo:CHMO_0002634 obo:CHMO_0001532)
+SubClassOf(obo:CHMO_0002634 obo:CHMO_0001535)
 
 # Class: obo:CHMO_0002635 (magnetometer)
 
@@ -34574,7 +34565,7 @@ SubClassOf(obo:CHMO_0002741 ObjectSomeValuesFrom(obo:BFO_0000054 obo:CHMO_000274
 
 # Class: obo:CHMO_0002742 (elution)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0002742 "A process wherein one material is extracted from another by interaction with a solvent.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0002742 "An extraction in which one material is extracted from another by interaction with a solvent.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002742 "CHMO:0002742")
 AnnotationAssertion(rdfs:label obo:CHMO_0002742 "elution")
 SubClassOf(obo:CHMO_0002742 obo:CHMO_0001577)
@@ -35068,9 +35059,7 @@ SubClassOf(obo:CHMO_0002805 obo:CHMO_0002803)
 
 # Class: obo:CHMO_0002806 (microextraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6384215
-3.43 microextraction (technique) 
-Extraction technique in which the volume (mass) of the extraction phase (liquid or solid) is substantially smaller than the sample volume (mass). (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)") obo:IAO_0000115 obo:CHMO_0002806 "The transfer of a microlitre amount of solute from a liquid phase to another immiscible or partially-miscible liquid phase in contact with it.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.11553>) obo:IAO_0000115 obo:CHMO_0002806 "An extraction transferring a microlitre amount of solute from a liquid phase to another immiscible or partially-miscible liquid phase in contact with it.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002806 "micro-extraction")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002806 "CHMO:0002806")
 AnnotationAssertion(rdfs:label obo:CHMO_0002806 "microextraction")
@@ -35564,12 +35553,12 @@ SubClassOf(obo:CHMO_0002870 obo:CHMO_0002867)
 
 # Class: obo:CHMO_0002871 (dispersive liquid-phase microextraction)
 
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'dispersive liquid-liquid microextraction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.10214") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.10214>) obo:IAO_0000115 obo:CHMO_0002871 "A liquid-phase micro-extraction \"of analyte(s) from an aqueous solution by fine droplets of extraction phase dispersed throughout the solution.\"")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.10214>) obo:OMO_0003012 obo:CHMO_0002871 "DLLME")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0002871 "DLPME")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.10214>) oboInOwl:hasExactSynonym obo:CHMO_0002871 "dispersive liquid-liquid microextraction")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002871 "CHMO:0002871")
 AnnotationAssertion(rdfs:label obo:CHMO_0002871 "dispersive liquid-phase microextraction")
-AnnotationAssertion(<http://www.w3.org/ns/prov#hadPrimarySource> obo:CHMO_0002871 <https://doi.org/10.1351/goldbook.10214>)
 SubClassOf(obo:CHMO_0002871 obo:CHMO_0001602)
 
 # Class: obo:CHMO_0002872 (ultrasound-assisted dispersive liquid-phase microextraction)
@@ -35577,9 +35566,7 @@ SubClassOf(obo:CHMO_0002871 obo:CHMO_0001602)
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002872 "USA-DLLME")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002872 "CHMO:0002872")
 AnnotationAssertion(rdfs:label obo:CHMO_0002872 "ultrasound-assisted dispersive liquid-phase microextraction")
-AnnotationAssertion(rdfs:seeAlso obo:CHMO_0002872 "https://books.rsc.org/view-large/6384293
-3.108 ultrasound-assisted extraction, (UAE) 
-Extraction in which ultrasound energy is used to increase the extraction rate by enhancing the contact area between the sample and solvent and by promoting efficient agitation. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)")
+SubClassOf(obo:CHMO_0002872 obo:CHMO_0001611)
 SubClassOf(obo:CHMO_0002872 obo:CHMO_0002871)
 
 # Class: obo:CHMO_0002873 (plasma microtorch)
@@ -35612,20 +35599,15 @@ SubClassOf(obo:CHMO_0002876 obo:CHMO_0000575)
 
 # Class: obo:CHMO_0002877 (gradient elution)
 
-AnnotationAssertion(dcterms:bibliographicCitation obo:CHMO_0002877 <http://purl.obolibrary.org/obo/chmo.owl#'gradient elution' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.G02670>)
-AnnotationAssertion(dcterms:rightsHolder obo:CHMO_0002877 <https://creativecommons.org/licenses/by-sa/4.0/>)
-AnnotationAssertion(dcterms:rightsHolder obo:CHMO_0002877 <https://ror.org/03ne2zw20>)
-AnnotationAssertion(dcterms:source obo:CHMO_0002877 <https://doi.org/10.1351/goldbook.G02670>)
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'gradient elution' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.G02670") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.G02670>) obo:IAO_0000115 obo:CHMO_0002877 "An elution \"in which the composition of the mobile phase is changed continuously or stepwise during the elution process.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002877 "CHMO:0002877")
 AnnotationAssertion(rdfs:label obo:CHMO_0002877 "gradient elution")
 SubClassOf(obo:CHMO_0002877 obo:CHMO_0002742)
 
 # Class: obo:CHMO_0002878 (isocratic elution)
 
-AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09896>) oboInOwl:hasExactSynonym obo:CHMO_0002878 "isocratic analysis")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002878 "CHMO:0002878")
 AnnotationAssertion(rdfs:label obo:CHMO_0002878 "isocratic elution")
-AnnotationAssertion(<http://www.w3.org/ns/prov#hadPrimarySource> obo:CHMO_0002878 <https://doi.org/10.1351/goldbook.09896>)
 SubClassOf(obo:CHMO_0002878 obo:CHMO_0002742)
 
 # Class: obo:CHMO_0002879 (certified reference material)
