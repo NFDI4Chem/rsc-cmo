@@ -20597,7 +20597,7 @@ SubClassOf(obo:CHMO_0001577 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001578 (coextraction)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.C01127>) obo:IAO_0000115 obo:CHMO_0001578 "An extraction in which two solutes from a liquid phase are transferred to a (low-polarity) organic liquid phase in contact with it. The solutes form mixed-species aggregates in the organic phase.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'coextraction' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.C01127") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C01127>) obo:IAO_0000115 obo:CHMO_0001578 "An extraction in which two solutes from a liquid phase are transferred to a (low-polarity) organic liquid phase in contact with it. The solutes form \"mixed-species aggregates in a low-polarity organic phase.\"")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001578 "co-extraction")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001578 "CHMO:0001578")
 AnnotationAssertion(rdfs:label obo:CHMO_0001578 "coextraction")
@@ -20621,7 +20621,7 @@ SubClassOf(obo:CHMO_0001580 obo:CHMO_0001579)
 
 # Class: obo:CHMO_0001581 (multiple headspace extraction)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <ISBN:0471328456>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.10199>) obo:IAO_0000115 obo:CHMO_0001581 "A headspace extraction in which once the concentration of the analyte in the headspace is in equilibrium with the concentration in the sample matrix, the headspace is removed. The process is repeated multiple times, allowing the new equilibrium to form at each stage.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10199>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <ISBN:0471328456>) obo:IAO_0000115 obo:CHMO_0001581 "A headspace extraction in which once the concentration of the analyte in the headspace is in equilibrium with the concentration in the sample matrix, the headspace is removed. The process is repeated multiple times, allowing the new equilibrium to form at each stage.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001581 "CHMO:0001581")
 AnnotationAssertion(rdfs:label obo:CHMO_0001581 "multiple headspace extraction")
 SubClassOf(obo:CHMO_0001581 obo:CHMO_0001579)
@@ -20837,8 +20837,8 @@ SubClassOf(obo:CHMO_0001600 obo:CHMO_0001598)
 
 # Class: obo:CHMO_0001601 (cloud-point extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b901007f") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10207>) obo:IAO_0000115 obo:CHMO_0001601 "A liquid-liquid extraction in which a non-ionic surfactant is transferred from one liquid phase to another by heating. As the temperature of the solution rises, the surfactant molecules form micelles, if the temperature increases above the cloud point (CPT) the micelles become dehydrated and aggregate. This leads to macroscopic phase separation of the solution into a surfactant-rich phase and a solvent phase.")
-AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001601 "CPE")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1039/b901007f>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.10207>) obo:IAO_0000115 obo:CHMO_0001601 "A liquid-liquid extraction in which a non-ionic surfactant is transferred from one liquid phase to another by heating. As the temperature of the solution rises, the surfactant molecules form micelles, if the temperature increases above the cloud point (CPT) the micelles become dehydrated and aggregate. This leads to macroscopic phase separation of the solution into a surfactant-rich phase and a solvent phase.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1039/b901007f>) obo:OMO_0003012 obo:CHMO_0001601 "CPE")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.10207>) oboInOwl:hasExactSynonym obo:CHMO_0001601 "cloud point extraction")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001601 "CHMO:0001601")
 AnnotationAssertion(rdfs:label obo:CHMO_0001601 "cloud-point extraction")
@@ -21053,7 +21053,7 @@ SubClassOf(obo:CHMO_0001623 obo:CHMO_0001618)
 
 # Class: obo:CHMO_0001624 (fermentation)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'fermentation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.F02337") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.F02337>) obo:IAO_0000115 obo:CHMO_0001624 "A material processing \"in which cells (microorganisms, plant or animal cells) are cultured in a bioreactor in a liquid or solid medium to convert organic substances into biomass (growth) or into products.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'fermentation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.F02337") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.F02337>) obo:IAO_0000115 obo:CHMO_0001624 "A material processing \"in which cells (microorganisms, plant or animal cells) are cultured in a bioreactor in liquid or solid medium to convert organic substances into biomass (growth) or into products.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001624 "CHMO:0001624")
 AnnotationAssertion(rdfs:label obo:CHMO_0001624 "fermentation")
 SubClassOf(obo:CHMO_0001624 obo:OBI_0000094)
@@ -29857,7 +29857,7 @@ SubClassOf(obo:CHMO_0002363 obo:CHMO_0001910)
 
 # Class: obo:CHMO_0002364 (hollow fibre liquid-phase micro-extraction)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1016/j.jchromb.2004.08.034") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10280>) obo:IAO_0000115 obo:CHMO_0002364 "A liquid-phase micro-extraction transferring a substance from an aqueous phase to an organic phase immobilised within the pores of the wall of a porous hollow fibre (<10 μm diameter).")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1016/j.jchromb.2004.08.034>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://doi.org/10.1351/goldbook.10280>) obo:IAO_0000115 obo:CHMO_0002364 "A liquid-phase micro-extraction transferring a substance from an aqueous phase to an organic phase \"immobilised within the pores of the wall of a porous hollow fibre\" (<10 μm diameter).")
 AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.10280>) obo:OMO_0003012 obo:CHMO_0002364 "HF-LPME")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0002364 "HFLPME")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002364 "https://orcid.org/0000-0001-5985-7429")
@@ -35563,7 +35563,7 @@ SubClassOf(obo:CHMO_0002871 obo:CHMO_0001602)
 
 # Class: obo:CHMO_0002872 (ultrasound-assisted dispersive liquid-phase microextraction)
 
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002872 "USA-DLLME")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0002872 "USA-DLLME")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002872 "CHMO:0002872")
 AnnotationAssertion(rdfs:label obo:CHMO_0002872 "ultrasound-assisted dispersive liquid-phase microextraction")
 SubClassOf(obo:CHMO_0002872 obo:CHMO_0001611)
