@@ -17096,12 +17096,14 @@ SubClassOf(obo:CHMO_0001226 obo:CHMO_0000682)
 
 # Class: obo:CHMO_0001227 (batch injection calorimetry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.D00171") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.B00614>) obo:IAO_0000115 obo:CHMO_0001227 "The measurement of the enthalpy change during a chemical reaction in order to measure the amount of the imiting reagent.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1351/goldbook.D00171") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.B00614>) obo:IAO_0000115 obo:CHMO_0001227 "A calorimetry in which the enthalpy change during a chemical reaction is measured in order to measure the amount of the imiting reagent.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001227 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001227 "2009-03-25T01:17:35Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001227 "batch-injection enthalpimetry")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.D01771>) oboInOwl:hasExactSynonym obo:CHMO_0001227 "concentration thermometric technique")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.D01771>) oboInOwl:hasExactSynonym obo:CHMO_0001227 "direct thermometric method")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001227 "direct-injection calorimetry")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001227 "direct-injection enthalpimetry")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.D01771>) oboInOwl:hasExactSynonym obo:CHMO_0001227 "direct-injection enthalpimetry")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001227 "CHMO:0001227")
 AnnotationAssertion(rdfs:label obo:CHMO_0001227 "batch injection calorimetry")
 SubClassOf(obo:CHMO_0001227 obo:CHMO_0000682)
@@ -19711,7 +19713,7 @@ SubClassOf(obo:CHMO_0001466 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001467 (calcination)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'calcination' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.C00773 >) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C00773>) Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001467 "\"The heating of a sample to high temperatures in air or oxygen.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'calcination' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.C00773") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C00773>) Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") obo:IAO_0000115 obo:CHMO_0001467 "A sample heating \"to high temperatures in air or oxygen.\"")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001467 "calcining")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001467 "CHMO:0001467")
 AnnotationAssertion(rdfs:label obo:CHMO_0001467 "calcination")
@@ -19792,8 +19794,8 @@ SubClassOf(obo:CHMO_0001476 obo:CHMO_0001474)
 
 # Class: obo:CHMO_0001477 (crystallisation)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'crystallization' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.C01434>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C01434>) Annotation(oboInOwl:hasDbXref "FIX:0000214") obo:IAO_0000115 obo:CHMO_0001477 "\"The formation of a crystalline solid from a solution, melt vapour, or a different solid phase, generally by lowering the temperature or by evaporation of a solvent.\"")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001477 "crystallization")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'crystallization' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.C01434") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C01434>) Annotation(oboInOwl:hasDbXref "FIX:0000214") obo:IAO_0000115 obo:CHMO_0001477 "A sample solidification in which a crystalline solid is fromed from \"a solution, melt vapour, or a different solid phase, generally by lowering the temperature or by evaporation of a solvent.\"")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C01434>) oboInOwl:hasExactSynonym obo:CHMO_0001477 "crystallization")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001477 "CHMO:0001477")
 AnnotationAssertion(rdfs:label obo:CHMO_0001477 "crystallisation")
 SubClassOf(obo:CHMO_0001477 obo:CHMO_0002916)
@@ -21434,11 +21436,9 @@ SubClassOf(obo:CHMO_0001666 obo:CHMO_0001665)
 
 # Class: obo:CHMO_0001667 (glow discharge ionisation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383183
-7.148 glow discharge ionization 
-Formation of ions from gaseous atoms or molecules or from the vapour of a solid sample at the cathode by applying a potential difference between two electrodes immersed in a low-pressure inert gas environment. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0001667 "An ionisation method when the sample is ionised in a plasma (a partially ionised gas–-such as Ar–-containing free electrons) which has been generated by passing an electrical discharge under reduced pressure between two electrodes.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001667 "GDI")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001667 "glow discharge ionization")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.12422>) obo:IAO_0000115 obo:CHMO_0001667 "A plasma ionisation in which the plasma is generated by passing an electrical discharge under reduced pressure between two electrodes.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001667 "GDI")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12422>) oboInOwl:hasExactSynonym obo:CHMO_0001667 "glow discharge ionization")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001667 "glow-discharge ionisation")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001667 "glow-discharge ionization")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001667 "CHMO:0001667")
@@ -21458,9 +21458,9 @@ SubClassOf(obo:CHMO_0001668 obo:CHMO_0001667)
 # Class: obo:CHMO_0001669 (chemical ionisation)
 
 AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.C01026>) obo:IAO_0000115 obo:CHMO_0001669 "An ionisation method where the sample is ionised by interaction (electron or proton transfer) with reagent (N2, O2, H2O) gaseous ions at low pressure. Reagent ions are produced by electron ionisation.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001669 "CI")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001669 "CI")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001669 "chemical ionisation")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001669 "chemical ionization")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C01026>) oboInOwl:hasExactSynonym obo:CHMO_0001669 "chemical ionization")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001669 "CHMO:0001669")
 AnnotationAssertion(rdfs:label obo:CHMO_0001669 "chemical ionisation")
 SubClassOf(obo:CHMO_0001669 obo:CHMO_0001658)
@@ -21469,8 +21469,8 @@ SubClassOf(obo:CHMO_0001669 obo:CHMO_0001658)
 
 AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382282
 10.23 desorption atmospheric pressure chemical ionization, (DAPCI) 
-Measurement method in which a mass spectrometer is used to measure m/z and abundance of ionized entities emitted from a sample in air as a result of a nearby corona discharge in a humid carrier gas. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0001670 "An ionisation method in which a corona discharge is used to direct a liquid spray (composed of an inert, high velocity gas and solvent ions) onto the sample surface.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001670 "DAPCI")
+Measurement method in which a mass spectrometer is used to measure m/z and abundance of ionized entities emitted from a sample in air as a result of a nearby corona discharge in a humid carrier gas. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0001670 "A chemical ionisation in which a corona discharge is used to direct a liquid spray (composed of an inert, high velocity gas and solvent ions) onto the sample surface.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001670 "DAPCI")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001670 "desorption atmospheric pressure chemical ionization")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001670 "CHMO:0001670")
 AnnotationAssertion(rdfs:label obo:CHMO_0001670 "desorption atmospheric pressure chemical ionisation")
@@ -21478,28 +21478,24 @@ SubClassOf(obo:CHMO_0001670 obo:CHMO_0001669)
 
 # Class: obo:CHMO_0001671 (dielectric barrier discharge ionisation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1016/j.jasms.2007.07.027") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383131
-7.96 dielectric barrier discharge ionization 
-Atmospheric pressure chemical ionization in which the low-temperature plasma is not generated by a corona discharge but by a device consisting of two electrodes with at least one dielectric layer that separates the electrode from the plasma. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0001671 "An ionisation method when the sample is ionised in a plasma (a partially ionised gas–-such as Ar–-containing free electrons) which has been generated by passing an alternating voltage across a dielectric layer between two electrodes.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001671 "DBDI")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001671 "dielectric barrier discharge ionization")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1016/j.jasms.2007.07.027") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.12389>) obo:IAO_0000115 obo:CHMO_0001671 "A chemical ionisation in which the sample is ionised in a plasma (a partially ionised gas–-such as Ar–-containing free electrons) which has been generated by passing an alternating voltage across a dielectric layer between two electrodes.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001671 "DBDI")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12389>) oboInOwl:hasExactSynonym obo:CHMO_0001671 "dielectric barrier discharge ionization")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001671 "CHMO:0001671")
 AnnotationAssertion(rdfs:label obo:CHMO_0001671 "dielectric barrier discharge ionisation")
 SubClassOf(obo:CHMO_0001671 obo:CHMO_0001669)
 
 # Class: obo:CHMO_0001672 (direct analysis in real time)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b613200f") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6382284
-10.25 direct analysis in real time, (DART) 
-Measurement method in which a mass spectrometer is used to measure m/z and abundance of ionized entities emitted from a sample in air as a result of the interaction with a beam containing metastable, excited atoms heated to about 500 °C. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6382245/Analytical-Chemistry-of-Surfaces1-2)") obo:IAO_0000115 obo:CHMO_0001672 "An ionisation method where the sample is ionised by a corona discharge within a He atmosphere.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001672 "DART")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://doi.org/10.1039/b613200f") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09182>) obo:IAO_0000115 obo:CHMO_0001672 "An ionisation method where the sample is ionised by a corona discharge within a He atmosphere.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.09182>) obo:OMO_0003012 obo:CHMO_0001672 "DART")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001672 "CHMO:0001672")
 AnnotationAssertion(rdfs:label obo:CHMO_0001672 "direct analysis in real time")
 SubClassOf(obo:CHMO_0001672 obo:CHMO_0001669)
 
 # Class: obo:CHMO_0001673 (isostatic pressing)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.IT07625>) obo:IAO_0000115 obo:CHMO_0001673 "The process of pressing a powder under a gas or liquid so that pressure is transmitted equally in all directions.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.IT07625>) obo:IAO_0000115 obo:CHMO_0001673 "A material processing in which a powder is pressed under a gas or liquid so that pressure is transmitted equally in all directions.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001673 "CHMO:0001673")
 AnnotationAssertion(rdfs:label obo:CHMO_0001673 "isostatic pressing")
 SubClassOf(obo:CHMO_0001673 obo:OBI_0000094)
@@ -21516,7 +21512,7 @@ SubClassOf(obo:CHMO_0001674 obo:CHMO_0001673)
 
 # Class: obo:CHMO_0001675 (labelling)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "CHEBI:35209") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.L03425>) obo:IAO_0000115 obo:CHMO_0001675 "The process of attaching a label onto a substance. Labels are molecular entities that facilitate the detection (through fluorescence, radioactivity, etc.) of the species to which they are attached.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "CHEBI:35209") Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.L03425>) obo:IAO_0000115 obo:CHMO_0001675 "A material process in which a label is attached onto a substance. Labels are molecular entities that facilitate the detection (through fluorescence, radioactivity, etc.) of the species to which they are attached.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001675 "labeling")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001675 "CHMO:0001675")
 AnnotationAssertion(rdfs:label obo:CHMO_0001675 "labelling")
@@ -21526,7 +21522,7 @@ SubClassOf(obo:CHMO_0001675 obo:OBI_0000094)
 
 AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381655
 12.220 fluorescent dye staining (of proteins) 
-See: protein staining. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6381409/Bioanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001676 "The process of covalently attaching a chemically-reactive derivative of a fluorophore to another molecule, such as a protein or nucleic acid.")
+See: protein staining. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6381409/Bioanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001676 "A labelling in which a chemically-reactive derivative of a fluorophore is chemically attached to another molecule, such as a protein or nucleic acid.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001676 "fluorescence labeling")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001676 "fluorescence labelling")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001676 "fluorescent labeling")
@@ -21536,7 +21532,7 @@ SubClassOf(obo:CHMO_0001676 obo:CHMO_0001675)
 
 # Class: obo:CHMO_0001677 (isotopic labelling)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.I03345>) obo:IAO_0000115 obo:CHMO_0001677 "The substitution of an atom or an ion (present in the form of its stable isotope) by an isotope of the same element.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.I03345>) obo:IAO_0000115 obo:CHMO_0001677 "A labelling in which an atom or an ion (present in the form of its stable isotope) is substituted by an isotope of the same element.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001677 "isotope labeling")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001677 "isotopic labelling")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001677 "CHMO:0001677")
@@ -21607,14 +21603,14 @@ SubClassOf(obo:CHMO_0001684 obo:CHMO_0001683)
 
 # Class: obo:CHMO_0001685 (mixing)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'mixing' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.M03945 >) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/ >) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.M03945>) obo:IAO_0000115 obo:CHMO_0001685 "\"The combining of components, particles or layers into a more homogeneous state. The mixing may be achieved manually or mechanically by shifting the material with stirrers or pumps or by revolving or shaking the container. The process μst not permit segregation of particles of different size or properties. Homogeneity may be considered to have been achieved in a practical sense when the sampling error of the processed portion is negligible compared to the total error of the measurement system.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'mixing' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.M03945") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/ >) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.M03945>) obo:IAO_0000115 obo:CHMO_0001685 "A material processing in which components, particles or layers are combined  into a more homogeneous state. \"The mixing may be achieved manually or mechanically by shifting the material with stirrers or pumps or by revolving or shaking the container. The process μst not permit segregation of particles of different size or properties. Homogeneity may be considered to have been achieved in a practical sense when the sampling error of the processed portion is negligible compared to the total error of the measurement system.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001685 "CHMO:0001685")
 AnnotationAssertion(rdfs:label obo:CHMO_0001685 "mixing")
 SubClassOf(obo:CHMO_0001685 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001686 (Ostwald ripening)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.5") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.O04348>) obo:IAO_0000115 obo:CHMO_0001686 "The growth of larger crystals from those of smaller size, which have a higher solubility than the larger ones.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.O04348>) obo:IAO_0000115 obo:CHMO_0001686 "A material processing in which larger crystals grow from those of smaller size, which have a higher solubility than the larger ones.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001686 "Ostwald-ripening")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001686 "CHMO:0001686")
 AnnotationAssertion(rdfs:label obo:CHMO_0001686 "Ostwald ripening")
@@ -21622,7 +21618,7 @@ SubClassOf(obo:CHMO_0001686 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001687 (photodegradation)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'photodegradation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.P04595>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.P04595>) obo:IAO_0000115 obo:CHMO_0001687 "\"The photochemical transformation of a molecule into lower molecular weight fragments, usually in an oxidation process.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'photodegradation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.P04595") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.P04595>) obo:IAO_0000115 obo:CHMO_0001687 "\"The photochemical transformation of a molecule into lower molecular weight fragments, usually in an oxidation process.\"")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001687 "photo-degradation")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001687 "CHMO:0001687")
 AnnotationAssertion(rdfs:label obo:CHMO_0001687 "photodegradation")
@@ -21630,7 +21626,7 @@ SubClassOf(obo:CHMO_0001687 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001688 (precipitation)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'solidification' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.S05733 >) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.S05733>) obo:IAO_0000115 obo:CHMO_0001688 "\"The sedimentation of a solid material (a 'precipitate') from a liquid solution in which the material is present in amounts greater than its solubility in the liquid.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'precipitation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.P04795") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.S05733>) obo:IAO_0000115 obo:CHMO_0001688 "A sample solidification in which \"The sedimentation of a solid material (a 'precipitate') [takes place] from a liquid solution in which the material is present in amounts greater than its solubility in the liquid.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001688 "CHMO:0001688")
 AnnotationAssertion(rdfs:label obo:CHMO_0001688 "precipitation")
 SubClassOf(obo:CHMO_0001688 obo:CHMO_0002916)
@@ -21644,20 +21640,19 @@ SubClassOf(obo:CHMO_0001689 obo:CHMO_0001688)
 
 # Class: obo:CHMO_0001690 (co-precipitation)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'coprecipitation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.C01339>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C01339>) obo:IAO_0000115 obo:CHMO_0001690 "\"The simultaneous precipitation of a normally soluble component with a macro-component from the same solution by the formation of mixed crystals, by adsorption, occlusion or mechanical entrapment.\"")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001690 "coprecipitation")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'coprecipitation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.C01339") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C01339>) obo:IAO_0000115 obo:CHMO_0001690 "\"The simultaneous precipitation of a normally soluble component with a macro-component from the same solution by the formation of mixed crystals, by adsorption, occlusion or mechanical entrapment.\"")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.C01339>) oboInOwl:hasExactSynonym obo:CHMO_0001690 "coprecipitation")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001690 "CHMO:0001690")
 AnnotationAssertion(rdfs:label obo:CHMO_0001690 "co-precipitation")
 SubClassOf(obo:CHMO_0001690 obo:CHMO_0001688)
 
 # Class: obo:CHMO_0001691 (immunoprecipitation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381529
-12.107 immunoprecipitation 
-Isolation and concentration of an antigen by forming a precipitate with an antibody. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6381409/Bioanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001691 "The sedimentation of a solid material (a 'precipitate'), consisting of an antigen–specific antibody complex, from solution.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001691 "IP")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09675>) obo:IAO_0000115 obo:CHMO_0001691 "A precipitation of a solid material, consisting of an antigen–specific antibody complex, from solution.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001691 "IP")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001691 "CHMO:0001691")
 AnnotationAssertion(rdfs:label obo:CHMO_0001691 "immunoprecipitation")
+EquivalentClasses(obo:CHMO_0001691 obo:CHMO_0001694)
 SubClassOf(obo:CHMO_0001691 obo:CHMO_0001688)
 
 # Class: obo:CHMO_0001692 (individual protein immunoprecipitation)
@@ -21677,13 +21672,10 @@ SubClassOf(obo:CHMO_0001693 obo:CHMO_0001691)
 
 # Class: obo:CHMO_0001694 (chromatin immunoprecipitation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6381826
-12.383 chromatin immunoprecipitation 
-Method for studying deoxyribonucleic acid–protein and/or protein–protein interactions in the context of chromatin, suitable for identification of binding sites of proteins in genome DNA etc. It combines chemical cross-linking, isolation of specific protein conjugates by immunoprecipitation and polymerase chain reaction amplification of co-precipitated DNA. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6381409/Bioanalytical-Chemistry1-2)") obo:IAO_0000115 obo:CHMO_0001694 "The sedimentation of a solid material (a 'precipitate') consisting of a protein–specific antibody complex (where the protein is attached to a protein–DNA complex) from solution. This method is used to determine the location of DNA binding sites on the genome for particular proteins of interest.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09866>) obo:IAO_0000115 obo:CHMO_0001694 "Animmunoprecipitation of a solid material (a 'precipitate') consisting of a protein–specific antibody complex (where the protein is attached to a protein–DNA complex) from solution. This method is used to determine the location of DNA binding sites on the genome for particular proteins of interest.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001694 "ChIP")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001694 "CHMO:0001694")
 AnnotationAssertion(rdfs:label obo:CHMO_0001694 "chromatin immunoprecipitation")
-SubClassOf(obo:CHMO_0001694 obo:CHMO_0001691)
 
 # Class: obo:CHMO_0001695 (ribonucleic acid immunoprecipitation)
 
@@ -21696,28 +21688,28 @@ SubClassOf(obo:CHMO_0001695 obo:CHMO_0001691)
 
 # Class: obo:CHMO_0001696 (postprecipitation)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'postprecipitation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.P04773>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:license <https://doi.org/10.1351/goldbook.P04773>) Annotation(dcterms:license <https://ror.org/03ne2zw20>) Annotation(oboInOwl:hasDbXref "OrangeBook:9.5") obo:IAO_0000115 obo:CHMO_0001696 "\"The subsequent precipitation of a chemically different species upon the surface of an initial precipitate usually, but not necessarily, including a common ion.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'postprecipitation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.P04773") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.P04773>) obo:IAO_0000115 obo:CHMO_0001696 "\"A subsequent precipitation of a chemically different species upon the surface of an initial precipitate usually, but not necessarily, including a common ion.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001696 "CHMO:0001696")
 AnnotationAssertion(rdfs:label obo:CHMO_0001696 "postprecipitation")
 SubClassOf(obo:CHMO_0001696 obo:CHMO_0001688)
 
 # Class: obo:CHMO_0001697 (reprecipitation)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'reprecipitation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.R05302>) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.R05302>) Annotation(oboInOwl:hasDbXref "OrangeBook:9.5") obo:IAO_0000115 obo:CHMO_0001697 "\"The planned repetition of a precipitation to remove impurities from a precipitate or improve its stoichiometry.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'reprecipitation' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.R05302") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.R05302>) obo:IAO_0000115 obo:CHMO_0001697 "\"The planned repetition of a precipitation to remove impurities from a precipitate or improve its stoichiometry.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001697 "CHMO:0001697")
 AnnotationAssertion(rdfs:label obo:CHMO_0001697 "reprecipitation")
 SubClassOf(obo:CHMO_0001697 obo:CHMO_0001688)
 
 # Class: obo:CHMO_0001698 (radiolysis)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'radiolysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.R05112 >) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/ >) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.R05112>) obo:IAO_0000115 obo:CHMO_0001698 "\"The cleavage of one or more bonds resulting from exposure to high-energy radiation.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'radiolysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.R05112") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/ >) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.R05112>) obo:IAO_0000115 obo:CHMO_0001698 "A material processing in which \"The cleavage of one or more bonds results from exposure to high-energy radiation.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001698 "CHMO:0001698")
 AnnotationAssertion(rdfs:label obo:CHMO_0001698 "radiolysis")
 SubClassOf(obo:CHMO_0001698 obo:OBI_0000094)
 
 # Class: obo:CHMO_0001699 (autoradiolysis)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation <http://purl.obolibrary.org/obo/chmo.owl#'autoradiolysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00534 >) Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00534>) obo:IAO_0000115 obo:CHMO_0001699 "The cleavage of one or more bonds in a \"radioactive material resulting directly or indirectly from its own radioactive decay.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'autoradiolysis' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00534") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00534>) obo:IAO_0000115 obo:CHMO_0001699 "A radiolysis in a \"radioactive material resulting directly or indirectly from its own radioactive decay.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001699 "CHMO:0001699")
 AnnotationAssertion(rdfs:label obo:CHMO_0001699 "autoradiolysis")
 SubClassOf(obo:CHMO_0001699 obo:CHMO_0001698)
@@ -21731,7 +21723,7 @@ SubClassOf(obo:CHMO_0001700 obo:CHMO_0001698)
 
 # Class: obo:CHMO_0001701 (sintering)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.S05704>) obo:IAO_0000115 obo:CHMO_0001701 "The fusing together of small particles by heating the sample below its melting point until its particles adhere to each other.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.S05704>) obo:IAO_0000115 obo:CHMO_0001701 "A material processing in which small particles are fused together by heating the sample below its melting point until its particles adhere to each other.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001701 "CHMO:0001701")
 AnnotationAssertion(rdfs:label obo:CHMO_0001701 "sintering")
 SubClassOf(obo:CHMO_0001701 obo:OBI_0000094)
@@ -21783,7 +21775,7 @@ SubClassOf(obo:CHMO_0001706 obo:CHMO_0001703)
 
 # Class: obo:CHMO_0001707 (sonication)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.S05766>) obo:IAO_0000115 obo:CHMO_0001707 "The irradiation of a liquid sample with sound (20 Hz-20 kHz) waves resulting in agitation. Sound waves propagate into the liquid media result in alternating high-pressure (compression) and low-pressure (rarefaction) cycles. During rarefaction, high-intensity sonic waves create small vacuum bubbles or voids in the liquid, which then collapse violently (cavitation) during compression, creating very high local temperatures.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.S05766>) obo:IAO_0000115 obo:CHMO_0001707 "A material processing in which a liquid sample is irradiated with sound (20 Hz-20 kHz) waves resulting in agitation. Sound waves propagate into the liquid media result in alternating high-pressure (compression) and low-pressure (rarefaction) cycles. During rarefaction, high-intensity sonic waves create small vacuum bubbles or voids in the liquid, which then collapse violently (cavitation) during compression, creating very high local temperatures.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001707 "CHMO:0001707")
 AnnotationAssertion(rdfs:label obo:CHMO_0001707 "sonication")
 SubClassOf(obo:CHMO_0001707 obo:OBI_0000094)
@@ -24742,11 +24734,11 @@ SubClassOf(obo:CHMO_0001937 ObjectSomeValuesFrom(obo:BFO_0000118 obo:CHMO_000100
 
 # Class: obo:CHMO_0001938 (collision-induced dissociation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "ISBN:978-0-470-51634-8") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.C01167>) obo:IAO_0000115 obo:CHMO_0001938 "A fragmentation method where the sample is ionised, and selected ions are allowed to collide with neutral gas molecules, resulting in fragmentation.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.C01167>) Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> "ISBN:978-0-470-51634-8") obo:IAO_0000115 obo:CHMO_0001938 "A material processing in which the sample is ionised, and selected ions are allowed to collide with neutral gas molecules, resulting in fragmentation.")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001938 "CID")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001938 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001938 "2009-06-08T04:07:29Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001938 "CAD")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001938 "CID")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001938 "collision activated dissociation")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001938 "collision induced dissociation")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001938 "collision-activated dissociation")
@@ -25796,13 +25788,11 @@ SubClassOf(obo:CHMO_0002021 obo:CHMO_0000963)
 
 # Class: obo:CHMO_0002022 (atmospheric pressure chemical ionisation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:seeAlso "https://books.rsc.org/view-large/6383056
-7.21 atmospheric pressure chemical ionization, (APCI) 
-Chemical ionization of a sample that is a gas or nebulized liquid, using an atmospheric pressure corona discharge or beta emitter such as 63Ni. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0002022 "An ionisation method where the sample is ionised by interaction (electron or proton transfer) with reagent (N2, O2, H2O) gaseous ions at atmospheric pressure.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.12336>) obo:IAO_0000115 obo:CHMO_0002022 "A chemical ionisation in which the sample is ionised by interaction (electron or proton transfer) with reagent (N2, O2, H2O) gaseous ions at atmospheric pressure.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12336>) obo:OMO_0003012 obo:CHMO_0002022 "APCI")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002022 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002022 "2009-06-19T02:41:40Z")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002022 "APCI")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002022 "atmospheric pressure chemical ionization")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12336>) oboInOwl:hasExactSynonym obo:CHMO_0002022 "atmospheric pressure chemical ionization")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002022 "CHMO:0002022")
 AnnotationAssertion(rdfs:label obo:CHMO_0002022 "atmospheric pressure chemical ionisation")
 SubClassOf(obo:CHMO_0002022 obo:CHMO_0001669)
@@ -27350,7 +27340,7 @@ SubClassOf(obo:CHMO_0002150 obo:CHMO_0002064)
 
 # Class: obo:CHMO_0002151 (passivation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.P04443>) obo:IAO_0000115 obo:CHMO_0002151 "Any process that makes one sample unreactive to another, prior to using the samples together.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.P04443>) obo:IAO_0000115 obo:CHMO_0002151 "A material processing that makes one sample unreactive to another, prior to using the samples together.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002151 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002151 "2009-07-11T04:28:44Z")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002151 "CHMO:0002151")
@@ -27911,12 +27901,12 @@ SubClassOf(obo:CHMO_0002197 obo:CHMO_0002196)
 
 # Class: obo:CHMO_0002198 (recrystallisation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.C01434>) obo:IAO_0000115 obo:CHMO_0002198 "A technique for purifying a crystalline sample where the impure sample is dissolved in a small volume of solvent, forming a supersaturated solution. As the temperature of the solution drops, pure crystals form, the impurities remaining dissolved in the solvent.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.C01434>) obo:IAO_0000115 obo:CHMO_0002198 "A crystallisation for purifying a crystalline sample where the impure sample is dissolved in a small volume of solvent, forming a supersaturated solution. As the temperature of the solution drops, pure crystals form, the impurities remaining dissolved in the solvent.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002198 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002198 "2009-07-22T09:23:11Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002198 "re-crystallisation")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002198 "re-crystallization")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002198 "recrystallization")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.R05208>) oboInOwl:hasExactSynonym obo:CHMO_0002198 "recrystallization")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002198 "CHMO:0002198")
 AnnotationAssertion(rdfs:label obo:CHMO_0002198 "recrystallisation")
 SubClassOf(obo:CHMO_0002198 obo:CHMO_0001477)
@@ -29551,13 +29541,11 @@ SubClassOf(obo:CHMO_0002334 obo:CHMO_0002335)
 
 # Class: obo:CHMO_0002335 (laser desorption ionisation)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(rdfs:comment "https://books.rsc.org/view-large/6383256
-7.221 laser desorption ionization, (LDI) 
-Formation of gas-phase ions by the interaction of a laser with a solid or liquid material. See also: matrix-assisted laser desorption/ionization. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6383030/Mass-Spectrometry1-2)") obo:IAO_0000115 obo:CHMO_0002335 "An ionisation method where the sample (usually a large organic molecule or biomolecule) is vaporised and ionised using a high-energy pulsed laser.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0002-0640-0422") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.12463>) obo:IAO_0000115 obo:CHMO_0002335 "An ionisation method where the sample (usually a large organic molecule or biomolecule) is vaporised and ionised using a high-energy pulsed laser.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12463>) obo:OMO_0003012 obo:CHMO_0002335 "LDI")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002335 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002335 "2009-09-03T11:16:54Z")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002335 "LDI")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0002335 "laser desorption ionization")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12463>) oboInOwl:hasExactSynonym obo:CHMO_0002335 "laser desorption ionization")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002335 "CHMO:0002335")
 AnnotationAssertion(rdfs:label obo:CHMO_0002335 "laser desorption ionisation")
 SubClassOf(obo:CHMO_0002335 obo:CHMO_0001658)
@@ -35529,9 +35517,7 @@ SubClassOf(obo:CHMO_0002863 obo:CHMO_0001583)
 
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002864 "CHMO:0002864")
 AnnotationAssertion(rdfs:label obo:CHMO_0002864 "QuEChERS")
-AnnotationAssertion(rdfs:seeAlso obo:CHMO_0002864 "https://books.rsc.org/view-large/6384289
-3.105 QuEChERS (Quick, Easy, Cheap, Effective, Rugged and Safe) extraction 
-Streamlined multiresidue method for extraction and clean-up of analytes in complex matrices. (from:https://books.rsc.org/books/edited-volume/2059/chapter/6384158/Extraction-for-Sample-Preparation1-2)")
+AnnotationAssertion(<http://www.w3.org/ns/prov#hadPrimarySource> obo:CHMO_0002864 <https://doi.org/10.1351/goldbook.10230>)
 SubClassOf(obo:CHMO_0002864 obo:OBI_0000094)
 
 # Class: obo:CHMO_0002865 (vertical scanning interferometry)
@@ -35921,7 +35907,7 @@ SubClassOf(obo:CHMO_0002915 obo:BFO_0000015)
 
 # Class: obo:CHMO_0002916 (sample solidification)
 
-AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.S05733>) obo:IAO_0000115 obo:CHMO_0002916 "Material processing in which a liquid or gas transitions into a solid.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.S05733>) obo:IAO_0000115 obo:CHMO_0002916 "A material processing in which a liquid or gas transitions into a solid.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002916 "CHMO:0002916")
 AnnotationAssertion(rdfs:label obo:CHMO_0002916 "sample solidification")
 SubClassOf(obo:CHMO_0002916 obo:OBI_0000094)
