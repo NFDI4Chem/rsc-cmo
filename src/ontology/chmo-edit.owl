@@ -3276,7 +3276,7 @@ SubClassOf(obo:CHMO_0000011 obo:CHMO_0000010)
 
 # Class: obo:CHMO_0000012 (coulometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "Orange:8.5.1") obo:IAO_0000115 obo:CHMO_0000012 "An electrochemical technique where the total Coulombs of electricity required to complete (fully oxidise or fully reduce the sample in) an electrochemical reaction is measured.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09159>) obo:IAO_0000115 obo:CHMO_0000012 "An electrochemical analysis in which the total Coulombs of electricity required to complete (fully oxidise or fully reduce the sample in) an electrochemical reaction is measured.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000012 "CHMO:0000012")
 AnnotationAssertion(rdfs:label obo:CHMO_0000012 "coulometry")
 SubClassOf(obo:CHMO_0000012 obo:CHMO_0000003)
@@ -14636,7 +14636,7 @@ SubClassOf(obo:CHMO_0000994 obo:CHMO_0000993)
 
 # Class: obo:CHMO_0000995 (mobile phase)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'mobile phase' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.M03952") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.M03952>) obo:IAO_0000115 obo:CHMO_0000995 "A chromatographic phase as \"a fluid which percolates through or along the stationary bed\" in chromatography.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'mobile phase' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.M03952") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.M03952>) obo:IAO_0000115 obo:CHMO_0000995 "A chromatographic phase that is \"a fluid which percolates through or along the stationary bed\".")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0000995 "CHMO:0002468")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000995 "eluent")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000995 "CHMO:0000995")
@@ -14739,7 +14739,7 @@ SubClassOf(obo:CHMO_0001005 ObjectSomeValuesFrom(obo:BFO_0000057 obo:CHMO_000099
 
 # Class: obo:CHMO_0001006 (affinity chromatography)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'affinity chromatography' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00177") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00177>) obo:IAO_0000115 obo:CHMO_0001006 "A column chromatography in which the separation is caused by differing \"biological specificity of the analyte and ligand interaction.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'affinity chromatography' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.A00177") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.A00177>) obo:IAO_0000115 obo:CHMO_0001006 "A column \"chromatography in which the unique biological specificity of the analyte and ligand interaction is utilized for the separation.\"")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001006 "bioaffinity chromatography")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001006 "CHMO:0001006")
 AnnotationAssertion(rdfs:label obo:CHMO_0001006 "affinity chromatography")
@@ -14757,7 +14757,7 @@ SubClassOf(obo:CHMO_0001007 ObjectSomeValuesFrom(obo:BFO_0000057 obo:CHMO_000098
 
 # Class: obo:CHMO_0001008 (paper chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "Orange:9.2.1.3") obo:IAO_0000115 obo:CHMO_0001008 "A chromatography method where the stationary phase is or is impregnated in a sheet of paper.")
+AnnotationAssertion(obo:IAO_0000115 obo:CHMO_0001008 "A planar chromatography in which the stationary phase is impregnated in a sheet of paper.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001008 "CHMO:0001008")
 AnnotationAssertion(rdfs:label obo:CHMO_0001008 "paper chromatography")
 EquivalentClasses(obo:CHMO_0001008 ObjectIntersectionOf(obo:CHMO_0001005 ObjectSomeValuesFrom(obo:BFO_0000057 obo:CHMO_0000988)))
@@ -14799,7 +14799,7 @@ SubClassOf(obo:CHMO_0001011 obo:CHMO_0001010)
 
 # Class: obo:CHMO_0001012 (ion-exclusion chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000627") Annotation(oboInOwl:hasDbXref "OrangeBook:9.2.1.5") obo:IAO_0000115 obo:CHMO_0001012 "Column chromatography where the separation is caused by differences in charge, the mobile phase is aqueous and the analyte is ionic.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "FIX:0000627") Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09892>) obo:IAO_0000115 obo:CHMO_0001012 "An exclusion chromatography in which the separation is caused by differences in charge, the mobile phase is aqueous and the analyte is ionic.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001012 "ion exclusion chromatography")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001012 "CHMO:0001012")
 AnnotationAssertion(rdfs:label obo:CHMO_0001012 "ion-exclusion chromatography")
@@ -14816,9 +14816,9 @@ SubClassOf(obo:CHMO_0001013 obo:CHMO_0001010)
 
 # Class: obo:CHMO_0001014 (ion-exchange chromatography)
 
-AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'ion-exchange chromatography' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.I03168") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.I03168>) Annotation(oboInOwl:hasDbXref "FIX:0000613") obo:IAO_0000115 obo:CHMO_0001014 "A column chromatography in which the separation is caused by \"differences in the ion-exchange affinities.\"")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'ion-exchange chromatography' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.I03168") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.I03168>) Annotation(oboInOwl:hasDbXref "FIX:0000613") obo:IAO_0000115 obo:CHMO_0001014 "A column \"chromatography in which separation is based mainly on differences in the ion-exchange affinities.\"")
 AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001014 "IEC")
-AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.I03168>) oboInOwl:hasExactSynonym obo:CHMO_0001014 "IC")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.I03168>) obo:OMO_0003012 obo:CHMO_0001014 "IC")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001014 "IEX chromatography")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001014 "ion exchange chromatography")
 AnnotationAssertion(oboInOwl:hasNarrowSynonym obo:CHMO_0001014 "ion chromatography")
@@ -17492,7 +17492,7 @@ SubClassOf(obo:CHMO_0001259 obo:CHMO_0001009)
 
 # Class: obo:CHMO_0001260 (pyrolysis gas chromatography)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:5.3") obo:IAO_0000115 obo:CHMO_0001260 "The chemical degradation of a sample by thermal energy where the volatile pyrolysates are then separated by column chromatography where the mobile phase is a gas.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://books.rsc.org/view-large/6383608>) obo:IAO_0000115 obo:CHMO_0001260 "A gas chromatography in which chemical degradation of a sample by thermal energy takes place where the volatile pyrolysates are then separated by column chromatography.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001260 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001260 "2009-04-06T11:38:22Z")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001260 "Py-GC")
@@ -17568,13 +17568,14 @@ SubClassOf(obo:CHMO_0001264 obo:CHMO_0000630)
 
 # Class: obo:CHMO_0001265 (pyrolysis mass spectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:5.3") obo:IAO_0000115 obo:CHMO_0001265 "Spectrometry where the sample is chemically degraded by thermal energy then converted into gaseous ions which are characterised by their mass-to-charge ratio and relative abundance.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.12538>) obo:IAO_0000115 obo:CHMO_0001265 "A mass spectrometry in which the sample is chemically degraded by thermal energy before being converted into gaseous ions.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.12538>) obo:OMO_0003012 obo:CHMO_0001265 "PYMS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001265 "Py-MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001265 "Py/MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001265 "py-MS")
+AnnotationAssertion(obo:OMO_0003012 obo:CHMO_0001265 "py/MS")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0001265 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0001265 "2009-04-06T11:59:51Z")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001265 "Py-MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001265 "Py/MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001265 "py-MS")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001265 "py/MS")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001265 "pyrolysis mass spectroscopy")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001265 "pyrolysis-mass spectrometry")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001265 "pyrolysis-mass spectroscopy")
@@ -19914,7 +19915,7 @@ SubClassOf(obo:CHMO_0001490 obo:CHMO_0001489)
 
 # Class: obo:CHMO_0001491 (acid digestion)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:10.3.4.9.5") obo:IAO_0000115 obo:CHMO_0001491 "The decomposition of a sample in strong acids such as nitric, sulfuric or perchloric acid in order to obtain the sample in liquid form.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.10232>) obo:IAO_0000115 obo:CHMO_0001491 "A wet digestion of a sample in strong acids such as nitric, sulfuric or perchloric acid in order to obtain the sample in liquid form.")
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001491 "acid-digestion")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001491 "CHMO:0001491")
 AnnotationAssertion(rdfs:label obo:CHMO_0001491 "acid digestion")
@@ -19922,8 +19923,8 @@ SubClassOf(obo:CHMO_0001491 obo:CHMO_0001490)
 
 # Class: obo:CHMO_0001492 (bomb digestion)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:10.3.4.9.5") obo:IAO_0000115 obo:CHMO_0001492 "The decomposition of a sample in strong acids such as nitric, sulfuric or perchloric acid in a sealed vessel (lined with PTFE), under high pressure and high temperature, in order to obtain the sample in liquid form.")
-AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0001492 "bomb-digestion")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.B00696>) obo:IAO_0000115 obo:CHMO_0001492 "An acid digestion in a sealed vessel (lined with PTFE), under high pressure and high temperature.")
+AnnotationAssertion(Annotation(dcterms:source <https://doi.org/10.1351/goldbook.B00696>) oboInOwl:hasExactSynonym obo:CHMO_0001492 "bomb-digestion")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001492 "CHMO:0001492")
 AnnotationAssertion(rdfs:label obo:CHMO_0001492 "bomb digestion")
 SubClassOf(obo:CHMO_0001492 obo:CHMO_0001491)
@@ -21568,7 +21569,7 @@ SubClassOf(obo:CHMO_0001680 obo:CHMO_0001675)
 
 # Class: obo:CHMO_0001681 (leaching)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "OrangeBook:9.4.1") obo:IAO_0000115 obo:CHMO_0001681 "The dissolution of material from a solid phase into a liquid in which it is not wholly soluble.")
+AnnotationAssertion(Annotation(dcterms:bibliographicCitation "'leaching' in IUPAC Compendium of Chemical Terminology, 5th ed. International Union of Pure and Applied Chemistry; 2025. Online version 5.0.0, 2025. https://doi.org/10.1351/goldbook.10179") Annotation(dcterms:license <https://creativecommons.org/licenses/by-sa/4.0/>) Annotation(dcterms:rightsHolder <https://ror.org/03ne2zw20>) Annotation(dcterms:source <https://doi.org/10.1351/goldbook.10179>) obo:IAO_0000115 obo:CHMO_0001681 "A material processing dissoluting material \"from a solid [phase into] a liquid in which  the solid phase is not wholly soluble.\"")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0001681 "CHMO:0001681")
 AnnotationAssertion(rdfs:label obo:CHMO_0001681 "leaching")
 SubClassOf(obo:CHMO_0001681 obo:OBI_0000094)
@@ -30178,7 +30179,7 @@ SubClassOf(obo:CHMO_0002385 obo:CHMO_0000050)
 
 # Class: obo:CHMO_0002386 (dielectrometry)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "Orange:8.5.4") obo:IAO_0000115 obo:CHMO_0002386 "The measurement of the relative permittivity of a solution as a function of concentration. Measurements are made indirectly across the resistance of the solution with alternating current.")
+AnnotationAssertion(Annotation(<http://www.w3.org/ns/prov#hadPrimarySource> <https://doi.org/10.1351/goldbook.09167>) obo:IAO_0000115 obo:CHMO_0002386 "An assay measuring the relative permittivity of a solution as a function of concentration. Measurements are made indirectly across the resistance of the solution with alternating current.")
 AnnotationAssertion(oboInOwl:created_by obo:CHMO_0002386 "https://orcid.org/0000-0001-5985-7429")
 AnnotationAssertion(oboInOwl:creation_date obo:CHMO_0002386 "2009-09-15T06:14:13Z")
 AnnotationAssertion(oboInOwl:hasAlternativeId obo:CHMO_0002386 "FIX:0000706")
@@ -34597,7 +34598,7 @@ SubClassOf(obo:CHMO_0002745 obo:BFO_0000034)
 
 # Class: obo:CHMO_0002746 (experimental sample)
 
-AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") obo:IAO_0000115 obo:CHMO_0002746 "A portion of material that is the subject of an experiment.")
+AnnotationAssertion(Annotation(oboInOwl:hasDbXref "https://orcid.org/0000-0001-5985-7429") Annotation(<http://www.w3.org/ns/prov#wasInfluencedBy> <https://books.rsc.org/view-large/6381894>) obo:IAO_0000115 obo:CHMO_0002746 "A portion of material that is the subject of an experiment.")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0002746 "CHMO:0002746")
 AnnotationAssertion(rdfs:label obo:CHMO_0002746 "experimental sample")
 EquivalentClasses(obo:CHMO_0002746 ObjectIntersectionOf(obo:CHMO_0000993 ObjectSomeValuesFrom(obo:BFO_0000085 obo:CHMO_0002745)))
