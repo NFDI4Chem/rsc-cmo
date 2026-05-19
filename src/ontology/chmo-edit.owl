@@ -8134,7 +8134,8 @@ AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000434 "high-energy ion s
 AnnotationAssertion(oboInOwl:hasExactSynonym obo:CHMO_0000434 "high-energy ion scattering spectroscopy")
 AnnotationAssertion(oboInOwl:id obo:CHMO_0000434 "CHMO:0000434")
 AnnotationAssertion(rdfs:label obo:CHMO_0000434 "Rutherford backscattering spectroscopy")
-EquivalentClasses(obo:CHMO_0000434 ObjectIntersectionOf(obo:CHMO_0000425 obo:CHMO_0000433))
+SubClassOf(obo:CHMO_0000434 obo:CHMO_0000425)
+SubClassOf(obo:CHMO_0000434 obo:CHMO_0000433)
 
 # Class: obo:CHMO_0000435 (laser spectroscopy)
 
